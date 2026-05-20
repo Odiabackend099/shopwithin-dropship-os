@@ -1,0 +1,13 @@
+{
+  "name": "02-supplier-vetting",
+  "active": false,
+  "nodes": [
+    { "parameters": { "path": "supplier-vetting", "responseMode": "responseNode", "options": {} }, "id": "webhook", "name": "Candidate Approved", "type": "n8n-nodes-base.webhook", "typeVersion": 2, "position": [0, 0] },
+    { "parameters": { "batchSize": 1, "options": {} }, "id": "batch", "name": "Loop Over Supplier Offers", "type": "n8n-nodes-base.splitInBatches", "typeVersion": 3, "position": [220, 0] },
+    { "parameters": { "amount": 1, "unit": "seconds" }, "id": "wait", "name": "Rate Limit Wait", "type": "n8n-nodes-base.wait", "typeVersion": 1.1, "position": [440, 0] },
+    { "parameters": { "respondWith": "json", "responseBody": "{\"ok\":true,\"status\":\"supplier_vetting_started\"}" }, "id": "response", "name": "Respond", "type": "n8n-nodes-base.respondToWebhook", "typeVersion": 1.1, "position": [660, 0] }
+  ],
+  "connections": { "Candidate Approved": { "main": [[{ "node": "Loop Over Supplier Offers", "type": "main", "index": 0 }]] }, "Loop Over Supplier Offers": { "main": [[{ "node": "Rate Limit Wait", "type": "main", "index": 0 }]] }, "Rate Limit Wait": { "main": [[{ "node": "Respond", "type": "main", "index": 0 }]] } },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

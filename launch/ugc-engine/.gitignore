@@ -1,0 +1,9 @@
+dist/
+node_modules/
+generated/
+exports/
+characters/
+tests/tmp*
+tests/tmp-*/
+*.log
+.DS_Store

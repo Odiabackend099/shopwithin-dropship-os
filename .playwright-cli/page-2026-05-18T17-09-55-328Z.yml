@@ -1,0 +1,29 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - link "NRS TIN VERIFICATION SYSTEM" [ref=e5] [cursor=pointer]:
+      - /url: ""
+  - generic [ref=e6]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - heading "Search Using TIN" [level=3] [ref=e10]
+        - list [ref=e11]:
+          - listitem [ref=e12]: Select Tax Identification Number on the Select Search Criteria Dropdown list below
+          - listitem [ref=e13]: Input your TIN (NRS or JTB TIN) in the Search value field and click on the search button
+      - generic [ref=e14]:
+        - heading "Search Using Reg. Number" [level=3] [ref=e15]
+        - list [ref=e16]:
+          - listitem [ref=e17]: Select RC/BN on the Select Search Criteria Dropdown list below
+          - listitem [ref=e18]: Input your Registration Number in the Search value field and click on the search button
+      - generic [ref=e19]:
+        - heading "Search Using Phone Number" [level=3] [ref=e20]
+        - list [ref=e21]:
+          - listitem [ref=e22]: Select Phone Number on the Select Search Criteria Dropdown list below
+          - listitem [ref=e23]: Input your Phone Number in the Search value field and click on the search button
+    - generic [ref=e24]:
+      - combobox [ref=e26]:
+        - option "Select Search Criteria..."
+        - option "RC/BN" [selected]
+        - option "TIN"
+        - option "Phone"
+      - textbox "Enter Value" [ref=e28]
+      - button "Search" [ref=e30] [cursor=pointer]

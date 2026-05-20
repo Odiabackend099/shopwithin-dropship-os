@@ -1,0 +1,27 @@
+- iframe [active] [ref=e2]:
+  - main [ref=f51e3]:
+    - main [ref=f51e5]:
+      - generic [ref=f51e6]:
+        - img [ref=f51e7]
+        - paragraph [ref=f51e9]: You're currently in test mode, all transactions are mocked in this environment.
+      - combobox [ref=f51e11] [cursor=pointer]:
+        - option "English" [selected]
+        - option "French"
+        - option "Portuguese"
+      - article
+      - generic "Card" [ref=f51e13]:
+        - generic [ref=f51e14]:
+          - generic [ref=f51e15]:
+            - img "ODIA Intelligence" [ref=f51e17]
+            - generic [ref=f51e18]:
+              - paragraph [ref=f51e19]: ODIA Intelligence
+              - paragraph [ref=f51e20]: staging-buyer@example.com
+          - generic [ref=f51e22]:
+            - generic [ref=f51e237]: NGN
+            - paragraph [ref=f51e238]: 35,200.71
+      - paragraph [ref=f51e247]: Please wait
+      - generic [ref=f51e120]:
+        - img [ref=f51e121]
+        - generic [ref=f51e123]: SECURED BY FLUTTERWAVE
+    - button "Close Checkout" [ref=f51e126]:
+      - img [ref=f51e127]

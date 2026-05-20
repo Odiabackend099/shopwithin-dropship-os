@@ -1,0 +1,68 @@
+{
+  "candidateExternalId": "manual-furlift-2026-05-17",
+  "shopifyProduct": {
+    "title": "FurLift Reusable Pet Hair Detailer",
+    "handle": "furlift-reusable-pet-hair-detailer",
+    "bodyHtml": "<section><h2>Pet hair should not own your couch.</h2><p>FurLift is a reusable pet hair detailer for dog and cat owners who are tired of sticky rollers, clogged vacuums, and fur-covered fabric. Drag it across couches, rugs, car seats, bedding, and pet beds to lift embedded hair fast.</p><h3>Why pet owners use it</h3><ul><li>Removes visible fur in seconds for satisfying before-and-after demos.</li><li>No batteries, charging, adhesive sheets, or refill rolls.</li><li>Small enough for car, sofa, travel bag, and laundry room use.</li><li>Built for repeat cleaning after shedding, grooming, or daily pet naps.</li></ul><h3>Best for</h3><p>Fabric couches, rugs, car seats, bed covers, pet beds, and clothing. Always test gently on delicate fabrics first.</p><h3>Launch offer</h3><p>Secure USD checkout, tracked delivery, and clear shipping updates after purchase.</p></section>",
+    "vendor": "FurLift",
+    "productType": "Pet Cleaning Tool",
+    "tags": ["pet hair remover", "cleaning", "dog owners", "cat owners", "home"],
+    "priceUsd": 24.95,
+    "compareAtPriceUsd": 39.95,
+    "seoTitle": "FurLift Reusable Pet Hair Detailer",
+    "seoDescription": "Remove stubborn pet hair from couches, rugs, car seats, and bedding with a reusable detailer built for dog and cat owners.",
+    "faqs": [
+      {
+        "question": "What surfaces does FurLift work on?",
+        "answer": "It is designed for fabric surfaces such as couches, rugs, car seats, bedding, pet beds, and clothing with embedded pet hair."
+      },
+      {
+        "question": "Do I need refills or batteries?",
+        "answer": "No. FurLift is reusable and manual, so there are no batteries, sticky sheets, or refill rolls to replace."
+      },
+      {
+        "question": "How long does shipping take?",
+        "answer": "The launch target is tracked delivery within 7-10 business days in supported markets after supplier verification."
+      }
+    ],
+    "trustBadges": ["Secure USD checkout", "Reusable tool", "Tracked shipping"],
+    "ugcVideoUrls": []
+  },
+  "score": {
+    "demandVelocity": 98,
+    "margin": 95,
+    "shippingSpeed": 95,
+    "wowFactor": 98,
+    "creativeEase": 100,
+    "trendLongevity": 94,
+    "competition": 25,
+    "adSaturation": 20,
+    "riskPenalties": 0
+  },
+  "supplierOffers": [
+    {
+      "supplier": "manual",
+      "supplierProductId": "sample-required-furlift-us-fast-ship",
+      "productCostUsd": 4.8,
+      "shippingCostUsd": 3.2,
+      "estimatedDeliveryDays": 8,
+      "inventoryVerified": true,
+      "supportsTrackingSync": false,
+      "shipsFrom": "US",
+      "shipsTo": ["US", "CA"],
+      "sourceUrl": "https://www.aliexpress.us/w/wholesale-pet-hair-remover-roller.html"
+    },
+    {
+      "supplier": "manual",
+      "supplierProductId": "sample-required-furlift-eu-fast-ship",
+      "productCostUsd": 5.1,
+      "shippingCostUsd": 3.4,
+      "estimatedDeliveryDays": 9,
+      "inventoryVerified": true,
+      "supportsTrackingSync": false,
+      "shipsFrom": "EU",
+      "shipsTo": ["UK", "EU", "AU"],
+      "sourceUrl": "https://www.aliexpress.us/w/wholesale-pet-hair-remover-roller.html"
+    }
+  ]
+}

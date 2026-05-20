@@ -1,0 +1,12 @@
+{
+  "name": "05-order-router",
+  "active": false,
+  "nodes": [
+    { "parameters": { "path": "order-router", "responseMode": "responseNode", "options": {} }, "id": "webhook", "name": "Manual Retry Webhook", "type": "n8n-nodes-base.webhook", "typeVersion": 2, "position": [0, 0] },
+    { "parameters": { "method": "POST", "url": "={{$env.API_PUBLIC_URL}}/internal/orders/retry", "sendBody": true, "contentType": "json", "jsonBody": "={{$json}}", "options": { "retry": { "maxTries": 5, "waitBetweenTries": 5000 } } }, "id": "retry", "name": "Retry Routing", "type": "n8n-nodes-base.httpRequest", "typeVersion": 4.2, "position": [240, 0] },
+    { "parameters": { "respondWith": "json", "responseBody": "{\"ok\":true,\"status\":\"routing_retry_queued\"}" }, "id": "response", "name": "Respond", "type": "n8n-nodes-base.respondToWebhook", "typeVersion": 1.1, "position": [480, 0] }
+  ],
+  "connections": { "Manual Retry Webhook": { "main": [[{ "node": "Retry Routing", "type": "main", "index": 0 }]] }, "Retry Routing": { "main": [[{ "node": "Respond", "type": "main", "index": 0 }]] } },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

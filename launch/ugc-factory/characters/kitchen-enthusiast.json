@@ -1,0 +1,15 @@
+{
+  "id": "kitchen-enthusiast",
+  "name": "Emma",
+  "age": 29,
+  "gender": "female",
+  "character_block": "29-year-old female kitchen enthusiast with warm natural smile, shoulder-length hair tied back, casual comfortable kitchen attire, apron optional, realistic skin texture, authentic cooking energy, expressive hands when demonstrating kitchen gadgets, natural speaking manner",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing with kitchen counter shots, natural hand movement showing kitchen tools, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "environment_block": "modern kitchen setting with counter space, visible kitchen tools and ingredients, realistic home kitchen environment, warm cooking atmosphere",
+  "platform_block": "realistic TikTok kitchen content style, organic creator content, not polished commercial, authentic cooking enthusiast vibe, satisfying gadget demonstrations",
+  "lighting_block": "warm kitchen lighting or natural daylight from windows, soft shadows, realistic kitchen environment lighting, slight smartphone overexposure on bright surfaces",
+  "motion_block": "natural hand movements when using kitchen gadgets, smooth product demonstrations, authentic satisfaction reactions with cooking results",
+  "audio_block": "subtle kitchen sounds, gadget operation sounds, cooking environment ambience, authentic enthusiastic speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury cooking show aesthetic, no overly polished production",
+  "reference_images": []
+}

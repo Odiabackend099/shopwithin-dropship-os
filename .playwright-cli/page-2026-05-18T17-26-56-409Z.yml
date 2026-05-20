@@ -1,0 +1,51 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "CAC Logo" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img "CAC Logo" [ref=e8]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "Objection For IT & LTD/GTE" [ref=e11] [cursor=pointer]:
+            - /url: /support/objection
+        - listitem [ref=e12]:
+          - link "Help & Support" [ref=e13] [cursor=pointer]:
+            - /url: /support/help
+            - text: Help
+            - generic [ref=e14]: "& Support"
+        - listitem [ref=e15]:
+          - link "FAQs" [ref=e16] [cursor=pointer]:
+            - /url: /support/faq
+        - listitem [ref=e17]:
+          - link "Contact Us" [ref=e18] [cursor=pointer]:
+            - /url: /support/contact
+        - listitem [ref=e19]:
+          - link "Public Search" [ref=e20] [cursor=pointer]:
+            - /url: /public-search
+            - generic [ref=e21]: Public
+            - text: Search
+    - list [ref=e24]:
+      - listitem [ref=e25]:
+        - link "Sign Up" [ref=e26] [cursor=pointer]:
+          - /url: /auth/new-account
+      - listitem [ref=e27]:
+        - link "Login" [ref=e28] [cursor=pointer]:
+          - /url: /auth/login
+          - text: Login
+  - main [ref=e29]
+  - contentinfo [ref=e31]:
+    - generic [ref=e32]:
+      - img "Nigeria Coat of Arms" [ref=e33]
+      - text: © 2026 Corporate Affairs Commission (CAC), Nigeria
+    - generic [ref=e34]:
+      - link "Privacy Policy" [ref=e35] [cursor=pointer]:
+        - /url: /legal/privacy-policy
+      - text: "|"
+      - link "Refunds, Cancellation and Return Policy" [ref=e36] [cursor=pointer]:
+        - /url: /legal/refund-policy
+      - text: "|"
+      - link "Terms of Use" [ref=e37] [cursor=pointer]:
+        - /url: /legal/terms-of-use
+      - text: "|"
+      - link "Contact Us" [ref=e38] [cursor=pointer]:
+        - /url: /support/contact

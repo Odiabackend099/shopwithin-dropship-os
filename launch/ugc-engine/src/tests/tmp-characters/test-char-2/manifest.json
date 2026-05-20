@@ -1,0 +1,16 @@
+{
+  "id": "test-char-2",
+  "version": "1.0.0",
+  "createdAt": "2026-05-19T09:50:58.002Z",
+  "updatedAt": "2026-05-19T09:50:58.002Z",
+  "identity": {
+    "name": "Another Character",
+    "faceDescriptor": "green eyes",
+    "vibe": "calm",
+    "outfitStyle": "bohemian",
+    "roomAesthetic": "cozy cottage",
+    "accessories": []
+  },
+  "referenceImages": [],
+  "tags": []
+}

@@ -1,0 +1,24 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e7]:
+      - generic [ref=e10]: shopwithin
+      - heading "Opening soon" [level=1] [ref=e12]
+      - paragraph [ref=e14]: Sign up for our newsletter to be the first to know when we launch.
+      - generic [ref=e17]:
+        - generic [ref=e18]: Email
+        - textbox "Email" [ref=e19]:
+          - /placeholder: Email address
+        - button "Sign up" [ref=e20] [cursor=pointer]
+  - contentinfo [ref=e21]:
+    - generic [ref=e23]:
+      - paragraph [ref=e24]:
+        - text: This shop will be powered by
+        - link "Shopify" [ref=e25] [cursor=pointer]:
+          - /url: //shopify.com
+          - img [ref=e26]
+      - generic [ref=e28]:
+        - button "Enter using password" [ref=e29] [cursor=pointer]
+        - paragraph [ref=e30]:
+          - text: Are you the store owner?
+          - link "Log in here" [ref=e31] [cursor=pointer]:
+            - /url: /admin

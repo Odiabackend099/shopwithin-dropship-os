@@ -1,0 +1,254 @@
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - link "Skip to content" [ref=e7] [cursor=pointer]:
+        - /url: "#checkout-main"
+      - generic [ref=e8]:
+        - banner [ref=e9]:
+          - link "FurLift Staging Navigate to Online Store" [ref=e16] [cursor=pointer]:
+            - /url: https://furlift-staging.myshopify.com/
+            - generic: FurLift Staging
+            - generic [ref=e17]: Navigate to Online Store
+        - complementary [ref=e18]:
+          - button "Order summary Total price $24.95" [ref=e21] [cursor=pointer]:
+            - generic [ref=e22]:
+              - generic [ref=e23]:
+                - text: Order summary
+                - img [ref=e25]
+              - generic [ref=e27]:
+                - generic [ref=e28]: Total price
+                - paragraph [ref=e30]:
+                  - strong [ref=e31]: $24.95
+        - generic [ref=e34]:
+          - main [ref=e35]:
+            - heading "FurLift Staging Checkout" [level=1] [ref=e36]
+            - generic [ref=e38]:
+              - generic [ref=e39]:
+                - region "Contact" [ref=e40]:
+                  - generic [ref=e44]:
+                    - generic [ref=e45]:
+                      - heading "Contact" [level=2] [ref=e46]
+                      - link "Sign in" [ref=e47] [cursor=pointer]:
+                        - /url: https://furlift-staging.myshopify.com/customer_authentication/login?locale=en-US&return_to=%2Fcheckouts%2Fcn%2FhWNCGRjbOSfmo5kJtpfBOAS3%2Fen-us%3F_r%3DAQAB1ghDWTa4m9QOQTqK2MHNvpgIpsVEw8EydHXUldJvJrs%26locale%3Den-US
+                    - generic [ref=e49]:
+                      - generic [ref=e54]:
+                        - generic:
+                          - generic:
+                            - generic: Email
+                        - textbox "Email" [ref=e55]: test+furlift@barpel.ai
+                      - generic [ref=e58]:
+                        - generic [ref=e59]:
+                          - checkbox "Email me with news and offers" [ref=e60] [cursor=pointer]
+                          - generic:
+                            - generic:
+                              - img
+                        - generic [ref=e61] [cursor=pointer]: Email me with news and offers
+                - group "Delivery" [ref=e65]:
+                  - generic [ref=e66]:
+                    - heading "Delivery" [level=2] [ref=e68]
+                    - generic [ref=e74]:
+                      - generic [ref=e78]:
+                        - generic [ref=e79]:
+                          - generic [ref=e83]:
+                            - generic:
+                              - generic:
+                                - generic: Country/Region
+                            - combobox "Country/Region" [ref=e84]:
+                              - option "United States" [selected]
+                            - generic:
+                              - generic:
+                                - img
+                          - generic [ref=e85]:
+                            - generic [ref=e87]:
+                              - generic:
+                                - generic:
+                                  - generic: First name
+                              - textbox "First name" [ref=e88]: Alex
+                            - generic [ref=e90]:
+                              - generic:
+                                - generic:
+                                  - generic: Last name
+                              - textbox "Last name" [ref=e91]: Testbuyer
+                          - generic [ref=e97]:
+                            - generic:
+                              - generic:
+                                - generic: Address
+                            - combobox "Address" [ref=e98]: 350 5th Ave
+                            - img [ref=e101]
+                          - generic [ref=e105]:
+                            - generic:
+                              - generic:
+                                - generic: Apartment, suite, etc. (optional)
+                            - textbox "Apartment, suite, etc. (optional)" [ref=e106]
+                          - generic [ref=e107]:
+                            - generic [ref=e109]:
+                              - generic:
+                                - generic:
+                                  - generic: City
+                              - textbox "City" [active] [ref=e110]: New York
+                            - generic [ref=e113]:
+                              - generic:
+                                - generic:
+                                  - generic: State
+                              - combobox "State" [ref=e114]:
+                                - option "Alabama"
+                                - option "Alaska"
+                                - option "American Samoa"
+                                - option "Arizona"
+                                - option "Arkansas"
+                                - option "California"
+                                - option "Colorado"
+                                - option "Connecticut"
+                                - option "Delaware"
+                                - option "Micronesia"
+                                - option "Florida"
+                                - option "Georgia"
+                                - option "Guam"
+                                - option "Hawaii"
+                                - option "Idaho"
+                                - option "Illinois"
+                                - option "Indiana"
+                                - option "Iowa"
+                                - option "Kansas"
+                                - option "Kentucky"
+                                - option "Louisiana"
+                                - option "Maine"
+                                - option "Marshall Islands"
+                                - option "Maryland"
+                                - option "Massachusetts"
+                                - option "Michigan"
+                                - option "Minnesota"
+                                - option "Mississippi"
+                                - option "Missouri"
+                                - option "Montana"
+                                - option "Nebraska"
+                                - option "Nevada"
+                                - option "New Hampshire"
+                                - option "New Jersey"
+                                - option "New Mexico"
+                                - option "New York" [selected]
+                                - option "North Carolina"
+                                - option "North Dakota"
+                                - option "Northern Mariana Islands"
+                                - option "Ohio"
+                                - option "Oklahoma"
+                                - option "Oregon"
+                                - option "Palau"
+                                - option "Pennsylvania"
+                                - option "Puerto Rico"
+                                - option "Rhode Island"
+                                - option "South Carolina"
+                                - option "South Dakota"
+                                - option "Tennessee"
+                                - option "Texas"
+                                - option "Utah"
+                                - option "Vermont"
+                                - option "Virginia"
+                                - option "Washington"
+                                - option "Washington DC"
+                                - option "West Virginia"
+                                - option "Wisconsin"
+                                - option "Wyoming"
+                                - option "U.S. Virgin Islands"
+                                - option "Armed Forces Americas"
+                                - option "Armed Forces Europe"
+                                - option "Armed Forces Pacific"
+                              - generic:
+                                - generic:
+                                  - img
+                            - generic [ref=e117]:
+                              - generic:
+                                - generic:
+                                  - generic: ZIP code
+                              - textbox "ZIP code" [ref=e118]
+                          - generic [ref=e121]:
+                            - generic:
+                              - generic:
+                                - generic: Phone (optional)
+                            - textbox "Phone (optional)" [ref=e122]
+                            - button "More information about Phone" [ref=e125] [cursor=pointer]:
+                              - img [ref=e127]
+                          - generic [ref=e130]:
+                            - generic [ref=e131]:
+                              - checkbox "Save this information for next time" [ref=e132] [cursor=pointer]
+                              - generic:
+                                - generic:
+                                  - img
+                            - generic [ref=e133] [cursor=pointer]: Save this information for next time
+                        - generic [ref=e134]:
+                          - textbox [ref=e135]: Alex
+                          - textbox [ref=e136]: Testbuyer
+                          - textbox [ref=e137]: 350 5th Ave
+                          - textbox [ref=e138]
+                          - textbox [ref=e139]
+                          - textbox [ref=e140]: US
+                          - textbox [ref=e141]: NY
+                          - textbox [ref=e142]: NY
+                          - textbox [ref=e143]: NY
+                          - textbox [ref=e144]
+                          - textbox [ref=e145]
+                      - generic [ref=e146]:
+                        - heading "Shipping method" [level=2] [ref=e147]
+                        - paragraph [ref=e152]: Enter your shipping address to view available shipping methods.
+                - generic [ref=e154]:
+                  - region "Payment" [ref=e157]:
+                    - group "Payment" [ref=e158]:
+                      - generic [ref=e159]:
+                        - heading "Payment" [level=2] [ref=e160]
+                        - paragraph [ref=e161]: All transactions are secure and encrypted.
+                      - generic [ref=e164]:
+                        - group [ref=e168]:
+                          - generic [ref=e170]:
+                            - generic [ref=e171]:
+                              - heading "Flutterwave" [level=3] [ref=e173]:
+                                - strong [ref=e174]: Flutterwave
+                              - generic [ref=e177]:
+                                - img "visa" [ref=e178]
+                                - img "master" [ref=e179]
+                                - img "mtn mobile money" [ref=e180]
+                                - button [ref=e181] [cursor=pointer]:
+                                  - generic [ref=e183]: "+5"
+                            - paragraph [ref=e190]: You'll be redirected to Flutterwave to complete your purchase.
+                        - group "Billing address" [ref=e191]:
+                          - heading "Billing address" [level=3] [ref=e192]
+                          - group [ref=e193]:
+                            - generic [ref=e194]:
+                              - generic [ref=e196] [cursor=pointer]:
+                                - radio "Same as shipping address" [checked] [ref=e198]
+                                - generic [ref=e199]: Same as shipping address
+                              - generic [ref=e201] [cursor=pointer]:
+                                - radio "Use a different billing address" [ref=e203]
+                                - generic [ref=e204]: Use a different billing address
+                  - generic [ref=e209]:
+                    - region "Order summary" [ref=e210]:
+                      - heading "Order summary" [level=2] [ref=e211]
+                      - button "Order summary Total 1 item USD $24.95" [ref=e216] [cursor=pointer]:
+                        - generic [ref=e218]:
+                          - generic [ref=e219]: Order summary
+                          - generic [ref=e220]:
+                            - img [ref=e226]
+                            - generic [ref=e228]:
+                              - strong [ref=e230]: Total
+                              - generic [ref=e231]: 1 item
+                          - generic [ref=e235]:
+                            - generic [ref=e238]: USD
+                            - strong [ref=e239]: $24.95
+                          - img [ref=e242]
+                    - generic [ref=e246]:
+                      - heading "Finalize order" [level=2] [ref=e247]
+                      - button "Pay now" [ref=e265] [cursor=pointer]:
+                        - generic:
+                          - generic: Pay now
+              - button [ref=e252] [cursor=pointer]: Submit
+          - contentinfo [ref=e253]:
+            - list [ref=e257]:
+              - listitem [ref=e258]:
+                - button "Privacy policy" [ref=e259] [cursor=pointer]:
+                  - generic: Privacy policy
+    - generic:
+      - progressbar
+  - generic [ref=e260]: Opens external website in a new window.
+  - generic [ref=e261]: Opens in a new window.
+  - generic [ref=e262]: Opens external website.
+  - status [ref=e263]: 5 items available
+  - alert [ref=e264]

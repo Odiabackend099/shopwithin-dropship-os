@@ -1,0 +1,622 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Shopify App Store logo" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]:
+          - img [ref=e7]
+        - generic [ref=e9]: Shopify App Store
+      - button "Search" [ref=e12] [cursor=pointer]:
+        - img [ref=e13]:
+          - img [ref=e14]
+      - button "Menu" [ref=e17] [cursor=pointer]:
+        - img [ref=e18]:
+          - img [ref=e19]
+  - main [ref=e21]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e29]:
+            - figure [ref=e30]:
+              - img "Facebook & Instagram" [ref=e31]
+            - heading "Facebook & Instagram" [level=1] [ref=e33]
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - term [ref=e36]: Pricing
+              - definition [ref=e37]:
+                - generic [ref=e38]: Free to install. Additional charges may apply.
+            - generic [ref=e39]:
+              - term [ref=e40]: Rating
+              - definition [ref=e41]:
+                - generic [ref=e42]: "3.4"
+                - img [ref=e44]
+                - link "3841 Reviews" [ref=e47] [cursor=pointer]:
+                  - /url: "#adp-reviews"
+                  - text: (3,841)
+            - generic [ref=e48]:
+              - term [ref=e49]: Developer
+              - definition [ref=e50]:
+                - link "Meta" [ref=e51] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/partners/meta-platforms
+        - button "Install" [active] [ref=e55] [cursor=pointer]
+      - generic [ref=e57]:
+        - list [ref=e61]:
+          - listitem [ref=e62] [cursor=pointer]:
+            - iframe [ref=e63]:
+              - generic [active] [ref=f8e1]:
+                - generic "YouTube Video Player" [ref=f8e3]
+                - generic [ref=f8e5]:
+                  - generic:
+                    - generic:
+                      - button "Play video" [ref=f8e10] [cursor=pointer]:
+                        - generic [ref=f8e13]:
+                          - img
+                      - button "Hide player controls" [ref=f8e14] [cursor=pointer]
+                      - generic [ref=f8e16]:
+                        - generic [ref=f8e21]:
+                          - generic [ref=f8e22]:
+                            - link "The Facebook & Instagram Channel on Shopify" [ref=f8e23] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=BorbHo0q9wY
+                            - link "Meta for Business" [ref=f8e24] [cursor=pointer]:
+                              - /url: /channel/UCRQxvznfmSwZmbm5apGhOSg
+                              - generic [ref=f8e25]: Meta for Business
+                          - generic [ref=f8e26]:
+                            - button "thumbnail-image" [ref=f8e27] [cursor=pointer]:
+                              - img "thumbnail-image" [ref=f8e28]
+                            - generic [ref=f8e30]:
+                              - generic: Meta for Business
+                              - generic: 180k subscribers
+                        - generic [ref=f8e31]:
+                          - button "Copy link" [ref=f8e34] [cursor=pointer]:
+                            - generic [ref=f8e38]:
+                              - img
+                          - link "Watch on YouTube" [ref=f8e45] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=BorbHo0q9wY
+                            - generic [ref=f8e48]:
+                              - text: Watch on
+                              - img [ref=f8e50]:
+                                - generic [ref=f8e52]:
+                                  - img
+          - listitem [ref=e64] [cursor=pointer]:
+            - img "Design and Manage your Shops on Facebook and Instagram" [ref=e65]
+          - listitem [ref=e66] [cursor=pointer]:
+            - img "Setup your Facebook and Instagram Shops and Start Selling" [ref=e67]
+          - listitem [ref=e68] [cursor=pointer]:
+            - img "Get Actionable Insights for your Facebook and Instagram Shops" [ref=e69]
+          - listitem [ref=e70] [cursor=pointer]:
+            - img "Get Actionable Insights for your Facebook and Instagram Shops" [ref=e71]
+          - listitem [ref=e72] [cursor=pointer]:
+            - img "Get Support via Email or Live Chat" [ref=e73]
+        - generic [ref=e75]:
+          - heading "The official app from Meta. Seamlessly manage your Facebook and Instagram presence from one place." [level=2] [ref=e76]
+          - generic [ref=e77]: Grow your business on Facebook and Instagram while managing orders, returns and more. Easily ... more
+          - list [ref=e78]:
+            - listitem [ref=e79]: Get shop insights, including best performing products and top tagged content
+            - listitem [ref=e80]: Help drive better ad performance by setting up a conversion pixel
+            - listitem [ref=e81]: Easily set up your shop with a one-time account connection
+            - listitem [ref=e82]: Sell from one inventory that automatically syncs to your shop
+            - listitem [ref=e83]: Get email and live chat support from Meta
+        - generic [ref=e85]:
+          - term [ref=e86]: Popular with stores like yours
+          - definition [ref=e88]:
+            - generic [ref=e89]: Based in Nigeria
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - paragraph [ref=e92]: Languages
+            - paragraph [ref=e94]: English, Czech, Danish, German, Spanish, Finnish, French, Italian, Japanese, Korean, Norwegian (Bokmål), Dutch, Polish, Portuguese (Brazil), Portuguese (Portugal), Swedish, Thai, Turkish, Vietnamese, Chinese (Simplified), and Chinese (Traditional)
+          - generic [ref=e95]:
+            - paragraph [ref=e96]: Works with
+            - list [ref=e97]:
+              - listitem [ref=e98]:
+                - link "Checkout" [ref=e99] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/extensions/checkout?surface_detail=facebook&surface_type=app_details
+                - text: ","
+              - listitem [ref=e100]: Shopify Admin ,
+              - listitem [ref=e101]: Facebook ,
+              - listitem [ref=e102]: Instagram
+        - generic [ref=e104]:
+          - paragraph [ref=e105]: Categories
+          - generic [ref=e106]:
+            - generic [ref=e107]:
+              - generic [ref=e108]:
+                - link "Ads" [ref=e110] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads?surface_detail=facebook&surface_type=app_details
+                - button "Show features" [ref=e111] [cursor=pointer]
+              - generic:
+                - generic [ref=e112]:
+                  - paragraph [ref=e113]: Targeting
+                  - list [ref=e114]:
+                    - listitem [ref=e115]:
+                      - link "Audience segments" [ref=e116] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.audience_segments&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e117]:
+                      - link "Lookalike audiences" [ref=e118] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.lookalike_audiences&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e119]:
+                      - link "Custom audiences" [ref=e120] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.custom_audiences&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e121]:
+                      - link "Demographic" [ref=e122] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.demographic&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e123]:
+                      - link "Device" [ref=e124] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.device&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e125]:
+                      - link "Event-based" [ref=e126] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.event_based&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e127]:
+                      - link "Keyword" [ref=e128] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.keyword&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e129]:
+                      - link "Platform" [ref=e130] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.platform&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e131]:
+                      - link "Product category" [ref=e132] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.product_category&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e133]:
+                      - link "AI targeting" [ref=e134] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.ai_targeting&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e135]:
+                      - link "Retargeting" [ref=e136] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.retargeting&locale=en&surface_detail=facebook&surface_type=app_details
+                - generic [ref=e137]:
+                  - paragraph [ref=e138]: Campaign management
+                  - list [ref=e139]:
+                    - listitem [ref=e140]:
+                      - link "AI optimization" [ref=e141] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.ai_optimization&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e142]:
+                      - link "Automated campaigns" [ref=e143] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.automated_campaigns&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e144]:
+                      - link "Bid optimization" [ref=e145] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.bid_optimization&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e146]:
+                      - link "AI copywriting" [ref=e147] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.ai_copywriting&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e148]:
+                      - link "AI images and video" [ref=e149] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.ai_images_and_video&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e150]:
+                      - link "Social media" [ref=e151] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.social_media&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e152]:
+                      - link "Website" [ref=e153] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.website&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e154]:
+                      - link "Shoppable videos" [ref=e155] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.shoppable_videos&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e156]:
+                      - link "Video ads" [ref=e157] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.video_ads&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e158]:
+                      - link "Influencers and affiliates" [ref=e159] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.influencers_and_affiliates&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e160]:
+                      - link "Pixel management" [ref=e161] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.pixel_management&locale=en&surface_detail=facebook&surface_type=app_details
+                - generic [ref=e162]:
+                  - paragraph [ref=e163]: Performance analytics
+                  - list [ref=e164]:
+                    - listitem [ref=e165]:
+                      - link "A/B testing" [ref=e166] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.a_b_testing&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e167]:
+                      - link "Performance tracking" [ref=e168] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.performance_tracking&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e169]:
+                      - link "Ad spend" [ref=e170] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.ad_spend&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e171]:
+                      - link "Engagement metrics" [ref=e172] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.engagement_metrics&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e173]:
+                      - link "ROI analysis" [ref=e174] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.roi_analysis&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e175]:
+                      - link "Click-through rates" [ref=e176] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.click_through_rates&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e177]:
+                      - link "Conversion tracking" [ref=e178] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.conversion_tracking&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e179]:
+                      - link "Cost per acquisition" [ref=e180] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.cost_per_acquisition&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e181]:
+                      - link "Dashboards" [ref=e182] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.dashboards&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e183]:
+                      - link "Demographic analysis" [ref=e184] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.demographic_analysis&locale=en&surface_detail=facebook&surface_type=app_details
+            - generic [ref=e185]:
+              - generic [ref=e186]:
+                - link "Marketplaces" [ref=e188] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces?surface_detail=facebook&surface_type=app_details
+                - button "Show features" [ref=e189] [cursor=pointer]
+              - generic:
+                - generic [ref=e190]:
+                  - paragraph [ref=e191]: Listing management
+                  - list [ref=e192]:
+                    - listitem [ref=e193]:
+                      - link "Product feed" [ref=e194] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.listing_management.product_feed&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e195]:
+                      - link "Product sync" [ref=e196] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.listing_management.product_sync&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e197]:
+                      - link "Product selection" [ref=e198] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.listing_management.product_selection&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e199]:
+                      - link "Offer sync" [ref=e200] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.listing_management.offer_sync&locale=en&surface_detail=facebook&surface_type=app_details
+                - generic [ref=e201]:
+                  - paragraph [ref=e202]: Order management
+                  - list [ref=e203]:
+                    - listitem [ref=e204]:
+                      - link "Order approval" [ref=e205] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.order_management.order_approval&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e206]:
+                      - link "Unified dashboard" [ref=e207] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.order_management.unified_dashboard&locale=en&surface_detail=facebook&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e208]:
+                      - link "Inventory sync" [ref=e209] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.order_management.inventory_sync&locale=en&surface_detail=facebook&surface_type=app_details
+    - generic [ref=e210]:
+      - generic [ref=e212]:
+        - generic [ref=e214]:
+          - heading "Pricing" [level=2] [ref=e217]
+          - generic [ref=e222]:
+            - paragraph [ref=e223]: Free
+            - heading "Free to install" [level=3] [ref=e225]:
+              - generic [ref=e226]: Free to install
+            - paragraph [ref=e227]: When you run a campaign, you set the budget and the ad spend is billed directly to your Facebook ad account.
+        - paragraph [ref=e229]: All charges are billed in USD.
+      - generic [ref=e233]:
+        - generic [ref=e234]:
+          - heading "Reviews (3,841)" [level=2] [ref=e235]
+          - generic [ref=e236]:
+            - generic [ref=e237]: Overall rating
+            - generic [ref=e238]:
+              - generic "3.4 out of 5 stars" [ref=e239]: "3.4"
+              - img [ref=e241]:
+                - img [ref=e242]
+                - img [ref=e244]
+                - img [ref=e246]
+                - img [ref=e248]
+                - img [ref=e250]
+            - list [ref=e253]:
+              - listitem [ref=e254]:
+                - generic [ref=e255]:
+                  - generic [ref=e256]: "5"
+                  - img [ref=e258]
+                - img [ref=e261]
+                - img [ref=e264]
+                - link "2048 total reviews" [ref=e267] [cursor=pointer]:
+                  - /url: /facebook/reviews?ratings%5B%5D=5
+                  - text: 2.0K
+              - listitem [ref=e268]:
+                - generic [ref=e269]:
+                  - generic [ref=e270]: "4"
+                  - img [ref=e272]
+                - img [ref=e275]
+                - img [ref=e278]
+                - link "443 total reviews" [ref=e281] [cursor=pointer]:
+                  - /url: /facebook/reviews?ratings%5B%5D=4
+                  - text: "443"
+              - listitem [ref=e282]:
+                - generic [ref=e283]:
+                  - generic [ref=e284]: "3"
+                  - img [ref=e286]
+                - img [ref=e289]
+                - img [ref=e292]
+                - link "252 total reviews" [ref=e295] [cursor=pointer]:
+                  - /url: /facebook/reviews?ratings%5B%5D=3
+                  - text: "252"
+              - listitem [ref=e296]:
+                - generic [ref=e297]:
+                  - generic [ref=e298]: "2"
+                  - img [ref=e300]
+                - img [ref=e303]
+                - img [ref=e306]
+                - link "158 total reviews" [ref=e309] [cursor=pointer]:
+                  - /url: /facebook/reviews?ratings%5B%5D=2
+                  - text: "158"
+              - listitem [ref=e310]:
+                - generic [ref=e311]:
+                  - generic [ref=e312]: "1"
+                  - img [ref=e314]
+                - img [ref=e317]
+                - img [ref=e320]
+                - link "940 total reviews" [ref=e323] [cursor=pointer]:
+                  - /url: /facebook/reviews?ratings%5B%5D=1
+                  - text: "940"
+          - generic [ref=e324]:
+            - button "Write a review" [ref=e325] [cursor=pointer]
+            - link "All reviews" [ref=e328] [cursor=pointer]:
+              - /url: /facebook/reviews
+        - generic [ref=e330]:
+          - generic [ref=e332]:
+            - generic [ref=e333]:
+              - generic [ref=e334]:
+                - img "1 out of 5 stars" [ref=e335]:
+                  - img [ref=e336]
+                  - img [ref=e338]
+                  - img [ref=e340]
+                  - img [ref=e342]
+                  - img [ref=e344]
+                - generic [ref=e346]: March 31, 2026
+              - paragraph [ref=e349]: this app needs to be updated. It doesnt allow you to change your fb or ig page login once its on one page. so its not allowing me to switch btw my different profile accounts. Meta all together needs a lot of updates. just over this whole app and its blocking me from getting more money. I see why it has 3 stars it sucks simple
+            - generic [ref=e350]:
+              - generic [ref=e351]:
+                - generic "HoodRich Clothing Company™ USA" [ref=e352]
+                - button "Copy link to review" [ref=e353] [cursor=pointer]:
+                  - img [ref=e354]:
+                    - img [ref=e355]
+              - generic [ref=e357]: United States
+              - generic [ref=e358]: About 7 years using the app
+          - generic [ref=e360]:
+            - generic [ref=e361]:
+              - generic [ref=e362]:
+                - img "1 out of 5 stars" [ref=e363]:
+                  - img [ref=e364]
+                  - img [ref=e366]
+                  - img [ref=e368]
+                  - img [ref=e370]
+                  - img [ref=e372]
+                - generic [ref=e374]: May 2, 2026
+              - generic [ref=e375]:
+                - paragraph [ref=e377]: Absolutely do not allow this app to create a Facebook Business Portfolio for you, especially if you already manage multiple ad accounts. It will create one automatically, violating Facebook's terms for Business Portfolios (which is ironic since this is their official Shopify app), then they will restrict your account, and you won't be able to run ads. Nor will you be able to fix it by deleting ...
+                - button "Show more" [ref=e378] [cursor=pointer]
+            - generic [ref=e379]:
+              - generic [ref=e380]:
+                - generic "Lewd Dungeon Adventures" [ref=e381]
+                - button "Copy link to review" [ref=e382] [cursor=pointer]:
+                  - img [ref=e383]:
+                    - img [ref=e384]
+              - generic [ref=e386]: United States
+              - generic [ref=e387]: Over 1 year using the app
+          - generic [ref=e389]:
+            - generic [ref=e390]:
+              - generic [ref=e391]:
+                - img "5 out of 5 stars" [ref=e392]:
+                  - img [ref=e393]
+                  - img [ref=e395]
+                  - img [ref=e397]
+                  - img [ref=e399]
+                  - img [ref=e401]
+                - generic [ref=e403]: April 26, 2026
+              - paragraph [ref=e406]: The app helps connect Shopify products to Facebook and Instagram, but setup can sometimes feel confusing for new users. Product sync is useful, and the sales channel integration is powerful once connected. Clearer navigation and easier business asset management would make the experience much better.
+            - generic [ref=e407]:
+              - generic [ref=e408]:
+                - generic "MARTBEAUTY LLC" [ref=e409]
+                - button "Copy link to review" [ref=e410] [cursor=pointer]:
+                  - img [ref=e411]:
+                    - img [ref=e412]
+              - generic [ref=e414]: United States
+              - generic [ref=e415]: Over 1 year using the app
+      - generic [ref=e416]:
+        - generic [ref=e417]:
+          - heading "Support" [level=2] [ref=e418]
+          - paragraph [ref=e420]: App support provided by Meta.
+        - generic [ref=e423]:
+          - generic [ref=e424]:
+            - heading "Resources" [level=3] [ref=e425]
+            - generic [ref=e426]:
+              - link "Privacy policy" [ref=e428] [cursor=pointer]:
+                - /url: https://www.facebook.com/privacy/policy/
+              - link "FAQ" [ref=e430] [cursor=pointer]:
+                - /url: https://www.facebook.com/business/help/502918981320043?locale=en_US&draft=502918981320043
+          - generic [ref=e431]:
+            - heading "Developer" [level=3] [ref=e432]
+            - generic [ref=e433]:
+              - link "Meta" [ref=e434] [cursor=pointer]:
+                - /url: https://apps.shopify.com/partners/meta-platforms
+              - paragraph [ref=e435]: 1101 Dexter Ave N, Seattle, WA, 98122, US
+          - generic [ref=e436]:
+            - paragraph [ref=e437]: Launched
+            - paragraph [ref=e438]: October 4, 2018
+      - generic [ref=e440]:
+        - heading "Featured in" [level=2] [ref=e441]
+        - generic [ref=e442]:
+          - link "Replatforming Get the apps you need to make the migration process a smooth one." [ref=e444] [cursor=pointer]:
+            - /url: https://apps.shopify.com/stories/guide-replatforming?surface_detail=story_card&surface_type=app_details_page
+            - generic [ref=e446]:
+              - heading "Replatforming" [level=5] [ref=e447]
+              - heading "Get the apps you need to make the migration process a smooth one." [level=3] [ref=e448]
+          - link "Build a business Get the apps you need to get your brand new business off the ground." [ref=e450] [cursor=pointer]:
+            - /url: https://apps.shopify.com/stories/guide-build-a-business?surface_detail=story_card&surface_type=app_details_page
+            - generic [ref=e452]:
+              - heading "Build a business" [level=5] [ref=e453]
+              - heading "Get the apps you need to get your brand new business off the ground." [level=3] [ref=e454]
+          - link "Grow your influencer business Establish a name for yourself with apps" [ref=e456] [cursor=pointer]:
+            - /url: https://apps.shopify.com/stories/guide-grow-your-influencer-business?surface_detail=story_card&surface_type=app_details_page
+            - generic [ref=e458]:
+              - heading "Grow your influencer business" [level=5] [ref=e459]
+              - heading "Establish a name for yourself with apps" [level=3] [ref=e460]
+      - generic [ref=e463]:
+        - heading "More apps like this" [level=2] [ref=e466]
+        - generic [ref=e468]:
+          - button "Google & YouTube 4.5 out of 5 stars 4750 total reviews • Free to install Drive sales by showcasing your products on Google and YouTube" [ref=e470] [cursor=pointer]:
+            - figure [ref=e471]
+            - generic [ref=e473]:
+              - link "Google & YouTube" [ref=e475]:
+                - /url: https://apps.shopify.com/google?surface_detail=facebook&surface_inter_position=1&surface_intra_position=1&surface_type=app_details
+              - generic [ref=e476]:
+                - generic [ref=e477]:
+                  - text: "4.5"
+                  - generic [ref=e478]: out of 5 stars
+                - img [ref=e480]
+                - generic [ref=e481]: (4,750)
+                - generic [ref=e482]: 4750 total reviews
+                - generic [ref=e483]: •
+                - generic [ref=e484]: Free to install
+              - generic [ref=e485]: Drive sales by showcasing your products on Google and YouTube
+          - button "TikTok 4.8 out of 5 stars 13076 total reviews • Free to install Launch TikTok Ads and sell directly via TikTok Shop" [ref=e487] [cursor=pointer]:
+            - figure [ref=e488]
+            - generic [ref=e490]:
+              - link "TikTok" [ref=e492]:
+                - /url: https://apps.shopify.com/tiktok?surface_detail=facebook&surface_inter_position=1&surface_intra_position=2&surface_type=app_details
+              - generic [ref=e493]:
+                - generic [ref=e494]:
+                  - text: "4.8"
+                  - generic [ref=e495]: out of 5 stars
+                - img [ref=e497]
+                - generic [ref=e498]: (13,076)
+                - generic [ref=e499]: 13076 total reviews
+                - generic [ref=e500]: •
+                - generic [ref=e501]: Free to install
+              - generic [ref=e502]: Launch TikTok Ads and sell directly via TikTok Shop
+          - button "Pinterest 4.2 out of 5 stars 1544 total reviews • Free to install Put your products where people go to find ideas to try and buy" [ref=e504] [cursor=pointer]:
+            - figure [ref=e505]
+            - generic [ref=e507]:
+              - link "Pinterest" [ref=e509]:
+                - /url: https://apps.shopify.com/pinterest?surface_detail=facebook&surface_inter_position=1&surface_intra_position=3&surface_type=app_details
+              - generic [ref=e510]:
+                - generic [ref=e511]:
+                  - text: "4.2"
+                  - generic [ref=e512]: out of 5 stars
+                - img [ref=e514]
+                - generic [ref=e515]: (1,544)
+                - generic [ref=e516]: 1544 total reviews
+                - generic [ref=e517]: •
+                - generic [ref=e518]: Free to install
+              - generic [ref=e519]: Put your products where people go to find ideas to try and buy
+  - contentinfo [ref=e520]:
+    - generic [ref=e521]:
+      - generic [ref=e522]:
+        - generic [ref=e525]:
+          - heading "App categories" [level=6] [ref=e526]
+          - link "Sales channels" [ref=e527] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels
+          - link "Finding products" [ref=e528] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products
+          - link "Selling products" [ref=e529] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/selling-products
+          - link "Orders and shipping" [ref=e530] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping
+          - link "Store design" [ref=e531] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design
+          - link "Marketing and conversion" [ref=e532] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion
+          - link "Store management" [ref=e533] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-management
+        - generic [ref=e534]:
+          - heading "Top categories" [level=6] [ref=e535]
+          - link "Dropshipping" [ref=e536] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping
+          - link "Marketplaces" [ref=e537] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces
+          - link "Product reviews" [ref=e538] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-social-trust-product-reviews
+          - link "Upsell and bundles" [ref=e539] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-upsell-and-bundles
+          - link "Email marketing" [ref=e540] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-marketing-email-marketing
+          - link "SEO" [ref=e541] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-site-optimization-seo
+          - link "Shipping" [ref=e542] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping-shipping-solutions-shipping
+          - link "Currency and translation" [ref=e543] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-internationalization-currency-and-translation
+        - generic [ref=e544]:
+          - heading "Resources" [level=6] [ref=e545]
+          - link "Shopify Help Center" [ref=e546] [cursor=pointer]:
+            - /url: https://help.shopify.com/en/
+          - link "API documentation" [ref=e547] [cursor=pointer]:
+            - /url: https://shopify.dev/api
+          - link "Shopify Community" [ref=e548] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/shopify-community-en/ct-p/en
+          - link "Community Events" [ref=e549] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/events/eb-p/events_en
+          - link "Shopify Blog" [ref=e550] [cursor=pointer]:
+            - /url: https://www.shopify.com/blog
+          - link "Research" [ref=e551] [cursor=pointer]:
+            - /url: https://www.shopify.com/research/future-of-commerce
+        - generic [ref=e552]:
+          - heading "Shopify" [level=6] [ref=e553]
+          - link "About" [ref=e554] [cursor=pointer]:
+            - /url: https://www.shopify.com/about
+          - link "Careers" [ref=e555] [cursor=pointer]:
+            - /url: https://www.shopify.com/careers
+          - link "Investors" [ref=e556] [cursor=pointer]:
+            - /url: https://investors.shopify.com/home/default.aspx
+          - link "Press and media" [ref=e557] [cursor=pointer]:
+            - /url: https://news.shopify.com/
+          - link "Partners" [ref=e558] [cursor=pointer]:
+            - /url: https://www.shopify.com/partners
+          - link "Affiliates" [ref=e559] [cursor=pointer]:
+            - /url: https://www.shopify.com/affiliates
+          - link "Legal" [ref=e560] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal
+          - link "Service status" [ref=e561] [cursor=pointer]:
+            - /url: https://shopifystatus.com
+      - separator [ref=e562]
+      - generic [ref=e563]:
+        - generic [ref=e564]:
+          - link "Developer login" [ref=e566] [cursor=pointer]:
+            - /url: https://apps.shopify.com/?auth=1
+          - link "Terms of service" [ref=e568] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/terms
+          - link "Privacy policy" [ref=e570] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/privacy
+          - link "Sitemap" [ref=e572] [cursor=pointer]:
+            - /url: https://apps.shopify.com/sitemap
+          - generic [ref=e574]:
+            - link "Your privacy choices" [ref=e575] [cursor=pointer]:
+              - /url: https://privacy.shopify.com/en/
+            - img "California Consumer Privacy Act (CCPA) Opt-Out Icon" [ref=e576]
+        - combobox "Change your language" [ref=e581]:
+          - option "Čeština"
+          - option "Dansk"
+          - option "Deutsch"
+          - option "English" [selected]
+          - option "Español"
+          - option "Français"
+          - option "Italiano"
+          - option "Nederlands"
+          - option "Norsk (bokmål)"
+          - option "Polski"
+          - option "Português (Brasil)"
+          - option "Português (Portugal)"
+          - option "Suomi"
+          - option "Svenska"
+          - option "Türkçe"
+          - option "ภาษาไทย"
+          - option "日本語"
+          - option "简体中文"
+          - option "繁體中文"
+          - option "한국어"

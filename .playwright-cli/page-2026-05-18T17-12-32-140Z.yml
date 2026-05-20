@@ -1,0 +1,129 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - img "menu" [ref=e9]
+      - generic [ref=e10]: u
+    - generic [ref=e11] [cursor=pointer]:
+      - img "TikTok Logo" [ref=e12]
+      - generic [ref=e13]: Ads Manager
+    - list [ref=e15]:
+      - listitem [ref=e17] [cursor=pointer]: Dashboard
+      - listitem [ref=e19] [cursor=pointer]: Campaigns
+      - generic [ref=e20]:
+        - generic:
+          - generic: Audience
+          - generic:
+            - generic:
+              - generic: Audience Manager
+          - generic:
+            - generic:
+              - generic: Comments Manager
+          - generic: Creative
+          - generic:
+            - generic:
+              - generic: Creative Library
+          - generic:
+            - generic:
+              - generic: Instant page
+          - generic:
+            - generic:
+              - generic: Video editor
+              - generic: New
+          - generic:
+            - generic:
+              - generic: TikTok Symphony
+          - generic:
+            - generic:
+              - generic: Creative inspiration
+          - generic:
+            - generic:
+              - generic: Ad Preview Tool
+              - generic: New
+          - generic: Management
+          - generic:
+            - generic:
+              - generic: Recommendation Center
+          - generic:
+            - generic:
+              - generic: Catalog Manager
+          - generic:
+            - generic:
+              - generic: Automated rules
+          - generic:
+            - generic:
+              - generic: Events Manager
+          - generic:
+            - generic:
+              - generic: Leads Center
+          - generic:
+            - generic:
+              - generic: MMM Data Request
+          - generic:
+            - generic:
+              - generic: Pangle brand safety
+          - generic:
+            - generic:
+              - generic: Mission manager
+          - generic: Search Center
+          - generic:
+            - generic:
+              - generic: Keyword planner
+              - generic: New
+          - generic:
+            - generic:
+              - generic: Negative keywords
+          - generic:
+            - generic:
+              - generic: Search ads inspiration
+              - generic: New
+          - generic: Settings
+          - generic:
+            - generic:
+              - generic: Account settings
+          - generic:
+            - generic:
+              - generic: Audience controls
+          - generic:
+            - generic:
+              - generic: Brand safety hub
+          - generic:
+            - generic:
+              - generic: Documents
+          - generic:
+            - generic:
+              - generic: Billing
+        - listitem [ref=e21] [cursor=pointer]: Tools
+      - generic [ref=e22]:
+        - generic:
+          - generic:
+            - generic:
+              - generic: Custom reports
+          - generic:
+            - generic:
+              - generic: Experiment manager
+          - generic:
+            - generic:
+              - generic: Attribution analytics
+          - generic:
+            - generic:
+              - generic: Audience insights
+          - generic:
+            - generic:
+              - generic: Comment insights
+          - generic:
+            - generic:
+              - generic: Creative inspirations
+          - generic:
+            - generic:
+              - generic: Video insights
+        - listitem [ref=e23] [cursor=pointer]: Analytics
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - text: Help Center
+        - link "help" [ref=e26] [cursor=pointer]:
+          - /url: /help/?refer=from_advertising_platform&aadvid=7641268664506892305&user_id=7641260635678802965
+          - img "help" [ref=e27]
+      - generic [ref=e28]:
+        - generic [ref=e29]: mxu168-9g.myshopify.com Shopify0518
+        - img "arrow" [ref=e30]

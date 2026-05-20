@@ -1,0 +1,6 @@
+level,name,objective,optimization_event,countries,budget_usd_per_day,status,creative,landing_page,utm_source,utm_medium,utm_campaign,utm_content,kill_rule
+campaign,TTK_CONV_US_FURLIFT_VALIDATION_V1,Website conversions,AddToCart,US,2.00,DRAFT_ONLY,best organic Spark post,https://mxu168-9g.myshopify.com/products/furlift-reusable-pet-hair-detailer,tiktok,paid_social,furlift_validation_20260518_tiktok,problem_first_v1,Pause if CTR < 0.8% after $3-$5 spend
+ad_group,TTK_US_PETOWNERS_ATC_V1,Website conversions,AddToCart,US,2.00,DRAFT_ONLY,2 creatives max,product URL with UTMs,tiktok,paid_social,furlift_validation_20260518_tiktok,pet_owners_us_v1,Pause if 100 sessions produce < 3 ATCs
+ad,TTK_AD_PROBLEM_FIRST_V1,Website conversions,AddToCart,US,2.00,DRAFT_ONLY,launch/content-engine/tiktok-posts/furlift-tiktok-v1-problem-first.mp4,product URL with UTMs,tiktok,paid_social,furlift_validation_20260518_tiktok,problem_first_v1,Pause if comments show confusion or trust issue
+ad,TTK_AD_TRANSFORMATION_FIRST_V1,Website conversions,AddToCart,US,2.00,DRAFT_ONLY,launch/content-engine/spark-ad-variants/furlift-spark-b-transformation-first.mp4,product URL with UTMs,tiktok,paid_social,furlift_validation_20260518_tiktok,transformation_first_v1,Pause if watch time is weak
+

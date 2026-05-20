@@ -1,0 +1,16 @@
+[
+  {
+    "id": "furlift",
+    "name": "FurLift Pet Hair Remover",
+    "category": "pet",
+    "problemSolved": "Embedded pet hair on couches, clothing, and car seats",
+    "estimatedSellPriceUsd": 24.95
+  },
+  {
+    "id": "drawer-organizer",
+    "name": "Expandable Drawer Organizer",
+    "category": "organization",
+    "problemSolved": "Messy drawers and lost small items",
+    "estimatedSellPriceUsd": 15.99
+  }
+]

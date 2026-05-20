@@ -1,0 +1,25 @@
+{
+  "name": "03-ai-product-page-generation",
+  "active": false,
+  "nodes": [
+    { "parameters": { "path": "ai-product-page", "responseMode": "lastNode", "options": {} }, "id": "webhook", "name": "Generate Page Request", "type": "n8n-nodes-base.webhook", "typeVersion": 2, "position": [0, 0] },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.API_PUBLIC_URL}}/internal/products/score",
+        "sendBody": true,
+        "contentType": "json",
+        "bodyParameters": { "parameters": [{ "name": "demandVelocity", "value": "={{$json.demandVelocity || 75}}" }, { "name": "margin", "value": "={{$json.margin || 75}}" }, { "name": "shippingSpeed", "value": "={{$json.shippingSpeed || 74}}" }, { "name": "wowFactor", "value": "={{$json.wowFactor || 80}}" }, { "name": "creativeEase", "value": "={{$json.creativeEase || 85}}" }, { "name": "trendLongevity", "value": "={{$json.trendLongevity || 70}}" }, { "name": "competition", "value": "={{$json.competition || 30}}" }, { "name": "adSaturation", "value": "={{$json.adSaturation || 30}}" }, { "name": "riskPenalties", "value": "={{$json.riskPenalties || 0}}" }] },
+        "options": { "retry": { "maxTries": 3, "waitBetweenTries": 5000 } }
+      },
+      "id": "score",
+      "name": "Validate Score",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [260, 0]
+    }
+  ],
+  "connections": { "Generate Page Request": { "main": [[{ "node": "Validate Score", "type": "main", "index": 0 }]] } },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

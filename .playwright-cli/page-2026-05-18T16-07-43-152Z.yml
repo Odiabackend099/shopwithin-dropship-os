@@ -1,0 +1,609 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Shopify App Store logo" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]:
+          - img [ref=e7]
+        - generic [ref=e9]: Shopify App Store
+      - button "Search" [ref=e12] [cursor=pointer]:
+        - img [ref=e13]:
+          - img [ref=e14]
+      - button "Menu" [ref=e17] [cursor=pointer]:
+        - img [ref=e18]:
+          - img [ref=e19]
+  - main [ref=e21]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e29]:
+            - figure [ref=e30]:
+              - img "TikTok" [ref=e31]
+            - heading "TikTok" [level=1] [ref=e33]
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - term [ref=e36]: Pricing
+              - definition [ref=e37]:
+                - generic [ref=e38]: Free to install. Additional charges may apply.
+            - generic [ref=e39]:
+              - term [ref=e40]: Rating
+              - definition [ref=e41]:
+                - generic [ref=e42]: "4.8"
+                - img [ref=e44]
+                - link "13076 Reviews" [ref=e47] [cursor=pointer]:
+                  - /url: "#adp-reviews"
+                  - text: (13,076)
+            - generic [ref=e48]:
+              - term [ref=e49]: Developer
+              - definition [ref=e50]:
+                - link "TikTok Inc." [ref=e51] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/partners/tiktok-inc
+        - button "Install" [ref=e55] [cursor=pointer]
+      - generic [ref=e57]:
+        - list [ref=e61]:
+          - listitem [ref=e62] [cursor=pointer]:
+            - iframe [ref=e63]:
+              - generic [active] [ref=f2e1]:
+                - generic "YouTube Video Player" [ref=f2e3]
+                - generic [ref=f2e5]:
+                  - generic:
+                    - generic:
+                      - button "Play video" [ref=f2e10] [cursor=pointer]:
+                        - generic [ref=f2e13]:
+                          - img
+                      - button "Hide player controls" [ref=f2e14] [cursor=pointer]
+                      - generic [ref=f2e16]:
+                        - generic [ref=f2e21]:
+                          - generic [ref=f2e22]:
+                            - link "ShopifyXTikTok video" [ref=f2e23] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=LWkkX0cREGg
+                            - link "TikTok For Business" [ref=f2e24] [cursor=pointer]:
+                              - /url: /channel/UC1J0_Q_z3zgAJdIheyEbhcg
+                              - generic [ref=f2e25]: TikTok For Business
+                          - generic [ref=f2e26]:
+                            - button "thumbnail-image" [ref=f2e27] [cursor=pointer]:
+                              - img "thumbnail-image" [ref=f2e28]
+                            - generic [ref=f2e30]:
+                              - generic: TikTok For Business
+                              - generic: 32.9k subscribers
+                        - generic [ref=f2e31]:
+                          - button "Copy link" [ref=f2e34] [cursor=pointer]:
+                            - generic [ref=f2e38]:
+                              - img
+                          - link "Watch on YouTube" [ref=f2e45] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=LWkkX0cREGg
+                            - generic [ref=f2e48]:
+                              - text: Watch on
+                              - img [ref=f2e50]:
+                                - generic [ref=f2e52]:
+                                  - img
+          - listitem [ref=e64] [cursor=pointer]:
+            - img "Discover more reach on TikTok" [ref=e65]
+          - listitem [ref=e66] [cursor=pointer]:
+            - img "Find engagement that converts!" [ref=e67]
+          - listitem [ref=e68] [cursor=pointer]:
+            - img "Maximize sales. Maximize effort." [ref=e69]
+          - listitem [ref=e70] [cursor=pointer]:
+            - img "From scroll to sale in seconds" [ref=e71]
+        - generic [ref=e73]:
+          - heading "Reach more shoppers and grow your business with TikTok Ads and TikTok Shop" [level=2] [ref=e74]
+          - generic [ref=e75]: "Tap into TikTok’s hyper-engaged audience with trends like #TikTokMadeMeBuyIt that turn viewers into ... more"
+          - list [ref=e76]:
+            - listitem [ref=e77]: Create TikTok ads in minutes with your own images or videos
+            - listitem [ref=e78]: Optimize ad performance with easy, 1-click TikTok Pixel integration
+            - listitem [ref=e79]: Sync TikTok Shop to Shopify to showcase products via video, LIVE etc
+            - listitem [ref=e80]: Manage TikTok Shop orders and inventory within your Shopify admin
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - paragraph [ref=e83]: Languages
+            - paragraph [ref=e85]: English, Chinese (Simplified), French, German, Italian, Japanese, Korean, Portuguese (Brazil), Spanish, Turkish, Czech, Hindi, Indonesian, Malay, Polish, Russian, Swedish, Thai, and Vietnamese
+          - generic [ref=e86]:
+            - paragraph [ref=e87]: Works with
+            - list [ref=e88]:
+              - listitem [ref=e89]:
+                - link "Checkout" [ref=e90] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/extensions/checkout?search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                - text: ","
+              - listitem [ref=e91]: Shopify Admin
+        - generic [ref=e93]:
+          - paragraph [ref=e94]: Categories
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - generic [ref=e97]:
+                - link "Ads" [ref=e99] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads?search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                - button "Show features" [ref=e100] [cursor=pointer]
+              - generic:
+                - generic [ref=e101]:
+                  - paragraph [ref=e102]: Targeting
+                  - list [ref=e103]:
+                    - listitem [ref=e104]:
+                      - link "Demographic" [ref=e105] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.demographic&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e106]:
+                      - link "Event-based" [ref=e107] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.event_based&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e108]:
+                      - link "Platform" [ref=e109] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.platform&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e110]:
+                      - link "Product category" [ref=e111] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.product_category&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e112]:
+                      - link "AI targeting" [ref=e113] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.ai_targeting&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e114]:
+                      - link "Retargeting" [ref=e115] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.targeting.retargeting&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                - generic [ref=e116]:
+                  - paragraph [ref=e117]: Campaign management
+                  - list [ref=e118]:
+                    - listitem [ref=e119]:
+                      - link "AI optimization" [ref=e120] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.ai_optimization&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e121]:
+                      - link "Automated campaigns" [ref=e122] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.automated_campaigns&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e123]:
+                      - link "Bid optimization" [ref=e124] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.bid_optimization&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e125]:
+                      - link "AI copywriting" [ref=e126] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.ai_copywriting&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e127]:
+                      - link "AI images and video" [ref=e128] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.ai_images_and_video&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e129]:
+                      - link "Social media" [ref=e130] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.social_media&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e131]:
+                      - link "Website" [ref=e132] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.website&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e133]:
+                      - link "Shoppable videos" [ref=e134] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.shoppable_videos&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e135]:
+                      - link "Video ads" [ref=e136] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.video_ads&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e137]:
+                      - link "Influencers and affiliates" [ref=e138] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.influencers_and_affiliates&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e139]:
+                      - link "Pixel management" [ref=e140] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.campaign_management.pixel_management&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                - generic [ref=e141]:
+                  - paragraph [ref=e142]: Performance analytics
+                  - list [ref=e143]:
+                    - listitem [ref=e144]:
+                      - link "A/B testing" [ref=e145] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.a_b_testing&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e146]:
+                      - link "Performance tracking" [ref=e147] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.performance_tracking&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e148]:
+                      - link "Ad spend" [ref=e149] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.ad_spend&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e150]:
+                      - link "Engagement metrics" [ref=e151] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.engagement_metrics&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e152]:
+                      - link "ROI analysis" [ref=e153] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.roi_analysis&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e154]:
+                      - link "Click-through rates" [ref=e155] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.click_through_rates&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e156]:
+                      - link "Conversion tracking" [ref=e157] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.conversion_tracking&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e158]:
+                      - link "Cost per acquisition" [ref=e159] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.cost_per_acquisition&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e160]:
+                      - link "Dashboards" [ref=e161] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.dashboards&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e162]:
+                      - link "Impression counts" [ref=e163] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/marketing-and-conversion-advertising-ads/all?feature_handles%5B%5D=cf.ads.performance_analytics.impression_counts&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+            - generic [ref=e164]:
+              - generic [ref=e165]:
+                - link "Marketplaces" [ref=e167] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces?search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                - button "Show features" [ref=e168] [cursor=pointer]
+              - generic:
+                - generic [ref=e169]:
+                  - paragraph [ref=e170]: Listing management
+                  - list [ref=e171]:
+                    - listitem [ref=e172]:
+                      - link "Feed automation" [ref=e173] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.listing_management.feed_automation&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e174]:
+                      - link "Product feed" [ref=e175] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.listing_management.product_feed&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e176]:
+                      - link "Product sync" [ref=e177] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.listing_management.product_sync&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e178]:
+                      - link "Product selection" [ref=e179] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.listing_management.product_selection&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                - generic [ref=e180]:
+                  - paragraph [ref=e181]: Order management
+                  - list [ref=e182]:
+                    - listitem [ref=e183]:
+                      - link "Order sync" [ref=e184] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.order_management.order_sync&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+                      - text: ","
+                    - listitem [ref=e185]:
+                      - link "Inventory sync" [ref=e186] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces/all?feature_handles%5B%5D=cf.marketplaces.order_management.inventory_sync&locale=en&search_id=9db33ee8-2465-41d1-b299-343bdaf4082e&surface_detail=tiktok&surface_type=app_details
+    - generic [ref=e187]:
+      - generic [ref=e189]:
+        - generic [ref=e191]:
+          - heading "Pricing" [level=2] [ref=e194]
+          - generic [ref=e199]:
+            - paragraph [ref=e200]: Free
+            - heading "Free to install" [level=3] [ref=e202]:
+              - generic [ref=e203]: Free to install
+            - paragraph [ref=e204]: When you run a campaign, you set the budget and the ad spend is billed directly to your TikTok ad account
+        - paragraph [ref=e206]: All charges are billed in USD.
+      - generic [ref=e210]:
+        - generic [ref=e211]:
+          - heading "Reviews (13,076)" [level=2] [ref=e212]
+          - generic [ref=e213]:
+            - generic [ref=e214]: Overall rating
+            - generic [ref=e215]:
+              - generic "4.8 out of 5 stars" [ref=e216]: "4.8"
+              - img [ref=e218]:
+                - img [ref=e219]
+                - img [ref=e221]
+                - img [ref=e223]
+                - img [ref=e225]
+                - img [ref=e227]
+            - list [ref=e230]:
+              - listitem [ref=e231]:
+                - generic [ref=e232]:
+                  - generic [ref=e233]: "5"
+                  - img [ref=e235]
+                - img [ref=e238]
+                - img [ref=e241]
+                - link "11387 total reviews" [ref=e244] [cursor=pointer]:
+                  - /url: /tiktok/reviews?ratings%5B%5D=5
+                  - text: 11K
+              - listitem [ref=e245]:
+                - generic [ref=e246]:
+                  - generic [ref=e247]: "4"
+                  - img [ref=e249]
+                - img [ref=e252]
+                - img [ref=e255]
+                - link "1130 total reviews" [ref=e258] [cursor=pointer]:
+                  - /url: /tiktok/reviews?ratings%5B%5D=4
+                  - text: 1.1K
+              - listitem [ref=e259]:
+                - generic [ref=e260]:
+                  - generic [ref=e261]: "3"
+                  - img [ref=e263]
+                - img [ref=e266]
+                - img [ref=e269]
+                - link "230 total reviews" [ref=e272] [cursor=pointer]:
+                  - /url: /tiktok/reviews?ratings%5B%5D=3
+                  - text: "230"
+              - listitem [ref=e273]:
+                - generic [ref=e274]:
+                  - generic [ref=e275]: "2"
+                  - img [ref=e277]
+                - img [ref=e280]
+                - img [ref=e282]
+                - link "54 total reviews" [ref=e285] [cursor=pointer]:
+                  - /url: /tiktok/reviews?ratings%5B%5D=2
+                  - text: "54"
+              - listitem [ref=e286]:
+                - generic [ref=e287]:
+                  - generic [ref=e288]: "1"
+                  - img [ref=e290]
+                - img [ref=e293]
+                - img [ref=e296]
+                - link "275 total reviews" [ref=e299] [cursor=pointer]:
+                  - /url: /tiktok/reviews?ratings%5B%5D=1
+                  - text: "275"
+          - generic [ref=e300]:
+            - button "Write a review" [ref=e301] [cursor=pointer]
+            - link "All reviews" [ref=e304] [cursor=pointer]:
+              - /url: /tiktok/reviews?search_id=9db33ee8-2465-41d1-b299-343bdaf4082e
+        - generic [ref=e305]:
+          - generic [ref=e307]:
+            - generic [ref=e308]:
+              - heading "What merchants think" [level=5] [ref=e309]:
+                - text: What merchants think
+                - button [ref=e311] [cursor=pointer]:
+                  - img [ref=e312]:
+                    - img [ref=e313]
+              - button "Feedback" [ref=e319] [cursor=pointer]:
+                - img [ref=e320]:
+                  - img [ref=e321]
+            - paragraph [ref=e324]: Merchants praise the app for its easy setup and user-friendly interface, ideal for beginners and tech-savvy users. Seamless Shopify integration aids product sync and order flow, boosting sales and customer reach. The dashboard offers real-time campaign monitoring, while creative tools enhance video editing and audience targeting. Efficient ad management features and quick verification streamline setup. AI tools and guides simplify management, positively impacting business growth and engagement.
+          - generic [ref=e325]:
+            - generic [ref=e327]:
+              - generic [ref=e328]:
+                - generic [ref=e329]:
+                  - img "2 out of 5 stars" [ref=e330]:
+                    - img [ref=e331]
+                    - img [ref=e333]
+                    - img [ref=e335]
+                    - img [ref=e337]
+                    - img [ref=e339]
+                  - generic [ref=e341]: April 21, 2026
+                - paragraph [ref=e344]: The app wont verify me, it just goes round in circles and it has been doing this for months, I was told i can't link because I am in a probation period as a new seller however I want to be able to bulk upload my items so I can sell them to be able to achieve all the targets to get our of probation.
+              - generic [ref=e345]:
+                - generic [ref=e346]:
+                  - generic "Bark & Beyond" [ref=e347]
+                  - button "Copy link to review" [ref=e348] [cursor=pointer]:
+                    - img [ref=e349]:
+                      - img [ref=e350]
+                - generic [ref=e352]: United States
+                - generic [ref=e353]: Over 4 years using the app
+            - generic [ref=e355]:
+              - generic [ref=e356]:
+                - generic [ref=e357]:
+                  - img "1 out of 5 stars" [ref=e358]:
+                    - img [ref=e359]
+                    - img [ref=e361]
+                    - img [ref=e363]
+                    - img [ref=e365]
+                    - img [ref=e367]
+                  - generic [ref=e369]: April 7, 2026
+                - generic [ref=e370]:
+                  - generic [ref=e371]:
+                    - paragraph [ref=e372]: I decided to remove all of my products from TikTok Shop through my Shopify admin due to the extremely poor support experience.
+                    - paragraph [ref=e373]: It is nearly impossible to get help when issues arise. There is no phone support, the chat support does not work properly, and emails go unanswered. For a platform handling real businesses and real revenue, this level of support is unacceptable.
+                    - paragraph [ref=e374]: As a business owner, I ...
+                  - button "Show more" [ref=e375] [cursor=pointer]
+              - generic [ref=e376]:
+                - generic [ref=e377]:
+                  - generic "Chacho's Kids" [ref=e378]
+                  - button "Copy link to review" [ref=e379] [cursor=pointer]:
+                    - img [ref=e380]:
+                      - img [ref=e381]
+                - generic [ref=e383]: United States
+                - generic [ref=e384]: Over 1 year using the app
+            - generic [ref=e386]:
+              - generic [ref=e387]:
+                - generic [ref=e388]:
+                  - img "1 out of 5 stars" [ref=e389]:
+                    - img [ref=e390]
+                    - img [ref=e392]
+                    - img [ref=e394]
+                    - img [ref=e396]
+                    - img [ref=e398]
+                  - generic [ref=e400]: April 7, 2026
+                - paragraph [ref=e403]:
+                  - text: The app wont verify me, it just goes round in circles and it has been doing this for 18 months, you would think that they would have done an update to correct it by now.
+                  - text: I reached out for help using support to sort it and after 5 days still no reply!
+                  - text: The app doesn’t work and the support aren’t bothered!
+              - generic [ref=e404]:
+                - generic [ref=e405]:
+                  - generic "Just For You Boutique®" [ref=e406]
+                  - button "Copy link to review" [ref=e407] [cursor=pointer]:
+                    - img [ref=e408]:
+                      - img [ref=e409]
+                - generic [ref=e411]: United Kingdom
+                - generic [ref=e412]: Over 1 year using the app
+      - generic [ref=e413]:
+        - generic [ref=e414]:
+          - heading "Support" [level=2] [ref=e415]
+          - paragraph [ref=e417]: App support provided by TikTok Inc..
+        - generic [ref=e420]:
+          - generic [ref=e421]:
+            - heading "Resources" [level=3] [ref=e422]
+            - generic [ref=e423]:
+              - link "Privacy policy" [ref=e425] [cursor=pointer]:
+                - /url: https://www.tiktok.com/legal/page/global/partner-privacy-policy/en
+              - link "FAQ" [ref=e427] [cursor=pointer]:
+                - /url: https://ads.tiktok.com/help/article?aid=961805709915262075
+          - generic [ref=e428]:
+            - heading "Developer" [level=3] [ref=e429]
+            - generic [ref=e430]:
+              - link "TikTok Inc." [ref=e431] [cursor=pointer]:
+                - /url: https://apps.shopify.com/partners/tiktok-inc
+              - link "Website" [ref=e433] [cursor=pointer]:
+                - /url: https://tiktok.com/business
+              - paragraph [ref=e434]: 5800 Bristol Pkwy, Suite 100, Culver City, CA, 90230, US
+          - generic [ref=e435]:
+            - paragraph [ref=e436]: Launched
+            - paragraph [ref=e437]: October 14, 2020
+      - generic [ref=e439]:
+        - heading "Featured in" [level=2] [ref=e440]
+        - generic [ref=e441]:
+          - link "Replatforming Get the apps you need to make the migration process a smooth one." [ref=e443] [cursor=pointer]:
+            - /url: https://apps.shopify.com/stories/guide-replatforming?surface_detail=story_card&surface_type=app_details_page
+            - generic [ref=e445]:
+              - heading "Replatforming" [level=5] [ref=e446]
+              - heading "Get the apps you need to make the migration process a smooth one." [level=3] [ref=e447]
+          - link "Customer acquisition Apps to help you find more customers." [ref=e449] [cursor=pointer]:
+            - /url: https://apps.shopify.com/stories/guide-customer-acquisition?surface_detail=story_card&surface_type=app_details_page
+            - generic [ref=e451]:
+              - heading "Customer acquisition" [level=5] [ref=e452]
+              - heading "Apps to help you find more customers." [level=3] [ref=e453]
+          - link "Print-on-demand Sell custom products with apps that help you stand out." [ref=e455] [cursor=pointer]:
+            - /url: https://apps.shopify.com/stories/guide-print-on-demand?surface_detail=story_card&surface_type=app_details_page
+            - generic [ref=e457]:
+              - heading "Print-on-demand" [level=5] [ref=e458]
+              - heading "Sell custom products with apps that help you stand out." [level=3] [ref=e459]
+      - generic [ref=e462]:
+        - heading "More apps like this" [level=2] [ref=e465]
+        - generic [ref=e467]:
+          - button "Facebook & Instagram 3.4 out of 5 stars 3841 total reviews • Free to install Seamlessly manage your Facebook and Instagram presence" [ref=e469] [cursor=pointer]:
+            - figure [ref=e470]
+            - generic [ref=e472]:
+              - link "Facebook & Instagram" [ref=e474]:
+                - /url: https://apps.shopify.com/facebook?surface_detail=tiktok&surface_inter_position=1&surface_intra_position=1&surface_type=app_details
+              - generic [ref=e475]:
+                - generic [ref=e476]:
+                  - text: "3.4"
+                  - generic [ref=e477]: out of 5 stars
+                - img [ref=e479]
+                - generic [ref=e480]: (3,841)
+                - generic [ref=e481]: 3841 total reviews
+                - generic [ref=e482]: •
+                - generic [ref=e483]: Free to install
+              - generic [ref=e484]: Seamlessly manage your Facebook and Instagram presence
+          - button "Google & YouTube 4.5 out of 5 stars 4750 total reviews • Free to install Drive sales by showcasing your products on Google and YouTube" [ref=e486] [cursor=pointer]:
+            - figure [ref=e487]
+            - generic [ref=e489]:
+              - link "Google & YouTube" [ref=e491]:
+                - /url: https://apps.shopify.com/google?surface_detail=tiktok&surface_inter_position=1&surface_intra_position=2&surface_type=app_details
+              - generic [ref=e492]:
+                - generic [ref=e493]:
+                  - text: "4.5"
+                  - generic [ref=e494]: out of 5 stars
+                - img [ref=e496]
+                - generic [ref=e497]: (4,750)
+                - generic [ref=e498]: 4750 total reviews
+                - generic [ref=e499]: •
+                - generic [ref=e500]: Free to install
+              - generic [ref=e501]: Drive sales by showcasing your products on Google and YouTube
+          - button "Pinterest 4.2 out of 5 stars 1544 total reviews • Free to install Put your products where people go to find ideas to try and buy" [ref=e503] [cursor=pointer]:
+            - figure [ref=e504]
+            - generic [ref=e506]:
+              - link "Pinterest" [ref=e508]:
+                - /url: https://apps.shopify.com/pinterest?surface_detail=tiktok&surface_inter_position=1&surface_intra_position=3&surface_type=app_details
+              - generic [ref=e509]:
+                - generic [ref=e510]:
+                  - text: "4.2"
+                  - generic [ref=e511]: out of 5 stars
+                - img [ref=e513]
+                - generic [ref=e514]: (1,544)
+                - generic [ref=e515]: 1544 total reviews
+                - generic [ref=e516]: •
+                - generic [ref=e517]: Free to install
+              - generic [ref=e518]: Put your products where people go to find ideas to try and buy
+  - contentinfo [ref=e519]:
+    - generic [ref=e520]:
+      - generic [ref=e521]:
+        - generic [ref=e524]:
+          - heading "App categories" [level=6] [ref=e525]
+          - link "Sales channels" [ref=e526] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels
+          - link "Finding products" [ref=e527] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products
+          - link "Selling products" [ref=e528] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/selling-products
+          - link "Orders and shipping" [ref=e529] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping
+          - link "Store design" [ref=e530] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design
+          - link "Marketing and conversion" [ref=e531] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion
+          - link "Store management" [ref=e532] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-management
+        - generic [ref=e533]:
+          - heading "Top categories" [level=6] [ref=e534]
+          - link "Dropshipping" [ref=e535] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping
+          - link "Marketplaces" [ref=e536] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces
+          - link "Product reviews" [ref=e537] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-social-trust-product-reviews
+          - link "Upsell and bundles" [ref=e538] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-upsell-and-bundles
+          - link "Email marketing" [ref=e539] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-marketing-email-marketing
+          - link "SEO" [ref=e540] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-site-optimization-seo
+          - link "Shipping" [ref=e541] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping-shipping-solutions-shipping
+          - link "Currency and translation" [ref=e542] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-internationalization-currency-and-translation
+        - generic [ref=e543]:
+          - heading "Resources" [level=6] [ref=e544]
+          - link "Shopify Help Center" [ref=e545] [cursor=pointer]:
+            - /url: https://help.shopify.com/en/
+          - link "API documentation" [ref=e546] [cursor=pointer]:
+            - /url: https://shopify.dev/api
+          - link "Shopify Community" [ref=e547] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/shopify-community-en/ct-p/en
+          - link "Community Events" [ref=e548] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/events/eb-p/events_en
+          - link "Shopify Blog" [ref=e549] [cursor=pointer]:
+            - /url: https://www.shopify.com/blog
+          - link "Research" [ref=e550] [cursor=pointer]:
+            - /url: https://www.shopify.com/research/future-of-commerce
+        - generic [ref=e551]:
+          - heading "Shopify" [level=6] [ref=e552]
+          - link "About" [ref=e553] [cursor=pointer]:
+            - /url: https://www.shopify.com/about
+          - link "Careers" [ref=e554] [cursor=pointer]:
+            - /url: https://www.shopify.com/careers
+          - link "Investors" [ref=e555] [cursor=pointer]:
+            - /url: https://investors.shopify.com/home/default.aspx
+          - link "Press and media" [ref=e556] [cursor=pointer]:
+            - /url: https://news.shopify.com/
+          - link "Partners" [ref=e557] [cursor=pointer]:
+            - /url: https://www.shopify.com/partners
+          - link "Affiliates" [ref=e558] [cursor=pointer]:
+            - /url: https://www.shopify.com/affiliates
+          - link "Legal" [ref=e559] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal
+          - link "Service status" [ref=e560] [cursor=pointer]:
+            - /url: https://shopifystatus.com
+      - separator [ref=e561]
+      - generic [ref=e562]:
+        - generic [ref=e563]:
+          - link "Developer login" [ref=e565] [cursor=pointer]:
+            - /url: https://apps.shopify.com/?auth=1
+          - link "Terms of service" [ref=e567] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/terms
+          - link "Privacy policy" [ref=e569] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/privacy
+          - link "Sitemap" [ref=e571] [cursor=pointer]:
+            - /url: https://apps.shopify.com/sitemap
+          - generic [ref=e573]:
+            - link "Your privacy choices" [ref=e574] [cursor=pointer]:
+              - /url: https://privacy.shopify.com/en/
+            - img "California Consumer Privacy Act (CCPA) Opt-Out Icon" [ref=e575]
+        - combobox "Change your language" [ref=e580]:
+          - option "Čeština"
+          - option "Dansk"
+          - option "Deutsch"
+          - option "English" [selected]
+          - option "Español"
+          - option "Français"
+          - option "Italiano"
+          - option "Nederlands"
+          - option "Norsk (bokmål)"
+          - option "Polski"
+          - option "Português (Brasil)"
+          - option "Português (Portugal)"
+          - option "Suomi"
+          - option "Svenska"
+          - option "Türkçe"
+          - option "ภาษาไทย"
+          - option "日本語"
+          - option "简体中文"
+          - option "繁體中文"
+          - option "한국어"

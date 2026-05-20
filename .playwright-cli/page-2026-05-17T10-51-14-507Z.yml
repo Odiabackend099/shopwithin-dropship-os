@@ -1,0 +1,470 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e963] [cursor=pointer]:
+        - generic [ref=e964]:
+          - generic [ref=e965]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e966]
+          - generic [ref=e967]:
+            - generic [ref=e968]: ⌘
+            - generic [ref=e969]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e40] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e54] [cursor=pointer]:
+            - img [ref=e58]
+        - button "Austyn Eguale" [ref=e69] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img "FurLift Staging" [ref=e76]:
+              - generic [ref=e77]: FS
+            - paragraph [ref=e79]: FurLift Staging
+            - generic [ref=e81]: dev
+    - generic [ref=e83]:
+      - generic "Navigation" [ref=e84]:
+        - navigation [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - list [ref=e90]:
+                - listitem [ref=e91]:
+                  - link "Home" [ref=e94] [cursor=pointer]:
+                    - /url: /store/furlift-staging
+                    - generic [ref=e95]:
+                      - img [ref=e98]
+                      - img [ref=e102]
+                    - generic [ref=e104]: Home
+                - listitem [ref=e105]:
+                  - link "Orders" [ref=e108] [cursor=pointer]:
+                    - /url: /store/furlift-staging/orders
+                    - generic [ref=e109]:
+                      - img [ref=e112]
+                      - img [ref=e116]
+                    - generic [ref=e118]: Orders
+                - listitem [ref=e119]:
+                  - link "Products" [ref=e122] [cursor=pointer]:
+                    - /url: /store/furlift-staging/products
+                    - generic [ref=e123]:
+                      - img [ref=e126]
+                      - img [ref=e130]
+                    - generic [ref=e133]: Products
+                - listitem [ref=e134]:
+                  - link "Customers" [ref=e137] [cursor=pointer]:
+                    - /url: /store/furlift-staging/customers
+                    - generic [ref=e138]:
+                      - img [ref=e141]
+                      - img [ref=e146]
+                    - generic [ref=e149]: Customers
+                - listitem [ref=e150]:
+                  - link "Marketing" [ref=e153] [cursor=pointer]:
+                    - /url: /store/furlift-staging/marketing
+                    - generic [ref=e154]:
+                      - img [ref=e157]
+                      - img [ref=e163]
+                    - generic [ref=e167]: Marketing
+                - listitem [ref=e168]:
+                  - link "Discounts" [ref=e171] [cursor=pointer]:
+                    - /url: /store/furlift-staging/discounts
+                    - generic [ref=e172]:
+                      - img [ref=e175]
+                      - img [ref=e179]
+                    - generic [ref=e184]: Discounts
+                - listitem [ref=e185]:
+                  - link "Content" [ref=e188] [cursor=pointer]:
+                    - /url: /store/furlift-staging/content/metaobjects
+                    - generic [ref=e189]:
+                      - img [ref=e192]
+                      - img [ref=e199]
+                    - generic [ref=e204]: Content
+                - listitem [ref=e205]:
+                  - link "Markets" [ref=e208] [cursor=pointer]:
+                    - /url: /store/furlift-staging/markets
+                    - generic [ref=e209]:
+                      - img [ref=e212]
+                      - img [ref=e217]
+                    - generic [ref=e220]: Markets
+                - listitem [ref=e221]:
+                  - link "Finance" [ref=e224] [cursor=pointer]:
+                    - /url: /store/furlift-staging/finance
+                    - generic [ref=e225]:
+                      - img [ref=e228]
+                      - img [ref=e232]
+                    - generic [ref=e234]: Finance
+                - listitem [ref=e235]:
+                  - link "Analytics" [ref=e238] [cursor=pointer]:
+                    - /url: /store/furlift-staging/analytics
+                    - generic [ref=e239]:
+                      - img [ref=e242]
+                      - img [ref=e248]
+                    - generic [ref=e252]: Analytics
+              - list [ref=e253]:
+                - listitem [ref=e254]:
+                  - button "Sales channels" [ref=e256] [cursor=pointer]:
+                    - strong [ref=e258]:
+                      - generic: Sales channels
+                  - list [ref=e260]:
+                    - button "Online Store" [ref=e261]:
+                      - list [ref=e262]:
+                        - listitem [ref=e263]:
+                          - link "Online Store" [ref=e266] [cursor=pointer]:
+                            - /url: /store/furlift-staging/themes?appLoadId=96750565-04f5-4190-989c-608c745673c4
+                            - img [ref=e268]
+                            - generic [ref=e269]: Online Store
+                    - button "Agentic" [ref=e270]:
+                      - list [ref=e271]:
+                        - listitem [ref=e272]:
+                          - link "Agentic" [ref=e275] [cursor=pointer]:
+                            - /url: /store/furlift-staging/apps/agentic?appLoadId=80293bb7-7ec7-4f9b-ae38-937d9df46dd9
+                            - img [ref=e277]
+                            - generic [ref=e278]: Agentic
+                  - status [ref=e279]
+                - listitem [ref=e280]:
+                  - button "Apps" [ref=e282] [cursor=pointer]:
+                    - strong [ref=e284]:
+                      - generic: Apps
+                  - button "Add" [ref=e287] [cursor=pointer]:
+                    - img [ref=e291]
+                    - text: Add
+                - listitem [ref=e294]:
+                  - button "Sidekick conversations" [ref=e296] [cursor=pointer]:
+                    - strong [ref=e298]:
+                      - generic: Sidekick conversations
+                  - list [ref=e301]:
+                    - listitem [ref=e302]:
+                      - button "Designing your Shopify store for launch" [ref=e305] [cursor=pointer]:
+                        - generic [ref=e306]: Designing your Shopify store for launch
+            - list [ref=e308]:
+              - listitem [ref=e309]:
+                - link "Settings" [ref=e312] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings
+                  - img [ref=e316]
+                  - generic [ref=e318]: Settings
+      - main [ref=e319]
+  - generic:
+    - dialog "Settings" [ref=e325]:
+      - button "Close" [ref=e326] [cursor=pointer]:
+        - img [ref=e329]
+      - generic [ref=e334]:
+        - generic [ref=e338]:
+          - generic [ref=e341]:
+            - heading "Barpel AI" [level=3] [ref=e342]:
+              - generic [ref=e343]: Barpel AI
+            - generic [ref=e344]: Organization
+          - generic [ref=e348]:
+            - img [ref=e352]
+            - combobox "Search" [ref=e355]
+          - navigation "Organization settings menu" [ref=e357]:
+            - list [ref=e358]:
+              - listitem [ref=e359]:
+                - link "Organization" [ref=e361] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/organization-details
+                  - generic [ref=e362]:
+                    - img [ref=e366]
+                    - generic [ref=e368]: Organization
+              - listitem [ref=e369]:
+                - link "Users" [ref=e371] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/organization-account
+                  - generic [ref=e372]:
+                    - img [ref=e376]
+                    - generic [ref=e378]: Users
+          - navigation "Shop settings menu" [ref=e379]:
+            - generic [ref=e381]:
+              - button "Update internal icon" [ref=e383] [cursor=pointer]:
+                - generic [ref=e384]:
+                  - img "FurLift Staging" [ref=e387]:
+                    - generic [ref=e388]: FS
+                  - img [ref=e392]
+              - generic [ref=e395]:
+                - heading "FurLift Staging" [level=3] [ref=e396]:
+                  - generic [ref=e397]: FurLift Staging
+                - link "furlift-staging.myshopify.com" [ref=e400] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/domains
+                  - generic [ref=e403]: furlift-staging.myshopify.com
+            - list [ref=e404]:
+              - listitem [ref=e405]:
+                - link "General" [ref=e407] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/general
+                  - generic [ref=e408]:
+                    - img [ref=e412]
+                    - generic [ref=e415]: General
+              - listitem [ref=e416]:
+                - link "Plan" [ref=e418] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/plan
+                  - generic [ref=e419]:
+                    - img [ref=e423]
+                    - generic [ref=e426]: Plan
+              - listitem [ref=e427]:
+                - link "Billing" [ref=e429] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/billing
+                  - generic [ref=e430]:
+                    - img [ref=e434]
+                    - generic [ref=e436]: Billing
+              - listitem [ref=e437]:
+                - link "Payments" [ref=e439] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/payments
+                  - generic [ref=e440]:
+                    - img [ref=e1054]
+                    - generic [ref=e446]: Payments
+              - listitem [ref=e447]:
+                - link "Checkout" [ref=e449] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/checkout
+                  - generic [ref=e450]:
+                    - img [ref=e454]
+                    - generic [ref=e458]: Checkout
+              - listitem [ref=e459]:
+                - link "Customer accounts" [ref=e461] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/customer_accounts
+                  - generic [ref=e462]:
+                    - img [ref=e466]
+                    - generic [ref=e469]: Customer accounts
+              - listitem [ref=e470]:
+                - link "Shipping and delivery" [ref=e472] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/shipping
+                  - generic [ref=e473]:
+                    - img [ref=e477]
+                    - generic [ref=e479]: Shipping and delivery
+              - listitem [ref=e480]:
+                - link "Taxes and duties" [ref=e482] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/taxes
+                  - generic [ref=e483]:
+                    - img [ref=e487]
+                    - generic [ref=e489]: Taxes and duties
+              - listitem [ref=e490]:
+                - link "Locations" [ref=e492] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/locations
+                  - generic [ref=e493]:
+                    - img [ref=e497]
+                    - generic [ref=e499]: Locations
+              - listitem [ref=e500]:
+                - link "Markets" [ref=e502] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/markets
+                  - generic [ref=e503]:
+                    - img [ref=e507]
+                    - generic [ref=e510]: Markets
+              - listitem [ref=e511]:
+                - link "Apps" [ref=e513] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/apps
+                  - generic [ref=e514]:
+                    - img [ref=e518]
+                    - generic [ref=e523]: Apps
+              - listitem [ref=e524]:
+                - link "Sales channels" [ref=e526] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/sales_channels
+                  - generic [ref=e527]:
+                    - img [ref=e531]
+                    - generic [ref=e533]: Sales channels
+              - listitem [ref=e534]:
+                - link "Domains" [ref=e536] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/domains
+                  - generic [ref=e537]:
+                    - img [ref=e541]
+                    - generic [ref=e545]: Domains
+              - listitem [ref=e546]:
+                - link "Customer events" [ref=e548] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/customer_events
+                  - generic [ref=e549]:
+                    - img [ref=e553]
+                    - generic [ref=e560]: Customer events
+              - listitem [ref=e561]:
+                - link "Notifications" [ref=e563] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/notifications
+                  - generic [ref=e564]:
+                    - img [ref=e1057]
+                    - generic [ref=e570]: Notifications
+              - listitem [ref=e571]:
+                - link "Metafields and metaobjects" [ref=e573] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/custom_data
+                  - generic [ref=e574]:
+                    - img [ref=e578]
+                    - generic [ref=e580]: Metafields and metaobjects
+              - listitem [ref=e581]:
+                - link "Languages" [ref=e583] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/languages
+                  - generic [ref=e584]:
+                    - img [ref=e588]
+                    - generic [ref=e592]: Languages
+              - listitem [ref=e593]:
+                - link "Customer privacy" [ref=e595] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/privacy
+                  - generic [ref=e596]:
+                    - img [ref=e600]
+                    - generic [ref=e602]: Customer privacy
+              - listitem [ref=e603]:
+                - link "Policies" [ref=e605] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/legal
+                  - generic [ref=e606]:
+                    - img [ref=e610]
+                    - generic [ref=e612]: Policies
+          - link "Austyn Eguale austyneguale@gmail.com" [ref=e614] [cursor=pointer]:
+            - /url: https://accounts.shopify.com/accounts/73d9c79f-52db-460a-be70-6b76608743d1/redirect
+            - generic [ref=e615]:
+              - img "AE" [ref=e618]:
+                - generic [ref=e619]: AE
+              - generic [ref=e620]:
+                - heading "Austyn Eguale" [level=6] [ref=e622]:
+                  - generic [ref=e623]: Austyn Eguale
+                - heading "austyneguale@gmail.com" [level=6] [ref=e624]:
+                  - generic [ref=e625]: austyneguale@gmail.com
+        - main [ref=e1195]:
+          - generic [ref=e1203]:
+            - generic:
+              - navigation [ref=e1206]:
+                - generic [ref=e1208]:
+                  - generic:
+                    - link "Notifications" [ref=e1211] [cursor=pointer]:
+                      - /url: /store/furlift-staging/settings/notifications
+                      - img [ref=e1215]
+                    - img [ref=e1220]
+              - heading "Webhooks" [level=1] [ref=e1225]
+          - generic [ref=e1235]:
+            - generic [ref=e1237]:
+              - paragraph [ref=e1238]:
+                - generic: Send XML or JSON notifications about store events to a URL
+              - generic [ref=e1240]:
+                - generic:
+                  - list
+                - button "Create webhook" [ref=e1242] [cursor=pointer]:
+                  - generic [ref=e1246]:
+                    - img [ref=e1249]
+                    - paragraph [ref=e1253]: Create webhook
+            - paragraph [ref=e1256]:
+              - generic:
+                - text: Your webhooks will be signed with
+                - generic [ref=e1257]:
+                  - generic: e92290dffd8bbf803737b0d80fd17aabf179de83f09c5d826d1a0b115be69956
+      - generic:
+        - generic:
+          - button "Close":
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic: Close
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e957]
+    - generic:
+      - generic:
+        - generic:
+          - option "Cart creation" [selected]
+          - option "Cart update"
+          - option "Checkout creation"
+          - option "Checkout deletion"
+          - option "Checkout update"
+          - option "Collection creation"
+          - option "Collection deletion"
+          - option "Collection update"
+          - option "Customer SMS marketing consent update"
+          - option "Customer account settings update"
+          - option "Customer creation"
+          - option "Customer deletion"
+          - option "Customer disable"
+          - option "Customer email marketing consent update"
+          - option "Customer enable"
+          - option "Customer group creation"
+          - option "Customer group deletion"
+          - option "Customer group update"
+          - option "Customer purchasing summary"
+          - option "Customer tags added"
+          - option "Customer tags removed"
+          - option "Customer update"
+          - option "Discount creation"
+          - option "Discount deletion"
+          - option "Discount update"
+          - option "Draft order creation"
+          - option "Draft order deletion"
+          - option "Draft order update"
+          - option "Fulfillment creation"
+          - option "Fulfillment hold added to a fulfillment order"
+          - option "Fulfillment hold released from a fulfillment order"
+          - option "Fulfillment order cannot be completed by fulfillment service"
+          - option "Fulfillment order line items are prepared for pickup"
+          - option "Fulfillment order moved"
+          - option "Fulfillment order rescheduled"
+          - option "Fulfillment order that was scheduled becomes due"
+          - option "Fulfillment order transitioned to the \"On hold\" status"
+          - option "Fulfillment order was released and is no longer on hold"
+          - option "Fulfillment order's order routing complete"
+          - option "Fulfillment orders canceled"
+          - option "Fulfillment orders cancellation request accepted"
+          - option "Fulfillment orders cancellation request rejected"
+          - option "Fulfillment orders cancellation request submitted"
+          - option "Fulfillment orders fulfillment request accepted"
+          - option "Fulfillment orders fulfillment request rejected"
+          - option "Fulfillment orders fulfillment request submitted"
+          - option "Fulfillment orders line items prepared for local delivery"
+          - option "Fulfillment orders merged"
+          - option "Fulfillment orders split"
+          - option "Fulfillment update"
+          - option "Inventory item creation"
+          - option "Inventory item deletion"
+          - option "Inventory item update"
+          - option "Inventory level connect"
+          - option "Inventory level disconnect"
+          - option "Inventory level update"
+          - option "Inventory shipment creation"
+          - option "Inventory shipment deletion"
+          - option "Inventory shipment item addition"
+          - option "Inventory shipment item quantity update"
+          - option "Inventory shipment item receipt"
+          - option "Inventory shipment item removal"
+          - option "Inventory shipment marked as in transit"
+          - option "Inventory shipment tracking update"
+          - option "Inventory transfer cancellation"
+          - option "Inventory transfer completion"
+          - option "Inventory transfer item addition"
+          - option "Inventory transfer item quantity update"
+          - option "Inventory transfer item removal"
+          - option "Inventory transfer marked as ready to ship"
+          - option "Location activation"
+          - option "Location creation"
+          - option "Location deactivation"
+          - option "Location deletion"
+          - option "Location update"
+          - option "Market creation"
+          - option "Market deletion"
+          - option "Market update"
+          - option "Order cancellation"
+          - option "Order creation"
+          - option "Order deletion"
+          - option "Order edit"
+          - option "Order fulfillment"
+          - option "Order payment"
+          - option "Order risk assessment changed"
+          - option "Order update"
+          - option "Product creation"
+          - option "Product deletion"
+          - option "Product update"
+          - option "Refund create"
+          - option "Shop update"
+          - option "Tender transaction creation"
+          - option "Theme creation"
+          - option "Theme deletion"
+          - option "Theme publish"
+          - option "Theme update"
+          - option "Transaction creation"
+        - generic:
+          - option "JSON" [selected]
+          - option "XML"
+        - generic:
+          - option "unstable" [selected]
+          - option "2026-07 (Release candidate)"
+          - option "2026-04 (Latest)"
+          - option "2026-01"
+          - option "2025-10"
+          - option "2025-07"
+        - generic: Cancel
+        - generic: Save

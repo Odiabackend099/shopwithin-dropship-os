@@ -1,0 +1,473 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e30]
+          - generic [ref=e31]:
+            - generic [ref=e32]: ⌘
+            - generic [ref=e33]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e40] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e54] [cursor=pointer]:
+            - img [ref=e58]
+        - button "Austyn Eguale" [ref=e69] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img "FurLift Staging" [ref=e76]:
+              - generic [ref=e77]: FS
+            - paragraph [ref=e79]: FurLift Staging
+            - generic [ref=e81]: dev
+    - generic [ref=e83]:
+      - generic "Navigation" [ref=e84]:
+        - navigation [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - list [ref=e90]:
+                - listitem [ref=e91]:
+                  - link "Home" [ref=e94] [cursor=pointer]:
+                    - /url: /store/furlift-staging
+                    - generic [ref=e95]:
+                      - img [ref=e98]
+                      - img [ref=e102]
+                    - generic [ref=e104]: Home
+                - listitem [ref=e105]:
+                  - link "Orders" [ref=e108] [cursor=pointer]:
+                    - /url: /store/furlift-staging/orders
+                    - generic [ref=e109]:
+                      - img [ref=e112]
+                      - img [ref=e116]
+                    - generic [ref=e118]: Orders
+                - listitem [ref=e119]:
+                  - link "Products" [ref=e122] [cursor=pointer]:
+                    - /url: /store/furlift-staging/products
+                    - generic [ref=e123]:
+                      - img [ref=e126]
+                      - img [ref=e130]
+                    - generic [ref=e133]: Products
+                - listitem [ref=e134]:
+                  - link "Customers" [ref=e137] [cursor=pointer]:
+                    - /url: /store/furlift-staging/customers
+                    - generic [ref=e138]:
+                      - img [ref=e141]
+                      - img [ref=e146]
+                    - generic [ref=e149]: Customers
+                - listitem [ref=e150]:
+                  - link "Marketing" [ref=e153] [cursor=pointer]:
+                    - /url: /store/furlift-staging/marketing
+                    - generic [ref=e154]:
+                      - img [ref=e157]
+                      - img [ref=e163]
+                    - generic [ref=e167]: Marketing
+                - listitem [ref=e168]:
+                  - link "Discounts" [ref=e171] [cursor=pointer]:
+                    - /url: /store/furlift-staging/discounts
+                    - generic [ref=e172]:
+                      - img [ref=e175]
+                      - img [ref=e179]
+                    - generic [ref=e184]: Discounts
+                - listitem [ref=e185]:
+                  - link "Content" [ref=e188] [cursor=pointer]:
+                    - /url: /store/furlift-staging/content/metaobjects
+                    - generic [ref=e189]:
+                      - img [ref=e192]
+                      - img [ref=e199]
+                    - generic [ref=e204]: Content
+                - listitem [ref=e205]:
+                  - link "Markets" [ref=e208] [cursor=pointer]:
+                    - /url: /store/furlift-staging/markets
+                    - generic [ref=e209]:
+                      - img [ref=e212]
+                      - img [ref=e217]
+                    - generic [ref=e220]: Markets
+                - listitem [ref=e221]:
+                  - link "Finance" [ref=e224] [cursor=pointer]:
+                    - /url: /store/furlift-staging/finance
+                    - generic [ref=e225]:
+                      - img [ref=e228]
+                      - img [ref=e232]
+                    - generic [ref=e234]: Finance
+                - listitem [ref=e235]:
+                  - link "Analytics" [ref=e238] [cursor=pointer]:
+                    - /url: /store/furlift-staging/analytics
+                    - generic [ref=e239]:
+                      - img [ref=e242]
+                      - img [ref=e248]
+                    - generic [ref=e252]: Analytics
+              - list [ref=e253]:
+                - listitem [ref=e254]:
+                  - button "Sales channels" [ref=e256] [cursor=pointer]:
+                    - strong [ref=e258]:
+                      - generic: Sales channels
+                  - list [ref=e260]:
+                    - button "Online Store Pages Preferences" [ref=e520]:
+                      - list [ref=e262]:
+                        - listitem [ref=e263]:
+                          - link "Online Store" [expanded] [ref=e266] [cursor=pointer]:
+                            - /url: /store/furlift-staging/themes
+                            - img [ref=e268]
+                            - generic [ref=e269]: Online Store
+                          - list [ref=e523]:
+                            - listitem [ref=e524]:
+                              - link "Pages" [ref=e527] [cursor=pointer]:
+                                - /url: /store/furlift-staging/pages
+                                - generic [ref=e528]: Pages
+                            - listitem [ref=e529]:
+                              - link "Preferences" [ref=e532] [cursor=pointer]:
+                                - /url: /store/furlift-staging/online_store/preferences
+                                - generic [ref=e533]: Preferences
+                    - button "Agentic" [ref=e270]:
+                      - list [ref=e271]:
+                        - listitem [ref=e272]:
+                          - link "Agentic" [ref=e275] [cursor=pointer]:
+                            - /url: /store/furlift-staging/apps/agentic?appLoadId=58626366-4aca-46ee-a9d2-2e6e09c86bdb
+                            - img [ref=e277]
+                            - generic [ref=e278]: Agentic
+                  - status [ref=e279]
+                - listitem [ref=e280]:
+                  - button "Apps" [ref=e282] [cursor=pointer]:
+                    - strong [ref=e284]:
+                      - generic: Apps
+                  - button "Add" [ref=e287] [cursor=pointer]:
+                    - img [ref=e291]
+                    - text: Add
+                - listitem [ref=e534]:
+                  - button "Sidekick conversations" [ref=e536] [cursor=pointer]:
+                    - strong [ref=e538]:
+                      - generic: Sidekick conversations
+                  - list [ref=e541]:
+                    - listitem [ref=e542]:
+                      - button "Setup guide" [ref=e545] [cursor=pointer]:
+                        - generic [ref=e546]: Setup guide
+            - list [ref=e295]:
+              - listitem [ref=e296]:
+                - link "Settings" [ref=e299] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings
+                  - img [ref=e303]
+                  - generic [ref=e305]: Settings
+      - main [ref=e306]:
+        - generic [ref=e550]:
+          - generic [ref=e552]:
+            - navigation "Breadcrumbs for Online Store" [ref=e553]:
+              - heading "Online Store" [level=1] [ref=e557]
+            - button "View store" [ref=e561] [cursor=pointer]:
+              - generic [ref=e563]:
+                - generic: View store
+            - button "More actions" [ref=e567] [cursor=pointer]:
+              - img [ref=e571]
+          - iframe [ref=e575]:
+            - generic [ref=f1e4]:
+              - link "Skip to content":
+                - /url: "#AppFrameMain"
+              - main [ref=f1e6]:
+                - generic [ref=f1e13]:
+                  - generic [ref=f1e15]:
+                    - generic [ref=f1e22]:
+                      - link "Laptop screenshot Mobile screenshot" [ref=f1e23] [cursor=pointer]:
+                        - /url: https://admin.shopify.com/store/furlift-staging/themes/162919055610/editor
+                        - generic [ref=f1e25]:
+                          - img "Laptop screenshot" [ref=f1e29]
+                          - img "Mobile screenshot" [ref=f1e33]
+                      - generic [ref=f1e35]:
+                        - generic [ref=f1e36]:
+                          - img [ref=f1e40]
+                          - paragraph [ref=f1e43]: "In development: visitors need the password to access your store"
+                        - generic [ref=f1e44]:
+                          - link "See password" [ref=f1e287] [cursor=pointer]:
+                            - /url: https://admin.shopify.com/store/furlift-staging/online_store/preferences?tutorial=unlock
+                            - generic [ref=f1e288]: See password
+                          - button "Learn more" [ref=f1e289] [cursor=pointer]
+                      - generic [ref=f1e48]:
+                        - separator [ref=f1e50]
+                        - generic [ref=f1e52]:
+                          - generic [ref=f1e55]:
+                            - heading "Horizon" [level=3] [ref=f1e57]
+                            - generic [ref=f1e59]: "Added: 1 minute ago"
+                            - button "Version 3.5.1" [ref=f1e61] [cursor=pointer]:
+                              - generic [ref=f1e62]:
+                                - paragraph [ref=f1e65]: Version 3.5.1
+                                - img [ref=f1e69]
+                          - generic [ref=f1e72]:
+                            - button "Click for more theme actions" [ref=f1e75] [cursor=pointer]:
+                              - img [ref=f1e79]
+                            - link "Edit Horizon" [ref=f1e85] [cursor=pointer]:
+                              - /url: https://admin.shopify.com/store/furlift-staging/themes/162919055610/editor
+                              - generic [ref=f1e86]: Edit theme
+                    - generic [ref=f1e87]:
+                      - generic [ref=f1e89]:
+                        - heading "Discover themes" [level=2] [ref=f1e90]
+                        - generic [ref=f1e91]:
+                          - link "Visit Theme Store" [ref=f1e94] [cursor=pointer]:
+                            - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin&locale=en
+                            - generic [ref=f1e95]: Visit Theme Store
+                          - button "Import themes" [ref=f1e99] [cursor=pointer]:
+                            - generic [ref=f1e103]:
+                              - text: Import
+                              - img [ref=f1e106]
+                      - generic [ref=f1e108]:
+                        - region "Generate a custom storefront" [ref=f1e114]:
+                          - generic [ref=f1e115]:
+                            - generic [ref=f1e116]:
+                              - heading "Generate a custom storefront" [level=2] [ref=f1e117]
+                              - paragraph [ref=f1e118]: Describe your business to get tailored design options
+                            - generic [ref=f1e119]:
+                              - button [ref=f1e121]: Submit
+                              - generic [ref=f1e122]:
+                                - generic [ref=f1e123]:
+                                  - generic [ref=f1e126]: Business description
+                                  - textbox "Business description" [ref=f1e130]:
+                                    - /placeholder: e.g. modern handmade jewelry
+                                - generic [ref=f1e131]:
+                                  - button "Create" [disabled]:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - img
+                                    - generic: Create
+                        - generic [ref=f1e139]:
+                          - generic [ref=f1e144]:
+                            - link "Screenshot of the Horizon theme" [ref=f1e146] [cursor=pointer]:
+                              - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Fhorizon&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                              - img "Screenshot of the Horizon theme" [ref=f1e147]
+                            - generic [ref=f1e150]:
+                              - generic [ref=f1e151]:
+                                - link "Horizon" [ref=f1e153] [cursor=pointer]:
+                                  - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Fhorizon&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                                - generic [ref=f1e154]: by Shopify
+                              - button "Add" [ref=f1e156] [cursor=pointer]:
+                                - generic [ref=f1e157]: Add
+                          - generic [ref=f1e162]:
+                            - link "Screenshot of the Tinker theme" [ref=f1e164] [cursor=pointer]:
+                              - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Ftinker&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                              - img "Screenshot of the Tinker theme" [ref=f1e165]
+                            - generic [ref=f1e168]:
+                              - generic [ref=f1e169]:
+                                - link "Tinker" [ref=f1e171] [cursor=pointer]:
+                                  - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Ftinker&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                                - generic [ref=f1e172]: by Shopify
+                              - button "Add" [ref=f1e174] [cursor=pointer]:
+                                - generic [ref=f1e175]: Add
+                          - generic [ref=f1e180]:
+                            - link "Screenshot of the Savor theme" [ref=f1e182] [cursor=pointer]:
+                              - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Fsavor&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                              - img "Screenshot of the Savor theme" [ref=f1e183]
+                            - generic [ref=f1e186]:
+                              - generic [ref=f1e187]:
+                                - link "Savor" [ref=f1e189] [cursor=pointer]:
+                                  - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Fsavor&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                                - generic [ref=f1e190]: by Shopify
+                              - button "Add" [ref=f1e192] [cursor=pointer]:
+                                - generic [ref=f1e193]: Add
+                          - generic [ref=f1e198]:
+                            - link "Screenshot of the Atelier theme" [ref=f1e200] [cursor=pointer]:
+                              - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Fatelier&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                              - img "Screenshot of the Atelier theme" [ref=f1e201]
+                            - generic [ref=f1e204]:
+                              - generic [ref=f1e205]:
+                                - link "Atelier" [ref=f1e207] [cursor=pointer]:
+                                  - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Fatelier&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                                - generic [ref=f1e208]: by Shopify
+                              - button "Add" [ref=f1e210] [cursor=pointer]:
+                                - generic [ref=f1e211]: Add
+                          - generic [ref=f1e216]:
+                            - link "Screenshot of the Ritual theme" [ref=f1e218] [cursor=pointer]:
+                              - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Fritual&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                              - img "Screenshot of the Ritual theme" [ref=f1e219]
+                            - generic [ref=f1e222]:
+                              - generic [ref=f1e223]:
+                                - link "Ritual" [ref=f1e225] [cursor=pointer]:
+                                  - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes%2Fritual&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin
+                                - generic [ref=f1e226]: by Shopify
+                              - button "Add" [ref=f1e228] [cursor=pointer]:
+                                - generic [ref=f1e229]: Add
+                          - generic [ref=f1e237]:
+                            - generic [ref=f1e238]:
+                              - heading "Explore more themes" [level=3] [ref=f1e239]
+                              - paragraph [ref=f1e240]: Browse professionally designed free and paid themes
+                            - link "Visit Theme Store" [ref=f1e242] [cursor=pointer]:
+                              - /url: https://themes.shopify.com/login/authenticate?shop=furlift-staging&login_hint=austyneguale%40gmail.com&url=https%3A%2F%2Fthemes.shopify.com%2Fthemes&utm_campaign=themes&utm_content=contextual&utm_medium=shopify&utm_source=admin&locale=en
+                              - img [ref=f1e246]
+                              - generic [ref=f1e249]: Visit Theme Store
+                  - paragraph [ref=f1e251]:
+                    - text: Learn more about
+                    - link "themes" [ref=f1e252] [cursor=pointer]:
+                      - /url: https://help.shopify.com/en/manual/online-store/themes?st_source=admin&st_campaign=themes_footer&utm_source=admin&utm_campaign=themes_footer
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e504]:
+      - generic [ref=e577]:
+        - generic [ref=e580]:
+          - button "Setup guide" [ref=e582] [cursor=pointer]:
+            - heading "Setup guide" [level=2] [ref=e583]:
+              - generic: Setup guide
+            - img [ref=e644]
+          - generic [ref=e588]:
+            - button "New conversation" [ref=e647] [cursor=pointer]:
+              - img [ref=e650]
+            - generic [ref=e594]:
+              - button "Expand" [disabled]:
+                - generic:
+                  - generic:
+                    - img
+            - button "Close Sidekick" [ref=e596] [cursor=pointer]:
+              - img [ref=e599]
+        - generic [ref=e601]:
+          - log [ref=e655]:
+            - generic [ref=e656]:
+              - generic [ref=e661]:
+                - generic [ref=e663]:
+                  - generic [ref=e665]: To-dos
+                  - generic [ref=e667]: 1/6
+                - generic [ref=e669]:
+                  - link "Add store name" [disabled] [ref=e673] [cursor=pointer]:
+                    - /url: /store/furlift-staging/settings/general/store-contact-details
+                    - generic [ref=e674]:
+                      - button "Mark as incomplete" [ref=e675]:
+                        - generic [ref=e676]:
+                          - img [ref=e677]
+                          - img [ref=e679]
+                          - img [ref=e682]
+                      - paragraph [ref=e685]:
+                        - generic [ref=e686]: Add store name
+                  - link "Add your first product" [ref=e690] [cursor=pointer]:
+                    - /url: /store/furlift-staging/products/new
+                    - generic [ref=e691]:
+                      - button "Mark as complete" [ref=e692]:
+                        - generic [ref=e693]:
+                          - img [ref=e694]
+                          - img [ref=e696]
+                          - img [ref=e699]
+                      - paragraph [ref=e702]:
+                        - generic [ref=e703]: Add your first product
+                  - link "Customize your online store" [ref=e707] [cursor=pointer]:
+                    - /url: /store/furlift-staging/themes
+                    - generic [ref=e708]:
+                      - button "Mark as complete" [ref=e709]:
+                        - generic [ref=e710]:
+                          - img [ref=e711]
+                          - img [ref=e713]
+                          - img [ref=e716]
+                      - paragraph [ref=e719]:
+                        - generic [ref=e720]: Customize your online store
+                  - link "Set up Shopify Payments" [ref=e724] [cursor=pointer]:
+                    - /url: /store/furlift-staging/settings/payments
+                    - generic [ref=e725]:
+                      - button "Mark as complete" [ref=e726]:
+                        - generic [ref=e727]:
+                          - img [ref=e728]
+                          - img [ref=e730]
+                          - img [ref=e733]
+                      - paragraph [ref=e736]:
+                        - generic [ref=e737]: Set up Shopify Payments
+                  - link "Review your shipping rates" [ref=e741] [cursor=pointer]:
+                    - /url: /store/furlift-staging/settings/shipping/profiles/113970217210
+                    - generic [ref=e742]:
+                      - button "Mark as complete" [ref=e743]:
+                        - generic [ref=e744]:
+                          - img [ref=e745]
+                          - img [ref=e747]
+                          - img [ref=e750]
+                      - paragraph [ref=e753]:
+                        - generic [ref=e754]: Review your shipping rates
+                  - link "Customize domain" [ref=e758] [cursor=pointer]:
+                    - /url: /store/furlift-staging/settings/domains
+                    - generic [ref=e759]:
+                      - button "Mark as complete" [ref=e760]:
+                        - generic [ref=e761]:
+                          - img [ref=e762]
+                          - img [ref=e764]
+                          - img [ref=e767]
+                      - paragraph [ref=e770]:
+                        - generic [ref=e771]: Customize domain
+              - article [ref=e776]:
+                - paragraph [ref=e777]: I've created a to-do list to help you get your store ready to launch!
+                - paragraph [ref=e778]: Your store name is set — great start! Now you're on the design step, which is a big one. Your store's look is often the first impression customers get, so it's worth getting right.
+                - paragraph [ref=e779]: "On this page, you have three paths forward:"
+                - list [ref=e780]:
+                  - listitem [ref=e781]:
+                    - generic [ref=e782]:
+                      - strong [ref=e783]: Describe your business
+                      - text: and get a custom design generated based on what you sell and your brand vibe — great if you want something tailored from the start
+                  - listitem [ref=e784]:
+                    - generic [ref=e785]:
+                      - strong [ref=e786]: Pick a ready-made design
+                      - text: from a curated selection to get up and running quickly
+                  - listitem [ref=e813]:
+                    - generic [ref=e814]:
+                      - strong [ref=e815]: Edit your current default design
+                      - text: directly if you're ready to dive in and tweak things yourself
+                - paragraph [ref=e816]:
+                  - text: What kind of store are you building? Knowing your products and brand style will help me point you toward the best option — or if you already have a direction in mind, let's go!
+                  - status "Loading" [ref=e817]
+              - generic [ref=e827]:
+                - button "Copy message" [ref=e828] [cursor=pointer]:
+                  - img [ref=e831]
+                - button "Rate this response positive" [ref=e833] [cursor=pointer]:
+                  - img [ref=e836]
+                - button "Rate this response negative" [ref=e838] [cursor=pointer]:
+                  - img [ref=e841]
+          - button "Scroll to bottom" [ref=e843] [cursor=pointer]:
+            - img [ref=e846]
+        - generic [ref=e608]:
+          - generic [ref=e611]:
+            - generic:
+              - generic:
+                - generic:
+                  - paragraph
+            - button "Close" [disabled] [ref=e613]:
+              - img [ref=e617]
+          - generic [ref=e622]:
+            - img [ref=e848]
+            - generic [ref=e631]:
+              - generic:
+                - generic: Ask anything...
+              - textbox "Ask anything..." [ref=e632]
+            - generic [ref=e634]:
+              - button "Add files and more" [ref=e636] [cursor=pointer]:
+                - img [ref=e639]
+              - button "Voice" [ref=e860] [cursor=pointer]:
+                - img [ref=e863]
+    - dialog [ref=e869]:
+      - iframe [active] [ref=e871]:
+        - generic [ref=f2e4]:
+          - generic [ref=f2e6]:
+            - heading "Upload theme" [level=2] [ref=f2e9]
+            - button "Close" [ref=f2e10] [cursor=pointer]:
+              - img [ref=f2e13]
+          - generic [ref=f2e16]:
+            - generic [ref=f2e19]:
+              - paragraph [ref=f2e20]: Upload a .zip file of your Shopify theme. Uploaded themes will be unpublished by default.
+              - paragraph [ref=f2e21]: "Maximum file size: 50 MB"
+              - generic [ref=f2e22]:
+                - generic [ref=f2e25]: Upload file
+                - generic [ref=f2e26] [cursor=pointer]:
+                  - button "Upload file" [ref=f2e28]
+                  - generic [ref=f2e47]:
+                    - img [ref=f2e51]
+                    - generic [ref=f2e53]:
+                      - text: dropship-os-theme.zip
+                      - paragraph [ref=f2e54]:
+                        - generic [ref=f2e55]: 6.1 kB
+            - iframe [ref=f2e39]:
+              
+          - generic [ref=f2e43]:
+            - button "Cancel" [ref=f2e44] [cursor=pointer]:
+              - generic [ref=f2e45]: Cancel
+            - button "Upload file" [ref=f2e56] [cursor=pointer]:
+              - generic [ref=f2e57]: Upload file

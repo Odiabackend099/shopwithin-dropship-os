@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="{{ request.locale.iso_code }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#111820">
+    <title>{{ page_title }}{% if current_tags %} - {{ current_tags | join: ', ' }}{% endif %}{% unless page_title contains shop.name %} - {{ shop.name }}{% endunless %}</title>
+    {% if page_description %}
+      <meta name="description" content="{{ page_description | escape }}">
+    {% endif %}
+    {{ canonical_url | canonical_tag }}
+    {{ content_for_header }}
+    {{ 'dropship-os.css' | asset_url | stylesheet_tag }}
+  </head>
+  <body>
+    <a class="skip-link" href="#MainContent">Skip to content</a>
+    <header class="site-header">
+      <a class="site-logo" href="{{ routes.root_url }}">{{ shop.name }}</a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="/collections/all">Shop</a>
+        <a href="/pages/shipping">Shipping</a>
+        <a href="/pages/contact">Support</a>
+      </nav>
+      <a class="cart-link" href="{{ routes.cart_url }}">Cart</a>
+    </header>
+    <main id="MainContent">
+      {{ content_for_layout }}
+    </main>
+    <footer class="site-footer">
+      <p>Secure USD checkout. Tracked global shipping. Support within 24 hours.</p>
+    </footer>
+    {{ 'dropship-os.js' | asset_url | script_tag }}
+  </body>
+</html>

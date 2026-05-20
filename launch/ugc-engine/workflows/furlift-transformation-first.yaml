@@ -1,0 +1,15 @@
+id: furlift-transformation-first
+name: FurLift Transformation-First Hook
+productSlug: furlift
+characterId: sarah-pet-mom
+scenes:
+  - sceneId: before-after
+    hookVariant: 2
+    ctaVariant: 1
+  - sceneId: unboxing
+    hookVariant: 3
+    ctaVariant: 0
+platforms:
+  - tiktok
+  - shorts
+outputVariants: 3

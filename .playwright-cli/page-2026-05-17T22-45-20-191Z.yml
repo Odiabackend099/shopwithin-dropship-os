@@ -1,0 +1,799 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e30]
+          - generic [ref=e31]:
+            - generic [ref=e32]: ⌘
+            - generic [ref=e33]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e40] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e54] [cursor=pointer]:
+            - img [ref=e58]
+        - button "Austyn Eguale" [ref=e69] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img "FurLift Supplier Staging" [ref=e76]:
+              - generic [ref=e77]: FSS
+            - paragraph [ref=e79]: FurLift Supplier Staging
+    - generic [ref=e81]:
+      - generic "Navigation" [ref=e82]:
+        - navigation [ref=e84]:
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - list [ref=e88]:
+                - listitem [ref=e89]:
+                  - link "Home" [ref=e92] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging
+                    - generic [ref=e93]:
+                      - img [ref=e96]
+                      - img [ref=e100]
+                    - generic [ref=e102]: Home
+                - listitem [ref=e103]:
+                  - link "Orders" [ref=e106] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging/orders
+                    - generic [ref=e107]:
+                      - img [ref=e110]
+                      - img [ref=e114]
+                    - generic [ref=e116]: Orders
+                - listitem [ref=e117]:
+                  - link "Products" [ref=e120] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging/products
+                    - generic [ref=e121]:
+                      - img [ref=e124]
+                      - img [ref=e128]
+                    - generic [ref=e131]: Products
+                - listitem [ref=e132]:
+                  - link "Customers" [ref=e135] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging/customers
+                    - generic [ref=e136]:
+                      - img [ref=e139]
+                      - img [ref=e144]
+                    - generic [ref=e147]: Customers
+                - listitem [ref=e148]:
+                  - link "Marketing" [ref=e151] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging/marketing
+                    - generic [ref=e152]:
+                      - img [ref=e155]
+                      - img [ref=e161]
+                    - generic [ref=e165]: Marketing
+                - listitem [ref=e166]:
+                  - link "Discounts" [ref=e169] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging/discounts
+                    - generic [ref=e170]:
+                      - img [ref=e173]
+                      - img [ref=e177]
+                    - generic [ref=e182]: Discounts
+                - listitem [ref=e183]:
+                  - link "Content" [ref=e186] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging/content/metaobjects
+                    - generic [ref=e187]:
+                      - img [ref=e190]
+                      - img [ref=e197]
+                    - generic [ref=e202]: Content
+                - listitem [ref=e203]:
+                  - link "Markets" [ref=e206] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging/markets
+                    - generic [ref=e207]:
+                      - img [ref=e210]
+                      - img [ref=e215]
+                    - generic [ref=e218]: Markets
+                - listitem [ref=e219]:
+                  - link "Finance" [ref=e222] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging/finance
+                    - generic [ref=e223]:
+                      - img [ref=e226]
+                      - img [ref=e230]
+                    - generic [ref=e232]: Finance
+                - listitem [ref=e233]:
+                  - link "Analytics" [ref=e236] [cursor=pointer]:
+                    - /url: /store/furlift-supplier-staging/analytics
+                    - generic [ref=e237]:
+                      - img [ref=e240]
+                      - img [ref=e246]
+                    - generic [ref=e250]: Analytics
+              - list [ref=e251]:
+                - listitem [ref=e252]:
+                  - button "Sales channels" [ref=e254] [cursor=pointer]:
+                    - strong [ref=e256]:
+                      - generic: Sales channels
+                  - list [ref=e258]:
+                    - button "Online Store" [ref=e259]:
+                      - list [ref=e260]:
+                        - listitem [ref=e261]:
+                          - link "Online Store" [ref=e264] [cursor=pointer]:
+                            - /url: /store/furlift-supplier-staging/themes?appLoadId=eef919f3-486c-49a2-8ace-014a0b76f910
+                            - img [ref=e266]
+                            - generic [ref=e267]: Online Store
+                    - button "Agentic" [ref=e268]:
+                      - list [ref=e269]:
+                        - listitem [ref=e270]:
+                          - link "Agentic" [ref=e273] [cursor=pointer]:
+                            - /url: /store/furlift-supplier-staging/apps/agentic?appLoadId=8c4e62cd-4312-4c69-8cb3-1db9a147893f
+                            - img [ref=e275]
+                            - generic [ref=e276]: Agentic
+                  - status [ref=e277]
+                - listitem [ref=e278]:
+                  - button "Apps" [ref=e280] [cursor=pointer]:
+                    - strong [ref=e282]:
+                      - generic: Apps
+                  - list [ref=e284]:
+                    - button "Flow" [disabled] [ref=e285]:
+                      - list [ref=e286]:
+                        - listitem [ref=e287]:
+                          - link "Flow" [disabled] [ref=e290] [cursor=pointer]:
+                            - /url: /store/furlift-supplier-staging/apps/flow?appLoadId=f7e73d62-b81d-4d70-b730-0842e8edc748
+                            - img [ref=e292]
+                            - generic [ref=e293]: Flow
+                  - status [ref=e294]
+            - list [ref=e296]:
+              - listitem [ref=e297]:
+                - link "Settings" [ref=e300] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings
+                  - img [ref=e304]
+                  - generic [ref=e306]: Settings
+      - main [ref=e307]
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Settings" [ref=e313]:
+      - button "Close" [ref=e314] [cursor=pointer]:
+        - img [ref=e317]
+      - generic [ref=e322]:
+        - generic [ref=e326]:
+          - generic [ref=e329]:
+            - heading "Barpel AI" [level=3] [ref=e330]:
+              - generic [ref=e331]: Barpel AI
+            - link "2 stores" [ref=e333] [cursor=pointer]:
+              - /url: /store/furlift-supplier-staging/settings/organization-details#stores
+              - generic: 2 stores
+          - generic [ref=e337]:
+            - img [ref=e341]
+            - combobox "Search" [ref=e344]
+          - navigation "Organization settings menu" [ref=e346]:
+            - list [ref=e347]:
+              - listitem [ref=e348]:
+                - link "Organization" [ref=e350] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/organization-details
+                  - generic [ref=e351]:
+                    - img [ref=e355]
+                    - generic [ref=e357]: Organization
+              - listitem [ref=e358]:
+                - link "Users" [ref=e360] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/organization-account
+                  - generic [ref=e361]:
+                    - img [ref=e365]
+                    - generic [ref=e367]: Users
+          - navigation "Shop settings menu" [ref=e368]:
+            - generic [ref=e370]:
+              - button "Update internal icon" [ref=e372] [cursor=pointer]:
+                - generic [ref=e373]:
+                  - img "FurLift Supplier Staging" [ref=e376]:
+                    - generic [ref=e377]: FSS
+                  - img [ref=e381]
+              - generic [ref=e384]:
+                - heading "FurLift Supplier Staging" [level=3] [ref=e385]:
+                  - generic [ref=e386]: FurLift Supplier Staging
+                - link "furlift-supplier-staging.myshopify.com" [ref=e389] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/domains
+                  - generic [ref=e392]: furlift-supplier-staging.myshopify.com
+            - list [ref=e393]:
+              - listitem [ref=e394]:
+                - link "General" [ref=e396] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/general
+                  - generic [ref=e397]:
+                    - img [ref=e401]
+                    - generic [ref=e403]: General
+              - listitem [ref=e404]:
+                - link "Plan" [ref=e406] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/plan
+                  - generic [ref=e407]:
+                    - img [ref=e411]
+                    - generic [ref=e414]: Plan
+              - listitem [ref=e415]:
+                - link "Billing" [ref=e417] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/billing
+                  - generic [ref=e418]:
+                    - img [ref=e422]
+                    - generic [ref=e424]: Billing
+              - listitem [ref=e425]:
+                - link "Payments" [ref=e427] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/payments
+                  - generic [ref=e428]:
+                    - img [ref=e432]
+                    - generic [ref=e435]: Payments
+              - listitem [ref=e436]:
+                - link "Checkout" [ref=e438] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/checkout
+                  - generic [ref=e439]:
+                    - img [ref=e443]
+                    - generic [ref=e447]: Checkout
+              - listitem [ref=e448]:
+                - link "Customer accounts" [ref=e450] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/customer_accounts
+                  - generic [ref=e451]:
+                    - img [ref=e455]
+                    - generic [ref=e458]: Customer accounts
+              - listitem [ref=e459]:
+                - link "Shipping and delivery" [ref=e461] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/shipping
+                  - generic [ref=e462]:
+                    - img [ref=e466]
+                    - generic [ref=e468]: Shipping and delivery
+              - listitem [ref=e469]:
+                - link "Taxes and duties" [ref=e471] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/taxes
+                  - generic [ref=e472]:
+                    - img [ref=e476]
+                    - generic [ref=e478]: Taxes and duties
+              - listitem [ref=e479]:
+                - link "Locations" [ref=e481] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/locations
+                  - generic [ref=e482]:
+                    - img [ref=e486]
+                    - generic [ref=e488]: Locations
+              - listitem [ref=e489]:
+                - link "Markets" [ref=e491] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/markets
+                  - generic [ref=e492]:
+                    - img [ref=e496]
+                    - generic [ref=e499]: Markets
+              - listitem [ref=e500]:
+                - link "Apps" [ref=e502] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/apps
+                  - generic [ref=e503]:
+                    - img [ref=e507]
+                    - generic [ref=e512]: Apps
+              - listitem [ref=e513]:
+                - link "Sales channels" [ref=e515] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/sales_channels
+                  - generic [ref=e516]:
+                    - img [ref=e520]
+                    - generic [ref=e522]: Sales channels
+              - listitem [ref=e523]:
+                - link "Domains" [ref=e525] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/domains
+                  - generic [ref=e526]:
+                    - img [ref=e530]
+                    - generic [ref=e534]: Domains
+              - listitem [ref=e535]:
+                - link "Customer events" [ref=e537] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/customer_events
+                  - generic [ref=e538]:
+                    - img [ref=e542]
+                    - generic [ref=e549]: Customer events
+              - listitem [ref=e550]:
+                - link "Notifications" [ref=e552] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/notifications
+                  - generic [ref=e553]:
+                    - img [ref=e557]
+                    - generic [ref=e559]: Notifications
+              - listitem [ref=e560]:
+                - link "Metafields and metaobjects" [ref=e562] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/custom_data
+                  - generic [ref=e563]:
+                    - img [ref=e567]
+                    - generic [ref=e569]: Metafields and metaobjects
+              - listitem [ref=e570]:
+                - link "Languages" [ref=e572] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/languages
+                  - generic [ref=e573]:
+                    - img [ref=e577]
+                    - generic [ref=e581]: Languages
+              - listitem [ref=e582]:
+                - link "Customer privacy" [ref=e584] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/privacy
+                  - generic [ref=e585]:
+                    - img [ref=e589]
+                    - generic [ref=e591]: Customer privacy
+              - listitem [ref=e592]:
+                - link "Policies" [ref=e594] [cursor=pointer]:
+                  - /url: /store/furlift-supplier-staging/settings/legal
+                  - generic [ref=e595]:
+                    - img [ref=e599]
+                    - generic [ref=e601]: Policies
+          - link "Austyn Eguale austyneguale@gmail.com" [ref=e603] [cursor=pointer]:
+            - /url: https://accounts.shopify.com/accounts/73d9c79f-52db-460a-be70-6b76608743d1/redirect
+            - generic [ref=e604]:
+              - img "AE" [ref=e607]:
+                - generic [ref=e608]: AE
+              - generic [ref=e609]:
+                - heading "Austyn Eguale" [level=6] [ref=e611]:
+                  - generic [ref=e612]: Austyn Eguale
+                - heading "austyneguale@gmail.com" [level=6] [ref=e613]:
+                  - generic [ref=e614]: austyneguale@gmail.com
+        - main [ref=e619]:
+          - generic [ref=e630]:
+            - generic:
+              - img [ref=e633]
+              - heading "General" [level=1] [ref=e635]
+          - generic [ref=e638]:
+            - generic:
+              - status [ref=e1205]:
+                - generic [ref=e1206]:
+                  - img [ref=e1210]
+                  - heading "Store transfer to austynodia@gmail.com is in progress" [level=2] [ref=e1215]:
+                    - generic: Store transfer to austynodia@gmail.com is in progress
+                  - button "Dismiss" [ref=e1217] [cursor=pointer]:
+                    - img [ref=e1221]
+                - generic [ref=e1224]:
+                  - paragraph [ref=e1225]:
+                    - generic [ref=e1226]:
+                      - generic: An invite to transfer FurLift Supplier Staging to austynodia@gmail.com was sent. Once they accept, you will no longer have access to this store.
+                  - button "Cancel transfer" [ref=e1229] [cursor=pointer]:
+                    - generic [ref=e1231]:
+                      - generic: Cancel transfer
+              - generic [ref=e641]:
+                - generic [ref=e645]:
+                  - generic [ref=e649]:
+                    - heading "Business details" [level=2] [ref=e651]
+                    - generic [ref=e652]:
+                      - generic: Business entity used for financial products, markets, apps, and taxes in this shop
+                  - generic [ref=e653]:
+                    - list [ref=e659]:
+                      - listitem [ref=e660]:
+                        - generic [ref=e664]:
+                          - generic [ref=e670]:
+                            - generic [ref=e672]: FurLift Staging - entity
+                            - generic [ref=e674]:
+                              - generic: United States
+                          - button "More actions" [ref=e679] [cursor=pointer]:
+                            - img [ref=e683]
+                    - paragraph [ref=e689]:
+                      - generic:
+                        - text: Manage entities in
+                        - link "Organization settings" [ref=e690] [cursor=pointer]:
+                          - /url: /store/furlift-supplier-staging/settings/organization-details
+                          - generic: Organization settings
+                - generic [ref=e694]:
+                  - heading "Store contact details" [level=2] [ref=e700]
+                  - list [ref=e707]:
+                    - listitem [ref=e708] [cursor=pointer]:
+                      - generic [ref=e712]:
+                        - generic [ref=e714]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                        - generic [ref=e717]:
+                          - link "FurLift Supplier Staging" [ref=e719]:
+                            - /url: /store/furlift-supplier-staging/settings/general/store-contact-details
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: austyneguale@gmail.com · No phone number
+                        - generic [ref=e720]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                    - separator [ref=e722]
+                    - listitem [ref=e723] [cursor=pointer]:
+                      - generic [ref=e727]:
+                        - generic [ref=e729]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                        - generic [ref=e732]:
+                          - button "Store address" [ref=e734]
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: 256 Chapman Road ste, newark Delaware 19702, United States
+                        - generic [ref=e735]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                - generic [ref=e736]:
+                  - button [ref=e738]: Submit
+                  - generic [ref=e739]:
+                    - generic [ref=e743]:
+                      - heading "Store defaults" [level=2] [ref=e749]
+                      - generic [ref=e750]:
+                        - generic [ref=e752]:
+                          - status [ref=e754]:
+                            - generic [ref=e755]:
+                              - img [ref=e759]
+                              - paragraph [ref=e764]:
+                                - generic:
+                                  - generic:
+                                    - text: Update your pricing and shipping rates to prevent unexpected results at checkout. Some apps can only support certain currencies.
+                                    - link "Learn about updating your settings for a new currency." [ref=e765] [cursor=pointer]:
+                                      - /url: https://help.shopify.com/en/manual/payments/shopify-payments/selling-and-getting-paid-in-different-currencies#changing-your-store-currency
+                                      - generic: Learn about updating your settings for a new currency.
+                              - button "Dismiss" [ref=e767] [cursor=pointer]:
+                                - img [ref=e771]
+                          - list [ref=e776]:
+                            - listitem [ref=e777]:
+                              - generic [ref=e781]:
+                                - generic [ref=e782]:
+                                  - generic [ref=e784]:
+                                    - generic [ref=e786]: Currency display
+                                    - generic [ref=e789]:
+                                      - text: To manage the currencies customers see, go to
+                                      - link "Markets" [ref=e790] [cursor=pointer]:
+                                        - /url: /store/furlift-supplier-staging/markets
+                                        - generic: Markets
+                                  - generic [ref=e792]:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic: US Dollar (USD $)
+                                - button "More actions" [ref=e797] [cursor=pointer]:
+                                  - img [ref=e801]
+                          - generic [ref=e806]:
+                            - generic:
+                              - generic [ref=e807]: Backup Region
+                              - generic [ref=e808]:
+                                - generic [ref=e813]: Nigeria
+                                - img [ref=e816]
+                                - combobox "Backup Region" [ref=e819] [cursor=pointer]:
+                                  - option "Nigeria" [selected]
+                              - generic [ref=e820]: Determines settings for customers outside of your markets
+                          - generic [ref=e821]:
+                            - group [ref=e822]:
+                              - generic [ref=e823]:
+                                - generic [ref=e826]:
+                                  - generic:
+                                    - generic [ref=e827]: Unit system
+                                    - generic [ref=e828]:
+                                      - generic [ref=e833]: Metric system
+                                      - img [ref=e836]
+                                      - combobox "Unit system" [ref=e839] [cursor=pointer]:
+                                        - option "Metric system" [selected]
+                                        - option "Imperial system"
+                                - generic [ref=e842]:
+                                  - generic:
+                                    - generic [ref=e843]: Default weight unit
+                                    - generic [ref=e844]:
+                                      - generic [ref=e849]: Kilogram (kg)
+                                      - img [ref=e852]
+                                      - combobox "Default weight unit" [ref=e855] [cursor=pointer]:
+                                        - option "Kilogram (kg)" [selected]
+                                        - option "Gram (g)"
+                            - generic [ref=e858]:
+                              - generic:
+                                - generic [ref=e859]: Time zone
+                                - generic [ref=e860]:
+                                  - generic [ref=e865]: (GMT-05:00) Eastern Time (US & Canada)
+                                  - img [ref=e868]
+                                  - combobox "Time zone" [ref=e871] [cursor=pointer]:
+                                    - option "(GMT-12:00) International Date Line West"
+                                    - option "(GMT-11:00) American Samoa"
+                                    - option "(GMT-11:00) Midway Island"
+                                    - option "(GMT-10:00) Hawaii"
+                                    - option "(GMT-09:00) Alaska"
+                                    - option "(GMT-08:00) Pacific Time (US & Canada)"
+                                    - option "(GMT-08:00) Tijuana"
+                                    - option "(GMT-07:00) Arizona"
+                                    - option "(GMT-07:00) Mazatlan"
+                                    - option "(GMT-07:00) Mountain Time (US & Canada)"
+                                    - option "(GMT-06:00) Central America"
+                                    - option "(GMT-06:00) Central Time (US & Canada)"
+                                    - option "(GMT-07:00) Chihuahua"
+                                    - option "(GMT-06:00) Guadalajara, Mexico City"
+                                    - option "(GMT-06:00) Monterrey"
+                                    - option "(GMT-06:00) Saskatchewan"
+                                    - option "(GMT-05:00) Bogota"
+                                    - option "(GMT-05:00) Eastern Time (US & Canada)" [selected]
+                                    - option "(GMT-05:00) Indiana (East)"
+                                    - option "(GMT-05:00) Lima, Quito"
+                                    - option "(GMT-04:00) Atlantic Time (Canada)"
+                                    - option "(GMT-04:00) Caracas"
+                                    - option "(GMT-04:00) Georgetown"
+                                    - option "(GMT-04:00) La Paz"
+                                    - option "(GMT-04:00) Puerto Rico"
+                                    - option "(GMT-04:00) Santiago"
+                                    - option "(GMT-03:30) Newfoundland"
+                                    - option "(GMT-03:00) Brasilia"
+                                    - option "(GMT-03:00) Buenos Aires"
+                                    - option "(GMT-03:00) Montevideo"
+                                    - option "(GMT-03:00) Greenland"
+                                    - option "(GMT-02:00) Mid-Atlantic"
+                                    - option "(GMT-01:00) Azores"
+                                    - option "(GMT-01:00) Cape Verde Is."
+                                    - option "(GMT+01:00) Casablanca"
+                                    - option "(GMT+00:00) Dublin"
+                                    - option "(GMT+00:00) Edinburgh, London"
+                                    - option "(GMT+00:00) Lisbon"
+                                    - option "(GMT+00:00) Monrovia"
+                                    - option "(GMT+00:00) UTC"
+                                    - option "(GMT+01:00) Amsterdam"
+                                    - option "(GMT+01:00) Belgrade"
+                                    - option "(GMT+01:00) Berlin"
+                                    - option "(GMT+01:00) Bern, Zurich"
+                                    - option "(GMT+01:00) Bratislava"
+                                    - option "(GMT+01:00) Brussels"
+                                    - option "(GMT+01:00) Budapest"
+                                    - option "(GMT+01:00) Copenhagen"
+                                    - option "(GMT+01:00) Ljubljana"
+                                    - option "(GMT+01:00) Madrid"
+                                    - option "(GMT+01:00) Paris"
+                                    - option "(GMT+01:00) Prague"
+                                    - option "(GMT+01:00) Rome"
+                                    - option "(GMT+01:00) Sarajevo"
+                                    - option "(GMT+01:00) Skopje"
+                                    - option "(GMT+01:00) Stockholm"
+                                    - option "(GMT+01:00) Vienna"
+                                    - option "(GMT+01:00) Warsaw"
+                                    - option "(GMT+01:00) West Central Africa"
+                                    - option "(GMT+01:00) Zagreb"
+                                    - option "(GMT+02:00) Athens"
+                                    - option "(GMT+02:00) Bucharest"
+                                    - option "(GMT+02:00) Cairo"
+                                    - option "(GMT+02:00) Harare"
+                                    - option "(GMT+02:00) Helsinki"
+                                    - option "(GMT+02:00) Jerusalem"
+                                    - option "(GMT+02:00) Kaliningrad"
+                                    - option "(GMT+02:00) Kyiv"
+                                    - option "(GMT+02:00) Pretoria"
+                                    - option "(GMT+02:00) Riga"
+                                    - option "(GMT+02:00) Sofia"
+                                    - option "(GMT+02:00) Tallinn"
+                                    - option "(GMT+02:00) Vilnius"
+                                    - option "(GMT+03:00) Baghdad"
+                                    - option "(GMT+03:00) Istanbul"
+                                    - option "(GMT+03:00) Kuwait"
+                                    - option "(GMT+03:00) Minsk"
+                                    - option "(GMT+03:00) Moscow, St. Petersburg"
+                                    - option "(GMT+03:00) Nairobi"
+                                    - option "(GMT+03:00) Riyadh"
+                                    - option "(GMT+03:00) Volgograd"
+                                    - option "(GMT+03:30) Tehran"
+                                    - option "(GMT+04:00) Abu Dhabi, Muscat"
+                                    - option "(GMT+04:00) Baku"
+                                    - option "(GMT+04:00) Samara"
+                                    - option "(GMT+04:00) Tbilisi"
+                                    - option "(GMT+04:00) Yerevan"
+                                    - option "(GMT+04:30) Kabul"
+                                    - option "(GMT+06:00) Almaty"
+                                    - option "(GMT+05:00) Ekaterinburg"
+                                    - option "(GMT+05:00) Islamabad, Karachi"
+                                    - option "(GMT+05:00) Tashkent"
+                                    - option "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
+                                    - option "(GMT+05:30) Sri Jayawardenepura"
+                                    - option "(GMT+05:45) Kathmandu"
+                                    - option "(GMT+06:00) Astana, Dhaka"
+                                    - option "(GMT+06:00) Urumqi"
+                                    - option "(GMT+06:30) Rangoon"
+                                    - option "(GMT+07:00) Bangkok, Hanoi"
+                                    - option "(GMT+07:00) Jakarta"
+                                    - option "(GMT+07:00) Krasnoyarsk"
+                                    - option "(GMT+07:00) Novosibirsk"
+                                    - option "(GMT+08:00) Beijing"
+                                    - option "(GMT+08:00) Chongqing"
+                                    - option "(GMT+08:00) Hong Kong"
+                                    - option "(GMT+08:00) Irkutsk"
+                                    - option "(GMT+08:00) Kuala Lumpur"
+                                    - option "(GMT+08:00) Perth"
+                                    - option "(GMT+08:00) Singapore"
+                                    - option "(GMT+08:00) Taipei"
+                                    - option "(GMT+08:00) Ulaanbaatar"
+                                    - option "(GMT+09:00) Osaka, Sapporo, Tokyo"
+                                    - option "(GMT+09:00) Seoul"
+                                    - option "(GMT+09:00) Yakutsk"
+                                    - option "(GMT+09:30) Adelaide"
+                                    - option "(GMT+09:30) Darwin"
+                                    - option "(GMT+10:00) Brisbane"
+                                    - option "(GMT+10:00) Canberra, Melbourne"
+                                    - option "(GMT+10:00) Guam"
+                                    - option "(GMT+10:00) Hobart"
+                                    - option "(GMT+10:00) Canberra, Melbourne"
+                                    - option "(GMT+10:00) Port Moresby"
+                                    - option "(GMT+10:00) Sydney"
+                                    - option "(GMT+10:00) Vladivostok"
+                                    - option "(GMT+11:00) Magadan"
+                                    - option "(GMT+11:00) New Caledonia"
+                                    - option "(GMT+11:00) Solomon Is."
+                                    - option "(GMT+11:00) Srednekolymsk"
+                                    - option "(GMT+12:00) Auckland, Wellington"
+                                    - option "(GMT+12:00) Fiji"
+                                    - option "(GMT+12:00) Kamchatka"
+                                    - option "(GMT+12:00) Marshall Is."
+                                    - option "(GMT+12:45) Chatham Is."
+                                    - option "(GMT+13:00) Nuku'alofa"
+                                    - option "(GMT+13:00) Samoa"
+                                    - option "(GMT+13:00) Tokelau Is."
+                                - generic [ref=e872]: Sets the time for when orders and analytics are recorded
+                        - paragraph [ref=e875]:
+                          - generic:
+                            - text: To change your user level time zone and language visit your
+                            - link "account settings" [ref=e876] [cursor=pointer]:
+                              - /url: /store/furlift-supplier-staging/settings/account
+                              - generic: account settings
+                    - generic [ref=e880]:
+                      - generic [ref=e884]:
+                        - heading "Order ID format" [level=2] [ref=e886]
+                        - generic [ref=e887]:
+                          - generic: Shown on the order page, customer pages, and customer order notifications to identify order
+                      - generic [ref=e891]:
+                        - group [ref=e892]:
+                          - generic [ref=e893]:
+                            - generic [ref=e895]:
+                              - generic [ref=e898]: Prefix
+                              - textbox "Prefix" [ref=e902]: "#"
+                            - generic [ref=e904]:
+                              - generic [ref=e907]: Suffix
+                              - textbox "Suffix" [ref=e911]
+                        - paragraph [ref=e913]:
+                          - generic: "Your order ID will appear as #1001, #1002, #1003, ..."
+                    - generic [ref=e917]:
+                      - generic [ref=e922]:
+                        - heading "Order processing" [level=2] [ref=e923]
+                        - link "Learn more" [ref=e925] [cursor=pointer]:
+                          - /url: https://help.shopify.com/en/manual/checkout-settings/order-processing
+                          - img [ref=e929]
+                      - generic [ref=e935]:
+                        - generic [ref=e936]:
+                          - paragraph [ref=e937]:
+                            - generic: After an order has been paid
+                          - group "After an order has been paid" [ref=e938]:
+                            - generic [ref=e939]: After an order has been paid
+                            - generic [ref=e940] [cursor=pointer]:
+                              - radio "Automatically fulfill the order‘s line items" [ref=e941]
+                              - text: Automatically fulfill the order‘s line items
+                            - generic [ref=e942] [cursor=pointer]:
+                              - radio "Automatically fulfill only the gift cards of the order" [ref=e943]
+                              - text: Automatically fulfill only the gift cards of the order
+                            - generic [ref=e944] [cursor=pointer]:
+                              - radio "Don’t fulfill any of the order’s line items automatically" [checked] [ref=e945]
+                              - text: Don’t fulfill any of the order’s line items automatically
+                        - generic [ref=e946]:
+                          - paragraph [ref=e947]:
+                            - generic: After an order has been fulfilled and paid, or when all items have been refunded
+                          - generic [ref=e948]:
+                            - generic [ref=e950] [cursor=pointer]:
+                              - generic [ref=e952]:
+                                - checkbox "Automatically archive the order" [checked] [ref=e953]
+                                - generic:
+                                  - img
+                              - generic [ref=e955]: Automatically archive the order
+                            - generic [ref=e959]:
+                              - generic: The order will be removed from your list of open orders.
+                - generic [ref=e963]:
+                  - heading "Store assets" [level=2] [ref=e969]
+                  - list [ref=e976]:
+                    - listitem [ref=e977] [cursor=pointer]:
+                      - generic [ref=e981]:
+                        - generic [ref=e983]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                        - generic [ref=e986]:
+                          - link "Metafields" [ref=e988]:
+                            - /url: /store/furlift-supplier-staging/settings/general/metafields
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Available in themes and configurable for Storefront API
+                        - generic [ref=e989]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                    - separator [ref=e991]
+                    - listitem [ref=e992] [cursor=pointer]:
+                      - generic [ref=e996]:
+                        - generic [ref=e998]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                        - generic [ref=e1001]:
+                          - link "Brand" [ref=e1003]:
+                            - /url: /store/furlift-supplier-staging/settings/general/branding
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Integrate brand assets across sales channels, themes and apps
+                        - generic [ref=e1004]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                - generic [ref=e1008]:
+                  - heading "Resources" [level=2] [ref=e1014]
+                  - generic [ref=e1017]:
+                    - list [ref=e1021]:
+                      - listitem [ref=e1022]:
+                        - generic [ref=e1026]:
+                          - img [ref=e1031]
+                          - generic [ref=e1040]: Change log
+                          - link "View change log" [ref=e1044] [cursor=pointer]:
+                            - /url: https://changelog.shopify.com/
+                            - generic [ref=e1045]: View change log
+                      - separator [ref=e1047]
+                      - listitem [ref=e1048]:
+                        - generic [ref=e1052]:
+                          - img [ref=e1057]
+                          - generic [ref=e1065]: Shopify Help Center
+                          - link "Get help" [ref=e1069] [cursor=pointer]:
+                            - /url: https://help.shopify.com/en
+                            - generic [ref=e1070]: Get help
+                      - separator [ref=e1072]
+                      - listitem [ref=e1073]:
+                        - generic [ref=e1077]:
+                          - img [ref=e1082]
+                          - generic [ref=e1090]: Hire a Shopify Partner
+                          - link "Hire a Partner" [ref=e1094] [cursor=pointer]:
+                            - /url: https://www.shopify.com/partners/directory
+                            - generic [ref=e1095]: Hire a Partner
+                    - list [ref=e1099]:
+                      - listitem [ref=e1100] [cursor=pointer]:
+                        - generic [ref=e1104]:
+                          - generic [ref=e1106]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                          - button "Keyboard shortcuts" [ref=e1111]
+                          - generic [ref=e1112]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                      - separator [ref=e1114]
+                      - listitem [ref=e1115] [cursor=pointer]:
+                        - generic [ref=e1119]:
+                          - generic [ref=e1121]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                          - link "Store activity log" [ref=e1126]:
+                            - /url: /store/furlift-supplier-staging/settings/general/activity
+                          - generic [ref=e1127]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                - generic [ref=e1131]:
+                  - generic [ref=e1135]:
+                    - heading "Transfer store" [level=2] [ref=e1137]
+                    - paragraph [ref=e1141]:
+                      - generic:
+                        - text: Move this store into an organization or transfer to an external owner.
+                        - link "Learn more" [ref=e1142] [cursor=pointer]:
+                          - /url: https://help.shopify.com/en/manual/organization-settings/create-an-organization
+                          - generic: Learn more
+                  - generic [ref=e1237]:
+                    - generic [ref=e1238]:
+                      - text: austynodia@gmail.com
+                      - generic [ref=e1240]:
+                        - generic: Transfer in progress
+                    - button "Cancel transfer" [ref=e1241] [cursor=pointer]:
+                      - generic [ref=e1242]: Cancel transfer
+      - button "Close" [ref=e1150] [cursor=pointer]:
+        - generic [ref=e1151]:
+          - img [ref=e1154]
+          - generic [ref=e1156]:
+            - generic: Close
+    - dialog "Sidekick" [ref=e1157]:
+      - button "Resize Sidebar" [ref=e1158]:
+        - generic [ref=e1159]:
+          - generic: Resize Sidebar
+    - generic:
+      - generic:
+        - generic: "Change how currencies are displayed on your store. {{amount}} and {{amount_no_decimals}} will be replaced with the price of your product."
+        - generic: Cancel
+        - generic: Save

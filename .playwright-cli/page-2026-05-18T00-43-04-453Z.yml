@@ -1,0 +1,484 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - generic [ref=e22]:
+        - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+          - generic [ref=e28]:
+            - generic [ref=e29]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+              - generic "Search" [ref=e30]
+            - generic [ref=e31]:
+              - generic [ref=e32]: ⌘
+              - generic [ref=e33]: K
+        - button [ref=e510] [cursor=pointer]:
+          - img [ref=e516]
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e522] [cursor=pointer]:
+            - img [ref=e526]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e44] [cursor=pointer]:
+            - img [ref=e529]
+        - button "eguale samuel" [ref=e57] [cursor=pointer]:
+          - generic [ref=e60]:
+            - img "shopwithin" [ref=e64]:
+              - generic [ref=e65]: SHO
+            - paragraph [ref=e67]: shopwithin
+    - generic [ref=e69]:
+      - generic "Navigation" [ref=e70]:
+        - navigation [ref=e532]:
+          - generic [ref=e533]:
+            - generic [ref=e534]:
+              - list [ref=e536]:
+                - listitem [ref=e537]:
+                  - link "Home" [ref=e540] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e541]:
+                      - img [ref=e544]
+                      - img [ref=e548]
+                    - generic [ref=e550]: Home
+                - listitem [ref=e551]:
+                  - link "Orders" [ref=e554] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e555]:
+                      - img [ref=e558]
+                      - img [ref=e562]
+                    - generic [ref=e564]: Orders
+                - listitem [ref=e565]:
+                  - link "Products" [expanded] [ref=e568] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e569]:
+                      - img [ref=e572]
+                      - img [ref=e576]
+                    - generic [ref=e579]: Products
+                  - list [ref=e582]:
+                    - listitem [ref=e583]:
+                      - link "Collections" [ref=e586] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/collections
+                        - generic [ref=e587]: Collections
+                    - listitem [ref=e588]:
+                      - link "Inventory" [ref=e591] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/products/inventory
+                        - generic [ref=e592]: Inventory
+                    - listitem [ref=e593]:
+                      - link "Purchase orders" [ref=e596] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/purchase_orders
+                        - generic [ref=e597]: Purchase orders
+                    - listitem [ref=e598]:
+                      - link "Transfers" [ref=e601] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/transfers
+                        - generic [ref=e602]: Transfers
+                    - listitem [ref=e603]:
+                      - link "Gift cards" [ref=e606] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/gift_cards
+                        - generic [ref=e607]: Gift cards
+                - listitem [ref=e608]:
+                  - link "Customers" [ref=e611] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e612]:
+                      - img [ref=e615]
+                      - img [ref=e620]
+                    - generic [ref=e623]: Customers
+                - listitem [ref=e624]:
+                  - link "Marketing" [ref=e627] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e628]:
+                      - img [ref=e631]
+                      - img [ref=e637]
+                    - generic [ref=e641]: Marketing
+                - listitem [ref=e642]:
+                  - link "Discounts" [ref=e645] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e646]:
+                      - img [ref=e649]
+                      - img [ref=e653]
+                    - generic [ref=e658]: Discounts
+                - listitem [ref=e659]:
+                  - link "Content" [ref=e662] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e663]:
+                      - img [ref=e666]
+                      - img [ref=e673]
+                    - generic [ref=e678]: Content
+                - listitem [ref=e679]:
+                  - link "Markets" [ref=e682] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e683]:
+                      - img [ref=e686]
+                      - img [ref=e691]
+                    - generic [ref=e694]: Markets
+                - listitem [ref=e695]:
+                  - link "Analytics" [ref=e698] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e699]:
+                      - img [ref=e702]
+                      - img [ref=e708]
+                    - generic [ref=e712]: Analytics
+              - list [ref=e713]:
+                - listitem [ref=e714]:
+                  - button "Sales channels" [ref=e716] [cursor=pointer]:
+                    - strong [ref=e718]:
+                      - generic: Sales channels
+                  - list [ref=e720]:
+                    - button "Online Store" [ref=e721]:
+                      - list [ref=e722]:
+                        - listitem [ref=e723]:
+                          - link "Online Store" [ref=e726] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=2be70569-fc46-4ace-b02c-7e867b66c910
+                            - img [ref=e728]
+                            - generic [ref=e729]: Online Store
+                    - button "Agentic" [ref=e730]:
+                      - list [ref=e731]:
+                        - listitem [ref=e732]:
+                          - link "Agentic" [ref=e735] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=a6b12524-25e2-4190-8121-99091ffee01b
+                            - img [ref=e737]
+                            - generic [ref=e738]: Agentic
+                  - status [ref=e739]
+                - listitem [ref=e740]:
+                  - button "Apps" [ref=e742] [cursor=pointer]:
+                    - strong [ref=e744]:
+                      - generic: Apps
+                - listitem [ref=e746]:
+                  - button "Sidekick conversations" [ref=e748] [cursor=pointer]:
+                    - strong [ref=e750]:
+                      - generic: Sidekick conversations
+                  - list [ref=e753]:
+                    - listitem [ref=e754]:
+                      - button "Setting up payments for your store" [ref=e757] [cursor=pointer]:
+                        - generic [ref=e758]: Setting up payments for your store
+            - list [ref=e760]:
+              - listitem [ref=e761]:
+                - link "Settings" [ref=e764] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings
+                  - img [ref=e768]
+                  - generic [ref=e770]: Settings
+      - main [ref=e95]:
+        - generic [ref=e99]:
+          - generic [ref=e100]:
+            - status:
+              - paragraph [ref=e771]: New Blue. This page is ready
+            - generic [ref=e102]:
+              - navigation "Breadcrumbs for Products" [ref=e774]:
+                - link "Products" [ref=e775] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/products
+                  - img [ref=e779]
+                - img [ref=e782]
+                - link "FurLift Reusable Pet Hair Detailer" [ref=e784] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/products/10628065001753
+                  - generic [ref=e785]: FurLift Reusable Pet Hair Detailer
+                - img [ref=e786]
+                - heading "New Blue" [level=1] [ref=e789]
+              - generic [ref=e104]:
+                - button "More actions" [ref=e110] [cursor=pointer]:
+                  - generic [ref=e111]: More actions
+                  - img [ref=e790]
+                - navigation "Pagination" [ref=e117]:
+                  - generic [ref=e119]:
+                    - generic [ref=e120]:
+                      - button "Previous" [disabled]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                    - generic [ref=e121]:
+                      - button "Next" [disabled]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+          - generic [ref=e123]:
+            - button [ref=e125]: Submit
+            - generic [ref=e126]:
+              - generic [ref=e129]:
+                - generic:
+                  - generic [ref=e132]:
+                    - link [ref=e134] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/products/10628065001753
+                    - generic [ref=e137]:
+                      - generic [ref=e138]:
+                        - generic [ref=e139]:
+                          - generic: FurLift Reusable Pet Hair Detailer
+                        - generic [ref=e141]:
+                          - generic: Active
+                      - generic [ref=e142]:
+                        - generic: 1 variant
+                  - generic [ref=e143]:
+                    - generic [ref=e146]:
+                      - generic [ref=e151]:
+                        - generic [ref=e154]: Search variants
+                        - generic [ref=e157]:
+                          - img [ref=e792]
+                          - textbox "Search variants" [ref=e161]
+                      - generic [ref=e169]:
+                        - button "Color" [ref=e174] [cursor=pointer]:
+                          - generic [ref=e175]:
+                            - generic [ref=e178]: Color
+                            - img [ref=e794]
+                        - button "Sales channels" [ref=e186] [cursor=pointer]:
+                          - generic [ref=e187]:
+                            - generic [ref=e190]: Sales channels
+                            - img [ref=e796]
+                    - generic [ref=e195]:
+                      - generic: 1 variant
+                    - list [ref=e198]:
+                      - listitem [ref=e199]:
+                        - generic [ref=e203]:
+                          - img "New Blue" [ref=e207]
+                          - generic [ref=e208]: New Blue
+              - generic [ref=e209]:
+                - generic [ref=e212]:
+                  - generic:
+                    - generic [ref=e214]:
+                      - generic [ref=e217]:
+                        - generic [ref=e219]: Upload image
+                        - generic [ref=e220]:
+                          - button "Upload image" [ref=e222]
+                          - button "Select image for New Blue variant" [ref=e223] [cursor=pointer]
+                      - generic [ref=e227]:
+                        - heading "New Blue" [level=2] [ref=e229]:
+                          - generic: New Blue
+                        - generic [ref=e230]:
+                          - 'button "Channels: All channels" [ref=e798] [cursor=pointer]':
+                            - img [ref=e802]
+                            - generic [ref=e804]:
+                              - generic [ref=e805]:
+                                - generic: "Channels:"
+                              - text: All channels
+                          - 'button "Catalogs: None" [ref=e806] [cursor=pointer]':
+                            - img [ref=e810]
+                            - generic [ref=e815]:
+                              - generic [ref=e816]:
+                                - generic: "Catalogs:"
+                              - text: None
+                    - generic [ref=e238]:
+                      - generic [ref=e239]: Color
+                      - textbox "Color" [ref=e243]: New Blue
+                - generic [ref=e245]:
+                  - generic:
+                    - heading "Price" [level=2] [ref=e248]:
+                      - generic: Price
+                    - group [ref=e252]:
+                      - generic [ref=e258]:
+                        - generic [ref=e261]: Price
+                        - generic [ref=e264]:
+                          - generic: $
+                          - textbox "Price $" [ref=e265]:
+                            - /placeholder: "0.00"
+                            - text: "24.95"
+                    - generic [ref=e269]:
+                      - generic [ref=e270]:
+                        - generic "Compare-at" [ref=e271]:
+                          - button "Compare-at" [ref=e272] [cursor=pointer]:
+                            - paragraph [ref=e275]: Compare-at
+                        - generic "Unit price" [ref=e276]:
+                          - button "Unit price" [ref=e277] [cursor=pointer]:
+                            - paragraph [ref=e280]: Unit price
+                        - generic "Charge tax" [ref=e281]:
+                          - button "Charge tax Yes" [ref=e282] [cursor=pointer]:
+                            - paragraph [ref=e285]: Charge tax
+                            - generic [ref=e289]:
+                              - generic: "Yes"
+                        - generic "Cost per item" [ref=e290]:
+                          - button "Cost per item $1.49" [ref=e291] [cursor=pointer]:
+                            - paragraph [ref=e294]: Cost per item
+                            - generic [ref=e298]:
+                              - generic: $1.49
+                      - button [ref=e300] [cursor=pointer]:
+                        - img [ref=e817]
+                - generic [ref=e306]:
+                  - generic:
+                    - generic [ref=e308]:
+                      - heading "Inventory" [level=2] [ref=e309]:
+                        - generic: Inventory
+                      - generic [ref=e313]:
+                        - generic [ref=e315]: Inventory tracked
+                        - generic [ref=e318] [cursor=pointer]:
+                          - checkbox "Inventory tracked" [checked] [ref=e319]
+                          - generic [ref=e320]: Inventory tracked
+                    - generic [ref=e327]:
+                      - table [ref=e330]:
+                        - rowgroup [ref=e822]:
+                          - row "Locations Unavailable Committed Available On hand" [ref=e823]:
+                            - columnheader "Locations" [ref=e824]:
+                              - generic [ref=e825]:
+                                - paragraph [ref=e826]:
+                                  - generic: Locations
+                                - button "Edit locations" [ref=e827] [cursor=pointer]:
+                                  - img [ref=e830]
+                            - columnheader "Unavailable" [ref=e832]
+                            - columnheader "Committed" [ref=e833]
+                            - columnheader "Available" [ref=e834]
+                            - columnheader "On hand" [ref=e835]
+                        - rowgroup [ref=e345]:
+                          - row "App Zendrop Unavailable 0 0 Quantity 50,000 Quantity 50,000" [ref=e346]:
+                            - cell "App Zendrop" [ref=e347]:
+                              - generic [ref=e350]:
+                                - generic [ref=e353]:
+                                  - generic: App
+                                - generic [ref=e354]:
+                                  - generic: Zendrop
+                            - cell "Unavailable 0" [ref=e355] [cursor=pointer]:
+                              - generic [ref=e356]:
+                                - button "Unavailable" [ref=e357]
+                                - generic [ref=e358]:
+                                  - generic [ref=e360]:
+                                    - generic: "0"
+                                  - img [ref=e836]
+                            - cell "0" [ref=e364]:
+                              - generic [ref=e366]:
+                                - generic: "0"
+                            - cell "Quantity 50,000" [ref=e367] [cursor=pointer]:
+                              - generic [ref=e368]:
+                                - button "Quantity" [ref=e369]
+                                - generic [ref=e370]:
+                                  - generic [ref=e371]:
+                                    - generic: 50,000
+                                  - img [ref=e838]
+                            - cell "Quantity 50,000" [ref=e375] [cursor=pointer]:
+                              - generic [ref=e376]:
+                                - button "Quantity" [ref=e377]
+                                - generic [ref=e378]:
+                                  - generic [ref=e379]:
+                                    - generic: 50,000
+                                  - img [ref=e841]
+                      - paragraph [ref=e385]:
+                        - link "View adjustment history" [ref=e386] [cursor=pointer]:
+                          - /url: /store/mxu168-9g/products/inventory/54388876509465/inventory_history
+                          - generic: View adjustment history
+                    - generic [ref=e390]:
+                      - generic [ref=e391]:
+                        - generic "SKU" [ref=e392]:
+                          - button "SKU VLOY30HZN" [ref=e393] [cursor=pointer]:
+                            - paragraph [ref=e396]: SKU
+                            - generic [ref=e400]:
+                              - generic: VLOY30HZN
+                        - generic "Barcode" [ref=e401]:
+                          - button "Barcode" [ref=e402] [cursor=pointer]:
+                            - paragraph [ref=e405]: Barcode
+                        - generic "Sell when out of stock" [ref=e406]:
+                          - button "Sell when out of stock Off" [ref=e407] [cursor=pointer]:
+                            - paragraph [ref=e410]: Sell when out of stock
+                            - generic [ref=e414]:
+                              - generic: "Off"
+                      - button [ref=e416] [cursor=pointer]:
+                        - img [ref=e844]
+                - generic [ref=e422]:
+                  - generic:
+                    - generic [ref=e424]:
+                      - heading "Shipping" [level=2] [ref=e425]:
+                        - generic: Shipping
+                      - generic [ref=e426]:
+                        - generic [ref=e428]: Physical product
+                        - generic [ref=e431] [cursor=pointer]:
+                          - checkbox "Physical product" [checked] [ref=e432]
+                          - generic [ref=e433]: Physical product
+                    - generic [ref=e435]:
+                      - generic [ref=e437]:
+                        - generic [ref=e438]:
+                          - generic [ref=e440]: Package
+                          - img [ref=e846]
+                        - combobox "Package" [ref=e444] [cursor=pointer]:
+                          - generic [ref=e445]:
+                            - generic [ref=e449]:
+                              - img [ref=e850]
+                              - generic [ref=e452]:
+                                - paragraph [ref=e453]: Store default
+                                - paragraph [ref=e454]:
+                                  - generic: •
+                                - paragraph [ref=e455]: Sample box - 22 × 13.7 × 4.2 cm, 0 kg
+                            - img [ref=e853]
+                      - generic [ref=e460]:
+                        - generic [ref=e463]: Product weight
+                        - generic [ref=e464]:
+                          - textbox "Product weight" [ref=e467]:
+                            - /placeholder: "0.0"
+                            - text: "0.0"
+                          - generic [ref=e470]:
+                            - generic:
+                              - generic [ref=e471]: Weight unit
+                              - generic [ref=e472]:
+                                - generic [ref=e477]: kg
+                                - img [ref=e856]
+                                - combobox "Weight unit" [ref=e480] [cursor=pointer]:
+                                  - option "lb"
+                                  - option "oz"
+                                  - option "kg" [selected]
+                                  - option "g"
+                    - generic [ref=e484]:
+                      - generic [ref=e485]:
+                        - generic "Country of origin" [ref=e486]:
+                          - button "Country of origin" [ref=e487] [cursor=pointer]:
+                            - paragraph [ref=e490]: Country of origin
+                        - generic "HS Code" [ref=e491]:
+                          - button "HS Code" [ref=e492] [cursor=pointer]:
+                            - paragraph [ref=e495]: HS Code
+                      - button [ref=e497] [cursor=pointer]:
+                        - img [ref=e859]
+              - generic [ref=e504]:
+                - button "Save" [disabled]:
+                  - generic: Save
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e861]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - dialog "Manage publishing for 1 variant" [active]:
+              - generic [ref=e863]:
+                - generic [ref=e865]:
+                  - heading "Manage publishing for 1 variant" [level=2] [ref=e867]
+                  - button "Close" [ref=e868] [cursor=pointer]:
+                    - img [ref=e872]
+                - generic [ref=e876]:
+                  - generic [ref=e879]:
+                    - button "Sales Channels 2" [ref=e880] [cursor=pointer]:
+                      - generic [ref=e881]:
+                        - generic [ref=e882]:
+                          - img [ref=e885]
+                          - strong [ref=e887]:
+                            - generic: Sales Channels
+                        - generic [ref=e890]:
+                          - generic: "2"
+                    - button "Agentic 1" [ref=e891] [cursor=pointer]:
+                      - generic [ref=e892]:
+                        - generic [ref=e893]:
+                          - img [ref=e895]
+                          - strong [ref=e898]:
+                            - generic: Agentic
+                        - generic [ref=e901]:
+                          - generic: "1"
+                  - generic [ref=e903]:
+                    - generic [ref=e906]:
+                      - generic [ref=e907]:
+                        - generic [ref=e908]:
+                          - generic [ref=e910]: search
+                          - generic [ref=e913]:
+                            - img [ref=e918]
+                            - searchbox "search" [ref=e920]
+                        - button "Status" [ref=e923] [cursor=pointer]:
+                          - generic [ref=e924]:
+                            - text: Status
+                            - img [ref=e927]
+                      - paragraph [ref=e930]:
+                        - generic: No catalogs found
+                    - group [ref=e934]:
+                      - button "Cancel" [ref=e936] [cursor=pointer]:
+                        - generic [ref=e938]:
+                          - generic: Cancel
+                      - button "Done" [disabled] [ref=e940]:
+                        - generic [ref=e942]:
+                          - generic: Done

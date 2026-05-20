@@ -1,0 +1,571 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e30]
+          - generic [ref=e31]:
+            - generic [ref=e32]: ⌘
+            - generic [ref=e33]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e40] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e54] [cursor=pointer]:
+            - img [ref=e58]
+        - button "eguale samuel" [ref=e69] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img "ODIADEV store" [ref=e76]:
+              - generic [ref=e77]: OS
+            - paragraph [ref=e79]: ODIADEV store
+    - generic [ref=e81]:
+      - generic "Navigation" [ref=e82]:
+        - navigation [ref=e84]:
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - list [ref=e88]:
+                - listitem [ref=e89]:
+                  - link "Home" [ref=e92] [cursor=pointer]:
+                    - /url: /store/odiadev-store
+                    - generic [ref=e93]:
+                      - img [ref=e96]
+                      - img [ref=e100]
+                    - generic [ref=e102]: Home
+                - listitem [ref=e103]:
+                  - link "Orders" [ref=e106] [cursor=pointer]:
+                    - /url: /store/odiadev-store/orders
+                    - generic [ref=e107]:
+                      - img [ref=e110]
+                      - img [ref=e114]
+                    - generic [ref=e116]: Orders
+                - listitem [ref=e117]:
+                  - link "Products" [ref=e120] [cursor=pointer]:
+                    - /url: /store/odiadev-store/products
+                    - generic [ref=e121]:
+                      - img [ref=e124]
+                      - img [ref=e128]
+                    - generic [ref=e131]: Products
+                - listitem [ref=e132]:
+                  - link "Customers" [ref=e135] [cursor=pointer]:
+                    - /url: /store/odiadev-store/customers
+                    - generic [ref=e136]:
+                      - img [ref=e139]
+                      - img [ref=e144]
+                    - generic [ref=e147]: Customers
+                - listitem [ref=e148]:
+                  - link "Marketing" [ref=e151] [cursor=pointer]:
+                    - /url: /store/odiadev-store/marketing
+                    - generic [ref=e152]:
+                      - img [ref=e155]
+                      - img [ref=e161]
+                    - generic [ref=e165]: Marketing
+                - listitem [ref=e166]:
+                  - link "Discounts" [ref=e169] [cursor=pointer]:
+                    - /url: /store/odiadev-store/discounts
+                    - generic [ref=e170]:
+                      - img [ref=e173]
+                      - img [ref=e177]
+                    - generic [ref=e182]: Discounts
+                - listitem [ref=e183]:
+                  - link "Content" [ref=e186] [cursor=pointer]:
+                    - /url: /store/odiadev-store/content/metaobjects
+                    - generic [ref=e187]:
+                      - img [ref=e190]
+                      - img [ref=e197]
+                    - generic [ref=e202]: Content
+                - listitem [ref=e203]:
+                  - link "Markets" [ref=e206] [cursor=pointer]:
+                    - /url: /store/odiadev-store/markets
+                    - generic [ref=e207]:
+                      - img [ref=e210]
+                      - img [ref=e215]
+                    - generic [ref=e218]: Markets
+                - listitem [ref=e219]:
+                  - link "Analytics" [ref=e222] [cursor=pointer]:
+                    - /url: /store/odiadev-store/analytics
+                    - generic [ref=e223]:
+                      - img [ref=e226]
+                      - img [ref=e232]
+                    - generic [ref=e236]: Analytics
+              - list [ref=e237]:
+                - listitem [ref=e238]:
+                  - button "Sales channels" [ref=e240] [cursor=pointer]:
+                    - strong [ref=e242]:
+                      - generic: Sales channels
+                  - list [ref=e244]:
+                    - button "Online Store" [ref=e245]:
+                      - list [ref=e246]:
+                        - listitem [ref=e247]:
+                          - link "Online Store" [ref=e250] [cursor=pointer]:
+                            - /url: /store/odiadev-store/themes?appLoadId=a3c256ca-5bcf-4829-a7db-0eb95aa18c72
+                            - img [ref=e252]
+                            - generic [ref=e253]: Online Store
+                    - button "Agentic" [ref=e254]:
+                      - list [ref=e255]:
+                        - listitem [ref=e256]:
+                          - link "Agentic" [ref=e259] [cursor=pointer]:
+                            - /url: /store/odiadev-store/apps/agentic?appLoadId=26510294-597a-4179-a203-e374c1d5087a
+                            - img [ref=e261]
+                            - generic [ref=e262]: Agentic
+                  - status [ref=e263]
+                - listitem [ref=e264]:
+                  - button "Apps" [ref=e266] [cursor=pointer]:
+                    - strong [ref=e268]:
+                      - generic: Apps
+                  - button "Add" [ref=e271] [cursor=pointer]:
+                    - img [ref=e550]
+                    - text: Add
+            - generic [ref=e275]:
+              - list [ref=e276]:
+                - listitem [ref=e277]:
+                  - link "Settings" [ref=e280] [cursor=pointer]:
+                    - /url: /store/odiadev-store/settings
+                    - img [ref=e284]
+                    - generic [ref=e286]: Settings
+              - link "Subscribe for $1" [ref=e288] [cursor=pointer]:
+                - /url: /store/odiadev-store/subscribe/checkout
+                - generic [ref=e289]:
+                  - paragraph [ref=e290]: Trial ends in 3 days
+                  - paragraph [ref=e291]: Subscribe for $1
+                  - button "Select a plan" [ref=e293]:
+                    - generic [ref=e295]:
+                      - generic: Select a plan
+      - main [ref=e296]
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e546]:
+      - button "Resize Sidebar" [ref=e547]:
+        - generic [ref=e548]:
+          - generic: Resize Sidebar
+    - dialog "Signup Dialog" [active] [ref=e554]:
+      - button "Close" [ref=e555]:
+        - img [ref=e556]
+      - generic [ref=e561]:
+        - generic:
+          - img
+        - generic [ref=e562]:
+          - generic [ref=e564]:
+            - paragraph [ref=e567]: Trial ends in 3 days
+            - generic [ref=e568]:
+              - heading "Subscribe for $1" [level=1] [ref=e569]
+              - paragraph [ref=e570]: Get $1/month for 3 months. No commitment, cancel anytime.
+          - button "See plans first" [ref=e572] [cursor=pointer]
+        - generic [ref=e574]:
+          - button "Includes domain offer Earn $20 USD in subscription credits toward future bills when you buy or connect a domain. Terms apply" [ref=e578] [cursor=pointer]:
+            - generic [ref=e579]:
+              - generic [ref=e580]:
+                - generic [ref=e581]: Includes domain offer
+                - img [ref=e583]
+              - generic [ref=e586]:
+                - text: Earn $20 USD in subscription credits toward future bills when you buy or connect a domain.
+                - link "Terms apply" [ref=e587]:
+                  - /url: https://www.shopify.com/domain-promotion/terms-and-conditions
+                  - generic: Terms apply
+          - generic [ref=e589]:
+            - generic [ref=e591]:
+              - button "Back" [ref=e593] [cursor=pointer]:
+                - img [ref=e596]
+              - group [ref=e598]:
+                - generic [ref=e607]:
+                  - textbox "Card number" [ref=e609]:
+                    - generic: Card number
+                    - iframe [ref=e613]:
+                      - generic [ref=f62e2]:
+                        - generic [ref=f62e3]:
+                          - generic [ref=f62e4]: Credit Card Number
+                          - textbox "Credit Card Number" [ref=f62e5]
+                        - generic [ref=f62e8]: Name on card
+                        - textbox [ref=f62e9]
+                        - generic [ref=f62e10]: Expiry month
+                        - textbox [ref=f62e11]
+                        - generic [ref=f62e12]: Expiry year
+                        - textbox [ref=f62e13]
+                        - generic [ref=f62e14]: Expiry date (MM / YY)
+                        - textbox [ref=f62e15]
+                        - generic [ref=f62e16]: Security code
+                        - textbox [ref=f62e17]
+                        - generic [ref=f62e18]: Issue date (MM / YY)
+                        - textbox [ref=f62e19]
+                        - generic [ref=f62e20]: Issue number
+                        - textbox [ref=f62e21]
+                        - button [ref=f62e22]
+                    - generic [ref=e615]:
+                      - generic [ref=e617]:
+                        - img "Visa" [ref=e619]
+                        - img "Mastercard" [ref=e621]
+                        - img "American Express" [ref=e623]
+                        - img "Discover" [ref=e625]
+                      - img [ref=e628]
+                  - generic [ref=e631]:
+                    - textbox "MM / YY" [ref=e634]:
+                      - generic: MM / YY
+                      - iframe [ref=e638]:
+                        - generic [ref=f63e2]:
+                          - generic [ref=f63e3]: Credit Card Number
+                          - textbox [ref=f63e4]
+                          - generic [ref=f63e5]: Name on card
+                          - textbox [ref=f63e6]
+                          - generic [ref=f63e7]: Expiry month
+                          - textbox [ref=f63e8]
+                          - generic [ref=f63e9]: Expiry year
+                          - textbox [ref=f63e10]
+                          - generic [ref=f63e11]:
+                            - generic [ref=f63e12]: Expiry date (MM / YY)
+                            - textbox "Expiry date (MM / YY)" [ref=f63e13]
+                          - generic [ref=f63e16]: Security code
+                          - textbox [ref=f63e17]
+                          - generic [ref=f63e18]: Issue date (MM / YY)
+                          - textbox [ref=f63e19]
+                          - generic [ref=f63e20]: Issue number
+                          - textbox [ref=f63e21]
+                          - button [ref=f63e22]
+                    - textbox "CVV" [ref=e641]:
+                      - generic: CVV
+                      - iframe [ref=e645]:
+                        - generic [ref=f64e2]:
+                          - generic [ref=f64e3]: Credit Card Number
+                          - textbox [ref=f64e4]
+                          - generic [ref=f64e5]: Name on card
+                          - textbox [ref=f64e6]
+                          - generic [ref=f64e7]: Expiry month
+                          - textbox [ref=f64e8]
+                          - generic [ref=f64e9]: Expiry year
+                          - textbox [ref=f64e10]
+                          - generic [ref=f64e11]: Expiry date (MM / YY)
+                          - textbox [ref=f64e12]
+                          - generic [ref=f64e13]:
+                            - generic [ref=f64e14]: Security code
+                            - textbox "Security code" [ref=f64e15]
+                          - generic [ref=f64e18]: Issue date (MM / YY)
+                          - textbox [ref=f64e19]
+                          - generic [ref=f64e20]: Issue number
+                          - textbox [ref=f64e21]
+                          - button [ref=f64e22]
+                      - img [ref=e649]
+                - generic [ref=e654]:
+                  - generic [ref=e655]:
+                    - generic [ref=e657]:
+                      - generic: First name
+                      - textbox "First name" [ref=e658]:
+                        - /placeholder: " "
+                    - generic [ref=e660]:
+                      - generic: Last name
+                      - textbox "Last name" [ref=e661]:
+                        - /placeholder: " "
+                  - generic [ref=e664]:
+                    - generic: Address
+                    - combobox "Address" [ref=e665]
+                  - generic [ref=e667] [cursor=pointer]:
+                    - generic [ref=e668]:
+                      - generic [ref=e669]: Country/region
+                      - generic [ref=e670]: Nigeria
+                    - img [ref=e672]
+                    - combobox "Country/region" [ref=e675]:
+                      - option "Afghanistan"
+                      - option "Åland Islands"
+                      - option "Albania"
+                      - option "Algeria"
+                      - option "Andorra"
+                      - option "Angola"
+                      - option "Anguilla"
+                      - option "Antigua & Barbuda"
+                      - option "Argentina"
+                      - option "Armenia"
+                      - option "Aruba"
+                      - option "Ascension Island"
+                      - option "Australia"
+                      - option "Austria"
+                      - option "Azerbaijan"
+                      - option "Bahamas"
+                      - option "Bahrain"
+                      - option "Bangladesh"
+                      - option "Barbados"
+                      - option "Belarus"
+                      - option "Belgium"
+                      - option "Belize"
+                      - option "Benin"
+                      - option "Bermuda"
+                      - option "Bhutan"
+                      - option "Bolivia"
+                      - option "Bosnia & Herzegovina"
+                      - option "Botswana"
+                      - option "Brazil"
+                      - option "British Indian Ocean Territory"
+                      - option "British Virgin Islands"
+                      - option "Brunei"
+                      - option "Bulgaria"
+                      - option "Burkina Faso"
+                      - option "Burundi"
+                      - option "Cambodia"
+                      - option "Cameroon"
+                      - option "Canada"
+                      - option "Cape Verde"
+                      - option "Caribbean Netherlands"
+                      - option "Cayman Islands"
+                      - option "Central African Republic"
+                      - option "Chad"
+                      - option "Chile"
+                      - option "China"
+                      - option "Christmas Island"
+                      - option "Cocos (Keeling) Islands"
+                      - option "Colombia"
+                      - option "Comoros"
+                      - option "Congo - Brazzaville"
+                      - option "Congo - Kinshasa"
+                      - option "Cook Islands"
+                      - option "Costa Rica"
+                      - option "Croatia"
+                      - option "Curaçao"
+                      - option "Cyprus"
+                      - option "Czechia"
+                      - option "Côte d’Ivoire"
+                      - option "Denmark"
+                      - option "Djibouti"
+                      - option "Dominica"
+                      - option "Dominican Republic"
+                      - option "Ecuador"
+                      - option "Egypt"
+                      - option "El Salvador"
+                      - option "Equatorial Guinea"
+                      - option "Eritrea"
+                      - option "Estonia"
+                      - option "Eswatini"
+                      - option "Ethiopia"
+                      - option "Falkland Islands"
+                      - option "Faroe Islands"
+                      - option "Fiji"
+                      - option "Finland"
+                      - option "France"
+                      - option "French Guiana"
+                      - option "French Polynesia"
+                      - option "French Southern Territories"
+                      - option "Gabon"
+                      - option "Gambia"
+                      - option "Georgia"
+                      - option "Germany"
+                      - option "Ghana"
+                      - option "Gibraltar"
+                      - option "Greece"
+                      - option "Greenland"
+                      - option "Grenada"
+                      - option "Guadeloupe"
+                      - option "Guatemala"
+                      - option "Guernsey"
+                      - option "Guinea"
+                      - option "Guinea-Bissau"
+                      - option "Guyana"
+                      - option "Haiti"
+                      - option "Honduras"
+                      - option "Hong Kong SAR"
+                      - option "Hungary"
+                      - option "Iceland"
+                      - option "India"
+                      - option "Indonesia"
+                      - option "Iraq"
+                      - option "Ireland"
+                      - option "Isle of Man"
+                      - option "Israel"
+                      - option "Italy"
+                      - option "Jamaica"
+                      - option "Japan"
+                      - option "Jersey"
+                      - option "Jordan"
+                      - option "Kazakhstan"
+                      - option "Kenya"
+                      - option "Kiribati"
+                      - option "Kosovo"
+                      - option "Kuwait"
+                      - option "Kyrgyzstan"
+                      - option "Laos"
+                      - option "Latvia"
+                      - option "Lebanon"
+                      - option "Lesotho"
+                      - option "Liberia"
+                      - option "Libya"
+                      - option "Liechtenstein"
+                      - option "Lithuania"
+                      - option "Luxembourg"
+                      - option "Macao SAR"
+                      - option "Madagascar"
+                      - option "Malawi"
+                      - option "Malaysia"
+                      - option "Maldives"
+                      - option "Mali"
+                      - option "Malta"
+                      - option "Martinique"
+                      - option "Mauritania"
+                      - option "Mauritius"
+                      - option "Mayotte"
+                      - option "Mexico"
+                      - option "Moldova"
+                      - option "Monaco"
+                      - option "Mongolia"
+                      - option "Montenegro"
+                      - option "Montserrat"
+                      - option "Morocco"
+                      - option "Mozambique"
+                      - option "Myanmar (Burma)"
+                      - option "Namibia"
+                      - option "Nauru"
+                      - option "Nepal"
+                      - option "Netherlands"
+                      - option "New Caledonia"
+                      - option "New Zealand"
+                      - option "Nicaragua"
+                      - option "Niger"
+                      - option "Nigeria" [selected]
+                      - option "Niue"
+                      - option "Norfolk Island"
+                      - option "North Macedonia"
+                      - option "Norway"
+                      - option "Oman"
+                      - option "Pakistan"
+                      - option "Palestinian Territories"
+                      - option "Panama"
+                      - option "Papua New Guinea"
+                      - option "Paraguay"
+                      - option "Peru"
+                      - option "Philippines"
+                      - option "Pitcairn Islands"
+                      - option "Poland"
+                      - option "Portugal"
+                      - option "Qatar"
+                      - option "Réunion"
+                      - option "Romania"
+                      - option "Russia"
+                      - option "Rwanda"
+                      - option "Samoa"
+                      - option "San Marino"
+                      - option "São Tomé & Príncipe"
+                      - option "Saudi Arabia"
+                      - option "Senegal"
+                      - option "Serbia"
+                      - option "Seychelles"
+                      - option "Sierra Leone"
+                      - option "Singapore"
+                      - option "Sint Maarten"
+                      - option "Slovakia"
+                      - option "Slovenia"
+                      - option "Solomon Islands"
+                      - option "Somalia"
+                      - option "South Africa"
+                      - option "South Georgia & South Sandwich Islands"
+                      - option "South Korea"
+                      - option "South Sudan"
+                      - option "Spain"
+                      - option "Sri Lanka"
+                      - option "St. Barthélemy"
+                      - option "St. Helena"
+                      - option "St. Kitts & Nevis"
+                      - option "St. Lucia"
+                      - option "St. Martin"
+                      - option "St. Pierre & Miquelon"
+                      - option "St. Vincent & Grenadines"
+                      - option "Sudan"
+                      - option "Suriname"
+                      - option "Svalbard & Jan Mayen"
+                      - option "Sweden"
+                      - option "Switzerland"
+                      - option "Taiwan"
+                      - option "Tajikistan"
+                      - option "Tanzania"
+                      - option "Thailand"
+                      - option "Timor-Leste"
+                      - option "Togo"
+                      - option "Tokelau"
+                      - option "Tonga"
+                      - option "Trinidad & Tobago"
+                      - option "Tristan da Cunha"
+                      - option "Tunisia"
+                      - option "Türkiye"
+                      - option "Turkmenistan"
+                      - option "Turks & Caicos Islands"
+                      - option "Tuvalu"
+                      - option "U.S. Outlying Islands"
+                      - option "Uganda"
+                      - option "Ukraine"
+                      - option "United Arab Emirates"
+                      - option "United Kingdom"
+                      - option "United States"
+                      - option "Uruguay"
+                      - option "Uzbekistan"
+                      - option "Vanuatu"
+                      - option "Vatican City"
+                      - option "Venezuela"
+                      - option "Vietnam"
+                      - option "Wallis & Futuna"
+                      - option "Western Sahara"
+                      - option "Yemen"
+                      - option "Zambia"
+                      - option "Zimbabwe"
+                  - generic [ref=e676]:
+                    - generic [ref=e678]:
+                      - generic: City
+                      - textbox "City" [ref=e679]:
+                        - /placeholder: " "
+                    - generic [ref=e680]:
+                      - generic [ref=e683] [cursor=pointer]:
+                        - generic [ref=e684]:
+                          - generic [ref=e685]: State
+                          - generic [ref=e686]: Select one
+                        - img [ref=e688]
+                        - combobox "State" [ref=e691]:
+                          - option "Select one" [disabled] [selected]
+                          - option "Abia"
+                          - option "Federal Capital Territory"
+                          - option "Adamawa"
+                          - option "Akwa Ibom"
+                          - option "Anambra"
+                          - option "Bauchi"
+                          - option "Bayelsa"
+                          - option "Benue"
+                          - option "Borno"
+                          - option "Cross River"
+                          - option "Delta"
+                          - option "Ebonyi"
+                          - option "Edo"
+                          - option "Ekiti"
+                          - option "Enugu"
+                          - option "Gombe"
+                          - option "Imo"
+                          - option "Jigawa"
+                          - option "Kaduna"
+                          - option "Kano"
+                          - option "Katsina"
+                          - option "Kebbi"
+                          - option "Kogi"
+                          - option "Kwara"
+                          - option "Lagos"
+                          - option "Nasarawa"
+                          - option "Niger"
+                          - option "Ogun"
+                          - option "Ondo"
+                          - option "Osun"
+                          - option "Oyo"
+                          - option "Plateau"
+                          - option "Rivers"
+                          - option "Sokoto"
+                          - option "Taraba"
+                          - option "Yobe"
+                          - option "Zamfara"
+                      - generic [ref=e694]:
+                        - generic: Postal code
+                        - textbox "Postal code" [ref=e695]:
+                          - /placeholder: " "
+            - button "Subscribe for $1" [ref=e697] [cursor=pointer]
+            - paragraph [ref=e698]: Renews Aug 19, 2026 on Basic plan, $27/mo + tax. Cancel before your free trial ends to avoid charges.

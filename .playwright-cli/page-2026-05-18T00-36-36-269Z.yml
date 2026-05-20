@@ -1,0 +1,152 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e3]:
+    - complementary [ref=e6]:
+      - paragraph [ref=e10]: Welcome to our store
+    - banner [ref=e11]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - link "shopwithin" [ref=e17] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e18]: shopwithin
+          - navigation "Primary" [ref=e21]:
+            - list [ref=e23]:
+              - generic:
+                - link "Home" [ref=e24] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=e25]: Home
+                - link "Catalog" [ref=e26] [cursor=pointer]:
+                  - /url: /collections/all
+                  - generic [ref=e27]: Catalog
+                - link "Contact" [ref=e28] [cursor=pointer]:
+                  - /url: /pages/contact
+                  - generic [ref=e29]: Contact
+        - generic [ref=e30]:
+          - button "USD Region and language selector" [ref=e32] [cursor=pointer]:
+            - generic [ref=e33]: USD
+            - generic [ref=e34]: Region and language selector
+            - generic:
+              - img
+          - button "Search" [ref=e36] [cursor=pointer]:
+            - generic:
+              - img
+          - generic [ref=e37]:
+            - button "Account" [ref=e42] [cursor=pointer]:
+              - img [ref=e44]
+            - button "Cart" [ref=e47] [cursor=pointer]:
+              - generic [ref=e48]:
+                - generic:
+                  - img
+            - status [ref=e51]
+  - main [ref=e52]:
+    - generic [ref=e55]:
+      - link "Skip to product information" [ref=e56] [cursor=pointer]:
+        - /url: "#ProductInformation-template--27278306967833__main"
+      - generic [ref=e57]:
+        - list [ref=e60]:
+          - listitem [ref=e61]:
+            - button "Zoom media 1" [ref=e62]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e64]
+          - listitem [ref=e65]:
+            - button "Zoom media 2" [ref=e66]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e68]
+          - listitem [ref=e69]:
+            - button "Zoom media 3" [ref=e70]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e72]
+          - listitem [ref=e73]:
+            - button "Zoom media 4" [ref=e74]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e76]
+          - listitem [ref=e77]:
+            - button "Zoom media 5" [ref=e78]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e80]
+          - listitem [ref=e81]:
+            - button "Zoom media 6" [ref=e82]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e84]
+          - listitem [ref=e85]:
+            - button "Zoom media 7" [ref=e86]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e88]
+          - listitem [ref=e89]:
+            - button "Zoom media 8" [ref=e90]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e92]
+          - listitem [ref=e93]:
+            - button "Zoom media 9" [ref=e94]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e96]
+          - listitem [ref=e97]:
+            - button "Zoom media 10" [ref=e98]
+            - img "FurLift Reusable Pet Hair Detailer" [ref=e100]
+        - generic [ref=e103]:
+          - generic [ref=e105]:
+            - heading "FurLift Reusable Pet Hair Detailer" [level=1] [ref=e107]
+            - generic [ref=e110]: $24.95
+          - generic [ref=e115]: ColorNew Blue
+          - generic [ref=e117]:
+            - status [ref=e118]
+            - generic [ref=e120]:
+              - generic [ref=e122]:
+                - button "Decrease quantity" [disabled] [ref=e123] [cursor=pointer]:
+                  - generic [ref=e124]: Decrease quantity
+                  - generic:
+                    - img
+                - spinbutton "Quantity" [disabled] [ref=e125]: "1"
+                - button "Increase quantity" [ref=e126] [cursor=pointer]:
+                  - generic [ref=e127]: Increase quantity
+                  - generic:
+                    - img
+              - button "Unavailable" [disabled] [ref=e130]:
+                - generic [ref=e133]: Unavailable
+                - generic [ref=e134]:
+                  - generic:
+                    - img
+          - generic [ref=e135]:
+            - paragraph [ref=e136]:
+              - strong [ref=e137]: Material
+              - text: ": Plastic, Metal"
+            - paragraph [ref=e138]:
+              - strong [ref=e139]: Product Attributes
+              - text: ": Standard"
+            - paragraph [ref=e140]:
+              - strong [ref=e141]: Package Size
+              - text: ": 160"
+              - emphasis [ref=e142]: "160"
+              - text: 280mm; 160
+              - emphasis [ref=e143]: "160"
+              - text: 140mm
+            - paragraph [ref=e144]:
+              - strong [ref=e145]: About This Item
+            - list [ref=e146]:
+              - listitem [ref=e147]:
+                - strong [ref=e148]: Double-Sided Design
+                - text: ": Features a unique handle with two sides—one side has a pure copper blade for quick removal of lint and pet hair, while the other smooths the fabric."
+              - listitem [ref=e149]:
+                - strong [ref=e150]: Durable and Safe
+                - text: ": Made from high-quality PP plastic and pure copper, this lint remover is rust-resistant and safe to use for extended periods."
+              - listitem [ref=e151]:
+                - strong [ref=e152]: Versatile Use
+                - text: ": Ideal for removing lint, pet hair, and dust from carpets, clothing, furniture, bedding, and more. Not recommended for low-density knitwear or delicate fabrics."
+              - listitem [ref=e153]:
+                - strong [ref=e154]: Portable and Easy to Clean
+                - text: ": Lightweight and compact for easy travel. After use, simply wipe clean."
+              - listitem [ref=e155]:
+                - strong [ref=e156]: How to Use
+                - text: ": Lay fabric flat and gently scrape in one direction to remove lint."
+  - contentinfo [ref=e157]:
+    - generic [ref=e161]:
+      - generic [ref=e163]:
+        - heading "Join our email list" [level=2] [ref=e165]
+        - paragraph [ref=e167]: Get exclusive deals and early access to new products.
+      - generic [ref=e170]:
+        - generic [ref=e171]: Email
+        - textbox "Email" [ref=e172]:
+          - /placeholder: Email address
+        - button "Sign up" [ref=e173]:
+          - img [ref=e174]
+    - generic [ref=e179]:
+      - generic [ref=e181]:
+        - text: © 2026
+        - link "shopwithin" [ref=e182] [cursor=pointer]:
+          - /url: /
+        - text: ","
+        - link "Powered by Shopify" [ref=e183] [cursor=pointer]:
+          - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+      - button "Terms and Policies" [ref=e185] [cursor=pointer]

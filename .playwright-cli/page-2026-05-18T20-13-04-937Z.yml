@@ -1,0 +1,91 @@
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - heading "Facebook" [level=1] [ref=e9]:
+        - link "Facebook" [ref=e10] [cursor=pointer]:
+          - /url: https://web.facebook.com/
+          - generic [ref=e12]: Facebook
+      - generic [ref=e13]:
+        - link "Join or log in to Facebook" [ref=e14] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e15]: Join or log in to Facebook
+        - generic [ref=e19]:
+          - generic [ref=e22]:
+            - generic [ref=e23]: Email or phone
+            - textbox "Email or phone" [active] [ref=e25]
+            - generic [ref=e26]: Password
+            - textbox "Password" [ref=e28]
+            - link "Forgotten account?" [ref=e30] [cursor=pointer]:
+              - /url: https://web.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar
+            - button "Log in" [ref=e31] [cursor=pointer]
+          - generic [ref=e32]: Do you want to join Facebook?
+          - button "Sign up" [ref=e33] [cursor=pointer]
+    - button "Sign Up" [ref=e34] [cursor=pointer]
+  - main [ref=e36]:
+    - generic [ref=e37]:
+      - generic [ref=e39]:
+        - generic [ref=e40]: Create a Page
+        - generic [ref=e41]: Connect your business, yourself or your cause to the worldwide community of people on Facebook. To get started, choose a Page category.
+      - table [ref=e45]:
+        - rowgroup [ref=e46]:
+          - row "Business or brand Showcase your products and services, spotlight your brand and reach more customers on Facebook. Get Started Business or brand Connect with customers, grow your audience and showcase your products with a free business Page. Page name Category When you create a Page on Facebook, the Pages, Groups and Events Policies apply. Continue Community or public figure Connect and share with people in your community, organisation, team, group or club. Get Started Community or public figure Connect with people in your community and share news about what's important to you with a free Facebook Page. Page name Category When you create a Page on Facebook, the Pages, Groups and Events Policies apply. Continue" [ref=e47]:
+            - cell "Business or brand Showcase your products and services, spotlight your brand and reach more customers on Facebook. Get Started Business or brand Connect with customers, grow your audience and showcase your products with a free business Page. Page name Category When you create a Page on Facebook, the Pages, Groups and Events Policies apply. Continue" [ref=e48]:
+              - generic [ref=e49]:
+                - generic [ref=e50]:
+                  - generic [ref=e51]: Business or brand
+                  - text: Showcase your products and services, spotlight your brand and reach more customers on Facebook.
+                - button "Get Started" [disabled] [ref=e53]:
+                  - generic [ref=e55]: Get Started
+                - generic [ref=e56]:
+                  - generic [ref=e57]: Business or brand
+                  - generic [ref=e58]: Connect with customers, grow your audience and showcase your products with a free business Page.
+                  - table [ref=e60]:
+                    - rowgroup [ref=e61]:
+                      - row "Page name" [ref=e62]:
+                        - cell "Page name" [ref=e63]:
+                          - generic [ref=e64]:
+                            - generic [ref=e65]: Page name
+                            - textbox [ref=e68]:
+                              - /placeholder: Name your Page
+                      - row "Category" [ref=e69]:
+                        - cell "Category" [ref=e70]:
+                          - generic [ref=e72]:
+                            - generic [ref=e73]: Category
+                            - combobox [ref=e77]
+                  - generic [ref=e82]:
+                    - text: When you create a Page on Facebook, the
+                    - link "Pages, Groups and Events Policies" [ref=e83] [cursor=pointer]:
+                      - /url: /page_guidelines.php
+                    - text: apply.
+                  - button "Continue" [disabled] [ref=e85]:
+                    - generic [ref=e87]: Continue
+            - cell "Community or public figure Connect and share with people in your community, organisation, team, group or club. Get Started Community or public figure Connect with people in your community and share news about what's important to you with a free Facebook Page. Page name Category When you create a Page on Facebook, the Pages, Groups and Events Policies apply. Continue" [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e90]:
+                  - generic [ref=e91]: Community or public figure
+                  - text: Connect and share with people in your community, organisation, team, group or club.
+                - button "Get Started" [disabled] [ref=e93]:
+                  - generic [ref=e95]: Get Started
+                - generic [ref=e96]:
+                  - generic [ref=e97]: Community or public figure
+                  - generic [ref=e98]: Connect with people in your community and share news about what's important to you with a free Facebook Page.
+                  - table [ref=e100]:
+                    - rowgroup [ref=e101]:
+                      - row "Page name" [ref=e102]:
+                        - cell "Page name" [ref=e103]:
+                          - generic [ref=e104]:
+                            - generic [ref=e105]: Page name
+                            - textbox [ref=e108]:
+                              - /placeholder: Name your Page
+                      - row "Category" [ref=e109]:
+                        - cell "Category" [ref=e110]:
+                          - generic [ref=e112]:
+                            - generic [ref=e113]: Category
+                            - combobox [ref=e117]
+                  - generic [ref=e122]:
+                    - text: When you create a Page on Facebook, the
+                    - link "Pages, Groups and Events Policies" [ref=e123] [cursor=pointer]:
+                      - /url: /page_guidelines.php
+                    - text: apply.
+                  - button "Continue" [disabled] [ref=e125]:
+                    - generic [ref=e127]: Continue

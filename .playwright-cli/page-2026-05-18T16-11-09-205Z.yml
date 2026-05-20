@@ -1,0 +1,414 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e30]
+          - generic [ref=e31]:
+            - generic [ref=e32]: ⌘
+            - generic [ref=e33]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [expanded] [ref=e40] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Alerts Feed - 3 unseen alerts" [ref=e54] [cursor=pointer]:
+            - generic [ref=e56]:
+              - img [ref=e59]
+              - generic [ref=e61]: "3"
+        - button "peter ntaji" [ref=e71] [cursor=pointer]:
+          - generic [ref=e74]:
+            - img "shopwithin" [ref=e78]:
+              - generic [ref=e79]: SHO
+            - paragraph [ref=e81]: shopwithin
+    - generic [ref=e83]:
+      - generic "Navigation" [ref=e84]:
+        - navigation [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - list [ref=e90]:
+                - listitem [ref=e91]:
+                  - link "Home" [ref=e94] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e95]:
+                      - img [ref=e98]
+                      - img [ref=e102]
+                    - generic [ref=e104]: Home
+                - listitem [ref=e105]:
+                  - link "Orders 1" [ref=e108] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e109]:
+                      - img [ref=e112]
+                      - img [ref=e116]
+                    - generic [ref=e118]: Orders
+                    - generic [ref=e121]:
+                      - generic: "1"
+                - listitem [ref=e122]:
+                  - link "Products" [ref=e125] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e126]:
+                      - img [ref=e129]
+                      - img [ref=e133]
+                    - generic [ref=e136]: Products
+                - listitem [ref=e137]:
+                  - link "Customers" [ref=e140] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e141]:
+                      - img [ref=e144]
+                      - img [ref=e149]
+                    - generic [ref=e152]: Customers
+                - listitem [ref=e153]:
+                  - link "Marketing" [ref=e156] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e157]:
+                      - img [ref=e160]
+                      - img [ref=e166]
+                    - generic [ref=e170]: Marketing
+                - listitem [ref=e171]:
+                  - link "Discounts" [ref=e174] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e175]:
+                      - img [ref=e178]
+                      - img [ref=e182]
+                    - generic [ref=e187]: Discounts
+                - listitem [ref=e188]:
+                  - link "Content" [ref=e191] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e192]:
+                      - img [ref=e195]
+                      - img [ref=e202]
+                    - generic [ref=e207]: Content
+                - listitem [ref=e208]:
+                  - link "Markets" [ref=e211] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e212]:
+                      - img [ref=e215]
+                      - img [ref=e220]
+                    - generic [ref=e223]: Markets
+                - listitem [ref=e224]:
+                  - link "Analytics" [ref=e227] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e228]:
+                      - img [ref=e231]
+                      - img [ref=e237]
+                    - generic [ref=e241]: Analytics
+              - list [ref=e242]:
+                - listitem [ref=e243]:
+                  - button "Sales channels" [ref=e245] [cursor=pointer]:
+                    - strong [ref=e247]:
+                      - generic: Sales channels
+                  - list [ref=e249]:
+                    - button "Online Store" [ref=e250]:
+                      - list [ref=e251]:
+                        - listitem [ref=e252]:
+                          - link "Online Store" [ref=e255] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=891be5d9-51c0-436b-ad32-4bc16fae7f13
+                            - img [ref=e257]
+                            - generic [ref=e258]: Online Store
+                    - button "Agentic" [ref=e259]:
+                      - list [ref=e260]:
+                        - listitem [ref=e261]:
+                          - link "Agentic" [ref=e264] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=fc697a3f-4c9f-400b-8fde-244e22cf0378
+                            - img [ref=e266]
+                            - generic [ref=e267]: Agentic
+                    - listitem
+                    - button "TikTok Pin to your navigation" [ref=e268]:
+                      - list [ref=e269]:
+                        - listitem [ref=e270]:
+                          - generic [ref=e272]:
+                            - link "TikTok" [ref=e273] [cursor=pointer]:
+                              - /url: /store/mxu168-9g/apps/tiktok-ads-2?appLoadId=144b164d-f846-46f3-bc4c-9f101755d246
+                              - img [ref=e275]
+                              - generic [ref=e276]: TikTok
+                            - button "Pin to your navigation" [ref=e279] [cursor=pointer]:
+                              - text: •
+                              - img [ref=e283]
+                  - status [ref=e285]
+                - listitem [ref=e286]:
+                  - button "Apps" [ref=e288] [cursor=pointer]:
+                    - strong [ref=e290]:
+                      - generic: Apps
+                - listitem [ref=e292]:
+                  - button "Sidekick conversations" [ref=e294] [cursor=pointer]:
+                    - strong [ref=e296]:
+                      - generic: Sidekick conversations
+                  - generic [ref=e298]:
+                    - list [ref=e299]:
+                      - listitem [ref=e300]:
+                        - button "Connecting TikTok to Shopify store" [ref=e303] [cursor=pointer]:
+                          - generic [ref=e304]: Connecting TikTok to Shopify store
+                    - list [ref=e305]:
+                      - listitem [ref=e306]:
+                        - button "Setting up payments for your store" [ref=e309] [cursor=pointer]:
+                          - generic [ref=e310]: Setting up payments for your store
+            - list [ref=e312]:
+              - listitem [ref=e313]:
+                - link "Settings" [ref=e316] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings
+                  - img [ref=e320]
+                  - generic [ref=e322]: Settings
+      - main [ref=e323]:
+        - generic [ref=e328]:
+          - generic [ref=e330]:
+            - navigation "Breadcrumbs for TikTok" [ref=e332]:
+              - heading "TikTok" [level=1] [ref=e336]
+            - button "More actions" [ref=e340] [cursor=pointer]:
+              - img [ref=e344]
+          - iframe [ref=e348]:
+            - generic [ref=f4e4]:
+              - generic [ref=f4e5]:
+                - status:
+                  - paragraph [ref=f4e6]: Set up Ads. This page is ready
+                - generic [ref=f4e8]:
+                  - button "Shopify App" [ref=f4e11] [cursor=pointer]:
+                    - img [ref=f4e14]
+                  - heading "Set up Ads" [level=1] [ref=f4e18]
+                  - button "View actions for Set up Ads" [ref=f4e23] [cursor=pointer]:
+                    - img [ref=f4e26]
+              - generic [ref=f4e32]:
+                - generic [ref=f4e33]:
+                  - group [ref=f4e37]:
+                    - generic [ref=f4e39]:
+                      - heading "TikTok For Business" [level=2] [ref=f4e42]
+                      - button "Create New" [ref=f4e44] [cursor=pointer]
+                    - generic [ref=f4e47]:
+                      - generic [ref=f4e48]:
+                        - generic [ref=f4e49]: Connect to TikTok For Business to access all of your business accounts in one place.
+                        - button "Having trouble connecting account?" [ref=f4e51] [cursor=pointer]
+                      - generic [ref=f4e53]:
+                        - generic [ref=f4e56]:
+                          - generic [ref=f4e58]:
+                            - img [ref=f4e60]
+                            - generic [ref=f4e63]: Connect TikTok For Business
+                          - button "Connect" [ref=f4e67] [cursor=pointer]:
+                            - generic [ref=f4e68]: Connect
+                        - iframe
+                      - generic [ref=f4e69]:
+                        - generic [ref=f4e70]:
+                          - text: By connecting your account, you agree to our
+                          - button "TikTok Business Products (Data) Terms" [ref=f4e71] [cursor=pointer]
+                          - img [ref=f4e73] [cursor=pointer]
+                        - text: You can use your TikTok for Business credentials to access Business Center and Ads Manager.
+                  - generic [ref=f4e78]:
+                    - group:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - heading "TikTok Business Center account" [level=2]
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                  - generic [ref=f4e81]:
+                    - group:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - heading "TikTok Ads Manager" [level=2]
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                  - generic [ref=f4e84]:
+                    - group:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - heading "Data Sharing" [level=2]
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                  - generic [ref=f4e87]:
+                    - group:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - heading "Company information" [level=2]
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                - generic [ref=f4e91]:
+                  - button "Finish Setup" [disabled]:
+                    - generic: Finish Setup
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e349]:
+      - generic [ref=e352]:
+        - generic [ref=e355]:
+          - button "Grow your business with TikTok" [ref=e357] [cursor=pointer]:
+            - heading "Grow your business with TikTok" [level=2] [ref=e358]:
+              - generic: Grow your business with TikTok
+            - img [ref=e362]
+          - generic [ref=e365]:
+            - button "New conversation" [ref=e367] [cursor=pointer]:
+              - img [ref=e370]
+            - generic [ref=e374]:
+              - button "Expand" [disabled]:
+                - generic:
+                  - generic:
+                    - img
+            - button "Close Sidekick" [ref=e376] [cursor=pointer]:
+              - img [ref=e379]
+        - generic [ref=e381]:
+          - log [ref=e385]:
+            - generic [ref=e386]:
+              - generic [ref=e391]:
+                - generic [ref=e393]:
+                  - generic [ref=e395]: To-dos
+                  - generic [ref=e397]: 1/8
+                - generic [ref=e399]:
+                  - button "Start TikTok onboarding" [disabled] [ref=e403] [cursor=pointer]:
+                    - generic [ref=e404]:
+                      - button "Mark as incomplete" [ref=e405]:
+                        - generic [ref=e406]:
+                          - img [ref=e407]
+                          - img [ref=e409]
+                          - img [ref=e412]
+                      - paragraph [ref=e415]:
+                        - generic [ref=e416]: Start TikTok onboarding
+                  - link "Set up accounts" [ref=e420] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/apps/tiktok-ads-2/setup/marketing?source=sidebar
+                    - generic [ref=e421]:
+                      - button "Mark as complete" [ref=e422]:
+                        - generic [ref=e423]:
+                          - img [ref=e424]
+                          - img [ref=e426]
+                          - img [ref=e429]
+                      - paragraph [ref=e432]:
+                        - generic [ref=e433]: Set up accounts
+                  - button "Authorize data sharing" [ref=e437] [cursor=pointer]:
+                    - generic [ref=e438]:
+                      - button "Mark as complete" [ref=e439]:
+                        - generic [ref=e440]:
+                          - img [ref=e441]
+                          - img [ref=e443]
+                          - img [ref=e446]
+                      - paragraph [ref=e449]:
+                        - generic [ref=e450]: Authorize data sharing
+                  - button "Learn how to use TikTok" [ref=e454] [cursor=pointer]:
+                    - generic [ref=e455]:
+                      - button "Mark as complete" [ref=e456]:
+                        - generic [ref=e457]:
+                          - img [ref=e458]
+                          - img [ref=e460]
+                          - img [ref=e463]
+                      - paragraph [ref=e466]:
+                        - generic [ref=e467]: Learn how to use TikTok
+                  - button "Explore content creation strategies" [ref=e471] [cursor=pointer]:
+                    - generic [ref=e472]:
+                      - button "Mark as complete" [ref=e473]:
+                        - generic [ref=e474]:
+                          - img [ref=e475]
+                          - img [ref=e477]
+                          - img [ref=e480]
+                      - paragraph [ref=e483]:
+                        - generic [ref=e484]: Explore content creation strategies
+                  - button "Learn TikTok Ads essentials" [ref=e488] [cursor=pointer]:
+                    - generic [ref=e489]:
+                      - button "Mark as complete" [ref=e490]:
+                        - generic [ref=e491]:
+                          - img [ref=e492]
+                          - img [ref=e494]
+                          - img [ref=e497]
+                      - paragraph [ref=e500]:
+                        - generic [ref=e501]: Learn TikTok Ads essentials
+                  - button "Discover how affiliate marketing works" [ref=e505] [cursor=pointer]:
+                    - generic [ref=e506]:
+                      - button "Mark as complete" [ref=e507]:
+                        - generic [ref=e508]:
+                          - img [ref=e509]
+                          - img [ref=e511]
+                          - img [ref=e514]
+                      - paragraph [ref=e517]:
+                        - generic [ref=e518]: Discover how affiliate marketing works
+                  - button "Run your first campaign" [ref=e522] [cursor=pointer]:
+                    - generic [ref=e523]:
+                      - button "Mark as complete" [ref=e524]:
+                        - generic [ref=e525]:
+                          - img [ref=e526]
+                          - img [ref=e528]
+                          - img [ref=e531]
+                      - paragraph [ref=e534]:
+                        - generic [ref=e535]: Run your first campaign
+              - article [ref=e540]:
+                - paragraph [ref=e541]: You're on the TikTok app setup page — this is where you'll connect your TikTok Business Account and TikTok Ads Manager to your Shopify store, which unlocks the ability to run ads, sync your product catalog, and track performance all in one place.
+                - paragraph [ref=e542]: "Here's what you'll need to complete this step:"
+                - list [ref=e543]:
+                  - listitem [ref=e544]:
+                    - generic [ref=e545]:
+                      - strong [ref=e546]: TikTok Business Account
+                      - text: — your brand's presence on TikTok (create one free at business.tiktok.com if you don't have one yet)
+                  - listitem [ref=e547]:
+                    - generic [ref=e548]:
+                      - strong [ref=e549]: TikTok Ads Manager account
+                      - text: — where your ad campaigns will live and be managed
+                  - listitem [ref=e550]:
+                    - generic [ref=e551]:
+                      - strong [ref=e552]: Pixel setup
+                      - text: — TikTok will prompt you to connect or create a pixel to track events like purchases and add-to-carts on your store
+                - paragraph [ref=e553]: Once these are linked, your Shopify product catalog can sync directly to TikTok, making it easy to tag products in videos and run Shopping ads.
+                - paragraph [ref=e554]:
+                  - text: Do you already have a TikTok Business Account set up, or are you starting fresh?
+                  - status "Loading" [ref=e555]
+              - generic [ref=e565]:
+                - button "Copy message" [ref=e566] [cursor=pointer]:
+                  - img [ref=e569]
+                - button "Rate this response positive" [ref=e571] [cursor=pointer]:
+                  - img [ref=e574]
+                - button "Rate this response negative" [ref=e576] [cursor=pointer]:
+                  - img [ref=e579]
+            - generic [ref=e581]:
+              - article [ref=e586]:
+                - paragraph [ref=e587]:
+                  - text: Still on the "Set up accounts" step — looks like you're progressing through the TikTok setup flow. You haven't answered yet whether you already have a TikTok Business Account — do you have one, or are you creating everything from scratch?
+                  - status "Loading" [ref=e588]
+              - generic [ref=e598]:
+                - button "Copy message" [ref=e599] [cursor=pointer]:
+                  - img [ref=e602]
+                - button "Rate this response positive" [ref=e604] [cursor=pointer]:
+                  - img [ref=e607]
+                - button "Rate this response negative" [ref=e609] [cursor=pointer]:
+                  - img [ref=e612]
+          - button "Scroll to bottom" [ref=e614] [cursor=pointer]:
+            - img [ref=e617]
+        - generic [ref=e623]:
+          - generic [ref=e626]:
+            - generic:
+              - generic:
+                - generic:
+                  - paragraph
+            - button "Close" [disabled] [ref=e628]:
+              - img [ref=e632]
+          - generic [ref=e637]:
+            - img [ref=e642]
+            - textbox "Ask anything..." [active] [ref=e657]
+            - generic [ref=e659]:
+              - button "Add files and more" [ref=e661] [cursor=pointer]:
+                - img [ref=e664]
+              - button "Voice" [ref=e667] [cursor=pointer]:
+                - img [ref=e670]
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: OK

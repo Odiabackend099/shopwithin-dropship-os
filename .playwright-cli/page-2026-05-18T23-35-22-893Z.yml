@@ -1,0 +1,591 @@
+- generic [ref=e1]:
+  - generic [ref=e12]:
+    - generic [ref=e167]:
+      - generic [ref=e169]:
+        - heading "Settings" [level=1] [ref=e170]
+        - toolbar [ref=e172]:
+          - generic [ref=e175]:
+            - heading "Shopwithin" [level=4] [ref=e176]
+            - generic [ref=e177]: Business portfolio
+          - button "To-dos" [ref=e179] [cursor=pointer]:
+            - generic [ref=e182]:
+              - img [ref=e183]
+              - generic [ref=e187]: To-dos
+          - button "Facebook" [ref=e189] [cursor=pointer]:
+            - generic [ref=e195]:
+              - generic:
+                - img
+              - img "Facebook" [ref=e197]
+      - generic [ref=e198]:
+        - generic [ref=e205]:
+          - generic [ref=e208]:
+            - navigation [ref=e209]:
+              - list [ref=e210]:
+                - listitem [ref=e213]:
+                  - link "Business info" [ref=e215] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/business_info?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Business info
+            - navigation "Users" [ref=e221]:
+              - list [ref=e222]:
+                - listitem [ref=e223]:
+                  - generic [ref=e224]:
+                    - button "Users" [expanded] [ref=e226] [cursor=pointer]
+                    - generic:
+                      - listitem:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Users
+                          - button "Toggle Group" [disabled] [ref=e232]:
+                            - generic [ref=e234]:
+                              - generic [ref=e235]: Toggle Group
+                              - img [ref=e237]
+                  - list [ref=e240]:
+                    - generic [ref=e243]:
+                      - link "People" [ref=e245] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/business_users?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: People
+                    - generic [ref=e252]:
+                      - link "Partners" [ref=e254] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/partners?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Partners
+                    - generic [ref=e261]:
+                      - link "System users" [ref=e263] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/system_users?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: System users
+            - navigation "Accounts" [ref=e268]:
+              - list [ref=e269]:
+                - listitem [ref=e270]:
+                  - generic [ref=e271]:
+                    - button "Accounts" [expanded] [ref=e273] [cursor=pointer]
+                    - generic:
+                      - listitem:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Accounts
+                          - button "Toggle Group" [disabled] [ref=e279]:
+                            - generic [ref=e281]:
+                              - generic [ref=e282]: Toggle Group
+                              - img [ref=e284]
+                  - list [ref=e287]:
+                    - generic [ref=e290]:
+                      - link "Pages" [ref=e292] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/pages?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Pages
+                    - generic [ref=e299]:
+                      - link "Ad accounts" [ref=e301] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/ad_accounts?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Ad accounts
+                    - generic [ref=e308]:
+                      - link "Business asset groups" [ref=e310] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/business_asset_groups?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Business asset groups
+                    - generic [ref=e317]:
+                      - link "Apps" [ref=e319] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/apps?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Apps
+                    - generic [ref=e326]:
+                      - link "Instagram accounts" [ref=e328] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/instagram_account?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Instagram accounts
+                    - generic [ref=e335]:
+                      - link "WhatsApp accounts" [ref=e337] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/whatsapp_account?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: WhatsApp accounts
+                    - generic [ref=e344]:
+                      - link "Threads accounts" [ref=e346] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/threads_account?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Threads accounts
+            - navigation "Data sources" [ref=e351]:
+              - list [ref=e352]:
+                - listitem [ref=e353]:
+                  - generic [ref=e354]:
+                    - button "Data sources" [expanded] [ref=e356] [cursor=pointer]
+                    - generic:
+                      - listitem:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Data sources
+                          - button "Toggle Group" [disabled] [ref=e362]:
+                            - generic [ref=e364]:
+                              - generic [ref=e365]: Toggle Group
+                              - img [ref=e367]
+                  - list [ref=e370]:
+                    - generic [ref=e373]:
+                      - link "Catalogues" [ref=e375] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/product_catalogs?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Catalogues
+                    - generic [ref=e382]:
+                      - link "Datasets and pixels" [ref=e384] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/events_dataset_and_pixel?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Datasets and pixels
+                    - generic [ref=e391]:
+                      - link "Offline event sets" [ref=e393] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/offline_event_sets?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Offline event sets
+                    - generic [ref=e400]:
+                      - link "Custom conversions" [ref=e402] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/custom_conversions?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Custom conversions
+                    - generic [ref=e409]:
+                      - link "Shared audiences" [ref=e411] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/shared_audiences?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Shared audiences
+                    - generic [ref=e418]:
+                      - link "Business creative folders" [ref=e420] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/business_creative_folders?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Business creative folders
+            - navigation [ref=e425]:
+              - list [ref=e426]:
+                - listitem [ref=e429]:
+                  - link "Requests" [ref=e431] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/requests?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Requests
+            - navigation "Brand safety and suitability" [ref=e437]:
+              - list [ref=e438]:
+                - listitem [ref=e439]:
+                  - generic [ref=e440]:
+                    - button "Brand safety and suitability" [ref=e442] [cursor=pointer]
+                    - generic:
+                      - listitem:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Brand safety and suitability
+                          - button "Toggle Group" [disabled] [ref=e448]:
+                            - generic [ref=e450]:
+                              - generic [ref=e451]: Toggle Group
+                              - img [ref=e453]
+                  - list [ref=e456]:
+                    - generic [ref=e459]:
+                      - link "Domains" [ref=e461] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/domains?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Domains
+                    - generic [ref=e468]:
+                      - link "Publisher block lists" [ref=e470] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/block_lists?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Publisher block lists
+            - navigation "Integrations" [ref=e475]:
+              - list [ref=e476]:
+                - listitem [ref=e477]:
+                  - generic [ref=e478]:
+                    - button "Integrations" [ref=e480] [cursor=pointer]
+                    - generic:
+                      - listitem:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Integrations
+                          - button "Toggle Group" [disabled] [ref=e486]:
+                            - generic [ref=e488]:
+                              - generic [ref=e489]: Toggle Group
+                              - img [ref=e491]
+                  - list [ref=e494]:
+                    - generic [ref=e497]:
+                      - link "Connected apps" [ref=e499] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/connected_apps?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Connected apps
+                    - generic [ref=e506]:
+                      - link "Leads access" [ref=e508] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/leads_access?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Leads access
+                    - generic [ref=e515]:
+                      - link "Conversation routing" [ref=e517] [cursor=pointer]:
+                        - /url: https://business.facebook.com/latest/settings/conversation_routing?business_id=990501983779852
+                      - generic:
+                        - listitem:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Conversation routing
+            - navigation [ref=e522]:
+              - list [ref=e523]:
+                - listitem [ref=e526]:
+                  - link "Billing and payments" [ref=e528] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/billing_hub?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Billing and payments
+            - navigation [ref=e534]:
+              - list [ref=e535]:
+                - listitem [ref=e538]:
+                  - link "Meta Verified" [ref=e540] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/mv4b?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Meta Verified
+                - listitem [ref=e548]:
+                  - link "News Pages" [ref=e550] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/news_pages?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: News Pages
+                - listitem [ref=e558]:
+                  - link "Partnership Ads Hub" [ref=e560] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/business_ad_partnerships?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Partnership Ads Hub
+                - listitem [ref=e568]:
+                  - link "Security Centre" [ref=e570] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/security_center?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Security Centre
+                - listitem [ref=e578]:
+                  - link "Notifications" [ref=e580] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/notifications?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Notifications
+                - listitem [ref=e588]:
+                  - link "Setup guide" [ref=e590] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/setup_guide?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Setup guide
+                - listitem [ref=e598]:
+                  - link "Business assets" [ref=e600] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/business_assets?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Business assets
+                - listitem [ref=e608]:
+                  - link "Authorisations and verifications" [ref=e610] [cursor=pointer]:
+                    - /url: https://business.facebook.com/latest/settings/authorizations_verifications?business_id=990501983779852
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Authorisations and verifications
+                - listitem [ref=e618]:
+                  - button "Business Manager" [ref=e620] [cursor=pointer]
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Business Manager
+                        - generic:
+                          - img
+                - listitem [ref=e628]:
+                  - link "Ad account settings" [ref=e630] [cursor=pointer]:
+                    - /url: https://business.facebook.com/ads/manager/account_settings/?business_id=990501983779852&nav_source=business_manager
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Ad account settings
+                        - generic:
+                          - img
+                - listitem [ref=e638]:
+                  - link "Language settings" [ref=e640] [cursor=pointer]:
+                    - /url: https://www.facebook.com/settings/?tab=language
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Language settings
+                        - generic:
+                          - img
+          - button "Expand" [ref=e651] [cursor=pointer]:
+            - generic [ref=e653]:
+              - generic [ref=e654]: Expand
+              - img [ref=e656]
+        - generic [ref=e666]:
+          - generic [ref=e672]:
+            - generic [ref=e673]:
+              - generic [ref=e674]:
+                - heading "Datasets & pixels" [level=1] [ref=e675]
+                - img [ref=e680]
+              - generic [ref=e683]: Datasets can include event data from web, app and other sources.
+            - generic [ref=e684]:
+              - generic [ref=e686]:
+                - generic [ref=e692]: Search
+                - generic [ref=e700]:
+                  - img [ref=e702]
+                  - textbox "Search" [ref=e705]:
+                    - /placeholder: Search by name or ID
+              - button "Filters" [ref=e706] [cursor=pointer]:
+                - generic [ref=e709]:
+                  - img [ref=e710]
+                  - generic [ref=e712]: Filters
+              - button "Add" [ref=e713] [cursor=pointer]:
+                - generic [ref=e716]:
+                  - img [ref=e717]
+                  - generic [ref=e720]: Add
+          - generic [ref=e728]:
+            - generic [ref=e730]:
+              - heading "No datasets added" [level=3] [ref=e731]
+              - generic [ref=e732]: Add datasets to this business portfolio so that you can manage all of your business assets in one place.
+            - button "Add" [ref=e733] [cursor=pointer]:
+              - generic [ref=e736]:
+                - img [ref=e737]
+                - generic [ref=e740]: Add
+    - generic [ref=e79]:
+      - generic [ref=e81]:
+        - button "Meta logo" [ref=e83] [cursor=pointer]:
+          - generic [ref=e86]: Meta Business Suite
+        - button "Pressable" [ref=e94] [cursor=pointer]
+      - navigation "Links" [ref=e101]:
+        - generic [ref=e102]: Links
+        - list [ref=e103]:
+          - generic [ref=e104]:
+            - listitem [ref=e744]:
+              - generic [ref=e746]:
+                - link "Ads Manager" [ref=e747] [cursor=pointer]:
+                  - generic [ref=e748]: Ads Manager
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ads Manager
+            - listitem [ref=e752]:
+              - generic [ref=e754]:
+                - link "Audiences" [ref=e755] [cursor=pointer]:
+                  - /url: https://business.facebook.com/adsmanager/?act=26070663195942187&business_id=990501983779852&global_scope_id=990501983779852&nav_entry_point=bm_global_nav_shortcut&nav_source=business_manager&tool=AUDIENCES
+                  - generic [ref=e756]: Audiences
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Audiences
+            - listitem [ref=e760]:
+              - generic [ref=e762]:
+                - link "Ads Reporting" [ref=e763] [cursor=pointer]:
+                  - /url: https://www.facebook.com/adsmanager/reporting?nav_entry_point=lep_231&business_id=990501983779852&act=26070663195942187
+                  - generic [ref=e764]: Ads Reporting
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ads Reporting
+            - listitem [ref=e768]:
+              - generic [ref=e770]:
+                - link "Ad account settings" [ref=e771] [cursor=pointer]:
+                  - /url: https://business.facebook.com/adsmanager/?act=26070663195942187&business_id=990501983779852&global_scope_id=990501983779852&nav_entry_point=bm_global_nav_shortcut&nav_source=business_manager&tool=AD_ACCOUNT_SETTINGS
+                  - generic [ref=e772]: Ad account settings
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ad account settings
+            - listitem [ref=e776]:
+              - generic [ref=e778]:
+                - link "Events Manager" [ref=e779] [cursor=pointer]:
+                  - /url: https://business.facebook.com/events_manager2/?act=26070663195942187&business_id=990501983779852&global_scope_id=990501983779852&nav_source=biz_nav
+                  - generic [ref=e780]: Events Manager
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Events Manager
+            - listitem [ref=e108]:
+              - generic [ref=e110]:
+                - link "Billing & payments" [ref=e111] [cursor=pointer]:
+                  - /url: https://business.facebook.com/billing_hub/?business_id=990501983779852&placement=mbs_all_tools_menu
+                  - generic [ref=e112]: Billing & payments
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Billing & payments
+            - listitem [ref=e116]:
+              - generic [ref=e118]:
+                - link "All tools" [ref=e119] [cursor=pointer]:
+                  - generic [ref=e120]: All tools
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: All tools
+      - generic [ref=e122]:
+        - listitem [ref=e125]:
+          - generic [ref=e127]:
+            - link "Search" [ref=e128] [cursor=pointer]:
+              - generic [ref=e129]: Search
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Search
+            - generic:
+              - generic:
+                - img
+        - navigation "Links" [ref=e130]:
+          - generic [ref=e131]: Links
+          - list [ref=e132]:
+            - listitem [ref=e136]:
+              - generic [ref=e138]:
+                - link "Settings" [ref=e139] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/settings/business_users?business_id=990501983779852&asset_id=26070663195942187
+                  - generic [ref=e140]: Settings
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Settings
+            - listitem [ref=e144]:
+              - generic [ref=e146]:
+                - link "Notifications" [ref=e147] [cursor=pointer]:
+                  - generic [ref=e148]: Notifications
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Notifications
+        - listitem [ref=e155]:
+          - generic [ref=e157]:
+            - link "Help" [ref=e158] [cursor=pointer]:
+              - generic [ref=e159]: Help
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Help
+            - generic:
+              - generic:
+                - img
+  - dialog [ref=e982]:
+    - generic [ref=e987]:
+      - button "Close" [ref=e991] [cursor=pointer]:
+        - generic [ref=e993]:
+          - generic [ref=e994]: Close
+          - img [ref=e996]
+      - generic [ref=e1001]:
+        - generic [ref=e1004]:
+          - heading "Dataset created" [level=3] [ref=e1005]
+          - generic [ref=e1006]:
+            - text: To start receiving event data, go to Events Manager, select
+            - strong [ref=e1007]: Connect data
+            - text: and choose the type of data that you want to share to Shopwithin Pixel.
+        - button "Go to Events Manager" [active] [ref=e1010] [cursor=pointer]:
+          - generic [ref=e1014]: Go to Events Manager

@@ -1,0 +1,11 @@
+{
+  "id": "reaction-zoom",
+  "name": "Reaction Zoom",
+  "description": "Zoom in on reaction to product result",
+  "camera_block": "starts wide then smoothly zooms to face during reaction, steady zoom not shaky, progressively closer to face, smooth zoom progression over 2-3 seconds",
+  "motion_block": "clearly visible reaction expression with wide surprised delighted eyes, natural smile or gasp, subtle head tilt toward camera",
+  "performance_block": "zoom syncs with reaction pacing, brief moment at peak reaction, build-up to dramatic moment, genuine surprise and delight, authentic emotional response",
+  "platform_block": "authentic TikTok reaction shot, organic UGC pacing, not polished commercial",
+  "audio_block": "subtle gasp or intake breath, excited reaction sounds",
+  "negative_prompt_block": "no robotic zoom, no stiff reaction, no overproduced dramatic moment, no cinematic transition effects"
+}

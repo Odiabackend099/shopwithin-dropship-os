@@ -1,0 +1,12 @@
+- generic [ref=e12]:
+  - generic [ref=e15]:
+    - generic:
+      - img "Shopify Partners logo"
+    - generic [ref=e19]:
+      - img [ref=e21]
+      - status
+  - generic [ref=e28]:
+    - text: Logged in as
+    - text: .
+    - link "Log out" [ref=e32] [cursor=pointer]:
+      - /url: /auth/logout

@@ -1,0 +1,34 @@
+- iframe [active] [ref=e1]:
+  - main [ref=f12e6]:
+    - main [ref=f12e8]:
+      - generic [ref=f12e9]:
+        - img [ref=f12e10]
+        - paragraph [ref=f12e12]: You're currently in test mode, all transactions are mocked in this environment.
+      - combobox [ref=f12e14] [cursor=pointer]:
+        - option "English" [selected]
+        - option "French"
+        - option "Portuguese"
+      - article
+      - generic "Card" [ref=f12e16]:
+        - generic [ref=f12e17]:
+          - generic [ref=f12e18]:
+            - img "ODIA Intelligence" [ref=f12e20]
+            - generic [ref=f12e21]:
+              - paragraph [ref=f12e22]: ODIA Intelligence
+              - paragraph [ref=f12e23]: test+furlift@barpel.ai
+          - generic [ref=f12e25]:
+            - generic [ref=f12e133]: NGN
+            - paragraph [ref=f12e134]: 46,487.51
+      - generic [ref=f12e33]:
+        - alert [ref=f12e136]:
+          - paragraph [ref=f12e138]: This transaction (USD 32.95, fees inclusive) has been converted to your card's currency at a rate of NGN 1410.85 to USD 1. You will be charged NGN 46,487.51
+        - generic [ref=f12e144]:
+          - img [ref=f12e147]
+          - paragraph [ref=f12e154]: You will be redirected to your bank to complete card verification
+          - button "Proceed" [active] [ref=f12e155] [cursor=pointer]:
+            - generic [ref=f12e156]: Proceed
+      - generic [ref=f12e123]:
+        - img [ref=f12e124]
+        - generic [ref=f12e126]: SECURED BY FLUTTERWAVE
+    - button "Close Checkout" [ref=f12e129]:
+      - img [ref=f12e130]

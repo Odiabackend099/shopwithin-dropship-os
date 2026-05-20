@@ -1,0 +1,105 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "CAC Logo" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img "CAC Logo" [ref=e8]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "Objection For IT & LTD/GTE" [ref=e11] [cursor=pointer]:
+            - /url: /support/objection
+        - listitem [ref=e12]:
+          - link "Help & Support" [ref=e13] [cursor=pointer]:
+            - /url: /support/help
+            - text: Help
+            - generic [ref=e14]: "& Support"
+        - listitem [ref=e15]:
+          - link "FAQs" [ref=e16] [cursor=pointer]:
+            - /url: /support/faq
+        - listitem [ref=e17]:
+          - link "Public Search" [ref=e18] [cursor=pointer]:
+            - /url: /public-search
+            - img [ref=e20]
+            - generic [ref=e22]: Public
+            - text: Search
+    - list [ref=e25]:
+      - listitem [ref=e26]:
+        - link "Sign Up" [ref=e27] [cursor=pointer]:
+          - /url: /auth/new-account
+      - listitem [ref=e28]:
+        - link "Login" [ref=e29] [cursor=pointer]:
+          - /url: /auth/login
+          - img [ref=e31]
+          - text: Login
+  - main [ref=e33]:
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - heading "Public Search" [level=1] [ref=e37]
+        - paragraph [ref=e38]: Search for exisiting companies and businesses entities
+        - generic [ref=e40]:
+          - combobox [ref=e41]:
+            - option "All" [selected]
+            - option "RC Number"
+            - option "AV Code"
+            - option "Approved Name"
+          - textbox "Entity name, RC number, or AV code..." [ref=e42]: ODIADEV
+          - button [active] [ref=e43] [cursor=pointer]:
+            - img [ref=e45]
+      - generic [ref=e56]:
+        - generic [ref=e58]:
+          - combobox [ref=e60] [cursor=pointer]:
+            - option "ALL" [selected]
+            - option "BUSINESS NAME"
+            - option "COMPANY"
+            - option "INCORPORATED TRUSTEE"
+            - option "LIMITED PARTNERSHIP"
+            - option "LIMITED LIABILITY PARTNERSHIP"
+          - list [ref=e61]:
+            - listitem [ref=e62] [cursor=pointer]:
+              - img [ref=e64]
+              - generic [ref=e66]: ODIADEV AI LTD [8989175]
+          - generic [ref=e69]:
+            - generic [ref=e70]: Showing 1 - 1
+            - navigation [ref=e71]:
+              - list [ref=e72]:
+                - listitem [ref=e73]:
+                  - link "Previous" [disabled]:
+                    - /url: ""
+                    - text: «
+                - listitem [ref=e74]:
+                  - link "1" [ref=e75] [cursor=pointer]:
+                    - /url: ""
+                - listitem [ref=e76]:
+                  - link "Next" [disabled]:
+                    - /url: ""
+                    - text: »
+        - generic [ref=e77]:
+          - generic [ref=e78]: COMPANY
+          - heading "ODIADEV AI LTD" [level=3] [ref=e79]
+          - paragraph [ref=e80]: RC - 8989175
+          - list [ref=e81]:
+            - listitem [ref=e82]:
+              - generic [ref=e83]: Date of Registration - Nov 11, 2025
+            - listitem [ref=e84]: Nature of Business - Computer Programming, Consultancy And Related Activities
+            - listitem [ref=e85]:
+              - generic [ref=e86]:
+                - text: Status
+                - generic [ref=e87]: ACTIVE
+            - listitem [ref=e88]:
+              - button "Get Tax ID" [ref=e89] [cursor=pointer]
+  - contentinfo [ref=e48]:
+    - generic [ref=e49]:
+      - img "Nigeria Coat of Arms" [ref=e50]
+      - text: © 2026 Corporate Affairs Commission (CAC), Nigeria
+    - generic [ref=e51]:
+      - link "Privacy Policy" [ref=e52] [cursor=pointer]:
+        - /url: /legal/privacy-policy
+      - text: "|"
+      - link "Refunds, Cancellation and Return Policy" [ref=e53] [cursor=pointer]:
+        - /url: /legal/refund-policy
+      - text: "|"
+      - link "Terms of Use" [ref=e54] [cursor=pointer]:
+        - /url: /legal/terms-of-use
+      - text: "|"
+      - link "Contact Us" [ref=e55] [cursor=pointer]:
+        - /url: /support/contact

@@ -1,0 +1,263 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Shopify App Store logo" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]:
+          - img [ref=e7]
+        - generic [ref=e9]: Shopify App Store
+      - button "Search" [ref=e12] [cursor=pointer]:
+        - img [ref=e13]:
+          - img [ref=e14]
+      - button "Menu" [ref=e17] [cursor=pointer]:
+        - img [ref=e18]:
+          - img [ref=e19]
+  - main [ref=e21]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e29]:
+            - figure [ref=e30]:
+              - img "Flutterwave" [ref=e31]
+            - heading "Flutterwave" [level=1] [ref=e33]
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - term [ref=e36]: Pricing
+              - definition [ref=e37]:
+                - generic [ref=e38]: Free to install. Additional charges may apply.
+            - generic [ref=e39]:
+              - term [ref=e40]: Rating
+              - definition [ref=e41]:
+                - generic [ref=e42]: "0.0"
+                - img [ref=e44]
+                - generic [ref=e46]: (0 Reviews)
+            - generic [ref=e47]:
+              - term [ref=e48]: Developer
+              - definition [ref=e49]:
+                - link "Flutterwave" [ref=e50] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/partners/flutterwave
+        - button "Install" [ref=e54] [cursor=pointer]
+      - generic [ref=e56]:
+        - list [ref=e60]:
+          - listitem [ref=e61] [cursor=pointer]:
+            - img "Flutterwave Shopify Featured Image" [ref=e62]
+          - listitem [ref=e63] [cursor=pointer]:
+            - img "Shopify Checkout + Flutterwave Payment Gateway" [ref=e64]
+          - listitem [ref=e65] [cursor=pointer]:
+            - img "Flutterwave Checkout" [ref=e66]
+          - listitem [ref=e67] [cursor=pointer]:
+            - img "Flutterwave Checkout Success" [ref=e68]
+        - generic [ref=e70]:
+          - heading "Collect global payments in 30+ currencies with Flutterwave - an efficient solution for worldwide pay" [level=2] [ref=e71]
+          - generic [ref=e72]: The Flutterwave App offers a way to collect payments globally in over 30 currencies, with the help ... more
+          - list [ref=e73]:
+            - listitem [ref=e74]: The Flutterwave payment app provides cheaper and local pricing for merchants
+            - listitem [ref=e75]: The app gives your customers over 10 different payment options to pay you
+            - listitem [ref=e76]: Our payment infrastructure ensures you a great experience collecting payments
+        - generic [ref=e78]:
+          - paragraph [ref=e79]: Languages
+          - paragraph [ref=e81]: English
+        - generic [ref=e83]:
+          - paragraph [ref=e84]: Categories
+          - link "Payment experience" [ref=e89] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/selling-products-payments-payment-experience?surface_detail=flutterwave&surface_type=app_details
+    - generic [ref=e90]:
+      - generic [ref=e92]:
+        - generic [ref=e94]:
+          - generic [ref=e95]:
+            - heading "Pricing" [level=2] [ref=e97]
+            - paragraph [ref=e98]:
+              - text: External charges may be billed by Flutterwave separately from your Shopify invoice.
+              - link "Learn more" [ref=e99] [cursor=pointer]:
+                - /url: https://app.flutterwave.com/register
+          - generic [ref=e104]:
+            - paragraph [ref=e105]: Free
+            - heading "Free to install" [level=3] [ref=e107]:
+              - generic [ref=e108]: Free to install
+            - paragraph [ref=e109]: 1.4% - 3.8% per transaction
+        - paragraph [ref=e111]:
+          - text: All charges are billed in USD.
+          - link "See all pricing options" [ref=e112] [cursor=pointer]:
+            - /url: https://flutterwave.com/pricing
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - heading "Reviews" [level=2] [ref=e118]
+          - generic [ref=e119]:
+            - generic [ref=e120]: Overall rating
+            - generic [ref=e121]:
+              - generic "0.0 out of 5 stars" [ref=e122]: "0"
+              - img [ref=e124]:
+                - img [ref=e125]
+                - img [ref=e127]
+                - img [ref=e129]
+                - img [ref=e131]
+                - img [ref=e133]
+            - list [ref=e136]:
+              - listitem [ref=e137]:
+                - generic [ref=e138]:
+                  - generic [ref=e139]: "5"
+                  - img [ref=e141]
+                - img [ref=e144]
+                - img [ref=e146]
+                - generic [ref=e148]: "0"
+              - listitem [ref=e149]:
+                - generic [ref=e150]:
+                  - generic [ref=e151]: "4"
+                  - img [ref=e153]
+                - img [ref=e156]
+                - img [ref=e158]
+                - generic [ref=e160]: "0"
+              - listitem [ref=e161]:
+                - generic [ref=e162]:
+                  - generic [ref=e163]: "3"
+                  - img [ref=e165]
+                - img [ref=e168]
+                - img [ref=e170]
+                - generic [ref=e172]: "0"
+              - listitem [ref=e173]:
+                - generic [ref=e174]:
+                  - generic [ref=e175]: "2"
+                  - img [ref=e177]
+                - img [ref=e180]
+                - img [ref=e182]
+                - generic [ref=e184]: "0"
+              - listitem [ref=e185]:
+                - generic [ref=e186]:
+                  - generic [ref=e187]: "1"
+                  - img [ref=e189]
+                - img [ref=e192]
+                - img [ref=e194]
+                - generic [ref=e196]: "0"
+          - generic [ref=e197]:
+            - button "Write a review" [ref=e198] [cursor=pointer]
+            - link "All reviews" [ref=e201] [cursor=pointer]:
+              - /url: /flutterwave/reviews
+        - generic [ref=e203]: No reviews yet
+      - generic [ref=e204]:
+        - generic [ref=e205]:
+          - heading "Support" [level=2] [ref=e206]
+          - paragraph [ref=e208]: App support provided by Flutterwave.
+        - generic [ref=e211]:
+          - generic [ref=e212]:
+            - heading "Resources" [level=3] [ref=e213]
+            - generic [ref=e214]:
+              - link "Privacy policy" [ref=e216] [cursor=pointer]:
+                - /url: https://flutterwave.com/us/privacy-policy
+              - link "FAQ" [ref=e218] [cursor=pointer]:
+                - /url: https://support.flutterwave.com/
+          - generic [ref=e219]:
+            - heading "Developer" [level=3] [ref=e220]
+            - generic [ref=e221]:
+              - link "Flutterwave" [ref=e222] [cursor=pointer]:
+                - /url: https://apps.shopify.com/partners/flutterwave
+              - link "Website" [ref=e224] [cursor=pointer]:
+                - /url: https://flutterwave.com
+              - paragraph [ref=e225]: 1323 Columbus Avenue, San Francisco, CA, 94133, US
+          - generic [ref=e226]:
+            - paragraph [ref=e227]: Launched
+            - paragraph [ref=e228]: July 29, 2022
+  - contentinfo [ref=e229]:
+    - generic [ref=e230]:
+      - generic [ref=e231]:
+        - generic [ref=e234]:
+          - heading "App categories" [level=6] [ref=e235]
+          - link "Sales channels" [ref=e236] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels
+          - link "Finding products" [ref=e237] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products
+          - link "Selling products" [ref=e238] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/selling-products
+          - link "Orders and shipping" [ref=e239] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping
+          - link "Store design" [ref=e240] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design
+          - link "Marketing and conversion" [ref=e241] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion
+          - link "Store management" [ref=e242] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-management
+        - generic [ref=e243]:
+          - heading "Top categories" [level=6] [ref=e244]
+          - link "Dropshipping" [ref=e245] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping
+          - link "Marketplaces" [ref=e246] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces
+          - link "Product reviews" [ref=e247] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-social-trust-product-reviews
+          - link "Upsell and bundles" [ref=e248] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-upsell-and-bundles
+          - link "Email marketing" [ref=e249] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-marketing-email-marketing
+          - link "SEO" [ref=e250] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-site-optimization-seo
+          - link "Shipping" [ref=e251] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping-shipping-solutions-shipping
+          - link "Currency and translation" [ref=e252] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-internationalization-currency-and-translation
+        - generic [ref=e253]:
+          - heading "Resources" [level=6] [ref=e254]
+          - link "Shopify Help Center" [ref=e255] [cursor=pointer]:
+            - /url: https://help.shopify.com/en/
+          - link "API documentation" [ref=e256] [cursor=pointer]:
+            - /url: https://shopify.dev/api
+          - link "Shopify Community" [ref=e257] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/shopify-community-en/ct-p/en
+          - link "Community Events" [ref=e258] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/events/eb-p/events_en
+          - link "Shopify Blog" [ref=e259] [cursor=pointer]:
+            - /url: https://www.shopify.com/blog
+          - link "Research" [ref=e260] [cursor=pointer]:
+            - /url: https://www.shopify.com/research/future-of-commerce
+        - generic [ref=e261]:
+          - heading "Shopify" [level=6] [ref=e262]
+          - link "About" [ref=e263] [cursor=pointer]:
+            - /url: https://www.shopify.com/about
+          - link "Careers" [ref=e264] [cursor=pointer]:
+            - /url: https://www.shopify.com/careers
+          - link "Investors" [ref=e265] [cursor=pointer]:
+            - /url: https://investors.shopify.com/home/default.aspx
+          - link "Press and media" [ref=e266] [cursor=pointer]:
+            - /url: https://news.shopify.com/
+          - link "Partners" [ref=e267] [cursor=pointer]:
+            - /url: https://www.shopify.com/partners
+          - link "Affiliates" [ref=e268] [cursor=pointer]:
+            - /url: https://www.shopify.com/affiliates
+          - link "Legal" [ref=e269] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal
+          - link "Service status" [ref=e270] [cursor=pointer]:
+            - /url: https://shopifystatus.com
+      - separator [ref=e271]
+      - generic [ref=e272]:
+        - generic [ref=e273]:
+          - link "Developer login" [ref=e275] [cursor=pointer]:
+            - /url: https://apps.shopify.com/?auth=1
+          - link "Terms of service" [ref=e277] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/terms
+          - link "Privacy policy" [ref=e279] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/privacy
+          - link "Sitemap" [ref=e281] [cursor=pointer]:
+            - /url: https://apps.shopify.com/sitemap
+          - generic [ref=e283]:
+            - link "Your privacy choices" [ref=e284] [cursor=pointer]:
+              - /url: https://privacy.shopify.com/en/
+            - img "California Consumer Privacy Act (CCPA) Opt-Out Icon" [ref=e285]
+        - combobox "Change your language" [ref=e290]:
+          - option "Čeština"
+          - option "Dansk"
+          - option "Deutsch"
+          - option "English" [selected]
+          - option "Español"
+          - option "Français"
+          - option "Italiano"
+          - option "Nederlands"
+          - option "Norsk (bokmål)"
+          - option "Polski"
+          - option "Português (Brasil)"
+          - option "Português (Portugal)"
+          - option "Suomi"
+          - option "Svenska"
+          - option "Türkçe"
+          - option "ภาษาไทย"
+          - option "日本語"
+          - option "简体中文"
+          - option "繁體中文"
+          - option "한국어"

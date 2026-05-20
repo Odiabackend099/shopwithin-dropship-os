@@ -1,0 +1,14 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - heading "Enter OTP" [level=2] [ref=e3]
+    - paragraph [ref=e4]:
+      - text: To complete the transaction with reference
+      - text: FLW-MOCK-ed6f9975992141fbe83cee3baae15ce5
+      - text: Please enter the OTP linked to this test card.
+    - paragraph [ref=e5]:
+      - textbox "Enter OTP" [active] [ref=e6] [cursor=pointer]: "123456"
+    - paragraph [ref=e7]:
+      - button "Submit OTP" [ref=e8] [cursor=pointer]
+  - generic [ref=e10]:
+    - img [ref=e11]
+    - text: Secured by flutterwave

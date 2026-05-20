@@ -1,0 +1,708 @@
+- generic [ref=e2]:
+  - generic [ref=e823]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e828]:
+      - generic [ref=e833] [cursor=pointer]:
+        - img "Shopify" [ref=e834]
+        - img "Shopify" [ref=e835]
+      - generic [ref=e837]:
+        - button "Search ⌘ K" [ref=e843] [cursor=pointer]:
+          - generic [ref=e844]:
+            - generic [ref=e845]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+              - generic "Search" [ref=e846]
+            - generic [ref=e847]:
+              - generic [ref=e848]: ⌘
+              - generic [ref=e849]: K
+        - toolbar [ref=e852]:
+          - generic [ref=e854]:
+            - generic [ref=e855]:
+              - img [ref=e858]
+              - heading "Unsaved product" [level=2] [ref=e862]
+            - generic [ref=e863]:
+              - button "Discard" [ref=e866] [cursor=pointer]
+              - button "Save" [ref=e869] [cursor=pointer]
+      - generic [ref=e870]:
+        - generic [ref=e872]:
+          - button "Sidekick" [ref=e876] [cursor=pointer]:
+            - img [ref=e880]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e890] [cursor=pointer]:
+            - img [ref=e894]
+        - button "Austyn Eguale" [ref=e905] [cursor=pointer]:
+          - generic [ref=e908]:
+            - img "FurLift Staging" [ref=e912]:
+              - generic [ref=e913]: FS
+            - paragraph [ref=e915]: FurLift Staging
+            - generic [ref=e917]: dev
+    - generic [ref=e919]:
+      - generic "Navigation" [ref=e920]:
+        - navigation [ref=e922]:
+          - generic [ref=e923]:
+            - generic [ref=e924]:
+              - list [ref=e926]:
+                - listitem [ref=e927]:
+                  - link "Home" [ref=e930] [cursor=pointer]:
+                    - /url: /store/furlift-staging
+                    - generic [ref=e931]:
+                      - img [ref=e934]
+                      - img [ref=e938]
+                    - generic [ref=e940]: Home
+                - listitem [ref=e941]:
+                  - link "Orders" [ref=e944] [cursor=pointer]:
+                    - /url: /store/furlift-staging/orders
+                    - generic [ref=e945]:
+                      - img [ref=e948]
+                      - img [ref=e952]
+                    - generic [ref=e954]: Orders
+                - listitem [ref=e955]:
+                  - link "Products" [expanded] [ref=e958] [cursor=pointer]:
+                    - /url: /store/furlift-staging/products
+                    - generic [ref=e959]:
+                      - img [ref=e962]
+                      - img [ref=e966]
+                    - generic [ref=e969]: Products
+                  - list [ref=e972]:
+                    - listitem [ref=e973]:
+                      - link "Collections" [ref=e976] [cursor=pointer]:
+                        - /url: /store/furlift-staging/collections
+                        - generic [ref=e977]: Collections
+                    - listitem [ref=e978]:
+                      - link "Inventory" [ref=e981] [cursor=pointer]:
+                        - /url: /store/furlift-staging/products/inventory
+                        - generic [ref=e982]: Inventory
+                    - listitem [ref=e983]:
+                      - link "Purchase orders" [ref=e986] [cursor=pointer]:
+                        - /url: /store/furlift-staging/purchase_orders
+                        - generic [ref=e987]: Purchase orders
+                    - listitem [ref=e988]:
+                      - link "Transfers" [ref=e991] [cursor=pointer]:
+                        - /url: /store/furlift-staging/transfers
+                        - generic [ref=e992]: Transfers
+                    - listitem [ref=e993]:
+                      - link "Gift cards" [ref=e996] [cursor=pointer]:
+                        - /url: /store/furlift-staging/gift_cards
+                        - generic [ref=e997]: Gift cards
+                - listitem [ref=e998]:
+                  - link "Customers" [ref=e1001] [cursor=pointer]:
+                    - /url: /store/furlift-staging/customers
+                    - generic [ref=e1002]:
+                      - img [ref=e1005]
+                      - img [ref=e1010]
+                    - generic [ref=e1013]: Customers
+                - listitem [ref=e1014]:
+                  - link "Marketing" [ref=e1017] [cursor=pointer]:
+                    - /url: /store/furlift-staging/marketing
+                    - generic [ref=e1018]:
+                      - img [ref=e1021]
+                      - img [ref=e1027]
+                    - generic [ref=e1031]: Marketing
+                - listitem [ref=e1032]:
+                  - link "Discounts" [ref=e1035] [cursor=pointer]:
+                    - /url: /store/furlift-staging/discounts
+                    - generic [ref=e1036]:
+                      - img [ref=e1039]
+                      - img [ref=e1043]
+                    - generic [ref=e1048]: Discounts
+                - listitem [ref=e1049]:
+                  - link "Content" [ref=e1052] [cursor=pointer]:
+                    - /url: /store/furlift-staging/content/metaobjects
+                    - generic [ref=e1053]:
+                      - img [ref=e1056]
+                      - img [ref=e1063]
+                    - generic [ref=e1068]: Content
+                - listitem [ref=e1069]:
+                  - link "Markets" [ref=e1072] [cursor=pointer]:
+                    - /url: /store/furlift-staging/markets
+                    - generic [ref=e1073]:
+                      - img [ref=e1076]
+                      - img [ref=e1081]
+                    - generic [ref=e1084]: Markets
+                - listitem [ref=e1085]:
+                  - link "Finance" [ref=e1088] [cursor=pointer]:
+                    - /url: /store/furlift-staging/finance
+                    - generic [ref=e1089]:
+                      - img [ref=e1092]
+                      - img [ref=e1096]
+                    - generic [ref=e1098]: Finance
+                - listitem [ref=e1099]:
+                  - link "Analytics" [ref=e1102] [cursor=pointer]:
+                    - /url: /store/furlift-staging/analytics
+                    - generic [ref=e1103]:
+                      - img [ref=e1106]
+                      - img [ref=e1112]
+                    - generic [ref=e1116]: Analytics
+              - list [ref=e1117]:
+                - listitem [ref=e1118]:
+                  - button "Sales channels" [ref=e1120] [cursor=pointer]:
+                    - strong [ref=e1122]:
+                      - generic: Sales channels
+                  - list [ref=e1124]:
+                    - button "Online Store" [ref=e1125]:
+                      - list [ref=e1126]:
+                        - listitem [ref=e1127]:
+                          - link "Online Store" [ref=e1130] [cursor=pointer]:
+                            - /url: /store/furlift-staging/themes?appLoadId=dfe6703c-6720-4eb5-9835-e1813b9e2c1b
+                            - img [ref=e1132]
+                            - generic [ref=e1133]: Online Store
+                    - button "Agentic" [ref=e1134]:
+                      - list [ref=e1135]:
+                        - listitem [ref=e1136]:
+                          - link "Agentic" [ref=e1139] [cursor=pointer]:
+                            - /url: /store/furlift-staging/apps/agentic?appLoadId=a2fb2df3-4f8f-4410-b1bf-5082a545fea6
+                            - img [ref=e1141]
+                            - generic [ref=e1142]: Agentic
+                  - status [ref=e1143]
+                - listitem [ref=e1144]:
+                  - button "Apps" [ref=e1146] [cursor=pointer]:
+                    - strong [ref=e1148]:
+                      - generic: Apps
+                  - button "Add" [ref=e1151] [cursor=pointer]:
+                    - img [ref=e1155]
+                    - text: Add
+                - listitem [ref=e1158]:
+                  - button "Sidekick conversations" [ref=e1160] [cursor=pointer]:
+                    - strong [ref=e1162]:
+                      - generic: Sidekick conversations
+                  - list [ref=e1165]:
+                    - listitem [ref=e1166]:
+                      - button "Designing your Shopify store for launch" [ref=e1169] [cursor=pointer]:
+                        - generic [ref=e1170]: Designing your Shopify store for launch
+            - list [ref=e1172]:
+              - listitem [ref=e1173]:
+                - link "Settings" [ref=e1176] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings
+                  - img [ref=e1180]
+                  - generic [ref=e1182]: Settings
+      - main [ref=e1183]:
+        - generic [ref=e1188]:
+          - generic [ref=e1189]:
+            - status:
+              - paragraph [ref=e1190]: Add product. This page is ready
+            - navigation "Breadcrumbs for Products" [ref=e1195]:
+              - generic [ref=e1196]:
+                - link "Products" [ref=e1197] [cursor=pointer]:
+                  - /url: /store/furlift-staging/products
+                  - img [ref=e1201]
+                - img [ref=e1204]
+                - heading "Add product" [level=1] [ref=e1207]
+          - generic [ref=e1209]:
+            - button [ref=e1211]: Submit
+            - generic [ref=e1212]:
+              - generic [ref=e1213]:
+                - generic [ref=e1216]:
+                  - generic [ref=e1218]:
+                    - generic [ref=e1221]:
+                      - generic [ref=e1222]: Title
+                      - textbox "Title" [ref=e1226]:
+                        - /placeholder: Short sleeve t-shirt
+                        - text: FurLift Reusable Pet Hair Detailer
+                    - generic [ref=e1228]:
+                      - generic [ref=e1229]:
+                        - generic: Rich text editor
+                      - generic [ref=e1230]:
+                        - generic [ref=e1233]: Description
+                        - generic [ref=e1234]:
+                          - generic [ref=e1237]:
+                            - generic [ref=e1238]:
+                              - button "Generate text" [ref=e1243] [cursor=pointer]:
+                                - img [ref=e1247]
+                              - generic [ref=e1250]:
+                                - button "Formatting options, Paragraph selected" [ref=e1256] [cursor=pointer]:
+                                  - text: Paragraph
+                                  - img [ref=e1260]
+                                - generic [ref=e1262]:
+                                  - button "Bold" [ref=e1266] [cursor=pointer]:
+                                    - img [ref=e1270]
+                                  - button "Italic" [ref=e1275] [cursor=pointer]:
+                                    - img [ref=e1279]
+                                  - button "Underline" [ref=e1284] [cursor=pointer]:
+                                    - img [ref=e1288]
+                                  - button "Color" [ref=e1295] [cursor=pointer]:
+                                    - img [ref=e1299]
+                                    - img [ref=e1305]
+                                - button "Alignment" [ref=e1312] [cursor=pointer]:
+                                  - img [ref=e1316]
+                                  - img [ref=e1324]
+                                - generic [ref=e1326]:
+                                  - generic [ref=e1328]:
+                                    - button "Link - Select text" [disabled]:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - img
+                                  - button "Insert image" [ref=e1332] [cursor=pointer]:
+                                    - img [ref=e1336]
+                                  - button "Insert video" [ref=e1342] [cursor=pointer]:
+                                    - img [ref=e1346]
+                                  - button "Insert table" [ref=e1353] [cursor=pointer]:
+                                    - img [ref=e1357]
+                                    - img [ref=e1362]
+                              - button "Additional controls" [ref=e1366] [cursor=pointer]:
+                                - img [ref=e1370]
+                            - button "Show HTML" [ref=e1378] [cursor=pointer]:
+                              - img [ref=e1382]
+                          - iframe [ref=e1389]:
+                            - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f10e1]:
+                              - paragraph [ref=f10e2]: "Pet hair should not own your couch.\\n\\nFurLift is a reusable pet hair detailer for dog and cat owners who are tired of sticky rollers, clogged vacuums, and fur-covered fabric. Drag it across couches, rugs, car seats, bedding, and pet beds to lift embedded hair fast.\\n\\nWhy pet owners use it:\\n- Removes visible fur in seconds for satisfying before-and-after demos.\\n- No batteries, charging, adhesive sheets, or refill rolls.\\n- Small enough for car, sofa, travel bag, and laundry room use.\\n- Built for repeat cleaning after shedding, grooming, or daily pet naps.\\n\\nBest for fabric couches, rugs, car seats, bed covers, pet beds, and clothing. Always test gently on delicate fabrics first.\\n\\nLaunch offer: secure USD checkout, tracked delivery, and clear shipping updates after purchase."
+                  - generic [ref=e1391]:
+                    - paragraph [ref=e1395]:
+                      - generic: Media
+                    - generic [ref=e1398]:
+                      - generic [ref=e1400]: Drop media to upload
+                      - generic [ref=e1401] [cursor=pointer]:
+                        - button "Drop media to upload" [ref=e1403]
+                        - generic [ref=e1404]:
+                          - generic [ref=e1405]:
+                            - button "Upload new" [ref=e1407]:
+                              - generic [ref=e1409]:
+                                - generic: Upload new
+                            - button "Select existing" [ref=e1411]:
+                              - generic: Select existing
+                          - paragraph [ref=e1413]:
+                            - generic: Accepts images, videos, or 3D models
+                  - generic [ref=e1417]:
+                    - generic [ref=e1418]:
+                      - generic [ref=e1420]: Category
+                      - button "14 metafields" [ref=e1998] [cursor=pointer]:
+                        - generic [ref=e2000]:
+                          - generic: 14 metafields
+                    - generic [ref=e1423]:
+                      - generic [ref=e1425]:
+                        - generic [ref=e1426]: Category
+                        - generic [ref=e1427] [cursor=pointer]:
+                          - button "Category" [ref=e1428]
+                          - generic [ref=e1902]:
+                            - generic [ref=e1903]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: Fabric & Upholstery Cleaners in Household Cleaning Products
+                            - button [ref=e1904]:
+                              - img [ref=e1907]
+                          - img [ref=e1432]
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Animals & Pet Supplies
+                            - generic: Apparel & Accessories
+                            - generic: Arts & Entertainment
+                            - generic: Baby & Toddler
+                            - generic: Business & Industrial
+                            - generic: Cameras & Optics
+                            - generic: Electronics
+                            - generic: Food, Beverages & Tobacco
+                            - generic: Furniture
+                            - generic: Hardware
+                            - generic: Health & Beauty
+                            - generic: Home & Garden
+                            - generic: Luggage & Bags
+                            - generic: Mature
+                            - generic: Media
+                            - generic: Office Supplies
+                            - generic: Religious & Ceremonial
+                            - generic: Software
+                            - generic: Sporting Goods
+                            - generic: Toys & Games
+                            - generic: Vehicles & Parts
+                            - generic: Gift Cards
+                            - generic: Uncategorized
+                            - generic: Services
+                            - generic: Product Add-Ons
+                            - generic: Bundles
+                    - paragraph [ref=e1435]: Determines tax rates and adds metafields to improve search, filters, and cross-channel sales
+                - generic [ref=e1438]:
+                  - generic:
+                    - heading "Price" [level=2] [ref=e1441]:
+                      - generic: Price
+                    - group [ref=e1445]:
+                      - generic [ref=e1451]:
+                        - generic [ref=e1454]: Price
+                        - generic [ref=e1457]:
+                          - generic: $
+                          - textbox "Price $" [ref=e1458]:
+                            - /placeholder: "0.00"
+                            - text: "24.95"
+                    - generic [ref=e1459]:
+                      - button "Additional display prices" [expanded] [ref=e1909] [cursor=pointer]:
+                        - generic [ref=e1910]:
+                          - heading "Additional display prices" [level=4] [ref=e1911]:
+                            - generic: Additional display prices
+                          - img [ref=e1916]
+                      - generic [ref=e1919]:
+                        - generic [ref=e1921]:
+                          - generic [ref=e1922]:
+                            - generic [ref=e1924]:
+                              - generic [ref=e1927]: Compare-at price
+                              - generic [ref=e1930]:
+                                - generic: $
+                                - textbox "Compare-at price $" [ref=e1931]:
+                                  - /placeholder: "0.00"
+                                  - text: "39.95"
+                                - img [ref=e1939]
+                            - generic [ref=e1947]:
+                              - generic [ref=e1948]: Unit price
+                              - generic [ref=e1949]:
+                                - textbox "Unit price" [ref=e1952]: "--"
+                                - button [ref=e1956] [cursor=pointer]:
+                                  - img [ref=e1960]
+                          - generic [ref=e1965] [cursor=pointer]:
+                            - checkbox "Charge tax on this product" [checked] [ref=e1966]
+                            - generic [ref=e1969]: Charge tax on this product
+                        - generic [ref=e1972]:
+                          - generic "Cost" [ref=e1975]:
+                            - paragraph [ref=e1978]: Cost
+                            - textbox "--" [ref=e1981]
+                          - generic [ref=e1982]:
+                            - generic "Profit" [ref=e1984]:
+                              - paragraph [ref=e1987]: Profit
+                              - generic [ref=e1988]: "--"
+                            - generic "Margin" [ref=e1991]:
+                              - paragraph [ref=e1994]: Margin
+                              - generic [ref=e1995]: "--"
+                - generic [ref=e1496]:
+                  - generic:
+                    - generic [ref=e1498]:
+                      - heading "Inventory" [level=2] [ref=e1499]:
+                        - generic: Inventory
+                      - generic [ref=e1503]:
+                        - generic [ref=e1505]: Inventory tracked
+                        - generic [ref=e1508] [cursor=pointer]:
+                          - checkbox "Inventory tracked" [checked] [ref=e1509]
+                          - generic [ref=e1510]: Inventory tracked
+                    - table [ref=e1520]:
+                      - rowgroup [ref=e1524]:
+                        - row "Quantity Quantity" [ref=e1525]:
+                          - columnheader "Quantity" [ref=e1526]
+                          - columnheader "Quantity" [ref=e1527]
+                      - rowgroup [ref=e1530]:
+                        - row "Shop location Shop location quantity available 50" [ref=e2176]:
+                          - cell "Shop location" [ref=e1532]:
+                            - generic [ref=e1536]:
+                              - generic: Shop location
+                          - cell "Shop location quantity available 50" [ref=e2177]:
+                            - generic [ref=e1541]:
+                              - generic [ref=e1544]: Shop location quantity available
+                              - spinbutton "Shop location quantity available" [ref=e1548]: "50"
+                    - generic [ref=e1552]:
+                      - generic [ref=e1553]:
+                        - generic "SKU" [ref=e1554]:
+                          - button "SKU" [ref=e1555] [cursor=pointer]:
+                            - paragraph [ref=e1558]: SKU
+                        - generic "Barcode" [ref=e1559]:
+                          - button "Barcode" [ref=e1560] [cursor=pointer]:
+                            - paragraph [ref=e1563]: Barcode
+                        - generic "Sell when out of stock" [ref=e1564]:
+                          - button "Sell when out of stock Off" [ref=e1565] [cursor=pointer]:
+                            - paragraph [ref=e1568]: Sell when out of stock
+                            - generic [ref=e1572]:
+                              - generic: "Off"
+                      - button [ref=e1574] [cursor=pointer]:
+                        - img [ref=e1578]
+                - generic [ref=e1583]:
+                  - generic:
+                    - generic [ref=e1585]:
+                      - heading "Shipping" [level=2] [ref=e1586]:
+                        - generic: Shipping
+                      - generic [ref=e1587]:
+                        - generic [ref=e1589]: Physical product
+                        - generic [ref=e1592] [cursor=pointer]:
+                          - checkbox "Physical product" [checked] [ref=e1593]
+                          - generic [ref=e1594]: Physical product
+                    - generic [ref=e1596]:
+                      - generic [ref=e1598]:
+                        - generic [ref=e1599]:
+                          - generic [ref=e1601]: Package
+                          - img [ref=e1604]
+                        - combobox "Package" [ref=e1609] [cursor=pointer]:
+                          - generic [ref=e1610]:
+                            - generic [ref=e1614]:
+                              - img [ref=e1617]
+                              - generic [ref=e1620]:
+                                - paragraph [ref=e1621]: Store default
+                                - paragraph [ref=e1622]:
+                                  - generic: •
+                                - paragraph [ref=e1623]: Sample box - 8.6 × 5.4 × 1.6 in, 0 lb
+                            - img [ref=e1626]
+                      - generic [ref=e1631]:
+                        - generic [ref=e1634]: Product weight
+                        - generic [ref=e1635]:
+                          - textbox "Product weight" [ref=e1638]:
+                            - /placeholder: "0.0"
+                            - text: "0.2"
+                          - generic [ref=e1641]:
+                            - generic:
+                              - generic [ref=e1642]: Weight unit
+                              - generic [ref=e1643]:
+                                - generic [ref=e1648]: lb
+                                - img [ref=e1651]
+                                - combobox "Weight unit" [ref=e1654] [cursor=pointer]:
+                                  - option "lb" [selected]
+                                  - option "oz"
+                                  - option "kg"
+                                  - option "g"
+                    - generic [ref=e1658]:
+                      - generic [ref=e1659]:
+                        - generic "Country of origin" [ref=e1660]:
+                          - button "Country of origin" [ref=e1661] [cursor=pointer]:
+                            - paragraph [ref=e1664]: Country of origin
+                        - generic "HS Code" [ref=e1665]:
+                          - button "HS Code" [ref=e1666] [cursor=pointer]:
+                            - paragraph [ref=e1669]: HS Code
+                      - button [ref=e1671] [cursor=pointer]:
+                        - img [ref=e1675]
+                - generic [ref=e1679]:
+                  - generic:
+                    - heading "Variants" [level=2] [ref=e1681]
+                    - generic [ref=e1683]:
+                      - button "Add options like size or color" [ref=e1689] [cursor=pointer]:
+                        - generic [ref=e1690]:
+                          - img [ref=e1693]
+                          - generic [ref=e1696]:
+                            - generic: Add options like size or color
+                      - status [ref=e1697]
+                - generic [ref=e2007]:
+                  - generic [ref=e2009]:
+                    - heading "Category metafields" [level=3] [ref=e2011]:
+                      - generic: Category metafields
+                    - button "Fabric & Upholstery Cleaners in Household Cleaning Products" [ref=e2013] [cursor=pointer]:
+                      - generic [ref=e2015]:
+                        - strong [ref=e2016]:
+                          - generic: Fabric & Upholstery Cleaners
+                        - text: in Household Cleaning Products
+                  - generic [ref=e2018]:
+                    - button "Color" [ref=e2020] [cursor=pointer]:
+                      - generic [ref=e2023]:
+                        - img [ref=e2026]
+                        - generic [ref=e2029]:
+                          - generic: Color
+                    - button "Material" [ref=e2031] [cursor=pointer]:
+                      - generic [ref=e2034]:
+                        - img [ref=e2037]
+                        - generic [ref=e2040]:
+                          - generic: Material
+                    - button "Usage type" [ref=e2042] [cursor=pointer]:
+                      - generic [ref=e2045]:
+                        - img [ref=e2048]
+                        - generic [ref=e2051]:
+                          - generic: Usage type
+                    - button "Suitable space" [ref=e2053] [cursor=pointer]:
+                      - generic [ref=e2056]:
+                        - img [ref=e2059]
+                        - generic [ref=e2062]:
+                          - generic: Suitable space
+                    - button "Cleaning surfaces" [ref=e2064] [cursor=pointer]:
+                      - generic [ref=e2067]:
+                        - img [ref=e2070]
+                        - generic [ref=e2073]:
+                          - generic: Cleaning surfaces
+                    - button "Dispenser type" [ref=e2075] [cursor=pointer]:
+                      - generic [ref=e2078]:
+                        - img [ref=e2081]
+                        - generic [ref=e2084]:
+                          - generic: Dispenser type
+                    - button "Ingredients" [ref=e2086] [cursor=pointer]:
+                      - generic [ref=e2089]:
+                        - img [ref=e2092]
+                        - generic [ref=e2095]:
+                          - generic: Ingredients
+                    - button "Fragrance" [ref=e2097] [cursor=pointer]:
+                      - generic [ref=e2100]:
+                        - img [ref=e2103]
+                        - generic [ref=e2106]:
+                          - generic: Fragrance
+                    - button "Chemical safety features" [ref=e2108] [cursor=pointer]:
+                      - generic [ref=e2111]:
+                        - img [ref=e2114]
+                        - generic [ref=e2117]:
+                          - generic: Chemical safety features
+                    - button "Chemical product form" [ref=e2119] [cursor=pointer]:
+                      - generic [ref=e2122]:
+                        - img [ref=e2125]
+                        - generic [ref=e2128]:
+                          - generic: Chemical product form
+                    - button "Chemical container type" [ref=e2130] [cursor=pointer]:
+                      - generic [ref=e2133]:
+                        - img [ref=e2136]
+                        - generic [ref=e2139]:
+                          - generic: Chemical container type
+                    - button "Suitable for fabric type" [ref=e2141] [cursor=pointer]:
+                      - generic [ref=e2144]:
+                        - img [ref=e2147]
+                        - generic [ref=e2150]:
+                          - generic: Suitable for fabric type
+                    - button "PH level" [ref=e2152] [cursor=pointer]:
+                      - generic [ref=e2155]:
+                        - img [ref=e2158]
+                        - generic [ref=e2161]:
+                          - generic: PH level
+                    - button "Cleaning solution concentration" [ref=e2163] [cursor=pointer]:
+                      - generic [ref=e2166]:
+                        - img [ref=e2169]
+                        - generic [ref=e2172]:
+                          - generic: Cleaning solution concentration
+                - generic [ref=e1703]:
+                  - generic [ref=e1704]:
+                    - heading "Search engine listing" [level=2] [ref=e1705]:
+                      - generic: Search engine listing
+                    - button "Edit" [ref=e1706] [cursor=pointer]:
+                      - img [ref=e1710]
+                  - generic [ref=e1884]:
+                    - generic [ref=e1886]:
+                      - paragraph [ref=e1887]:
+                        - generic: FurLift Staging
+                      - paragraph [ref=e1888]:
+                        - generic: https://furlift-staging.myshopify.com › products › furlift-reusable-pet-hair-detailer
+                    - generic [ref=e1889]:
+                      - paragraph [ref=e1890]: FurLift Reusable Pet Hair Detailer
+                      - paragraph [ref=e1996]:
+                        - generic: Pet hair should not own your couch.\n\nFurLift is a reusable pet hair detailer for dog and cat owners who are tired of sticky rollers, clogged vacuums, and fur-…
+                      - paragraph [ref=e1891]:
+                        - generic: $24.95 USD
+              - generic [ref=e1713]:
+                - generic [ref=e1716]:
+                  - generic:
+                    - heading "Status" [level=2] [ref=e1718]
+                    - generic [ref=e1720]:
+                      - generic [ref=e1723]:
+                        - generic [ref=e1724]: Status
+                        - generic [ref=e1725] [cursor=pointer]:
+                          - button "Status" [ref=e1726]
+                          - generic [ref=e1730]:
+                            - generic: Active
+                          - img [ref=e1734]
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Active
+                            - generic: Draft
+                            - generic: Unlisted
+                - generic [ref=e1739]:
+                  - heading "Publishing" [level=2] [ref=e1741]:
+                    - generic: Publishing
+                  - generic:
+                    - generic [ref=e1742]:
+                      - heading "Publishing" [level=2] [ref=e1743]:
+                        - generic: Publishing
+                      - button "Manage publishing" [ref=e1745] [cursor=pointer]:
+                        - img [ref=e1749]
+                    - button "All channels" [ref=e1759] [cursor=pointer]:
+                      - generic [ref=e1760]:
+                        - img [ref=e1764]
+                        - strong [ref=e1768]:
+                          - generic: All channels
+                - generic [ref=e1770]:
+                  - generic:
+                    - generic [ref=e1772]:
+                      - heading "Product organization" [level=2] [ref=e1773]:
+                        - generic: Product organization
+                      - link "Learn more" [ref=e1775] [cursor=pointer]:
+                        - /url: https://help.shopify.com/en/manual/products/details#product-organization
+                        - img [ref=e1779]
+                    - generic [ref=e1784]:
+                      - generic [ref=e1786]:
+                        - generic [ref=e1787] [cursor=pointer]: Type
+                        - generic [ref=e1789]:
+                          - generic [ref=e1790]: Type
+                          - generic [ref=e1791] [cursor=pointer]:
+                            - button "Type" [expanded] [ref=e1792]
+                            - generic [ref=e2230]:
+                              - generic [ref=e2231]:
+                                - generic: Pet Cleaning Tool
+                              - button [ref=e2232]:
+                                - img [ref=e2235]
+                            - img [ref=e1796]
+                        - generic [ref=e2179]:
+                          - generic [ref=e2181]:
+                            - generic [ref=e2183]: Type
+                            - generic [ref=e2186]:
+                              - img [ref=e2191]
+                              - searchbox "Type" [ref=e2194]
+                          - grid [ref=e2214]:
+                            - row "Pet Cleaning Tool" [ref=e2237]:
+                              - gridcell "Pet Cleaning Tool" [selected] [ref=e2238] [cursor=pointer]:
+                                - img [ref=e2243]
+                                - generic [ref=e2245]:
+                                  - generic: Pet Cleaning Tool
+                      - generic [ref=e1800]:
+                        - generic [ref=e1801] [cursor=pointer]: Vendor
+                        - generic [ref=e1803]:
+                          - generic [ref=e1804]: Vendor
+                          - generic [ref=e1805] [cursor=pointer]:
+                            - button "Vendor" [ref=e1806]
+                            - generic:
+                              - generic: None
+                            - img [ref=e1810]
+                      - generic [ref=e1814]:
+                        - generic [ref=e1817]:
+                          - generic [ref=e1820]: Collections
+                          - group "Collections" [ref=e1821]:
+                            - generic "Collections" [ref=e1822]:
+                              - group [ref=e1823] [cursor=pointer]:
+                                - button "Add collections" [ref=e1824]:
+                                  - img [ref=e1828]
+                                  - generic [ref=e1831]:
+                                    - generic: Add collections
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Home page
+                        - generic:
+                          - generic:
+                            - generic: Add new collection
+                      - generic [ref=e1836]:
+                        - generic [ref=e1839]: Tags
+                        - group "Tags" [ref=e1840]:
+                          - generic "Tags" [ref=e1841]:
+                            - group [ref=e1842] [cursor=pointer]:
+                              - button "Add tags" [ref=e1843]:
+                                - img [ref=e1847]
+                                - generic [ref=e1850]:
+                                  - generic: Add tags
+                - generic [ref=e1856]:
+                  - generic [ref=e1858]: Theme template
+                  - generic [ref=e1860]:
+                    - generic:
+                      - generic [ref=e1861]: Theme template
+                      - generic [ref=e1862]:
+                        - generic [ref=e1867]: Default product
+                        - img [ref=e1870]
+                        - combobox "Theme template" [ref=e1873] [cursor=pointer]:
+                          - option "Default product" [selected]
+              - button "Save" [ref=e1892] [cursor=pointer]:
+                - generic [ref=e1893]: Save
+              - button [ref=e1879]
+  - generic:
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Continue
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Set as active
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Go to preferences
+    - generic:
+      - generic:
+        - generic: To share this product, include it in your Online Store channel
+        - generic: Close
+        - generic: Manage sales channels
+    - generic:
+      - generic:
+        - generic: To make this product available to share, include this product in at least 1 market.
+        - generic: Close
+        - generic: Manage markets
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e1881]

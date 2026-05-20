@@ -1,0 +1,15 @@
+{
+  "id": "beauty-enthusiast",
+  "name": "Sophie",
+  "age": 24,
+  "gender": "female",
+  "character_block": "24-year-old female beauty enthusiast with natural makeup look, shoulder-length hair, casual comfortable beauty content attire, realistic skin texture, authentic beauty care energy, expressive hands when demonstrating beauty products, natural speaking manner",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing with bathroom mirror or vanity shots, natural hand movement showing beauty tools, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "environment_block": "bathroom vanity or bedroom makeup area, visible beauty products and tools, realistic home beauty environment, warm aesthetic lighting",
+  "platform_block": "realistic TikTok beauty content style, organic creator content, not polished commercial, authentic beauty enthusiast vibe, satisfying product demonstrations",
+  "lighting_block": "warm vanity lighting or natural daylight, soft shadows, realistic beauty environment lighting, slight smartphone overexposure on bright surfaces",
+  "motion_block": "natural hand movements when applying beauty products, smooth tool demonstrations, authentic satisfaction reactions with results",
+  "audio_block": "subtle product application sounds, beauty tool operation sounds, bathroom environment ambience, authentic enthusiastic speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury beauty influencer aesthetic, no overly polished production",
+  "reference_images": []
+}

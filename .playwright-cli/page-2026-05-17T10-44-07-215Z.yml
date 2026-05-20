@@ -1,0 +1,46 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic:
+        - link "Skip to content":
+          - /url: "#AppFrameMain"
+      - main [ref=e5]:
+        - generic [ref=e7]:
+          - generic [ref=e9]:
+            - generic [ref=e10]:
+              - heading "Flutterwave Payment Settings" [level=1] [ref=e11]
+              - paragraph [ref=e13]: Flutterwave helps you collect payments
+            - generic [ref=e14]:
+              - button "More actions" [ref=e229] [cursor=pointer]:
+                - generic [ref=e230]:
+                  - generic [ref=e231]: More actions
+                  - img [ref=e236]
+              - link "Get API Keys" [ref=e31] [cursor=pointer]:
+                - /url: https://app.flutterwave.com/login
+                - generic [ref=e33]: Get API Keys
+          - generic [ref=e37]:
+            - heading "Configure your API Keys" [level=2] [ref=e40]
+            - generic [ref=e44]:
+              - button [ref=e46]: Submit
+              - generic [ref=e47]:
+                - generic [ref=e49]:
+                  - generic [ref=e52]: Public Key*
+                  - textbox "Public Key*" [ref=e56]: FLWPUBK-a2e14ab28e144031067e7c5be0b8980a-X
+                - generic [ref=e58]:
+                  - generic [ref=e61]: Secret Key*
+                  - textbox "Secret Key*" [ref=e65]: FLWSECK-b37f08851279c3199e30477440aa52a3-19cecb2ec49vt-X
+                - generic [ref=e67]:
+                  - generic [ref=e70]: Test Public Key*
+                  - textbox "Test Public Key*" [ref=e74]: FLWPUBK_TEST-87e6165eadd8f1b5b24c8240ee30168c-X
+                - generic [ref=e76]:
+                  - generic [ref=e79]: Test Secret Key*
+                  - textbox "Test Secret Key*" [ref=e83]: FLWSECK_TEST-84f1f95d62907e385caf80b3fa41393f-X
+                - generic [ref=e84]:
+                  - button "Submit" [disabled]:
+                    - generic:
+                      - generic: Submit
+    - generic [ref=e240]:
+      - text: Unable to validate provided keys
+      - button [ref=e241] [cursor=pointer]:
+        - img [ref=e244]
+  - alert [ref=e88]

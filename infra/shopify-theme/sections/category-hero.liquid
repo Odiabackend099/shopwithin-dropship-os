@@ -1,0 +1,128 @@
+{% comment %}
+  Category Hero Section
+  Displays category-specific hero with problem-solving messaging
+{% endcomment %}
+
+<div class="category-hero" data-category="{{ section.settings.category }}">
+  <div class="category-hero__background">
+    {% if section.settings.background_image %}
+      {{ section.settings.background_image | image_url: width: 1600 | image_tag: loading: 'lazy', class: 'category-hero__bg-image' }}
+    {% endif %}
+  </div>
+  
+  <div class="category-hero__content">
+    <div class="category-hero__badge">
+      {% if section.settings.trending_badge %}
+        <span class="trending-badge">🔥 Trending</span>
+      {% endif %}
+      {% if section.settings.new_badge %}
+        <span class="new-badge">✨ New</span>
+      {% endif %}
+    </div>
+    
+    <h1 class="category-hero__title">{{ section.settings.title }}</h1>
+    <p class="category-hero__subtitle">{{ section.settings.subtitle }}</p>
+    
+    {% if section.settings.problem_statement %}
+      <div class="category-hero__problem">
+        <span class="problem-label">Problem:</span>
+        <span class="problem-text">{{ section.settings.problem_statement }}</span>
+      </div>
+    {% endif %}
+    
+    {% if section.settings.solution_statement %}
+      <div class="category-hero__solution">
+        <span class="solution-label">Solution:</span>
+        <span class="solution-text">{{ section.settings.solution_statement }}</span>
+      </div>
+    {% endif %}
+    
+    <div class="category-hero__cta">
+      <a href="{{ section.settings.cta_link }}" class="primary-cta">{{ section.settings.cta_text }}</a>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Category Hero",
+  "settings": [
+    {
+      "type": "select",
+      "id": "category",
+      "label": "Category",
+      "options": [
+        { "value": "pet", "label": "Pet Care" },
+        { "value": "car", "label": "Car Accessories" },
+        { "value": "home", "label": "Home Solutions" },
+        { "value": "kitchen", "label": "Kitchen Gadgets" },
+        { "value": "beauty", "label": "Beauty Tools" },
+        { "value": "wellness", "label": "Wellness" },
+        { "value": "gadgets", "label": "Tech Gadgets" },
+        { "value": "organization", "label": "Organization" },
+        { "value": "travel", "label": "Travel" }
+      ],
+      "default": "home"
+    },
+    {
+      "type": "image_picker",
+      "id": "background_image",
+      "label": "Background image"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Solve Everyday Problems"
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "label": "Subtitle",
+      "default": "Viral products that actually work"
+    },
+    {
+      "type": "checkbox",
+      "id": "trending_badge",
+      "label": "Show trending badge",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "new_badge",
+      "label": "Show new badge",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "problem_statement",
+      "label": "Problem statement",
+      "default": "Dealing with everyday problems that slow you down?"
+    },
+    {
+      "type": "text",
+      "id": "solution_statement",
+      "label": "Solution statement",
+      "default": "Our trending products solve these problems fast"
+    },
+    {
+      "type": "url",
+      "id": "cta_link",
+      "label": "CTA link",
+      "default": "/collections/all"
+    },
+    {
+      "type": "text",
+      "id": "cta_text",
+      "label": "CTA text",
+      "default": "Shop Now"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Category Hero",
+      "category": "Hero"
+    }
+  ]
+}
+{% endschema %}

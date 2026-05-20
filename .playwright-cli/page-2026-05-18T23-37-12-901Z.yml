@@ -1,0 +1,500 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e14]:
+        - generic [ref=e16]:
+          - link "Ads Manager Meta" [ref=e18] [cursor=pointer]:
+            - /url: /adsmanager/
+            - generic [ref=e20]:
+              - generic [ref=e21]: Ads Manager
+              - img "Meta" [ref=e24]
+          - generic [ref=e25]:
+            - generic [ref=e28]:
+              - button "Pressable" [ref=e29] [cursor=pointer]
+              - generic:
+                - generic:
+                  - generic:
+                    - button:
+                      - generic:
+                        - generic: "0"
+            - separator [ref=e34]
+        - navigation "tools" [ref=e38]:
+          - list [ref=e39]:
+            - listitem [ref=e41]:
+              - link "Account overview" [ref=e43] [cursor=pointer]:
+                - /url: /adsmanager/manage/accounts?business_id=990501983779852&nav_entry_point=ads_ecosystem_navigation_menu&nav_source=ads_manager
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Account overview
+            - listitem [ref=e50]:
+              - link "Campaigns" [ref=e52] [cursor=pointer]:
+                - /url: /adsmanager/manage/campaigns?business_id=990501983779852&nav_entry_point=ads_ecosystem_navigation_menu&nav_source=ads_manager
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Campaigns
+            - listitem [ref=e58]:
+              - link "Ads Reporting" [ref=e60] [cursor=pointer]:
+                - /url: /adsreporting/?business_id=990501983779852
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Ads Reporting
+            - listitem [ref=e66]:
+              - link "Audiences" [ref=e68] [cursor=pointer]:
+                - /url: /adsmanager/?business_id=990501983779852&tool=AUDIENCES&nav_entry_point=ads_ecosystem_navigation_menu&nav_source=ads_manager
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Audiences
+            - listitem [ref=e74]:
+              - link "Billing & payments" [ref=e76] [cursor=pointer]:
+                - /url: /billing_hub/payment_settings/?placement=ads_manager&business_id=990501983779852&entrypoint=ads_ecosystem_navigation_ads_billing_tool_plugin
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Billing & payments
+            - listitem [ref=e82]:
+              - link "Advertising settings" [ref=e84] [cursor=pointer]:
+                - /url: https://eventsmanager.facebook.com/adsmanager/manage/advertising_settings/?business_id=990501983779852&nav_entry_point=ads_ecosystem_navigation_menu&nav_source=ads_manager
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Advertising settings
+            - listitem [ref=e90]:
+              - link "Events Manager" [ref=e92] [cursor=pointer]:
+                - /url: /events_manager2/?business_id=990501983779852&nav_source=ads_ecosystem_nav
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Events Manager
+            - listitem [ref=e97]:
+              - button "All tools" [ref=e99] [cursor=pointer]
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: All tools
+        - generic [ref=e107]:
+          - separator [ref=e108]
+          - generic [ref=e110]:
+            - button "Business Settings" [disabled] [ref=e112]:
+              - generic [ref=e115]: Business Settings
+            - button "Search" [ref=e119] [cursor=pointer]:
+              - generic [ref=e122]: Search
+            - button "Help" [ref=e128] [cursor=pointer]:
+              - generic [ref=e131]: Help
+            - button "Report a problem" [ref=e134] [cursor=pointer]:
+              - generic [ref=e137]: Report a problem
+      - generic [ref=e144]:
+        - generic [ref=e147]:
+          - heading "Datasets" [level=1] [ref=e149]
+          - generic [ref=e150]:
+            - combobox "Shopwithin" [ref=e162] [cursor=pointer]:
+              - generic [ref=e175]: Shopwithin
+            - button "Facebook" [ref=e180] [cursor=pointer]:
+              - generic [ref=e186]:
+                - generic:
+                  - img
+                - img "Facebook" [ref=e188]
+        - generic [ref=e189]:
+          - generic [ref=e194]:
+            - navigation "Tools" [ref=e198]:
+              - list [ref=e199]:
+                - listitem [ref=e200]:
+                  - button "Connect data" [ref=e202] [cursor=pointer]
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Connect data
+                - listitem [ref=e208]:
+                  - button "Overview" [ref=e210] [cursor=pointer]
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Overview
+                - listitem [ref=e216]:
+                  - button "Datasets" [ref=e218] [cursor=pointer]
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Datasets
+                - listitem [ref=e224]:
+                  - button "Custom conversions" [ref=e226] [cursor=pointer]
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Custom conversions
+                - listitem [ref=e232]:
+                  - button "Integrations" [ref=e234] [cursor=pointer]
+                  - generic:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Integrations
+            - button "Expand" [ref=e242] [cursor=pointer]:
+              - generic [ref=e245]: Expand
+          - generic [ref=e257]:
+            - generic [ref=e259]:
+              - generic [ref=e260]:
+                - generic [ref=e380]:
+                  - generic [ref=e382]:
+                    - generic [ref=e383]:
+                      - generic [ref=e385]: Shopwithin Pixel
+                      - text: ID 971950502213246
+                    - generic [ref=e389]:
+                      - generic [ref=e395]: Data source
+                      - combobox "Data source Shopwithin Pixel" [ref=e400] [cursor=pointer]:
+                        - generic [ref=e405]:
+                          - generic:
+                            - generic: Shopwithin Pixel
+                  - link "Edit data source name" [ref=e409] [cursor=pointer]:
+                    - /url: "#"
+                - generic [ref=e269]:
+                  - button "21 Apr 2026 - 18 May 2026" [ref=e271] [cursor=pointer]:
+                    - generic [ref=e276]: 21 Apr 2026 - 18 May 2026
+                  - button "Create" [ref=e280] [cursor=pointer]:
+                    - generic [ref=e284]: Create
+              - tablist [ref=e286]:
+                - tab "Overview" [selected] [ref=e287] [cursor=pointer]:
+                  - generic [ref=e290]: Overview
+                - tab "Test events" [ref=e291] [cursor=pointer]:
+                  - generic [ref=e294]: Test events
+                - tab "Diagnostics" [ref=e295] [cursor=pointer]:
+                  - generic [ref=e298]: Diagnostics
+                - tab "History" [ref=e299] [cursor=pointer]:
+                  - generic [ref=e302]: History
+                - tab "Settings" [ref=e303] [cursor=pointer]:
+                  - generic [ref=e306]: Settings
+            - generic [ref=e319]:
+              - generic [ref=e320]:
+                - heading "Your dataset hasn't received any activity." [level=2] [ref=e322]
+                - generic [ref=e324]:
+                  - text: Event activity might not appear here for up to 30 minutes. If you want to test your integrations in real time, visit the
+                  - link "Test events tab." [ref=e325] [cursor=pointer]:
+                    - /url: "#"
+                  - text: Finish setting up an integration to start sending event activity from a server, website or app.
+              - generic [ref=e326]:
+                - generic [ref=e330]:
+                  - heading "Send events from a server" [level=3] [ref=e332]
+                  - generic [ref=e333]: Send events and parameters directly from your server using an API integration. Server connections can provide the most event coverage but typically require more technical investment.
+                  - button "Set up Conversions API" [ref=e334] [cursor=pointer]:
+                    - generic [ref=e338]: Set up Conversions API
+                - generic [ref=e342]:
+                  - heading "Gather website events from browser activity" [level=3] [ref=e344]
+                  - generic [ref=e345]: Send events and parameters from a website using a Meta pixel code snippet. This method only allows website events to be sent. Browser events can be limited due to privacy-preserving technologies.
+                  - button "Set up Meta Pixel" [ref=e346] [cursor=pointer]:
+                    - generic [ref=e350]: Set up Meta Pixel
+              - generic [ref=e354]:
+                - heading "Share data from a mobile app" [level=3] [ref=e356]
+                - generic [ref=e357]: If you have a mobile app, you can link it to your dataset so that customer activity from the app is shared with the dataset. This will allow you to see app activity alongside other types of event data, such as your website and offline data.
+                - button "Link app" [ref=e358] [cursor=pointer]:
+                  - generic [ref=e362]: Link app
+              - generic [ref=e366]:
+                - heading "Share data stored in a spreadsheet" [level=3] [ref=e368]
+                - generic [ref=e369]: You can manually upload a file that contains customer activities. This method is good for testing the quality of your event data before investing in a complex automated process.
+                - button "Upload CSV File" [ref=e370] [cursor=pointer]:
+                  - generic [ref=e374]: Upload CSV File
+    - link "Translations" [ref=e378] [cursor=pointer]:
+      - /url: https://www.facebook.com/translations/?ref=trans_nub
+  - dialog [ref=e529]:
+    - generic [ref=e531]:
+      - generic [ref=e532]:
+        - heading "Choose your partner" [level=3] [ref=e534]
+        - button "Close" [ref=e535] [cursor=pointer]:
+          - generic [ref=e538]: Close
+      - generic [ref=e546]:
+        - generic [ref=e547]: Choose the partner that you use for your website to connect Conversions API. If you don't know your partner, enter your URL in the field below.
+        - generic [ref=e548]:
+          - generic [ref=e549]:
+            - generic [ref=e551]:
+              - generic [ref=e557]: Search for your platform or enter your website URL
+              - textbox "Search for your platform or enter your website URL" [ref=e568]
+            - button "Search" [ref=e570] [cursor=pointer]:
+              - generic [ref=e574]: Search
+          - generic [ref=e576]:
+            - grid [ref=e581]:
+              - row "Shopify (online)" [ref=e582]:
+                - gridcell "Shopify (online)" [active] [selected] [ref=e583] [cursor=pointer]:
+                  - generic [ref=e585]:
+                    - radio "Shopify (online)" [checked] [ref=e590]
+                    - generic [ref=e596]: Shopify (online)
+            - grid [ref=e601]:
+              - row "PixelYourSite" [ref=e602]:
+                - gridcell "PixelYourSite" [ref=e603] [cursor=pointer]:
+                  - generic [ref=e605]:
+                    - radio "PixelYourSite" [ref=e610]
+                    - generic [ref=e616]: PixelYourSite
+            - grid [ref=e621]:
+              - row "WordPress" [ref=e622]:
+                - gridcell "WordPress" [ref=e623] [cursor=pointer]:
+                  - generic [ref=e625]:
+                    - radio "WordPress" [ref=e630]
+                    - generic [ref=e636]: WordPress
+            - grid [ref=e641]:
+              - row "WooCommerce" [ref=e642]:
+                - gridcell "WooCommerce" [ref=e643] [cursor=pointer]:
+                  - generic [ref=e645]:
+                    - radio "WooCommerce" [ref=e650]
+                    - generic [ref=e656]: WooCommerce
+            - grid [ref=e661]:
+              - row "Shopline" [ref=e662]:
+                - gridcell "Shopline" [ref=e663] [cursor=pointer]:
+                  - generic [ref=e665]:
+                    - radio "Shopline" [ref=e670]
+                    - generic [ref=e676]: Shopline
+            - grid [ref=e681]:
+              - row "Wix" [ref=e682]:
+                - gridcell "Wix" [ref=e683] [cursor=pointer]:
+                  - generic [ref=e685]:
+                    - radio "Wix" [ref=e690]
+                    - generic [ref=e696]: Wix
+            - grid [ref=e701]:
+              - row "Hotmart" [ref=e702]:
+                - gridcell "Hotmart" [ref=e703] [cursor=pointer]:
+                  - generic [ref=e705]:
+                    - radio "Hotmart" [ref=e710]
+                    - generic [ref=e716]: Hotmart
+            - grid [ref=e721]:
+              - row "Shoplazza" [ref=e722]:
+                - gridcell "Shoplazza" [ref=e723] [cursor=pointer]:
+                  - generic [ref=e725]:
+                    - radio "Shoplazza" [ref=e730]
+                    - generic [ref=e736]: Shoplazza
+            - grid [ref=e741]:
+              - row "Google Tag Manager" [ref=e742]:
+                - gridcell "Google Tag Manager" [ref=e743] [cursor=pointer]:
+                  - generic [ref=e745]:
+                    - radio "Google Tag Manager" [ref=e750]
+                    - generic [ref=e756]: Google Tag Manager
+            - grid [ref=e761]:
+              - row "Conversions API Gateway" [ref=e762]:
+                - gridcell "Conversions API Gateway" [ref=e763] [cursor=pointer]:
+                  - generic [ref=e765]:
+                    - radio "Conversions API Gateway" [ref=e770]
+                    - generic [ref=e776]: Conversions API Gateway
+            - grid [ref=e781]:
+              - row "Zapier" [ref=e782]:
+                - gridcell "Zapier" [ref=e783] [cursor=pointer]:
+                  - generic [ref=e785]:
+                    - radio "Zapier" [ref=e790]
+                    - generic [ref=e796]: Zapier
+            - grid [ref=e801]:
+              - row "Tiendanube" [ref=e802]:
+                - gridcell "Tiendanube" [ref=e803] [cursor=pointer]:
+                  - generic [ref=e805]:
+                    - radio "Tiendanube" [ref=e810]
+                    - generic [ref=e816]: Tiendanube
+            - grid [ref=e821]:
+              - row "Cafe24" [ref=e822]:
+                - gridcell "Cafe24" [ref=e823] [cursor=pointer]:
+                  - generic [ref=e825]:
+                    - radio "Cafe24" [ref=e830]
+                    - generic [ref=e836]: Cafe24
+            - grid [ref=e841]:
+              - row "Stape" [ref=e842]:
+                - gridcell "Stape" [ref=e843] [cursor=pointer]:
+                  - generic [ref=e845]:
+                    - radio "Stape" [ref=e850]
+                    - generic [ref=e856]: Stape
+            - grid [ref=e861]:
+              - row "Segment" [ref=e862]:
+                - gridcell "Segment" [ref=e863] [cursor=pointer]:
+                  - generic [ref=e865]:
+                    - radio "Segment" [ref=e870]
+                    - generic [ref=e876]: Segment
+            - grid [ref=e881]:
+              - row "Infinity" [ref=e882]:
+                - gridcell "Infinity" [ref=e883] [cursor=pointer]:
+                  - generic [ref=e885]:
+                    - radio "Infinity" [ref=e890]
+                    - generic [ref=e896]: "Infinity"
+            - grid [ref=e901]:
+              - row "Anytrack" [ref=e902]:
+                - gridcell "Anytrack" [ref=e903] [cursor=pointer]:
+                  - generic [ref=e905]:
+                    - radio "Anytrack" [ref=e910]
+                    - generic [ref=e916]: Anytrack
+            - grid [ref=e921]:
+              - row "Apptrian" [ref=e922]:
+                - gridcell "Apptrian" [ref=e923] [cursor=pointer]:
+                  - generic [ref=e925]:
+                    - radio "Apptrian" [ref=e930]
+                    - generic [ref=e936]: Apptrian
+            - grid [ref=e941]:
+              - row "Datahash" [ref=e942]:
+                - gridcell "Datahash" [ref=e943] [cursor=pointer]:
+                  - generic [ref=e945]:
+                    - radio "Datahash" [ref=e950]
+                    - generic [ref=e956]: Datahash
+            - grid [ref=e961]:
+              - row "Make" [ref=e962]:
+                - gridcell "Make" [ref=e963] [cursor=pointer]:
+                  - generic [ref=e965]:
+                    - radio "Make" [ref=e970]
+                    - generic [ref=e976]: Make
+            - grid [ref=e981]:
+              - row "SignalSight" [ref=e982]:
+                - gridcell "SignalSight" [ref=e983] [cursor=pointer]:
+                  - generic [ref=e985]:
+                    - radio "SignalSight" [ref=e990]
+                    - generic [ref=e996]: SignalSight
+            - grid [ref=e1001]:
+              - row "Signals Gateway" [ref=e1002]:
+                - gridcell "Signals Gateway" [ref=e1003] [cursor=pointer]:
+                  - generic [ref=e1005]:
+                    - radio "Signals Gateway" [ref=e1010]
+                    - generic [ref=e1016]: Signals Gateway
+            - grid [ref=e1021]:
+              - row "Invoca" [ref=e1022]:
+                - gridcell "Invoca" [ref=e1023] [cursor=pointer]:
+                  - generic [ref=e1025]:
+                    - radio "Invoca" [ref=e1030]
+                    - generic [ref=e1036]: Invoca
+            - grid [ref=e1041]:
+              - row "Voyantis" [ref=e1042]:
+                - gridcell "Voyantis" [ref=e1043] [cursor=pointer]:
+                  - generic [ref=e1045]:
+                    - radio "Voyantis" [ref=e1050]
+                    - generic [ref=e1056]: Voyantis
+            - grid [ref=e1061]:
+              - row "Ensighten" [ref=e1062]:
+                - gridcell "Ensighten" [ref=e1063] [cursor=pointer]:
+                  - generic [ref=e1065]:
+                    - radio "Ensighten" [ref=e1070]
+                    - generic [ref=e1076]: Ensighten
+            - grid [ref=e1081]:
+              - row "Treasure Data" [ref=e1082]:
+                - gridcell "Treasure Data" [ref=e1083] [cursor=pointer]:
+                  - generic [ref=e1085]:
+                    - radio "Treasure Data" [ref=e1090]
+                    - generic [ref=e1096]: Treasure Data
+            - grid [ref=e1101]:
+              - row "Adobe Real-Time CDP" [ref=e1102]:
+                - gridcell "Adobe Real-Time CDP" [ref=e1103] [cursor=pointer]:
+                  - generic [ref=e1105]:
+                    - radio "Adobe Real-Time CDP" [ref=e1110]
+                    - generic [ref=e1116]: Adobe Real-Time CDP
+            - grid [ref=e1121]:
+              - row "Tealium" [ref=e1122]:
+                - gridcell "Tealium" [ref=e1123] [cursor=pointer]:
+                  - generic [ref=e1125]:
+                    - radio "Tealium" [ref=e1130]
+                    - generic [ref=e1137]: Tealium
+            - grid [ref=e1142]:
+              - row "91app" [ref=e1143]:
+                - gridcell "91app" [ref=e1144] [cursor=pointer]:
+                  - generic [ref=e1146]:
+                    - radio "91app" [ref=e1151]
+                    - generic [ref=e1157]: 91app
+            - grid [ref=e1162]:
+              - row "Square" [ref=e1163]:
+                - gridcell "Square" [ref=e1164] [cursor=pointer]:
+                  - generic [ref=e1166]:
+                    - radio "Square" [ref=e1171]
+                    - generic [ref=e1178]: Square
+            - grid [ref=e1183]:
+              - row "Simprosys" [ref=e1184]:
+                - gridcell "Simprosys" [ref=e1185] [cursor=pointer]:
+                  - generic [ref=e1187]:
+                    - radio "Simprosys" [ref=e1192]
+                    - generic [ref=e1198]: Simprosys
+            - grid [ref=e1203]:
+              - row "Salesforce Commerce Cloud" [ref=e1204]:
+                - gridcell "Salesforce Commerce Cloud" [ref=e1205] [cursor=pointer]:
+                  - generic [ref=e1207]:
+                    - radio "Salesforce Commerce Cloud" [ref=e1212]
+                    - generic [ref=e1219]: Salesforce Commerce Cloud
+            - grid [ref=e1224]:
+              - row "Nuvemshop" [ref=e1225]:
+                - gridcell "Nuvemshop" [ref=e1226] [cursor=pointer]:
+                  - generic [ref=e1228]:
+                    - radio "Nuvemshop" [ref=e1233]
+                    - generic [ref=e1239]: Nuvemshop
+            - grid [ref=e1244]:
+              - row "NHN Commerce" [ref=e1245]:
+                - gridcell "NHN Commerce" [ref=e1246] [cursor=pointer]:
+                  - generic [ref=e1248]:
+                    - radio "NHN Commerce" [ref=e1253]
+                    - generic [ref=e1259]: NHN Commerce
+            - grid [ref=e1264]:
+              - row "Stripe" [ref=e1265]:
+                - gridcell "Stripe" [ref=e1266] [cursor=pointer]:
+                  - generic [ref=e1268]:
+                    - radio "Stripe" [ref=e1273]
+                    - generic [ref=e1280]: Stripe
+            - grid [ref=e1285]:
+              - row "Magento" [ref=e1286]:
+                - gridcell "Magento" [ref=e1287] [cursor=pointer]:
+                  - generic [ref=e1289]:
+                    - radio "Magento" [ref=e1294]
+                    - generic [ref=e1301]: Magento
+            - grid [ref=e1306]:
+              - row "Imweb" [ref=e1307]:
+                - gridcell "Imweb" [ref=e1308] [cursor=pointer]:
+                  - generic [ref=e1310]:
+                    - radio "Imweb" [ref=e1315]
+                    - generic [ref=e1321]: Imweb
+            - grid [ref=e1326]:
+              - row "GoDaddy" [ref=e1327]:
+                - gridcell "GoDaddy" [ref=e1328] [cursor=pointer]:
+                  - generic [ref=e1330]:
+                    - radio "GoDaddy" [ref=e1335]
+                    - generic [ref=e1341]: GoDaddy
+            - grid [ref=e1346]:
+              - row "Exponea" [ref=e1347]:
+                - gridcell "Exponea" [ref=e1348] [cursor=pointer]:
+                  - generic [ref=e1350]:
+                    - radio "Exponea" [ref=e1355]
+                    - generic [ref=e1361]: Exponea
+            - grid [ref=e1366]:
+              - row "Commanders Act" [ref=e1367]:
+                - gridcell "Commanders Act" [ref=e1368] [cursor=pointer]:
+                  - generic [ref=e1370]:
+                    - radio "Commanders Act" [ref=e1375]
+                    - generic [ref=e1381]: Commanders Act
+            - grid [ref=e1386]:
+              - row "Makeshop" [ref=e1387]:
+                - gridcell "Makeshop" [ref=e1388] [cursor=pointer]:
+                  - generic [ref=e1390]:
+                    - radio "Makeshop" [ref=e1395]
+                    - generic [ref=e1402]: Makeshop
+            - grid [ref=e1407]:
+              - row "VTEX" [ref=e1408]:
+                - gridcell "VTEX" [ref=e1409] [cursor=pointer]:
+                  - generic [ref=e1411]:
+                    - radio "VTEX" [ref=e1416]
+                    - generic [ref=e1423]: VTEX
+      - generic [ref=e1424]:
+        - link "Give feedback" [ref=e1426] [cursor=pointer]:
+          - /url: "#"
+        - generic [ref=e1427]:
+          - button "Back" [ref=e1428] [cursor=pointer]:
+            - generic [ref=e1432]: Back
+          - button "Next" [ref=e1433] [cursor=pointer]:
+            - generic [ref=e1437]: Next

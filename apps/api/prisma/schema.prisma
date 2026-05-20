@@ -1,0 +1,429 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model ProductCandidate {
+  id            String         @id @default(cuid())
+  externalId    String         @unique
+  title         String
+  niche         String
+  sourceUrl     String
+  imageUrls     String[]
+  targetMarkets String[]
+  observedAt    DateTime
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  signals       MarketSignal[]
+  scores        ProductScore[]
+  products      ShopifyProduct[]
+}
+
+model MarketSignal {
+  id                    String           @id @default(cuid())
+  candidateExternalId    String
+  source                String
+  demandVelocity        Float
+  competition           Float
+  adSaturation          Float
+  trendLongevity        Float
+  evidenceUrl           String
+  capturedAt            DateTime
+  candidate             ProductCandidate @relation(fields: [candidateExternalId], references: [externalId], onDelete: Cascade)
+
+  @@index([source])
+  @@index([candidateExternalId])
+}
+
+model SupplierOffer {
+  id                    String   @id @default(cuid())
+  candidateExternalId    String
+  supplier              String
+  supplierProductId     String
+  productCostUsd        Decimal  @db.Decimal(10, 2)
+  shippingCostUsd       Decimal  @db.Decimal(10, 2)
+  estimatedDeliveryDays Int
+  inventoryVerified     Boolean
+  supportsTrackingSync  Boolean
+  shipsFrom             String
+  shipsTo               String[]
+  sourceUrl             String
+  createdAt             DateTime @default(now())
+
+  @@unique([supplier, supplierProductId])
+  @@index([candidateExternalId])
+}
+
+model SupplierProductLink {
+  id                       String   @id @default(cuid())
+  productHandle            String
+  shopifyProductId         String?
+  shopifyVariantId         String?
+  shopifySku               String
+  supplier                 String
+  supplierProductId        String
+  supplierVariantId        String?
+  supplierSku              String
+  supplierProductUrl       String
+  productCostUsd           Decimal  @db.Decimal(10, 2)
+  shippingCostUsd          Decimal  @db.Decimal(10, 2)
+  retailPriceUsd           Decimal  @db.Decimal(10, 2)
+  estimatedDeliveryMinDays Int
+  estimatedDeliveryMaxDays Int
+  shipsFrom                String
+  shipsTo                  String[]
+  inventoryState           String
+  inventoryQuantity        Int?
+  trackingSyncSupported    Boolean
+  shippingProfile          String
+  verificationStatus       String
+  verificationSource       String
+  verifiedAt               DateTime?
+  expiresAt                DateTime?
+  marginEstimatePercent    Decimal  @db.Decimal(10, 2)
+  rawPayload               Json
+  createdAt                DateTime @default(now())
+  updatedAt                DateTime @updatedAt
+
+  @@unique([supplier, productHandle, shopifySku])
+  @@index([supplier, supplierProductId])
+  @@index([verificationStatus])
+}
+
+model SupplierSyncAudit {
+  id         String   @id @default(cuid())
+  supplier   String
+  action     String
+  entityType String
+  entityId   String
+  status     String
+  message    String
+  metadata   Json
+  occurredAt DateTime
+  createdAt  DateTime @default(now())
+
+  @@index([supplier, action])
+  @@index([entityType, entityId])
+  @@index([occurredAt])
+}
+
+model ProductScore {
+  id                    String   @id @default(cuid())
+  candidateExternalId    String
+  demandVelocity        Float
+  margin                Float
+  shippingSpeed         Float
+  wowFactor             Float
+  creativeEase          Float
+  trendLongevity        Float
+  competition           Float
+  adSaturation          Float
+  riskPenalties         Float
+  total                 Float
+  decision              String
+  reasons               String[]
+  createdAt             DateTime @default(now())
+  candidate             ProductCandidate @relation(fields: [candidateExternalId], references: [externalId], onDelete: Cascade)
+
+  @@index([candidateExternalId])
+  @@index([decision])
+}
+
+model ShopifyProduct {
+  id                    String   @id @default(cuid())
+  candidateExternalId    String
+  shopifyProductId      String?  @unique
+  handle                String   @unique
+  title                 String
+  status                String
+  priceUsd              Decimal  @db.Decimal(10, 2)
+  seoTitle              String
+  seoDescription        String
+  createdAt             DateTime @default(now())
+  updatedAt             DateTime @updatedAt
+  candidate             ProductCandidate @relation(fields: [candidateExternalId], references: [externalId])
+}
+
+model CreativeAsset {
+  id             String   @id @default(cuid())
+  productHandle  String
+  platform       String
+  hook           String
+  script         String
+  shotList       String[]
+  thumbnailText  String
+  cta            String
+  createdAt      DateTime @default(now())
+
+  @@index([productHandle, platform])
+}
+
+model GeneratedContentAsset {
+  id            String   @id @default(cuid())
+  productHandle String
+  type          String
+  platform      String?
+  content       String
+  score         Float
+  metadata      Json
+  createdAt     DateTime @default(now())
+
+  @@index([productHandle, type])
+  @@index([platform])
+}
+
+model ContentPost {
+  id            String   @id @default(cuid())
+  productHandle String
+  platform      String
+  status        String
+  scheduledFor  DateTime
+  publishedAt   DateTime?
+  hook          String
+  caption       String
+  assetUrl      String?
+  metrics       Json
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@index([productHandle, platform])
+  @@index([status, scheduledFor])
+}
+
+model AdExperiment {
+  id                            String   @id
+  productHandle                 String
+  platform                      String
+  spendUsd                      Decimal  @db.Decimal(10, 2)
+  impressions                   Int
+  clicks                        Int
+  productPageSessions           Int
+  addToCarts                    Int
+  checkoutStarts                Int
+  purchases                     Int
+  revenueUsd                    Decimal  @db.Decimal(10, 2)
+  contributionMarginUsd         Decimal  @db.Decimal(10, 2)
+  consecutiveNegativeMarginDays Int
+  createdAt                     DateTime @default(now())
+  updatedAt                     DateTime @updatedAt
+}
+
+model Order {
+  id             String   @id @default(cuid())
+  shopifyOrderId String   @unique
+  orderName      String
+  paymentStatus  String
+  riskLevel      String
+  currency       String
+  subtotalUsd    Decimal  @db.Decimal(10, 2)
+  shippingUsd    Decimal  @db.Decimal(10, 2)
+  taxUsd         Decimal  @db.Decimal(10, 2)
+  customerEmail  String
+  rawPayload     Json
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  jobs           OrderRoutingJob[]
+  supplierOrders SupplierOrder[]
+  approvals      FulfillmentApproval[]
+  lifecycle      FulfillmentLifecycleEvent[]
+  profit         ProfitSnapshot?
+}
+
+model OrderRoutingJob {
+  id               String   @id
+  shopifyOrderId    String
+  selectedSupplier String
+  status           String
+  attempts         Int      @default(0)
+  lastError        String?
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+  order            Order    @relation(fields: [shopifyOrderId], references: [shopifyOrderId], onDelete: Cascade)
+}
+
+model SupplierOrder {
+  id                String   @id @default(cuid())
+  shopifyOrderId    String
+  supplier          String
+  supplierProductId String
+  quantity          Int
+  mode              String
+  status            String
+  providerOrderId   String?
+  lastError         String?
+  rawPayload        Json
+  requestedAt       DateTime @default(now())
+  lastPolledAt      DateTime?
+  updatedAt         DateTime @updatedAt
+  order             Order    @relation(fields: [shopifyOrderId], references: [shopifyOrderId], onDelete: Cascade)
+
+  @@unique([supplier, shopifyOrderId, supplierProductId])
+  @@index([status])
+  @@index([providerOrderId])
+}
+
+model FulfillmentApproval {
+  id                String   @id @default(cuid())
+  shopifyOrderId    String
+  supplier          String
+  supplierProductId String
+  status            String
+  reviewer          String
+  reason            String
+  preflight         Json
+  approvedAt        DateTime?
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+  order             Order    @relation(fields: [shopifyOrderId], references: [shopifyOrderId], onDelete: Cascade)
+
+  @@unique([shopifyOrderId, supplier, supplierProductId])
+  @@index([status])
+}
+
+model FulfillmentLifecycleEvent {
+  id             String   @id @default(cuid())
+  shopifyOrderId String
+  supplier       String
+  status         String
+  message        String
+  metadata       Json
+  occurredAt     DateTime
+  createdAt      DateTime @default(now())
+  order          Order    @relation(fields: [shopifyOrderId], references: [shopifyOrderId], onDelete: Cascade)
+
+  @@index([shopifyOrderId, occurredAt])
+  @@index([supplier, status])
+}
+
+model FulfillmentAttempt {
+  id              String   @id @default(cuid())
+  shopifyOrderId   String
+  supplier        String
+  supplierOrderId String?
+  status          String
+  error           String?
+  createdAt       DateTime @default(now())
+}
+
+model TrackingEvent {
+  id              String   @id @default(cuid())
+  shopifyOrderId   String
+  supplier        String
+  trackingNumber  String
+  trackingUrl     String?
+  carrier         String?
+  status          String
+  rawPayload      Json
+  createdAt       DateTime @default(now())
+}
+
+model ProfitSnapshot {
+  id              String   @id @default(cuid())
+  orderId         String   @unique
+  revenueUsd      Decimal  @db.Decimal(10, 2)
+  paymentFeesUsd  Decimal  @db.Decimal(10, 2)
+  productCostUsd  Decimal  @db.Decimal(10, 2)
+  shippingCostUsd Decimal  @db.Decimal(10, 2)
+  adSpendUsd      Decimal  @db.Decimal(10, 2)
+  refundCostUsd   Decimal  @db.Decimal(10, 2)
+  netProfitUsd    Decimal  @db.Decimal(10, 2)
+  marginPercent   Decimal  @db.Decimal(10, 2)
+  createdAt       DateTime @default(now())
+  order           Order    @relation(fields: [orderId], references: [shopifyOrderId], onDelete: Cascade)
+}
+
+model AnalyticsEvent {
+  id             String   @id @default(cuid())
+  eventId        String   @unique
+  source         String
+  type           String
+  productHandle  String?
+  shopifyOrderId String?
+  valueUsd       Decimal? @db.Decimal(10, 2)
+  metadata       Json
+  occurredAt     DateTime
+  createdAt      DateTime @default(now())
+
+  @@index([source, type])
+  @@index([productHandle])
+  @@index([occurredAt])
+}
+
+model DailyMetricSnapshot {
+  date             DateTime @id
+  revenueUsd       Decimal  @db.Decimal(10, 2)
+  netProfitUsd     Decimal  @db.Decimal(10, 2)
+  adSpendUsd       Decimal  @db.Decimal(10, 2)
+  orderCount       Int
+  sessions         Int
+  addToCarts       Int
+  checkoutStarts   Int
+  purchases        Int
+  refunds          Int
+  paymentFailures  Int
+  webhookFailures  Int
+  supplierFailures Int
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}
+
+model RetentionEvent {
+  id            String   @id @default(cuid())
+  provider      String
+  eventId       String
+  customerEmail String
+  eventName     String
+  status        String
+  payload       Json
+  createdAt     DateTime @default(now())
+
+  @@unique([provider, eventId])
+  @@index([customerEmail])
+  @@index([eventName, status])
+}
+
+model CustomerTicket {
+  id             String   @id @default(cuid())
+  customerEmail  String
+  channel        String
+  subject        String
+  status         String
+  aiEligible     Boolean
+  latestMessage  String
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+model WebhookEvent {
+  id           String   @id @default(cuid())
+  provider     String
+  eventId      String
+  topic        String
+  signatureOk  Boolean
+  processedAt  DateTime?
+  rawPayload   Json
+  createdAt    DateTime @default(now())
+
+  @@unique([provider, eventId])
+  @@index([provider, topic])
+}
+
+model FeatureFlag {
+  key       String   @id
+  enabled   Boolean
+  updatedAt DateTime @updatedAt
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  actor     String
+  action    String
+  entity    String
+  entityId  String
+  metadata  Json
+  createdAt DateTime @default(now())
+}

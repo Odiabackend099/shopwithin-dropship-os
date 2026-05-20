@@ -1,0 +1,11 @@
+{
+  "id": "pov-style",
+  "name": "POV Style",
+  "description": "Point of view perspective content",
+  "camera_block": "shot on iPhone 15 Pro in POV perspective, first-person view showing product use, natural movement mimicking real user experience, slight micro-shakes, realistic handheld movement, vertical 9:16 TikTok format",
+  "body_language_block": "natural body movement from POV perspective, authentic user experience simulation, casual realistic movement patterns, genuine first-person energy",
+  "timing_block": "POV experience 5-8 seconds, product interaction 3-5 seconds, result reveal 2-3 seconds, natural experiential pacing",
+  "expression_block": "natural expressions from POV perspective, authentic user experience emotions, genuine first-person reactions, believable POV energy",
+  "platform_block": "realistic TikTok POV style, organic creator content, not polished commercial, authentic first-person experience pacing, relatable user journey vibe",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury influencer aesthetic, no overly polished production"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wellness-enthusiast",
+  "name": "Luna",
+  "age": 31,
+  "gender": "female",
+  "character_block": "31-year-old female wellness enthusiast with calm natural demeanor, shoulder-length hair, comfortable casual wellness attire, realistic skin texture, authentic wellness energy, gentle expressive hands when demonstrating wellness products, soft natural speaking manner",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing with serene home environment, natural gentle hand movement showing wellness products, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "environment_block": "serene home space with wellness elements, plants, soft textiles, calming colors, realistic home wellness environment, peaceful atmosphere",
+  "platform_block": "realistic TikTok wellness content style, organic creator content, not polished commercial, authentic wellness enthusiast vibe, calming product demonstrations",
+  "lighting_block": "soft warm indoor lighting or natural gentle daylight, soft shadows, realistic wellness environment lighting, slight smartphone overexposure on bright elements",
+  "motion_block": "gentle natural hand movements when using wellness products, smooth calming demonstrations, authentic peaceful satisfaction reactions",
+  "audio_block": "subtle gentle sounds, soft product interaction sounds, peaceful home environment ambience, authentic calm speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury wellness influencer aesthetic, no overly polished production",
+  "reference_images": []
+}

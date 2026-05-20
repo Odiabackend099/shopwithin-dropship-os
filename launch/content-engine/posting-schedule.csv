@@ -1,0 +1,17 @@
+day,platform,local_time_wat,us_target_window,asset,hook,caption_id,goal
+1,TikTok,14:00,US morning,tiktok-posts/furlift-tiktok-v1-problem-first.mp4,Pet hair on everything?,TT-1,First hook test
+1,Instagram Reels,18:00,US midday,instagram-reels/furlift-reels-v1-transformation-first.mp4,Watch the fur line,IG-1,Transformation proof
+1,YouTube Shorts,22:00,US afternoon/evening,youtube-shorts/furlift-shorts-v1-proof-demo.mp4,Pet hair couch cleanup in under 10 seconds,YS-1,Search and Shorts discovery
+2,TikTok,14:00,US morning,spark-ad-variants/furlift-spark-c-pov-style.mp4,POV: your dog owns the couch,TT-4,Pet-owner relatability
+2,Instagram Reels,18:00,US midday,spark-ad-variants/furlift-spark-e-pet-owner-emotion.mp4,Embarrassing couch fur?,IG-4,Guest-ready emotion
+2,TikTok,22:00,US afternoon/evening,spark-ad-variants/furlift-spark-b-transformation-first.mp4,Watch what came off my couch,TT-2,Retention test
+3,TikTok,14:00,US morning,spark-ad-variants/furlift-spark-d-reaction-style.mp4,I gasped at this,TT-5,Reaction angle
+3,Instagram Reels,18:00,US midday,spark-ad-variants/furlift-spark-a-problem-first.mp4,Lint rollers miss this,IG-3,Comparison angle
+3,YouTube Shorts,22:00,US afternoon/evening,spark-ad-variants/furlift-spark-c-pov-style.mp4,If your pet sheds, this is satisfying,YS-5,Shorts consistency
+4,TikTok,14:00,US morning,spark-ad-variants/furlift-spark-e-pet-owner-emotion.mp4,Guest coming over and the couch looks like this?,TT-4,Emotion retest
+4,Instagram Reels,18:00,US midday,spark-ad-variants/furlift-spark-d-reaction-style.mp4,I thought this couch was clean,IG-2,Reaction retest
+4,TikTok,22:00,US afternoon/evening,tiktok-posts/furlift-tiktok-v1-problem-first.mp4,This pulled up fur I could not even see,TT-3,Caption retest
+5,TikTok,14:00,US morning,best_previous_winner,Winning hook,Winner caption,Spark candidate selection
+5,Instagram Reels,18:00,US midday,best_previous_winner,Winning hook,Winner caption,Reels repost with new cover
+5,YouTube Shorts,22:00,US afternoon/evening,best_previous_winner,Winning hook,Winner caption,Shorts repost if allowed
+

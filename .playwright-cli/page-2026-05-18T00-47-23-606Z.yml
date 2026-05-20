@@ -1,0 +1,269 @@
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - progressbar "Page loading bar"
+    - generic [ref=e7]:
+      - link "Skip to content":
+        - /url: "#AppFrameMain"
+      - generic [ref=e12]:
+        - generic [ref=e17] [cursor=pointer]:
+          - img "Shopify" [ref=e18]
+          - img "Shopify" [ref=e19]
+        - generic [ref=e22]:
+          - link "Back to Shipping page" [ref=e451] [cursor=pointer]:
+            - generic [ref=e452]:
+              - img [ref=e456]
+              - img [ref=e461]
+              - generic [ref=e465]: Shipping
+          - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+            - generic [ref=e28]:
+              - generic [ref=e29]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+                - generic "Search" [ref=e30]
+              - generic [ref=e31]:
+                - generic [ref=e32]: ⌘
+                - generic [ref=e33]: K
+        - generic [ref=e34]:
+          - generic [ref=e36]:
+            - button "Sidekick" [ref=e185] [cursor=pointer]:
+              - img [ref=e189]
+            - button "Alerts Feed - 0 unseen alerts" [ref=e44] [cursor=pointer]:
+              - img [ref=e192]
+          - button "eguale samuel" [ref=e57] [cursor=pointer]:
+            - generic [ref=e60]:
+              - img "shopwithin" [ref=e64]:
+                - generic [ref=e65]: SHO
+              - paragraph [ref=e67]: shopwithin
+      - generic [ref=e69]:
+        - generic "Navigation" [ref=e70]:
+          - navigation [ref=e195]:
+            - generic [ref=e196]:
+              - generic [ref=e197]:
+                - list [ref=e199]:
+                  - listitem [ref=e200]:
+                    - link "Home" [ref=e203] [cursor=pointer]:
+                      - /url: /store/mxu168-9g
+                      - generic [ref=e204]:
+                        - img [ref=e207]
+                        - img [ref=e211]
+                      - generic [ref=e213]: Home
+                  - listitem [ref=e214]:
+                    - link "Orders" [ref=e217] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/orders
+                      - generic [ref=e218]:
+                        - img [ref=e221]
+                        - img [ref=e225]
+                      - generic [ref=e227]: Orders
+                  - listitem [ref=e228]:
+                    - link "Products" [ref=e231] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/products
+                      - generic [ref=e232]:
+                        - img [ref=e235]
+                        - img [ref=e239]
+                      - generic [ref=e242]: Products
+                  - listitem [ref=e243]:
+                    - link "Customers" [ref=e246] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/customers
+                      - generic [ref=e247]:
+                        - img [ref=e250]
+                        - img [ref=e255]
+                      - generic [ref=e258]: Customers
+                  - listitem [ref=e259]:
+                    - link "Marketing" [ref=e262] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/marketing
+                      - generic [ref=e263]:
+                        - img [ref=e266]
+                        - img [ref=e272]
+                      - generic [ref=e276]: Marketing
+                  - listitem [ref=e277]:
+                    - link "Discounts" [ref=e280] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/discounts
+                      - generic [ref=e281]:
+                        - img [ref=e284]
+                        - img [ref=e288]
+                      - generic [ref=e293]: Discounts
+                  - listitem [ref=e294]:
+                    - link "Content" [ref=e297] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/content/metaobjects
+                      - generic [ref=e298]:
+                        - img [ref=e301]
+                        - img [ref=e308]
+                      - generic [ref=e313]: Content
+                  - listitem [ref=e314]:
+                    - link "Markets" [ref=e317] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/markets
+                      - generic [ref=e318]:
+                        - img [ref=e321]
+                        - img [ref=e326]
+                      - generic [ref=e329]: Markets
+                  - listitem [ref=e343]:
+                    - link "Analytics" [ref=e346] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/analytics
+                      - generic [ref=e347]:
+                        - img [ref=e350]
+                        - img [ref=e356]
+                      - generic [ref=e360]: Analytics
+                - list [ref=e361]:
+                  - listitem [ref=e362]:
+                    - button "Sales channels" [ref=e364] [cursor=pointer]:
+                      - strong [ref=e366]:
+                        - generic: Sales channels
+                    - list [ref=e368]:
+                      - button "Online Store" [ref=e369]:
+                        - list [ref=e370]:
+                          - listitem [ref=e371]:
+                            - link "Online Store" [ref=e374] [cursor=pointer]:
+                              - /url: /store/mxu168-9g/themes?appLoadId=12d895fa-0808-4f51-9ee6-25e6954c96fd
+                              - img [ref=e376]
+                              - generic [ref=e377]: Online Store
+                      - button "Agentic" [ref=e378]:
+                        - list [ref=e379]:
+                          - listitem [ref=e380]:
+                            - link "Agentic" [ref=e383] [cursor=pointer]:
+                              - /url: /store/mxu168-9g/apps/agentic?appLoadId=6251a952-121a-4090-943d-b65ea67cc83c
+                              - img [ref=e385]
+                              - generic [ref=e386]: Agentic
+                    - status [ref=e387]
+                  - listitem [ref=e388]:
+                    - button "Apps" [ref=e390] [cursor=pointer]:
+                      - strong [ref=e392]:
+                        - generic: Apps
+                  - listitem [ref=e394]:
+                    - button "Sidekick conversations" [ref=e396] [cursor=pointer]:
+                      - strong [ref=e398]:
+                        - generic: Sidekick conversations
+                    - list [ref=e401]:
+                      - listitem [ref=e402]:
+                        - button "Setting up payments for your store" [ref=e405] [cursor=pointer]:
+                          - generic [ref=e406]: Setting up payments for your store
+              - list [ref=e408]:
+                - listitem [ref=e409]:
+                  - link "Settings" [ref=e412] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings
+                    - img [ref=e416]
+                    - generic [ref=e418]: Settings
+        - main [ref=e95]:
+          - generic [ref=e96]:
+            - generic:
+              - generic:
+                - generic:
+                  - main:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - navigation:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - link "Markets":
+                                                            - /url: /store/mxu168-9g/markets
+                                                            - generic:
+                                                              - generic:
+                                                                - generic:
+                                                                  - img
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - img
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - link "United States":
+                                                          - /url: /store/mxu168-9g/markets/100781719833
+                                                          - generic: United States
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - img
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - heading "Shipping" [level=1]
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - heading "United States" [level=2]:
+                                                  - generic: United States
+                                            - generic:
+                                              - generic:
+                                                - generic: 2 rates in 2 profiles
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - heading "General profile" [level=2]:
+                                                  - generic: General profile
+                                                - link "Manage in shipping":
+                                                  - /url: /store/mxu168-9g/settings/shipping/profiles/134544064793
+                                                  - generic: Manage in shipping
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - heading "Shipping from" [level=3]:
+                                                      - generic: Shipping from
+                                                    - generic:
+                                                      - generic: Shop location
+                                                  - separator
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic: International
+                                                    - generic:
+                                                      - strong:
+                                                        - generic: $18.97 USD
+                                                      - generic:
+                                                        - generic:
+                                                          - img
+                                              - generic:
+                                                - separator
+                                            - generic:
+                                              - generic:
+                                                - heading "Zendrop" [level=2]:
+                                                  - generic: Zendrop
+                                                - link "Manage in shipping":
+                                                  - /url: /store/mxu168-9g/settings/shipping/profiles/134544130329
+                                                  - generic: Manage in shipping
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic: "[Free Shipping]"
+                                                    - generic:
+                                                      - strong:
+                                                        - generic: Free
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e430]

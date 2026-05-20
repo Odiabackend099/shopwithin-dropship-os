@@ -1,0 +1,518 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e30]
+          - generic [ref=e31]:
+            - generic [ref=e32]: ⌘
+            - generic [ref=e33]: K
+      - generic [ref=e34]:
+        - button "Alerts Feed - 0 unseen alerts" [ref=e44] [cursor=pointer]:
+          - img [ref=e48]
+        - button "eguale samuel" [ref=e59] [cursor=pointer]:
+          - generic [ref=e62]:
+            - img "shopwithin" [ref=e66]:
+              - generic [ref=e67]: SHO
+            - paragraph [ref=e69]: shopwithin
+    - generic [ref=e71]:
+      - generic "Navigation" [ref=e72]:
+        - navigation [ref=e74]:
+          - generic [ref=e75]:
+            - generic [ref=e76]:
+              - list [ref=e78]:
+                - listitem [ref=e79]:
+                  - link "Home" [ref=e82] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e83]:
+                      - img [ref=e86]
+                      - img [ref=e90]
+                    - generic [ref=e92]: Home
+                - listitem [ref=e93]:
+                  - link "Orders 1" [ref=e96] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e97]:
+                      - img [ref=e100]
+                      - img [ref=e104]
+                    - generic [ref=e106]: Orders
+                    - generic [ref=e109]:
+                      - generic: "1"
+                - listitem [ref=e110]:
+                  - link "Products" [ref=e113] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e114]:
+                      - img [ref=e117]
+                      - img [ref=e121]
+                    - generic [ref=e124]: Products
+                - listitem [ref=e125]:
+                  - link "Customers" [ref=e128] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e129]:
+                      - img [ref=e132]
+                      - img [ref=e137]
+                    - generic [ref=e140]: Customers
+                - listitem [ref=e141]:
+                  - link "Marketing" [ref=e144] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e145]:
+                      - img [ref=e148]
+                      - img [ref=e154]
+                    - generic [ref=e158]: Marketing
+                - listitem [ref=e159]:
+                  - link "Discounts" [ref=e162] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e163]:
+                      - img [ref=e166]
+                      - img [ref=e170]
+                    - generic [ref=e175]: Discounts
+                - listitem [ref=e176]:
+                  - link "Content" [ref=e179] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e180]:
+                      - img [ref=e183]
+                      - img [ref=e190]
+                    - generic [ref=e195]: Content
+                - listitem [ref=e196]:
+                  - link "Markets" [ref=e199] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e200]:
+                      - img [ref=e203]
+                      - img [ref=e208]
+                    - generic [ref=e211]: Markets
+                - listitem [ref=e212]:
+                  - link "Analytics" [ref=e215] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e216]:
+                      - img [ref=e219]
+                      - img [ref=e225]
+                    - generic [ref=e229]: Analytics
+              - list [ref=e230]:
+                - listitem [ref=e231]:
+                  - button "Sales channels" [ref=e233] [cursor=pointer]:
+                    - strong [ref=e235]:
+                      - generic: Sales channels
+                  - list [ref=e237]:
+                    - button "Online Store" [ref=e340]:
+                      - list [ref=e239]:
+                        - listitem [ref=e240]:
+                          - link "Online Store" [ref=e243] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=90611dc7-9507-461a-a639-6a00ca39e789
+                            - img [ref=e245]
+                            - generic [ref=e246]: Online Store
+                    - button "Agentic" [ref=e260]:
+                      - list [ref=e261]:
+                        - listitem [ref=e262]:
+                          - link "Agentic" [ref=e265] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=b420f6fe-48e2-46d9-a2dd-2f014660c5b3
+                            - img [ref=e267]
+                            - generic [ref=e268]: Agentic
+                  - status [ref=e269]
+                - listitem [ref=e270]:
+                  - button "Apps" [ref=e272] [cursor=pointer]:
+                    - strong [ref=e274]:
+                      - generic: Apps
+                - listitem [ref=e276]:
+                  - button "Sidekick conversations" [ref=e278] [cursor=pointer]:
+                    - strong [ref=e280]:
+                      - generic: Sidekick conversations
+                  - list [ref=e283]:
+                    - listitem [ref=e284]:
+                      - button "Setting up payments for your store" [ref=e287] [cursor=pointer]:
+                        - generic [ref=e288]: Setting up payments for your store
+            - list [ref=e290]:
+              - listitem [ref=e291]:
+                - generic [ref=e292]:
+                  - generic:
+                    - link "Settings" [disabled]:
+                      - /url: /store/mxu168-9g/settings
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                      - generic: Settings
+      - main [ref=e301]
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e307]
+    - dialog "Settings" [active] [ref=e342]:
+      - button "Close" [ref=e343] [cursor=pointer]:
+        - img [ref=e346]
+      - main [ref=e357]:
+        - generic [ref=e365]:
+          - generic:
+            - navigation [ref=e368]:
+              - generic [ref=e370]:
+                - generic:
+                  - link "Plan" [ref=e373] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings/plan
+                    - img [ref=e377]
+                  - img [ref=e384]
+            - heading "Subscription confirmation" [level=1] [ref=e389]
+        - generic [ref=e396]:
+          - generic [ref=e398]:
+            - generic [ref=e400]:
+              - heading "Add business address" [level=2] [ref=e401]:
+                - generic: Add business address
+              - paragraph [ref=e402]:
+                - generic: To open your store, sell, and get paid, you’ll need to provide your business address.
+            - generic [ref=e404]:
+              - heading "Business address" [level=6] [ref=e405]:
+                - generic: Business address
+              - generic [ref=e406]:
+                - generic [ref=e408] [cursor=pointer]:
+                  - checkbox "Business address same as billing address" [checked] [ref=e409]
+                  - generic [ref=e412]: Business address same as billing address
+                - generic [ref=e414]:
+                  - generic [ref=e415]:
+                    - group [ref=e418]:
+                      - generic [ref=e419]:
+                        - generic [ref=e421]:
+                          - generic [ref=e424]: First name
+                          - textbox "First name" [ref=e428]: peter
+                        - generic [ref=e430]:
+                          - generic [ref=e433]: Last name
+                          - textbox "Last name" [ref=e437]: ntaji
+                    - generic [ref=e438]:
+                      - generic [ref=e439]:
+                        - generic [ref=e440]:
+                          - generic [ref=e442]:
+                            - generic [ref=e445]: Address
+                            - generic [ref=e448]:
+                              - img [ref=e452]
+                              - combobox "Address" [ref=e454]
+                          - button "Add line" [ref=e456] [cursor=pointer]:
+                            - generic [ref=e458]:
+                              - generic: Add line
+                        - generic [ref=e460]:
+                          - generic [ref=e463]: Postal code
+                          - textbox "Postal code" [ref=e467]
+                      - textbox [ref=e469]
+                    - generic [ref=e471]:
+                      - group [ref=e472]:
+                        - generic [ref=e473]:
+                          - generic [ref=e475]:
+                            - generic [ref=e478]: City
+                            - textbox "City" [ref=e482]
+                          - generic [ref=e485]:
+                            - generic:
+                              - generic [ref=e486]: State
+                              - generic [ref=e487]:
+                                - generic [ref=e492]: Abia
+                                - img [ref=e495]
+                                - combobox "State" [ref=e498] [cursor=pointer]:
+                                  - option "Select a state" [disabled]
+                                  - option "Abia" [selected]
+                                  - option "Federal Capital Territory"
+                                  - option "Adamawa"
+                                  - option "Akwa Ibom"
+                                  - option "Anambra"
+                                  - option "Bauchi"
+                                  - option "Bayelsa"
+                                  - option "Benue"
+                                  - option "Borno"
+                                  - option "Cross River"
+                                  - option "Delta"
+                                  - option "Ebonyi"
+                                  - option "Edo"
+                                  - option "Ekiti"
+                                  - option "Enugu"
+                                  - option "Gombe"
+                                  - option "Imo"
+                                  - option "Jigawa"
+                                  - option "Kaduna"
+                                  - option "Kano"
+                                  - option "Katsina"
+                                  - option "Kebbi"
+                                  - option "Kogi"
+                                  - option "Kwara"
+                                  - option "Lagos"
+                                  - option "Nasarawa"
+                                  - option "Niger"
+                                  - option "Ogun"
+                                  - option "Ondo"
+                                  - option "Osun"
+                                  - option "Oyo"
+                                  - option "Plateau"
+                                  - option "Rivers"
+                                  - option "Sokoto"
+                                  - option "Taraba"
+                                  - option "Yobe"
+                                  - option "Zamfara"
+                      - group [ref=e499]:
+                        - generic [ref=e500]:
+                          - generic [ref=e503]:
+                            - generic:
+                              - generic [ref=e504]: Country/region
+                              - generic [ref=e505]:
+                                - generic [ref=e510]: Nigeria
+                                - img [ref=e513]
+                                - combobox "Country/region" [ref=e516] [cursor=pointer]:
+                                  - option "Afghanistan"
+                                  - option "Åland Islands"
+                                  - option "Albania"
+                                  - option "Algeria"
+                                  - option "Andorra"
+                                  - option "Angola"
+                                  - option "Anguilla"
+                                  - option "Antigua & Barbuda"
+                                  - option "Argentina"
+                                  - option "Armenia"
+                                  - option "Aruba"
+                                  - option "Ascension Island"
+                                  - option "Australia"
+                                  - option "Austria"
+                                  - option "Azerbaijan"
+                                  - option "Bahamas"
+                                  - option "Bahrain"
+                                  - option "Bangladesh"
+                                  - option "Barbados"
+                                  - option "Belarus"
+                                  - option "Belgium"
+                                  - option "Belize"
+                                  - option "Benin"
+                                  - option "Bermuda"
+                                  - option "Bhutan"
+                                  - option "Bolivia"
+                                  - option "Bosnia & Herzegovina"
+                                  - option "Botswana"
+                                  - option "Brazil"
+                                  - option "British Indian Ocean Territory"
+                                  - option "British Virgin Islands"
+                                  - option "Brunei"
+                                  - option "Bulgaria"
+                                  - option "Burkina Faso"
+                                  - option "Burundi"
+                                  - option "Cambodia"
+                                  - option "Cameroon"
+                                  - option "Canada"
+                                  - option "Cape Verde"
+                                  - option "Caribbean Netherlands"
+                                  - option "Cayman Islands"
+                                  - option "Central African Republic"
+                                  - option "Chad"
+                                  - option "Chile"
+                                  - option "China"
+                                  - option "Christmas Island"
+                                  - option "Cocos (Keeling) Islands"
+                                  - option "Colombia"
+                                  - option "Comoros"
+                                  - option "Congo - Brazzaville"
+                                  - option "Congo - Kinshasa"
+                                  - option "Cook Islands"
+                                  - option "Costa Rica"
+                                  - option "Croatia"
+                                  - option "Curaçao"
+                                  - option "Cyprus"
+                                  - option "Czechia"
+                                  - option "Côte d’Ivoire"
+                                  - option "Denmark"
+                                  - option "Djibouti"
+                                  - option "Dominica"
+                                  - option "Dominican Republic"
+                                  - option "Ecuador"
+                                  - option "Egypt"
+                                  - option "El Salvador"
+                                  - option "Equatorial Guinea"
+                                  - option "Eritrea"
+                                  - option "Estonia"
+                                  - option "Eswatini"
+                                  - option "Ethiopia"
+                                  - option "Falkland Islands"
+                                  - option "Faroe Islands"
+                                  - option "Fiji"
+                                  - option "Finland"
+                                  - option "France"
+                                  - option "French Guiana"
+                                  - option "French Polynesia"
+                                  - option "French Southern Territories"
+                                  - option "Gabon"
+                                  - option "Gambia"
+                                  - option "Georgia"
+                                  - option "Germany"
+                                  - option "Ghana"
+                                  - option "Gibraltar"
+                                  - option "Greece"
+                                  - option "Greenland"
+                                  - option "Grenada"
+                                  - option "Guadeloupe"
+                                  - option "Guatemala"
+                                  - option "Guernsey"
+                                  - option "Guinea"
+                                  - option "Guinea-Bissau"
+                                  - option "Guyana"
+                                  - option "Haiti"
+                                  - option "Honduras"
+                                  - option "Hong Kong SAR"
+                                  - option "Hungary"
+                                  - option "Iceland"
+                                  - option "India"
+                                  - option "Indonesia"
+                                  - option "Iraq"
+                                  - option "Ireland"
+                                  - option "Isle of Man"
+                                  - option "Israel"
+                                  - option "Italy"
+                                  - option "Jamaica"
+                                  - option "Japan"
+                                  - option "Jersey"
+                                  - option "Jordan"
+                                  - option "Kazakhstan"
+                                  - option "Kenya"
+                                  - option "Kiribati"
+                                  - option "Kosovo"
+                                  - option "Kuwait"
+                                  - option "Kyrgyzstan"
+                                  - option "Laos"
+                                  - option "Latvia"
+                                  - option "Lebanon"
+                                  - option "Lesotho"
+                                  - option "Liberia"
+                                  - option "Libya"
+                                  - option "Liechtenstein"
+                                  - option "Lithuania"
+                                  - option "Luxembourg"
+                                  - option "Macao SAR"
+                                  - option "Madagascar"
+                                  - option "Malawi"
+                                  - option "Malaysia"
+                                  - option "Maldives"
+                                  - option "Mali"
+                                  - option "Malta"
+                                  - option "Martinique"
+                                  - option "Mauritania"
+                                  - option "Mauritius"
+                                  - option "Mayotte"
+                                  - option "Mexico"
+                                  - option "Moldova"
+                                  - option "Monaco"
+                                  - option "Mongolia"
+                                  - option "Montenegro"
+                                  - option "Montserrat"
+                                  - option "Morocco"
+                                  - option "Mozambique"
+                                  - option "Myanmar (Burma)"
+                                  - option "Namibia"
+                                  - option "Nauru"
+                                  - option "Nepal"
+                                  - option "Netherlands"
+                                  - option "New Caledonia"
+                                  - option "New Zealand"
+                                  - option "Nicaragua"
+                                  - option "Niger"
+                                  - option "Nigeria" [selected]
+                                  - option "Niue"
+                                  - option "Norfolk Island"
+                                  - option "North Macedonia"
+                                  - option "Norway"
+                                  - option "Oman"
+                                  - option "Pakistan"
+                                  - option "Palestinian Territories"
+                                  - option "Panama"
+                                  - option "Papua New Guinea"
+                                  - option "Paraguay"
+                                  - option "Peru"
+                                  - option "Philippines"
+                                  - option "Pitcairn Islands"
+                                  - option "Poland"
+                                  - option "Portugal"
+                                  - option "Qatar"
+                                  - option "Réunion"
+                                  - option "Romania"
+                                  - option "Russia"
+                                  - option "Rwanda"
+                                  - option "Samoa"
+                                  - option "San Marino"
+                                  - option "São Tomé & Príncipe"
+                                  - option "Saudi Arabia"
+                                  - option "Senegal"
+                                  - option "Serbia"
+                                  - option "Seychelles"
+                                  - option "Sierra Leone"
+                                  - option "Singapore"
+                                  - option "Sint Maarten"
+                                  - option "Slovakia"
+                                  - option "Slovenia"
+                                  - option "Solomon Islands"
+                                  - option "Somalia"
+                                  - option "South Africa"
+                                  - option "South Georgia & South Sandwich Islands"
+                                  - option "South Korea"
+                                  - option "South Sudan"
+                                  - option "Spain"
+                                  - option "Sri Lanka"
+                                  - option "St. Barthélemy"
+                                  - option "St. Helena"
+                                  - option "St. Kitts & Nevis"
+                                  - option "St. Lucia"
+                                  - option "St. Martin"
+                                  - option "St. Pierre & Miquelon"
+                                  - option "St. Vincent & Grenadines"
+                                  - option "Sudan"
+                                  - option "Suriname"
+                                  - option "Svalbard & Jan Mayen"
+                                  - option "Sweden"
+                                  - option "Switzerland"
+                                  - option "Taiwan"
+                                  - option "Tajikistan"
+                                  - option "Tanzania"
+                                  - option "Thailand"
+                                  - option "Timor-Leste"
+                                  - option "Togo"
+                                  - option "Tokelau"
+                                  - option "Tonga"
+                                  - option "Trinidad & Tobago"
+                                  - option "Tristan da Cunha"
+                                  - option "Tunisia"
+                                  - option "Türkiye"
+                                  - option "Turkmenistan"
+                                  - option "Turks & Caicos Islands"
+                                  - option "Tuvalu"
+                                  - option "U.S. Outlying Islands"
+                                  - option "Uganda"
+                                  - option "Ukraine"
+                                  - option "United Arab Emirates"
+                                  - option "United Kingdom"
+                                  - option "United States"
+                                  - option "Uruguay"
+                                  - option "Uzbekistan"
+                                  - option "Vanuatu"
+                                  - option "Vatican City"
+                                  - option "Venezuela"
+                                  - option "Vietnam"
+                                  - option "Wallis & Futuna"
+                                  - option "Western Sahara"
+                                  - option "Yemen"
+                                  - option "Zambia"
+                                  - option "Zimbabwe"
+                          - generic [ref=e518]:
+                            - generic [ref=e521]: Phone
+                            - textbox "Phone" [ref=e525]
+                  - generic [ref=e526]:
+                    - textbox [ref=e527]
+                    - textbox [ref=e528]
+                    - textbox [ref=e529]
+                    - textbox [ref=e530]
+            - button "Confirm business address" [ref=e536] [cursor=pointer]:
+              - generic [ref=e538]:
+                - generic: Confirm business address
+          - img "congratulations" [ref=e540]
+      - button "Close" [ref=e543] [cursor=pointer]:
+        - generic [ref=e544]:
+          - img [ref=e547]
+          - generic [ref=e549]:
+            - generic: Close

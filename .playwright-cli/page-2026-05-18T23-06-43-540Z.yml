@@ -1,0 +1,133 @@
+- generic [ref=e8]:
+  - generic [ref=e20]:
+    - heading "Good evening, Samuel" [level=1] [ref=e279]
+    - generic [ref=e24]:
+      - generic [ref=e28]:
+        - button "Facebook" [ref=e280] [cursor=pointer]:
+          - generic [ref=e37]:
+            - generic:
+              - img
+            - img "Facebook" [ref=e281]
+        - generic [ref=e45]:
+          - heading "Ad account performance" [level=2] [ref=e282]
+          - generic [ref=e51]:
+            - heading "No ad accounts" [level=2] [ref=e283]
+            - generic [ref=e54]: You can create a new ad account or add an existing one to the Shopwithin business portfolio in Business settings.
+            - link "Go to Business settings" [active] [ref=e284] [cursor=pointer]:
+              - /url: /settings/ad-accounts/?business_id=990501983779852
+              - generic [ref=e60]: Go to Business settings
+        - generic [ref=e66]:
+          - heading "Profiles" [level=2] [ref=e285]
+          - generic [ref=e72]:
+            - heading "No Pages" [level=2] [ref=e286]
+            - generic [ref=e75]: You can create a new Page or add an existing one to the Shopwithin business portfolio in Business settings.
+            - link "Go to Business settings" [ref=e287] [cursor=pointer]:
+              - /url: /settings/pages/?business_id=990501983779852
+              - generic [ref=e81]: Go to Business settings
+      - generic [ref=e92]:
+        - heading "Alerts" [level=2] [ref=e288]
+        - generic [ref=e94]: No new alerts.
+        - link "See all alerts" [ref=e289] [cursor=pointer]:
+          - /url: https://business.facebook.com/notifications?business_id=990501983779852
+          - generic [ref=e99]:
+            - img [ref=e101]
+            - generic [ref=e106]: See all alerts
+  - generic [ref=e112]:
+    - generic [ref=e114]:
+      - button "Meta logo" [ref=e290] [cursor=pointer]:
+        - img "Meta logo" [ref=e291]
+      - generic [ref=e125]: Home
+      - combobox "Shopwithin" [ref=e292] [cursor=pointer]:
+        - generic [ref=e144]:
+          - generic [ref=e149]: Shopwithin
+          - img [ref=e150]
+    - navigation "Links" [ref=e293]:
+      - generic [ref=e156]: Links
+      - list [ref=e157]:
+        - generic [ref=e158]:
+          - listitem [ref=e162]:
+            - generic [ref=e164]:
+              - link "Ads Manager" [ref=e294] [cursor=pointer]:
+                - generic [ref=e166]: Ads Manager
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Ads Manager
+          - listitem [ref=e170]:
+            - generic [ref=e172]:
+              - link "Ads Reporting" [ref=e295] [cursor=pointer]:
+                - /url: https://www.facebook.com/adsmanager/reporting?nav_entry_point=lep_231&business_id=990501983779852
+                - generic [ref=e174]: Ads Reporting
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Ads Reporting
+          - listitem [ref=e178]:
+            - generic [ref=e180]:
+              - link "Events Manager" [ref=e296] [cursor=pointer]:
+                - /url: https://business.facebook.com/events_manager2/?business_id=990501983779852&global_scope_id=990501983779852&nav_source=biz_nav
+                - generic [ref=e182]: Events Manager
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Events Manager
+          - listitem [ref=e186]:
+            - generic [ref=e188]:
+              - link "Billing & payments" [ref=e297] [cursor=pointer]:
+                - /url: https://business.facebook.com/billing_hub/?business_id=990501983779852&placement=mbs_all_tools_menu
+                - generic [ref=e190]: Billing & payments
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Billing & payments
+          - listitem [ref=e194]:
+            - generic [ref=e196]:
+              - link "All tools" [ref=e298] [cursor=pointer]:
+                - generic [ref=e198]: All tools
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: All tools
+    - generic [ref=e200]:
+      - listitem [ref=e203]:
+        - generic [ref=e205]:
+          - link "Search" [ref=e299] [cursor=pointer]:
+            - generic [ref=e207]: Search
+          - generic:
+            - generic:
+              - generic:
+                - generic: Search
+          - generic:
+            - generic:
+              - img
+      - navigation "Links" [ref=e300]:
+        - generic [ref=e209]: Links
+        - list [ref=e210]:
+          - listitem [ref=e214]:
+            - generic [ref=e216]:
+              - link "Settings" [ref=e301] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/settings/business_users?business_id=990501983779852
+                - generic [ref=e218]: Settings
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Settings
+          - listitem [ref=e222]:
+            - generic [ref=e224]:
+              - link "Notifications" [ref=e302] [cursor=pointer]:
+                - generic [ref=e226]: Notifications
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Notifications
+      - listitem [ref=e233]:
+        - generic [ref=e235]:
+          - link "Help" [ref=e303] [cursor=pointer]:
+            - generic [ref=e237]: Help
+          - generic:
+            - generic:
+              - generic:
+                - generic: Help
+          - generic:
+            - generic:
+              - img

@@ -1,0 +1,15 @@
+id: furlift-testimonial
+name: FurLift Testimonial
+productSlug: furlift
+characterId: sarah-pet-mom
+scenes:
+  - sceneId: testimonial
+    hookVariant: 0
+    ctaVariant: 3
+  - sceneId: couch-cleaning
+    hookVariant: 1
+    ctaVariant: 4
+platforms:
+  - reels
+  - spark
+outputVariants: 2

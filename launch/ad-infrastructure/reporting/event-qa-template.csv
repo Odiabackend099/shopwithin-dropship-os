@@ -1,0 +1,11 @@
+date,platform,event,test_action,expected_payload,observed,status,notes
+2026-05-18,TikTok,ViewContent,Open product page,"SKU VLOY30HZN, USD, 24.95",Pending,Pending,Pixel not connected yet
+2026-05-18,TikTok,AddToCart,Click Add to cart,"SKU VLOY30HZN, USD, 24.95",Pending,Pending,Pixel not connected yet
+2026-05-18,TikTok,InitiateCheckout,Start checkout,"USD checkout value",Pending,Pending,Pixel not connected yet
+2026-05-18,TikTok,CompletePayment,Complete Flutterwave sandbox payment,"USD order value, order ID",Pending,Pending,Pixel not connected yet
+2026-05-18,Meta,PageView,Open product page,"Page URL",Pending,Pending,Pixel not connected yet
+2026-05-18,Meta,ViewContent,Open product page,"SKU VLOY30HZN, USD, 24.95",Pending,Pending,Pixel not connected yet
+2026-05-18,Meta,AddToCart,Click Add to cart,"SKU VLOY30HZN, USD, 24.95",Pending,Pending,Pixel not connected yet
+2026-05-18,Meta,InitiateCheckout,Start checkout,"USD checkout value",Pending,Pending,Pixel not connected yet
+2026-05-18,Meta,Purchase,Complete Flutterwave sandbox payment,"USD order value, order ID",Pending,Pending,Pixel not connected yet
+

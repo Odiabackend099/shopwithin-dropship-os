@@ -1,0 +1,124 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e266]:
+    - generic [ref=e268]:
+      - banner:
+        - generic [ref=e2]:
+          - generic:
+            - generic:
+              - button [disabled]:
+                - img
+          - link "Facebook" [ref=e3] [cursor=pointer]:
+            - /url: /
+            - img [ref=e4]
+        - generic [ref=e175]:
+          - generic [ref=e176]:
+            - generic:
+              - generic:
+                - generic:
+                  - button:
+                    - img
+          - generic [ref=e178]:
+            - generic:
+              - img
+            - combobox "Search Facebook" [ref=e179] [cursor=pointer]
+        - navigation "Facebook" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "Home" [ref=e19] [cursor=pointer]:
+                - /url: /
+                - img [ref=e21]
+            - listitem [ref=e23]:
+              - link "Reels" [ref=e26] [cursor=pointer]:
+                - /url: /reel/?s=tab
+                - img [ref=e28]
+            - listitem [ref=e31]:
+              - link "Friends" [ref=e34] [cursor=pointer]:
+                - /url: /friends/
+                - img [ref=e36]
+            - listitem [ref=e38]:
+              - link "Groups" [ref=e41] [cursor=pointer]:
+                - /url: /groups/
+                - img [ref=e43]
+        - navigation "Account controls and settings" [ref=e46]:
+          - button "Facebook menu" [ref=e50] [cursor=pointer]:
+            - img [ref=e51]
+          - button "Messenger" [ref=e57] [cursor=pointer]:
+            - img [ref=e58]
+          - generic [ref=e64]:
+            - button "Notifications, 14 unread" [ref=e180] [cursor=pointer]:
+              - img [ref=e66]
+            - button [ref=e181] [cursor=pointer]:
+              - generic [ref=e182]:
+                - generic [ref=e183]: Number of unread notifications
+                - generic [ref=e184]: "14"
+          - button "Your profile" [ref=e70] [cursor=pointer]:
+            - generic [ref=e71]:
+              - img "Your profile" [ref=e72]
+              - img [ref=e79]
+      - generic [ref=e185]:
+        - main "Page creation form" [ref=e269]:
+          - generic [ref=e187]:
+            - generic [ref=e191]:
+              - navigation "Breadcrumb" [ref=e270]:
+                - generic [ref=e196]:
+                  - link "Pages" [ref=e271] [cursor=pointer]:
+                    - /url: /pages/
+                  - text: › Create a Page
+              - generic [ref=e199]:
+                - heading "Create a Page" [level=1] [ref=e272]
+                - generic [ref=e204]: Your Page is where people go to learn more about you. Make sure that yours has all of the information they may need.
+            - form "Pages" [ref=e273]:
+              - generic [ref=e210]:
+                - generic [ref=e214]:
+                  - generic [ref=e215]:
+                    - generic: Page name (required)
+                    - textbox "Page name (required) Input Page name (required) is valid." [ref=e280]: Shopwithin
+                  - generic [ref=e284]: Input Page name (required) is valid.
+                - generic [ref=e220]:
+                  - text: Use the name of your business, brand or organisation, or a name that helps explain your Page.
+                  - link "Learn more about naming your Page" [ref=e275] [cursor=pointer]:
+                    - /url: https://www.facebook.com/help/519912414718764
+                - generic [ref=e223]:
+                  - alert [ref=e334]: Shopping & retail added
+                  - generic [ref=e227]:
+                    - generic [ref=e228]:
+                      - generic: Category (required)
+                      - generic [ref=e229]:
+                        - grid "Selected values" [ref=e336]:
+                          - row "Remove Shopping & retail" [ref=e337]:
+                            - gridcell "Remove Shopping & retail" [ref=e338]:
+                              - generic [ref=e339]:
+                                - generic [ref=e341]: Shopping & retail
+                                - button "Remove Shopping & retail" [ref=e342] [cursor=pointer]
+                        - combobox "Category (required)" [ref=e276]
+                    - generic [ref=e347]: Input Category (required) is valid.
+                - generic [ref=e234]: Enter a category that best describes you.
+                - generic [ref=e236]:
+                  - generic [ref=e239]:
+                    - generic: Bio (optional)
+                    - textbox "Bio (optional)" [ref=e277]: Reusable pet hair cleanup tools and practical home products for pet owners.
+                  - generic [ref=e245]: Tell people a little about what you do.
+            - generic [ref=e246]:
+              - button "Create Page" [ref=e349] [cursor=pointer]:
+                - generic [ref=e352]: Create Page
+              - generic [ref=e257]:
+                - text: By creating a Page, you agree to the
+                - link "Pages, Groups and Events Policies" [ref=e279] [cursor=pointer]:
+                  - /url: https://www.facebook.com/policies_center/pages_groups_events/
+        - complementary "Page creation preview"
+      - button "New message" [ref=e261] [cursor=pointer]:
+        - img [ref=e262]
+    - alert [ref=e348]: Input Category (required) is valid.
+  - generic:
+    - list:
+      - listitem [ref=e353]:
+        - generic [ref=e354]:
+          - img [ref=e356]
+          - alert [ref=e359]:
+            - generic [ref=e361]:
+              - text: An error occurred while creating the page. Please ensure that you are following
+              - link "Page policies" [ref=e362] [cursor=pointer]:
+                - /url: /policies_center/pages_groups_events
+              - text: .
+          - button "Close" [ref=e364] [cursor=pointer]:
+            - img [ref=e365]

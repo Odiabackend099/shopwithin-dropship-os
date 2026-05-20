@@ -1,0 +1,102 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "CAC Logo" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img "CAC Logo" [ref=e8]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "Objection For IT & LTD/GTE" [ref=e11] [cursor=pointer]:
+            - /url: /support/objection
+        - listitem [ref=e12]:
+          - link "Help & Support" [ref=e13] [cursor=pointer]:
+            - /url: /support/help
+            - text: Help
+            - generic [ref=e14]: "& Support"
+        - listitem [ref=e15]:
+          - link "FAQs" [ref=e16] [cursor=pointer]:
+            - /url: /support/faq
+        - listitem [ref=e17]:
+          - link "Contact Us" [ref=e18] [cursor=pointer]:
+            - /url: /support/contact
+        - listitem [ref=e19]:
+          - link "Public Search" [ref=e20] [cursor=pointer]:
+            - /url: /public-search
+            - img [ref=e22]
+            - generic [ref=e24]: Public
+            - text: Search
+    - list [ref=e27]:
+      - listitem [ref=e28]:
+        - link "Sign Up" [ref=e29] [cursor=pointer]:
+          - /url: /auth/new-account
+      - listitem [ref=e30]:
+        - link "Login" [ref=e31] [cursor=pointer]:
+          - /url: /auth/login
+          - img [ref=e33]
+          - text: Login
+  - main [ref=e35]:
+    - generic [ref=e37]:
+      - list [ref=e39]:
+        - listitem [ref=e40]:
+          - link "Home" [ref=e41] [cursor=pointer]:
+            - /url: /
+          - text: /
+        - listitem [ref=e42]: Support/
+        - listitem [ref=e43]: Complaint
+      - generic [ref=e44]:
+        - img [ref=e47]
+        - generic [ref=e49]:
+          - heading "Thank you for using the Company Registration Portal." [level=1] [ref=e50]
+          - paragraph [ref=e51]: Please use this form if you encounter any issue while using the portal and we will get back to you very soon.
+          - paragraph [ref=e52]:
+            - text: "Note: If you have an objection to the registration of any"
+            - strong [ref=e53]: Incorporated Trustee
+            - text: or
+            - strong [ref=e54]: Company Limited by Guarantee
+            - text: ", you can"
+            - link "file a complaint / objection for them here" [ref=e55] [cursor=pointer]:
+              - /url: /support/objection
+              - strong [ref=e56]: file a complaint / objection for them here
+      - generic [ref=e57]:
+        - heading "Complaint Form" [level=1] [ref=e58]
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - generic [ref=e61]: Category
+            - combobox [ref=e62] [cursor=pointer]:
+              - option "-- Select Category --" [selected]
+              - option "Account Creation"
+              - option "Login"
+              - option "Name Availability Search"
+              - option "Pre Incorporation"
+              - option "Post Incorporation"
+              - option "Other"
+              - option "Payment"
+          - generic [ref=e63]:
+            - generic [ref=e64]: Description
+            - textbox [ref=e65]
+          - generic [ref=e66]:
+            - generic [ref=e67]: Name
+            - textbox [ref=e68]
+          - generic [ref=e69]:
+            - generic [ref=e70]: Email
+            - textbox [ref=e71]
+          - generic [ref=e72]:
+            - generic [ref=e73]: Phone Number
+            - textbox [ref=e74]
+          - button "Submit" [ref=e76] [cursor=pointer]
+  - contentinfo [ref=e78]:
+    - generic [ref=e79]:
+      - img "Nigeria Coat of Arms" [ref=e80]
+      - text: © 2026 Corporate Affairs Commission (CAC), Nigeria
+    - generic [ref=e81]:
+      - link "Privacy Policy" [ref=e82] [cursor=pointer]:
+        - /url: /legal/privacy-policy
+      - text: "|"
+      - link "Refunds, Cancellation and Return Policy" [ref=e83] [cursor=pointer]:
+        - /url: /legal/refund-policy
+      - text: "|"
+      - link "Terms of Use" [ref=e84] [cursor=pointer]:
+        - /url: /legal/terms-of-use
+      - text: "|"
+      - link "Contact Us" [ref=e85] [cursor=pointer]:
+        - /url: /support/contact

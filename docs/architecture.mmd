@@ -1,0 +1,16 @@
+flowchart LR
+  Sources[TikTok / Meta Library / Amazon / Trends / AliExpress] --> N8N[n8n workflows]
+  N8N --> API[Fastify API]
+  API --> Core[Core scoring and rules]
+  API --> DB[(Postgres)]
+  API --> Redis[(Redis queue)]
+  Redis --> Worker[Worker processors]
+  Worker --> Shopify[Shopify Admin API]
+  Worker --> Suppliers[Zendrop / Spocket / CJ / AutoDS / DSers]
+  Shopify --> Webhooks[Shopify webhooks]
+  Webhooks --> API
+  Suppliers --> Tracking[Tracking callbacks]
+  Tracking --> API
+  API --> Admin[Next admin dashboard]
+  API --> Metrics[Prometheus metrics]
+  API --> Sentry[Sentry alerts]

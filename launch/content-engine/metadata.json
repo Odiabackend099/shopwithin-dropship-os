@@ -1,0 +1,103 @@
+{
+  "product": {
+    "name": "FurLift Reusable Pet Hair Detailer",
+    "storeUrl": "https://mxu168-9g.myshopify.com/products/furlift-reusable-pet-hair-detailer",
+    "priceUsd": 24.95,
+    "audience": ["pet owners", "dog owners", "cat owners", "home cleaning buyers"],
+    "markets": ["United States", "Canada", "United Kingdom", "Australia"]
+  },
+  "sourceVideo": {
+    "path": "/Users/mac/Desktop/Risewithin Shopify/output/products/furlift-reusable-pet-hair-detailer.mp4",
+    "durationSeconds": 12.816667,
+    "sourceResolution": "576x1024",
+    "notes": [
+      "Native UGC-style footage with a strong product demo.",
+      "Best visual proof is the dark fabric fur-removal segment.",
+      "Source contains a TikTok watermark; final exports cover it with a FurLift lower-right sticker."
+    ]
+  },
+  "exports": {
+    "tiktok": ["launch/content-engine/tiktok-posts/furlift-tiktok-v1-problem-first.mp4"],
+    "instagramReels": ["launch/content-engine/instagram-reels/furlift-reels-v1-transformation-first.mp4"],
+    "youtubeShorts": ["launch/content-engine/youtube-shorts/furlift-shorts-v1-proof-demo.mp4"],
+    "sparkAds": [
+      "launch/content-engine/spark-ad-variants/furlift-spark-a-problem-first.mp4",
+      "launch/content-engine/spark-ad-variants/furlift-spark-b-transformation-first.mp4",
+      "launch/content-engine/spark-ad-variants/furlift-spark-c-pov-style.mp4",
+      "launch/content-engine/spark-ad-variants/furlift-spark-d-reaction-style.mp4",
+      "launch/content-engine/spark-ad-variants/furlift-spark-e-pet-owner-emotion.mp4"
+    ],
+    "thumbnails": [
+      "launch/content-engine/thumbnails/furlift-thumb-problem-first.jpg",
+      "launch/content-engine/thumbnails/furlift-thumb-transformation-first.jpg",
+      "launch/content-engine/thumbnails/furlift-thumb-pov-style.jpg",
+      "launch/content-engine/thumbnails/furlift-thumb-reaction-style.jpg",
+      "launch/content-engine/thumbnails/furlift-thumb-pet-owner-emotion.jpg"
+    ]
+  },
+  "technicalSpec": {
+    "exportResolution": "1080x1920",
+    "aspectRatio": "9:16",
+    "codec": "H.264 video, AAC audio",
+    "frameRate": 30,
+    "durationSeconds": 9.7,
+    "audioTarget": "-14 LUFS normalized"
+  },
+  "hooks": [
+    "Pet hair on everything?",
+    "Watch what came off my couch.",
+    "Lint rollers miss this.",
+    "POV: your dog owns the couch.",
+    "I thought this couch was clean.",
+    "This is why your sofa still looks dusty.",
+    "If you have a shedding pet, watch this.",
+    "The most satisfying couch clean I have tried.",
+    "Guest coming over and the couch looks like this?",
+    "This pulled up fur I could not even see."
+  ],
+  "ctas": [
+    "Try FurLift today.",
+    "Get the reusable pet hair detailer.",
+    "Clean the couch before guests notice.",
+    "Stop buying sticky refills.",
+    "Tap the product link and check it out."
+  ],
+  "hashtags": {
+    "primary": ["#PetTok", "#DogHair", "#CatHair", "#CleaningTok", "#PetParents", "#FurLift"],
+    "secondary": ["#PetHairRemoval", "#CleaningHacks", "#DogOwnerLife", "#CatOwnerLife", "#HomeReset"],
+    "shorts": ["#shorts", "#pethair", "#cleaning", "#cleaninghacks", "#petowners"]
+  },
+  "performanceScores": {
+    "problemFirst": { "predictedCtr": 8.6, "hookQuality": 9.0, "retention": 8.2, "ugcAuthenticity": 8.4 },
+    "transformationFirst": { "predictedCtr": 8.2, "hookQuality": 8.7, "retention": 8.8, "ugcAuthenticity": 8.1 },
+    "povStyle": { "predictedCtr": 7.8, "hookQuality": 8.3, "retention": 8.0, "ugcAuthenticity": 8.7 },
+    "reactionStyle": { "predictedCtr": 7.5, "hookQuality": 7.9, "retention": 7.7, "ugcAuthenticity": 8.8 },
+    "petOwnerEmotion": { "predictedCtr": 8.0, "hookQuality": 8.5, "retention": 7.8, "ugcAuthenticity": 8.3 }
+  },
+  "budgetPlan": {
+    "totalNgn": 50000,
+    "tiktokNgn": 35000,
+    "instagramNgn": 15000,
+    "organicFirst": true,
+    "sparkAdsStartDailyBudgetNgn": [3000, 5000],
+    "paidAdsEnabled": false
+  },
+  "rules": {
+    "sparkTransition": [
+      "Boost only after organic proof.",
+      "Use the best organic TikTok post as the first Spark Ad.",
+      "Do not run more than two cold variants at once on this budget."
+    ],
+    "killRules": [
+      "Pause after NGN 5,000 spend if CTR is below 0.8 percent.",
+      "Pause after 100 product sessions if add-to-cart is below 3 percent.",
+      "Pause after 3 checkout starts with no purchases.",
+      "Pause if comments indicate shipping, trust, or product confusion."
+    ],
+    "scaleRules": [
+      "Scale only after CTR is above 1.5 percent.",
+      "Scale only after add-to-cart is above 3 percent.",
+      "Increase winning budgets by 20-30 percent at a time."
+    ]
+  }
+}

@@ -1,0 +1,655 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e1215] [cursor=pointer]:
+        - generic [ref=e1216]:
+          - generic [ref=e1217]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e1218]
+          - generic [ref=e1219]:
+            - generic [ref=e1220]: ⌘
+            - generic [ref=e1221]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [expanded] [ref=e40] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e54] [cursor=pointer]:
+            - img [ref=e58]
+        - button "eguale samuel" [ref=e69] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img "shopwithin" [ref=e76]:
+              - generic [ref=e77]: SHO
+            - paragraph [ref=e79]: shopwithin
+    - generic [ref=e81]:
+      - generic "Navigation" [ref=e82]:
+        - navigation [ref=e84]:
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - list [ref=e88]:
+                - listitem [ref=e89]:
+                  - link "Home" [ref=e92] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e93]:
+                      - img [ref=e96]
+                      - img [ref=e100]
+                    - generic [ref=e102]: Home
+                - listitem [ref=e103]:
+                  - link "Orders" [ref=e106] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e107]:
+                      - img [ref=e110]
+                      - img [ref=e114]
+                    - generic [ref=e116]: Orders
+                - listitem [ref=e117]:
+                  - link "Products" [ref=e120] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e121]:
+                      - img [ref=e124]
+                      - img [ref=e128]
+                    - generic [ref=e131]: Products
+                - listitem [ref=e132]:
+                  - link "Customers" [ref=e135] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e136]:
+                      - img [ref=e139]
+                      - img [ref=e144]
+                    - generic [ref=e147]: Customers
+                - listitem [ref=e148]:
+                  - link "Marketing" [ref=e151] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e152]:
+                      - img [ref=e155]
+                      - img [ref=e161]
+                    - generic [ref=e165]: Marketing
+                - listitem [ref=e166]:
+                  - link "Discounts" [ref=e169] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e170]:
+                      - img [ref=e173]
+                      - img [ref=e177]
+                    - generic [ref=e182]: Discounts
+                - listitem [ref=e183]:
+                  - link "Content" [ref=e186] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e187]:
+                      - img [ref=e190]
+                      - img [ref=e197]
+                    - generic [ref=e202]: Content
+                - listitem [ref=e203]:
+                  - link "Markets" [ref=e206] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e207]:
+                      - img [ref=e210]
+                      - img [ref=e215]
+                    - generic [ref=e218]: Markets
+                - listitem [ref=e219]:
+                  - link "Analytics" [ref=e222] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e223]:
+                      - img [ref=e226]
+                      - img [ref=e232]
+                    - generic [ref=e236]: Analytics
+              - list [ref=e237]:
+                - listitem [ref=e238]:
+                  - button "Sales channels" [ref=e240] [cursor=pointer]:
+                    - strong [ref=e242]:
+                      - generic: Sales channels
+                  - list [ref=e244]:
+                    - button "Online Store" [ref=e245]:
+                      - list [ref=e246]:
+                        - listitem [ref=e247]:
+                          - link "Online Store" [ref=e250] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=f01a6bf0-54a5-4fb1-8c14-05c9c1f5b7f0
+                            - img [ref=e252]
+                            - generic [ref=e253]: Online Store
+                    - button "Agentic" [ref=e254]:
+                      - list [ref=e255]:
+                        - listitem [ref=e256]:
+                          - link "Agentic" [ref=e259] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=5116a44d-eb73-4c1d-b9ab-a0cde8aefbfe
+                            - img [ref=e261]
+                            - generic [ref=e262]: Agentic
+                  - status [ref=e263]
+                - listitem [ref=e264]:
+                  - button "Apps" [ref=e266] [cursor=pointer]:
+                    - strong [ref=e268]:
+                      - generic: Apps
+                - listitem [ref=e270]:
+                  - button "Sidekick conversations" [ref=e272] [cursor=pointer]:
+                    - strong [ref=e274]:
+                      - generic: Sidekick conversations
+                  - list [ref=e277]:
+                    - listitem [ref=e278]:
+                      - button "Setting up payments for your store" [ref=e281] [cursor=pointer]:
+                        - generic [ref=e282]: Setting up payments for your store
+            - generic [ref=e283]:
+              - list [ref=e284]:
+                - listitem [ref=e285]:
+                  - link "Settings" [ref=e288] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings
+                    - img [ref=e292]
+                    - generic [ref=e294]: Settings
+              - link "Subscribe for $1" [ref=e296] [cursor=pointer]:
+                - /url: /store/mxu168-9g/subscribe/checkout
+                - generic [ref=e297]:
+                  - paragraph [ref=e298]: Trial ends in 3 days
+                  - paragraph [ref=e299]: Subscribe for $1
+                  - button "Select a plan" [ref=e301]:
+                    - generic [ref=e303]:
+                      - generic: Select a plan
+      - main [ref=e304]
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - generic:
+      - generic:
+        - generic: You need to set-up two-step authentication before adding a bank account.
+        - generic: two-step authentication
+        - generic: Set up two-step
+    - dialog "Settings" [ref=e308]:
+      - button "Close" [ref=e309] [cursor=pointer]:
+        - img [ref=e312]
+      - generic [ref=e317]:
+        - generic [ref=e321]:
+          - generic [ref=e322]:
+            - button "Update internal icon" [ref=e324] [cursor=pointer]:
+              - generic [ref=e325]:
+                - img "shopwithin" [ref=e328]:
+                  - generic [ref=e329]: SHO
+                - img [ref=e333]
+            - generic [ref=e335]:
+              - heading "shopwithin" [level=3] [ref=e336]:
+                - generic [ref=e337]: shopwithin
+              - link "mxu168-9g.myshopify.com" [ref=e340] [cursor=pointer]:
+                - /url: /store/mxu168-9g/settings/domains
+                - generic [ref=e341]: mxu168-9g.myshopify.com
+          - generic [ref=e345]:
+            - img [ref=e349]
+            - combobox "Search" [ref=e352]
+          - navigation "Shop settings menu" [ref=e353]:
+            - list [ref=e354]:
+              - listitem [ref=e355]:
+                - link "General" [ref=e357] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/general
+                  - generic [ref=e358]:
+                    - img [ref=e362]
+                    - generic [ref=e365]: General
+              - listitem [ref=e366]:
+                - link "Plan" [ref=e368] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/plan
+                  - generic [ref=e369]:
+                    - img [ref=e373]
+                    - generic [ref=e376]: Plan
+              - listitem [ref=e377]:
+                - link "Billing" [ref=e379] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/billing
+                  - generic [ref=e380]:
+                    - img [ref=e384]
+                    - generic [ref=e386]: Billing
+              - listitem [ref=e387]:
+                - link "Users" [ref=e389] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/organization-account
+                  - generic [ref=e390]:
+                    - img [ref=e394]
+                    - generic [ref=e396]: Users
+              - listitem [ref=e397]:
+                - link "Payments" [ref=e399] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/payments
+                  - generic [ref=e400]:
+                    - img [ref=e404]
+                    - generic [ref=e406]: Payments
+              - listitem [ref=e407]:
+                - link "Checkout" [ref=e409] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/checkout
+                  - generic [ref=e410]:
+                    - img [ref=e414]
+                    - generic [ref=e418]: Checkout
+              - listitem [ref=e419]:
+                - link "Customer accounts" [ref=e421] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/customer_accounts
+                  - generic [ref=e422]:
+                    - img [ref=e426]
+                    - generic [ref=e429]: Customer accounts
+              - listitem [ref=e430]:
+                - link "Shipping and delivery" [ref=e432] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/shipping
+                  - generic [ref=e433]:
+                    - img [ref=e437]
+                    - generic [ref=e439]: Shipping and delivery
+              - listitem [ref=e440]:
+                - link "Taxes and duties" [ref=e442] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/taxes
+                  - generic [ref=e443]:
+                    - img [ref=e447]
+                    - generic [ref=e449]: Taxes and duties
+              - listitem [ref=e450]:
+                - link "Locations" [ref=e452] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/locations
+                  - generic [ref=e453]:
+                    - img [ref=e457]
+                    - generic [ref=e459]: Locations
+              - listitem [ref=e460]:
+                - link "Apps" [ref=e462] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/apps
+                  - generic [ref=e463]:
+                    - img [ref=e467]
+                    - generic [ref=e472]: Apps
+              - listitem [ref=e473]:
+                - link "Sales channels" [ref=e475] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/sales_channels
+                  - generic [ref=e476]:
+                    - img [ref=e480]
+                    - generic [ref=e482]: Sales channels
+              - listitem [ref=e483]:
+                - link "Domains" [ref=e485] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/domains
+                  - generic [ref=e486]:
+                    - img [ref=e490]
+                    - generic [ref=e494]: Domains
+              - listitem [ref=e495]:
+                - link "Customer events" [ref=e497] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/customer_events
+                  - generic [ref=e498]:
+                    - img [ref=e502]
+                    - generic [ref=e509]: Customer events
+              - listitem [ref=e510]:
+                - link "Notifications" [ref=e512] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/notifications
+                  - generic [ref=e513]:
+                    - img [ref=e517]
+                    - generic [ref=e519]: Notifications
+              - listitem [ref=e520]:
+                - link "Metafields and metaobjects" [ref=e522] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/custom_data
+                  - generic [ref=e523]:
+                    - img [ref=e527]
+                    - generic [ref=e529]: Metafields and metaobjects
+              - listitem [ref=e530]:
+                - link "Languages" [ref=e532] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/languages
+                  - generic [ref=e533]:
+                    - img [ref=e537]
+                    - generic [ref=e541]: Languages
+              - listitem [ref=e542]:
+                - link "Customer privacy" [ref=e544] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/privacy
+                  - generic [ref=e545]:
+                    - img [ref=e549]
+                    - generic [ref=e551]: Customer privacy
+              - listitem [ref=e552]:
+                - link "Policies" [ref=e554] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/legal
+                  - generic [ref=e555]:
+                    - img [ref=e559]
+                    - generic [ref=e561]: Policies
+          - link "eguale samuel egualesamuel@gmail.com" [ref=e563] [cursor=pointer]:
+            - /url: https://accounts.shopify.com/accounts/400d1013-c92b-4292-b70c-576c4dcdc41f/redirect
+            - generic [ref=e564]:
+              - img "es" [ref=e567]:
+                - generic [ref=e568]: ES
+              - generic [ref=e569]:
+                - heading "eguale samuel" [level=6] [ref=e571]:
+                  - generic [ref=e572]: eguale samuel
+                - heading "egualesamuel@gmail.com" [level=6] [ref=e573]:
+                  - generic [ref=e574]: egualesamuel@gmail.com
+        - main [ref=e1393]:
+          - generic [ref=e1404]:
+            - generic:
+              - img [ref=e1407]
+              - heading "Payments" [level=1] [ref=e1409]
+          - generic [ref=e1413]:
+            - generic [ref=e1415]:
+              - button [ref=e1417]: Submit
+              - generic [ref=e1418]:
+                - generic [ref=e1422]:
+                  - generic [ref=e1426]:
+                    - heading "Payment providers" [level=2] [ref=e1428]
+                    - generic [ref=e1430]:
+                      - generic:
+                        - text: Providers that enable you to accept payment methods at a rate set by the third-party. An additional fee will apply to new orders once you
+                        - link "select a plan" [ref=e1431] [cursor=pointer]:
+                          - /url: /store/mxu168-9g/settings/subscribe/select-plan
+                          - generic: select a plan
+                        - text: .
+                  - link "Choose a provider" [ref=e1436] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings/payments/third-party-providers
+                    - generic [ref=e1438]:
+                      - generic: Choose a provider
+                - generic [ref=e1442]:
+                  - generic [ref=e1446]:
+                    - heading "Supported payment methods" [level=2] [ref=e1448]
+                    - generic [ref=e1449]:
+                      - generic: Payment methods that are available with one of Shopify's approved payment providers
+                  - generic [ref=e1454]:
+                    - list [ref=e1456]:
+                      - listitem [ref=e1457] [cursor=pointer]:
+                        - generic [ref=e1459]:
+                          - generic [ref=e1461]:
+                            - generic [ref=e1462]:
+                              - button "Flutterwave - Africa Payments Transaction fees vary by plan • Processing fees set by Flutterwave - Africa Payments +3" [ref=e1464]:
+                                - generic [ref=e1465]:
+                                  - heading "Flutterwave - Africa Payments" [level=3] [ref=e1466]
+                                  - generic [ref=e1467]:
+                                    - generic [ref=e1468]:
+                                      - generic: Transaction fees vary by plan • Processing fees set by Flutterwave - Africa Payments
+                                    - generic [ref=e1470]:
+                                      - img "Visa" [ref=e1475]
+                                      - img "Mastercard" [ref=e1480]
+                                      - img "American Express" [ref=e1485]
+                                      - img "Discover" [ref=e1490]
+                                      - img "MTN Mobile Money" [ref=e1495]
+                                      - generic [ref=e1500]:
+                                        - generic: "+3"
+                              - generic [ref=e1502]:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Warning
+                                    - generic:
+                                      - generic:
+                                        - generic: Test mode
+                            - generic [ref=e1503]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - img
+                          - generic:
+                            - generic:
+                              - status:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - img
+                                  - generic:
+                                    - generic:
+                                      - paragraph:
+                                        - generic:
+                                          - generic: Testing Flutterwave - Africa Payments transactions. No actual transactions will be processed.
+                    - separator [ref=e1505]
+                    - button "Add payment method" [ref=e1507] [cursor=pointer]:
+                      - generic [ref=e1511]:
+                        - img [ref=e1514]
+                        - paragraph [ref=e1518]: Add payment method
+                - generic [ref=e1522]:
+                  - generic [ref=e1526]:
+                    - heading "Payment capture method" [level=2] [ref=e1528]
+                    - generic [ref=e1530]:
+                      - generic:
+                        - text: Payments are authorized when an order is placed. Select how to
+                        - link "capture payments" [ref=e1531] [cursor=pointer]:
+                          - /url: https://help.shopify.com/en/manual/payments/payment-authorization
+                          - generic: capture payments
+                        - text: ":"
+                  - group "Payment capture method" [ref=e1536]:
+                    - generic [ref=e1537]: Payment capture method
+                    - generic [ref=e1538] [cursor=pointer]:
+                      - radio "Automatically at checkout" [checked] [ref=e1539]
+                      - text: Automatically at checkout
+                    - generic [ref=e1540]:
+                      - text: Automatically at checkout
+                      - paragraph [ref=e1544]:
+                        - generic: Capture payment when an order is placed
+                    - generic [ref=e1545] [cursor=pointer]:
+                      - radio "Automatically when the entire order is fulfilled" [ref=e1546]
+                      - text: Automatically when the entire order is fulfilled
+                    - generic [ref=e1547]: Authorize payment at checkout and capture once the entire order is fulfilled
+                    - generic [ref=e1548] [cursor=pointer]:
+                      - radio "Manually" [ref=e1549]
+                      - text: Manually
+                    - generic [ref=e1550]: Authorize payment at checkout and capture manually
+                - generic [ref=e1554]:
+                  - generic [ref=e1558]:
+                    - heading "Manual payment methods" [level=2] [ref=e1560]
+                    - generic [ref=e1561]:
+                      - generic: Payments made outside your online store. Orders paid manually must be approved before being fulfilled.
+                  - generic [ref=e1567]:
+                    - generic:
+                      - list
+                    - button "Manual payment method" [ref=e1569] [cursor=pointer]:
+                      - generic [ref=e1573]:
+                        - img [ref=e1576]
+                        - paragraph [ref=e1580]: Manual payment method
+                - generic [ref=e1584]:
+                  - generic [ref=e1588]:
+                    - heading "Payment method customizations" [level=2] [ref=e1590]
+                    - generic [ref=e1591]:
+                      - generic: Control how payment methods appear to your customers at checkout.
+                  - link "View payment method customization apps" [ref=e1596] [cursor=pointer]:
+                    - /url: https://apps.shopify.com/login/authenticate?shop=mxu168-9g&login_hint=egualesamuel%40gmail.com&url=https%3A%2F%2Fapps.shopify.com%2Fcollections%2Fpayment-customizations-functions%3Fst_campaign%3Dpayment-customizations-card%26st_source%3Dadmin-web%26utm_campaign%3Dpayment-customizations-card%26utm_source%3Dshopify
+                    - generic [ref=e1598]:
+                      - generic: View payment method customization apps
+                - generic [ref=e1602]:
+                  - heading "Gift card expiration" [level=2] [ref=e1608]
+                  - generic [ref=e1612]:
+                    - generic [ref=e1615] [cursor=pointer]:
+                      - radio "Gift cards never expire" [checked] [ref=e1618]
+                      - generic [ref=e1620]: Gift cards never expire
+                    - generic [ref=e1623] [cursor=pointer]:
+                      - radio "Gift cards expire" [ref=e1626]
+                      - generic [ref=e1628]: Gift cards expire
+                - generic [ref=e1634]:
+                  - generic [ref=e1636]:
+                    - heading "Apple Wallet passes" [level=2] [ref=e1638]:
+                      - strong [ref=e1639]:
+                        - generic: Apple Wallet passes
+                    - generic [ref=e1640]:
+                      - generic: Give customers a digital Apple Wallet pass to use online or in your retail stores
+                  - button "Customize" [ref=e1643] [cursor=pointer]:
+                    - generic [ref=e1644]: Customize
+            - paragraph [ref=e1647]:
+              - button "Learn more about payments" [ref=e1648] [cursor=pointer]:
+                - generic [ref=e1650]:
+                  - generic: Learn more about payments
+      - generic:
+        - generic:
+          - button "Close":
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic: Close
+    - dialog "Sidekick" [ref=e914]:
+      - button "Resize Sidebar" [ref=e915]:
+        - generic [ref=e916]:
+          - generic: Resize Sidebar
+      - generic [ref=e919]:
+        - generic [ref=e921]:
+          - generic [ref=e922]:
+            - button "Setup guide" [ref=e924] [cursor=pointer]:
+              - heading "Setup guide" [level=2] [ref=e925]:
+                - generic: Setup guide
+              - img [ref=e929]
+            - generic [ref=e932]:
+              - button "New conversation" [ref=e934] [cursor=pointer]:
+                - img [ref=e937]
+              - generic [ref=e941]:
+                - button "Expand" [disabled]:
+                  - generic:
+                    - generic:
+                      - img
+              - button "Close Sidekick" [ref=e943] [cursor=pointer]:
+                - img [ref=e946]
+          - generic [ref=e949]:
+            - generic [ref=e951]:
+              - generic [ref=e953]: To-dos
+              - generic [ref=e955]: 3/6
+            - link "Customize your online store" [ref=e1305] [cursor=pointer]:
+              - /url: /store/mxu168-9g/themes
+              - generic [ref=e1306]:
+                - button "Mark as complete" [ref=e1307]:
+                  - generic [ref=e1308]:
+                    - img [ref=e1309]
+                    - img [ref=e1311]
+                    - img [ref=e1314]
+                - paragraph [ref=e1317]:
+                  - generic [ref=e1318]: Customize your online store
+                - generic [ref=e1321]:
+                  - generic: Next
+        - generic [ref=e975]:
+          - log [ref=e979]:
+            - generic [ref=e980]:
+              - generic [ref=e985]:
+                - generic [ref=e987]:
+                  - generic [ref=e989]: To-dos
+                  - generic [ref=e991]: 3/6
+                - generic [ref=e993]:
+                  - link "Add store name" [disabled] [ref=e997] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings/general/store-contact-details
+                    - generic [ref=e998]:
+                      - button "Mark as incomplete" [ref=e999]:
+                        - generic [ref=e1000]:
+                          - img [ref=e1001]
+                          - img [ref=e1003]
+                          - img [ref=e1006]
+                      - paragraph [ref=e1009]:
+                        - generic [ref=e1010]: Add store name
+                  - button "Add your first product" [disabled] [ref=e1014] [cursor=pointer]:
+                    - generic [ref=e1015]:
+                      - button "Mark as incomplete" [ref=e1016]:
+                        - generic [ref=e1017]:
+                          - img [ref=e1018]
+                          - img [ref=e1020]
+                          - img [ref=e1023]
+                      - paragraph [ref=e1026]:
+                        - generic [ref=e1027]: Add your first product
+                  - link "Customize your online store" [ref=e1031] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/themes
+                    - generic [ref=e1032]:
+                      - button "Mark as complete" [ref=e1033]:
+                        - generic [ref=e1034]:
+                          - img [ref=e1035]
+                          - img [ref=e1037]
+                          - img [ref=e1040]
+                      - paragraph [ref=e1043]:
+                        - generic [ref=e1044]: Customize your online store
+                  - link "Set up a payment provider" [disabled] [ref=e1048] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings/payments
+                    - generic [ref=e1049]:
+                      - button "Mark as incomplete" [ref=e1322]:
+                        - generic [ref=e1051]:
+                          - img [ref=e1052]
+                          - img [ref=e1054]
+                          - img [ref=e1057]
+                      - paragraph [ref=e1060]:
+                        - generic [ref=e1061]: Set up a payment provider
+                  - link "Review your shipping rates" [ref=e1065] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings/shipping/profiles/134544064793
+                    - generic [ref=e1066]:
+                      - button "Mark as complete" [ref=e1067]:
+                        - generic [ref=e1068]:
+                          - img [ref=e1069]
+                          - img [ref=e1071]
+                          - img [ref=e1074]
+                      - paragraph [ref=e1077]:
+                        - generic [ref=e1078]: Review your shipping rates
+                  - link "Customize domain" [ref=e1082] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings/domains
+                    - generic [ref=e1083]:
+                      - button "Mark as complete" [ref=e1084]:
+                        - generic [ref=e1085]:
+                          - img [ref=e1086]
+                          - img [ref=e1088]
+                          - img [ref=e1091]
+                      - paragraph [ref=e1094]:
+                        - generic [ref=e1095]: Customize domain
+              - article [ref=e1100]:
+                - paragraph [ref=e1101]: Getting paid is the heartbeat of any business — let's make sure yours is set up right!
+                - paragraph [ref=e1102]: I've created a to-do list to help you get your store ready to launch.
+                - paragraph [ref=e1103]: You've already added your store name and first product — great momentum! Now it's time to set up payments so customers can actually complete purchases. Without a payment provider active, no one can check out, no matter how great your products are.
+                - paragraph [ref=e1104]: "Here's where things stand on your payments page:"
+                - list [ref=e1105]:
+                  - listitem [ref=e1106]:
+                    - generic [ref=e1107]:
+                      - strong [ref=e1108]: Shopify Payments
+                      - text: — not yet set up (the fastest way to start accepting cards)
+                  - listitem [ref=e1109]:
+                    - generic [ref=e1110]:
+                      - strong [ref=e1111]: No additional or manual payment methods
+                      - text: active yet
+                - paragraph [ref=e1112]:
+                  - strong [ref=e1113]: Shopify Payments
+                  - text: is the recommended starting point — it's built right into Shopify, so there are no third-party redirects, and you get payouts directly. Since your store is based in Nigeria, I'd recommend checking eligibility, as Shopify Payments availability varies by country. If it's not available in your region,
+                  - strong [ref=e1114]: Paystack
+                  - text: or
+                  - strong [ref=e1115]: Flutterwave
+                  - text: are popular and widely-used options in Nigeria that integrate seamlessly with Shopify.
+                - paragraph [ref=e1116]:
+                  - strong [ref=e1117]: What would you like to do?
+                - list [ref=e1118]:
+                  - listitem [ref=e1119]:
+                    - generic [ref=e1120]:
+                      - text: Set up
+                      - strong [ref=e1121]: Shopify Payments
+                      - text: (if eligible)
+                  - listitem [ref=e1122]:
+                    - generic [ref=e1123]:
+                      - text: Add a
+                      - strong [ref=e1124]: third-party payment provider
+                      - text: like Paystack or Flutterwave
+                  - listitem [ref=e1125]:
+                    - generic [ref=e1126]:
+                      - text: Set up a
+                      - strong [ref=e1127]: manual payment method
+                      - text: (e.g., bank transfer)
+                - paragraph [ref=e1128]:
+                  - text: Let me know and I'll guide you through it right away!
+                  - status "Loading" [ref=e1129]
+              - generic [ref=e1139]:
+                - button "Copy message" [ref=e1140] [cursor=pointer]:
+                  - img [ref=e1143]
+                - button "Rate this response positive" [ref=e1145] [cursor=pointer]:
+                  - img [ref=e1148]
+                - button "Rate this response negative" [ref=e1150] [cursor=pointer]:
+                  - img [ref=e1153]
+            - generic [ref=e1331]:
+              - article [ref=e1336]:
+                - paragraph [ref=e1337]: Your payment provider is live — customers can now actually check out and pay you! That's a massive step; without this, your store couldn't take a single order.
+                - paragraph [ref=e1338]:
+                  - text: You've got 4 of 6 setup tasks done now.
+                  - strong [ref=e1339]: If you want to go deeper on payments, consider adding a backup payment method
+                  - text: so you never lose a sale if a customer's preferred option isn't available — bank transfers or cash on delivery can be great additions for Nigerian customers who prefer offline payment options.
+                - paragraph [ref=e1340]:
+                  - text: Otherwise, you're building real momentum toward launch! 🚀
+                  - status "Loading" [ref=e1341]
+              - generic [ref=e1351]:
+                - button "Copy message" [ref=e1352] [cursor=pointer]:
+                  - img [ref=e1355]
+                - button "Rate this response positive" [ref=e1357] [cursor=pointer]:
+                  - img [ref=e1360]
+                - button "Rate this response negative" [ref=e1362] [cursor=pointer]:
+                  - img [ref=e1365]
+          - button "Scroll to bottom" [ref=e1367] [cursor=pointer]:
+            - img [ref=e1370]
+        - generic [ref=e1159]:
+          - generic [ref=e1162]:
+            - generic:
+              - generic:
+                - generic:
+                  - paragraph
+            - button "Close" [disabled] [ref=e1164]:
+              - img [ref=e1168]
+          - generic [ref=e1173]:
+            - img [ref=e1372]
+            - generic [ref=e1192]:
+              - generic:
+                - generic: Ask anything...
+              - textbox "Ask anything..." [ref=e1193]
+            - generic [ref=e1195]:
+              - button "Add files and more" [ref=e1197] [cursor=pointer]:
+                - img [ref=e1200]
+              - button "Voice" [ref=e1384] [cursor=pointer]:
+                - img [ref=e1387]

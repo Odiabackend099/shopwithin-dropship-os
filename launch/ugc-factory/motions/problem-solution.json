@@ -1,0 +1,11 @@
+{
+  "id": "problem-solution",
+  "name": "Problem Solution",
+  "description": "Problem statement followed by solution reveal",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing starting with problem scenario, transitioning to solution reveal, natural hand movement showing problem then solution, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "body_language_block": "frustrated body language during problem section, relieved and satisfied body language during solution reveal, natural transition between emotions, casual authentic stance",
+  "timing_block": "problem statement 3-5 seconds, solution demonstration 5-8 seconds, satisfaction reaction 2-3 seconds, clear emotional transition timing",
+  "expression_block": "genuine frustration with problem, relieved and satisfied expression with solution, natural eye contact with camera during both sections, authentic emotional journey",
+  "platform_block": "realistic TikTok problem-solution style, organic creator content, not polished commercial, emotional storytelling pacing, authentic relatable vibe",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury influencer aesthetic, no overly polished production"
+}

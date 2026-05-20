@@ -1,0 +1,113 @@
+- generic:
+  - generic:
+    - generic:
+      - region "Notifications alt+T"
+      - generic:
+        - generic:
+          - banner:
+            - generic:
+              - generic:
+                - link:
+                  - /url: /
+                  - img
+                - button: Help & Support
+                - generic:
+                  - button:
+                    - img
+          - main:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - heading [level=1]: Seamless Tax ID Retrieval
+                  - img
+                - generic:
+                  - generic:
+                    - generic:
+                      - button: Individual
+                      - button: Corporate
+                      - button: Others
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Select organization type
+                            - combobox [expanded]:
+                              - generic: Select organization type
+                              - img
+                            - combobox
+                          - generic:
+                            - generic: Enter ID Number
+                            - generic:
+                              - textbox:
+                                - /placeholder: " "
+                        - generic:
+                          - img
+                          - paragraph: I hereby consent to the processing of my information for tax-related identity verification.
+                        - generic:
+                          - button: Retrieve Tax ID
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading [level=4]: What is a Tax Identification Number (Tax ID)?
+                      - paragraph: A Tax Identification Number (Tax ID) is a unique number jointly issued by the Nigeria Revenue Service (NRS) and the Joint Revenue Board (JRB) in accordance with Nigerian tax laws for the purpose of identifying individuals and entities for tax administration, compliance, and enforcement.
+                      - paragraph: Under Nigeria’s tax administration framework, a Tax ID is not created in isolation.
+                      - generic:
+                        - link:
+                          - /url: /what-is-a-tax-id
+                          - text: Read More
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading [level=3]: Who Is Required to Have a Tax ID?
+                      - paragraph: A valid Tax ID is mandatory for accessing many public and private services, including banking, employment documentation, government contracts, and statutory filings.
+                    - generic:
+                      - generic:
+                        - img
+                        - paragraph: Individuals earning income or engaging in taxable activities in Nigeria
+                      - generic:
+                        - img
+                        - paragraph: Companies and business entities registered with the CAC. Organizations, trustees, and partnerships conducting regulated or taxable operations
+                      - generic:
+                        - img
+                        - paragraph: Non-residents with tax obligations or economic presence in Nigeria
+          - contentinfo:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                    - paragraph: Tax ID Retrieval Portal
+                  - generic: © 2026 | All Rights Reserved
+                - generic:
+                  - link:
+                    - /url: /what-is-a-tax-id
+                    - text: What Is A Tax ID?
+                  - link:
+                    - /url: /
+                    - text: How It Works
+                  - link:
+                    - /url: /service-availability
+                    - text: Service Availability
+                  - generic: Help & Support
+                - generic:
+                  - link:
+                    - /url: https://www.firs.gov.ng/privacy-policy
+                    - text: Terms of Service
+                  - link:
+                    - /url: https://www.firs.gov.ng/privacy-policy
+                    - text: Privacy Policy
+                  - link:
+                    - /url: https://www.firs.gov.ng/privacy-policy
+                    - text: Cookie Policy
+  - listbox [ref=e109]:
+    - option "Business Name" [active] [ref=e110]:
+      - generic [ref=e112]: Business Name
+    - option "Company" [ref=e113]:
+      - generic [ref=e115]: Company
+    - option "Incorporated Trustee" [ref=e116]:
+      - generic [ref=e118]: Incorporated Trustee
+    - option "Limited Partnership" [ref=e119]:
+      - generic [ref=e121]: Limited Partnership
+    - option "Limited Liability Partnership" [ref=e122]:
+      - generic [ref=e124]: Limited Liability Partnership

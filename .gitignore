@@ -1,0 +1,15 @@
+node_modules
+.pnpm-store
+.env
+.env.*
+!.env.example
+dist
+.next
+coverage
+*.log
+*.tsbuildinfo
+tmp
+.DS_Store
+prisma/dev.db
+playwright-report
+test-results

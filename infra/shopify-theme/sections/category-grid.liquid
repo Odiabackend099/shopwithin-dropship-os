@@ -1,0 +1,111 @@
+{% comment %}
+  Category Grid Section
+  Displays all product categories with icons and problem-solving messaging
+{% endcomment %}
+
+<div class="category-grid">
+  <div class="category-grid__header">
+    <h2 class="category-grid__title">{{ section.settings.title }}</h2>
+    <p class="category-grid__subtitle">{{ section.settings.subtitle }}</p>
+  </div>
+  
+  <div class="category-grid__items">
+    <!-- Pet Care -->
+    <a href="/collections/pet" class="category-card" data-category="pet">
+      <div class="category-card__icon">🐾</div>
+      <h3 class="category-card__title">Pet Care</h3>
+      <p class="category-card__description">Pet hair removal, grooming, accessories</p>
+      <span class="category-card__count">2 products</span>
+    </a>
+    
+    <!-- Car Accessories -->
+    <a href="/collections/car" class="category-card" data-category="car">
+      <div class="category-card__icon">🚗</div>
+      <h3 class="category-card__title">Car Accessories</h3>
+      <p class="category-card__description">Diffusers, organizers, gadgets</p>
+      <span class="category-card__count">1 product</span>
+    </a>
+    
+    <!-- Home Solutions -->
+    <a href="/collections/home" class="category-card" data-category="home">
+      <div class="category-card__icon">🏠</div>
+      <h3 class="category-card__title">Home Solutions</h3>
+      <p class="category-card__description">Cleaning, organization, decor</p>
+      <span class="category-card__count">1 product</span>
+    </a>
+    
+    <!-- Kitchen Gadgets -->
+    <a href="/collections/kitchen" class="category-card" data-category="kitchen">
+      <div class="category-card__icon">🍳</div>
+      <h3 class="category-card__title">Kitchen Gadgets</h3>
+      <p class="category-card__description">Tools, organizers, cooking aids</p>
+      <span class="category-card__count">1 product</span>
+    </a>
+    
+    <!-- Beauty Tools -->
+    <a href="/collections/beauty" class="category-card" data-category="beauty">
+      <div class="category-card__icon">💄</div>
+      <h3 class="category-card__title">Beauty Tools</h3>
+      <p class="category-card__description">Skincare, makeup, personal care</p>
+      <span class="category-card__count">1 product</span>
+    </a>
+    
+    <!-- Wellness -->
+    <a href="/collections/wellness" class="category-card" data-category="wellness">
+      <div class="category-card__icon">🧘</div>
+      <h3 class="category-card__title">Wellness</h3>
+      <p class="category-card__description">Relaxation, self-care, health</p>
+      <span class="category-card__count">1 product</span>
+    </a>
+    
+    <!-- Tech Gadgets -->
+    <a href="/collections/gadgets" class="category-card" data-category="gadgets">
+      <div class="category-card__icon">📱</div>
+      <h3 class="category-card__title">Tech Gadgets</h3>
+      <p class="category-card__description">Phone accessories, electronics</p>
+      <span class="category-card__count">1 product</span>
+    </a>
+    
+    <!-- Organization -->
+    <a href="/collections/organization" class="category-card" data-category="organization">
+      <div class="category-card__icon">📦</div>
+      <h3 class="category-card__title">Organization</h3>
+      <p class="category-card__description">Storage, decluttering solutions</p>
+      <span class="category-card__count">1 product</span>
+    </a>
+    
+    <!-- Travel -->
+    <a href="/collections/travel" class="category-card" data-category="travel">
+      <div class="category-card__icon">✈️</div>
+      <h3 class="category-card__title">Travel</h3>
+      <p class="category-card__description">Packing, comfort, convenience</p>
+      <span class="category-card__count">1 product</span>
+    </a>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Category Grid",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Section title",
+      "default": "Shop by Problem"
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "label": "Section subtitle",
+      "default": "Find the perfect solution for your everyday challenges"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Category Grid",
+      "category": "Collection"
+    }
+  ]
+}
+{% endschema %}

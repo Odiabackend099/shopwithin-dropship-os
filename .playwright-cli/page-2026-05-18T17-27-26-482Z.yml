@@ -1,0 +1,82 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "CAC Logo" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img "CAC Logo" [ref=e8]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "Objection For IT & LTD/GTE" [ref=e11] [cursor=pointer]:
+            - /url: /support/objection
+        - listitem [ref=e12]:
+          - link "Help & Support" [ref=e13] [cursor=pointer]:
+            - /url: /support/help
+            - text: Help
+            - generic [ref=e14]: "& Support"
+        - listitem [ref=e15]:
+          - link "FAQs" [ref=e16] [cursor=pointer]:
+            - /url: /support/faq
+        - listitem [ref=e17]:
+          - link "Contact Us" [ref=e18] [cursor=pointer]:
+            - /url: /support/contact
+        - listitem [ref=e19]:
+          - link "Public Search" [ref=e20] [cursor=pointer]:
+            - /url: /public-search
+            - img [ref=e40]
+            - generic [ref=e21]: Public
+            - text: Search
+    - list [ref=e24]:
+      - listitem [ref=e25]:
+        - link "Sign Up" [ref=e26] [cursor=pointer]:
+          - /url: /auth/new-account
+      - listitem [ref=e27]:
+        - link "Login" [ref=e28] [cursor=pointer]:
+          - /url: /auth/login
+          - img [ref=e43]
+          - text: Login
+  - main [ref=e29]:
+    - generic [ref=e47]:
+      - generic [ref=e49]:
+        - heading "Public Notice" [level=1] [ref=e50]
+        - generic [ref=e51]:
+          - tablist [ref=e52]:
+            - tab [ref=e53] [cursor=pointer]
+            - tab "Slide 2 of 2 CAC Logo Annual Returns for Business Names Filing of annual returns is now available for all business names registered before July 2025. Because we are currently upgrading the business name system with new AI features, a new AI-powered annual returns process will be introduced soon. This will make it possible for both older business names (before July 2025) and newer ones (created after July 2025) to have their annual returns processed and approved automatically." [selected] [ref=e54] [cursor=pointer]
+          - tabpanel [ref=e158]:
+            - generic [ref=e159]: Slide 2 of 2
+            - generic [ref=e160]:
+              - img "CAC Logo" [ref=e161]
+              - paragraph [ref=e162]: Annual Returns for Business Names
+              - paragraph [ref=e163]:
+                - text: Filing of annual returns is now available for all business names registered before July 2025.
+                - text: Because we are currently upgrading the business name system with new AI features, a new AI-powered annual returns process will be introduced soon. This will make it possible for both older business names (before July 2025) and newer ones (created after July 2025) to have their annual returns processed and approved automatically.
+      - generic [ref=e165]:
+        - heading "Forgot Password" [level=1] [ref=e166]
+        - generic [ref=e169]:
+          - generic [ref=e170]: Enter the Email Address or Username linked to your account. We will send you an email with instructions to recover your password
+          - generic [ref=e171]:
+            - img [ref=e174]
+            - textbox "Enter Username / Email" [ref=e178]
+          - button "Submit" [ref=e179] [cursor=pointer]:
+            - text: Submit
+            - img [ref=e181]
+          - link "Or Go back to login" [ref=e184] [cursor=pointer]:
+            - /url: /auth/login
+            - generic [ref=e185]: Or
+            - generic [ref=e186]: Go back to login
+  - contentinfo [ref=e31]:
+    - generic [ref=e32]:
+      - img "Nigeria Coat of Arms" [ref=e33]
+      - text: © 2026 Corporate Affairs Commission (CAC), Nigeria
+    - generic [ref=e34]:
+      - link "Privacy Policy" [ref=e35] [cursor=pointer]:
+        - /url: /legal/privacy-policy
+      - text: "|"
+      - link "Refunds, Cancellation and Return Policy" [ref=e36] [cursor=pointer]:
+        - /url: /legal/refund-policy
+      - text: "|"
+      - link "Terms of Use" [ref=e37] [cursor=pointer]:
+        - /url: /legal/terms-of-use
+      - text: "|"
+      - link "Contact Us" [ref=e38] [cursor=pointer]:
+        - /url: /support/contact

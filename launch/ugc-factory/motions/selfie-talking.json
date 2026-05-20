@@ -1,0 +1,11 @@
+{
+  "id": "selfie-talking",
+  "name": "Selfie Talking",
+  "description": "Creator talking directly to camera in selfie mode",
+  "camera_block": "front-facing selfie mode with natural head movement, slight body shifts, handheld with natural micro-shakes, close-up face framing",
+  "motion_block": "natural nodding, slight tilts, relaxed shoulders, natural movement, gesturing hands not stiff, direct eye contact with camera, natural blinking",
+  "performance_block": "conversational pacing not rushed, natural thinking pauses, authentic speech patterns, warm engaging smile, subtle emotional shifts",
+  "platform_block": "authentic TikTok creator energy, not polished commercial, organic UGC pacing",
+  "audio_block": "authentic creator speaking tone, natural speech rhythm, subtle breathing sounds",
+  "negative_prompt_block": "no robotic movement, no stiff body language, no unnatural pauses, no overproduced delivery, no commercial announcer style"
+}

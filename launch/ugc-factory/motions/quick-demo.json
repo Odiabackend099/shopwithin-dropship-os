@@ -1,0 +1,11 @@
+{
+  "id": "quick-demo",
+  "name": "Quick Demo",
+  "description": "Fast-paced product demonstration",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, quick handheld framing with rapid product shots, fast natural hand movement showing product features, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "body_language_block": "energetic body language, quick movements between product shots, natural excitement when showing features, casual confident stance",
+  "timing_block": "fast-paced editing rhythm, quick transitions between product features, 3-5 second feature demonstrations, rapid-fire content flow",
+  "expression_block": "enthusiastic expressions, genuine excitement with each feature reveal, natural eye contact with camera during quick explanations, authentic fast-paced energy",
+  "platform_block": "realistic TikTok quick demo style, organic creator content, not polished commercial, fast social-media pacing, authentic energetic vibe",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury influencer aesthetic, no overly polished production"
+}

@@ -1,0 +1,493 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Shopify App Store logo" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]:
+          - img [ref=e7]
+        - generic [ref=e9]: Shopify App Store
+      - button "Search" [ref=e12] [cursor=pointer]:
+        - img [ref=e13]:
+          - img [ref=e14]
+      - button "Menu" [ref=e17] [cursor=pointer]:
+        - img [ref=e18]:
+          - img [ref=e19]
+  - dialog "Main navigation" [ref=e539]:
+    - search [ref=e541]:
+      - generic [ref=e542]:
+        - generic [ref=e543]:
+          - searchbox "Search apps, guides, and more" [active] [ref=e546]
+          - button "Close search" [ref=e547] [cursor=pointer]
+        - list [ref=e549]:
+          - listitem [ref=e550]:
+            - generic [ref=e551]:
+              - img "icon" [ref=e552]
+              - text: flutterwave
+            - img "Delete recent search" [ref=e554]
+          - listitem [ref=e555]:
+            - generic [ref=e556]:
+              - img "icon" [ref=e557]
+              - text: zendrop
+            - img "Delete recent search" [ref=e559]
+          - listitem [ref=e560]:
+            - heading "Categories and features" [level=5] [ref=e561]
+          - listitem [ref=e562]:
+            - generic [ref=e563]: Sales channels
+          - listitem [ref=e564]:
+            - generic [ref=e565]: Finding products
+          - listitem [ref=e566]:
+            - generic [ref=e567]: Selling products
+          - listitem [ref=e568]:
+            - generic [ref=e569]: Orders and shipping
+          - listitem [ref=e570]:
+            - generic [ref=e571]: Store design
+          - listitem [ref=e572]:
+            - generic [ref=e573]: Marketing and conversion
+          - listitem [ref=e574]:
+            - generic [ref=e575]: Store management
+          - listitem [ref=e576]:
+            - heading "Guides" [level=5] [ref=e577]
+          - listitem [ref=e578]:
+            - generic [ref=e579]: Built for Shopify
+        - region [ref=e580]
+  - main [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e25]:
+        - navigation "breadcrumb" [ref=e29]:
+          - list [ref=e30]:
+            - listitem [ref=e31]:
+              - link "All stories" [ref=e32] [cursor=pointer]:
+                - /url: https://apps.shopify.com/stories?shallow_install_type=story&surface_detail=guide-web-pixels&surface_type=story
+              - text: ›
+            - listitem [ref=e33]:
+              - link "Guides" [ref=e34] [cursor=pointer]:
+                - /url: https://apps.shopify.com/stories?filter=guides&shallow_install_type=story&surface_detail=guide-web-pixels&surface_type=story
+              - text: ›
+            - listitem [ref=e35]: Web pixels
+        - generic [ref=e36]:
+          - heading "Optimize your marketing Gain insights into customer behavior with apps" [level=1] [ref=e37]:
+            - generic [ref=e38]: Optimize your marketing
+            - text: Gain insights into customer behavior with apps
+          - time [ref=e40]: July 11, 2023
+      - generic [ref=e46]:
+        - paragraph [ref=e47]: Personalize the buying journey by better understanding your customers.
+        - paragraph [ref=e49]: Apps that integrate with Shopify’s web pixel APIs help you tap into customer behavior data from across your marketing stack—without you needing to write a single line of code. Information about your customers is collected securely and helps you make data-informed marketing decisions to improve customer acquisition cost (CAC) and customer lifetime value (LTV).
+      - article [ref=e52]:
+        - heading "Understand their journey" [level=2] [ref=e53]
+        - generic [ref=e54]:
+          - paragraph [ref=e56]: Gather reliable data about how customers interact with your marketing and online store with apps that offer tracking across multiple marketing platforms.
+          - generic [ref=e57]:
+            - button "Elevar Conversion Tracking 4.6 out of 5 stars 157 total reviews • Free to install Add server-side conversion tracking to improve data accuracy Install" [ref=e60] [cursor=pointer]:
+              - figure [ref=e61]
+              - generic [ref=e62]:
+                - generic [ref=e63]:
+                  - link "Elevar Conversion Tracking" [ref=e65]:
+                    - /url: https://apps.shopify.com/gtm-datalayer-by-elevar?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=1&surface_type=story
+                  - generic [ref=e66]:
+                    - generic [ref=e67]:
+                      - text: "4.6"
+                      - generic [ref=e68]: out of 5 stars
+                    - img [ref=e70]
+                    - generic [ref=e71]: (157)
+                    - generic [ref=e72]: 157 total reviews
+                    - generic [ref=e73]: •
+                    - generic [ref=e74]: Free to install
+                  - generic [ref=e75]: Add server-side conversion tracking to improve data accuracy
+                - button "Install" [ref=e78]
+            - button "Analyzify (GA4 & Ads Tracking) 4.7 out of 5 stars 290 total reviews • From $145/month Server-side tracking for GA4, Meta, TikTok + Google Ads Install" [ref=e81] [cursor=pointer]:
+              - figure [ref=e82]
+              - generic [ref=e83]:
+                - generic [ref=e84]:
+                  - link "Analyzify (GA4 & Ads Tracking)" [ref=e86]:
+                    - /url: https://apps.shopify.com/analyzify?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=2&surface_type=story
+                  - generic [ref=e87]:
+                    - generic [ref=e88]:
+                      - text: "4.7"
+                      - generic [ref=e89]: out of 5 stars
+                    - img [ref=e91]
+                    - generic [ref=e92]: (290)
+                    - generic [ref=e93]: 290 total reviews
+                    - generic [ref=e94]: •
+                    - generic [ref=e95]: From $145/month
+                  - generic [ref=e96]: Server-side tracking for GA4, Meta, TikTok + Google Ads
+                - button "Install" [ref=e99]
+            - 'button "Attribuly: Cart recovery 4.7 out of 5 stars 145 total reviews • Free plan available Identify more abandoner and turn them into real revenue Install" [ref=e102] [cursor=pointer]':
+              - figure [ref=e103]
+              - generic [ref=e104]:
+                - generic [ref=e105]:
+                  - 'link "Attribuly: Cart recovery" [ref=e107]':
+                    - /url: https://apps.shopify.com/attribuly?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=3&surface_type=story
+                  - generic [ref=e108]:
+                    - generic [ref=e109]:
+                      - text: "4.7"
+                      - generic [ref=e110]: out of 5 stars
+                    - img [ref=e112]
+                    - generic [ref=e113]: (145)
+                    - generic [ref=e114]: 145 total reviews
+                    - generic [ref=e115]: •
+                    - generic [ref=e116]: Free plan available
+                  - generic [ref=e117]: Identify more abandoner and turn them into real revenue
+                - button "Install" [ref=e120]
+            - button "Bily ‑ CAPI Ai Tracking 4.8 out of 5 stars 18 total reviews • $66/month Bily boost your ad performance through server-side tracking. Install" [ref=e123] [cursor=pointer]:
+              - figure [ref=e124]
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - link "Bily ‑ CAPI Ai Tracking" [ref=e128]:
+                    - /url: https://apps.shopify.com/bily?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=4&surface_type=story
+                  - generic [ref=e129]:
+                    - generic [ref=e130]:
+                      - text: "4.8"
+                      - generic [ref=e131]: out of 5 stars
+                    - img [ref=e133]
+                    - generic [ref=e134]: (18)
+                    - generic [ref=e135]: 18 total reviews
+                    - generic [ref=e136]: •
+                    - generic [ref=e137]: $66/month
+                  - generic [ref=e138]: Bily boost your ad performance through server-side tracking.
+                - button "Install" [ref=e141]
+      - article [ref=e144]:
+        - heading "Map buyer experiences" [level=2] [ref=e145]
+        - generic [ref=e146]:
+          - paragraph [ref=e148]: Maximize conversions and get fewer abandoned carts when you understand what visitors are doing on your store—every click of the way.
+          - generic [ref=e149]:
+            - button "Lucky Orange Heatmaps & Replay 4.7 out of 5 stars 846 total reviews • Free plan available Spot friction and optimize confidently with visual data. Install" [ref=e152] [cursor=pointer]:
+              - figure [ref=e153]
+              - generic [ref=e154]:
+                - generic [ref=e155]:
+                  - link "Lucky Orange Heatmaps & Replay" [ref=e157]:
+                    - /url: https://apps.shopify.com/lucky-orange?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=1&surface_type=story
+                  - generic [ref=e158]:
+                    - generic [ref=e159]:
+                      - text: "4.7"
+                      - generic [ref=e160]: out of 5 stars
+                    - img [ref=e162]
+                    - generic [ref=e163]: (846)
+                    - generic [ref=e164]: 846 total reviews
+                    - generic [ref=e165]: •
+                    - generic [ref=e166]: Free plan available
+                  - generic [ref=e167]: Spot friction and optimize confidently with visual data.
+                - button "Install" [ref=e170]
+            - 'button "RealtimeStack : Live Analytics 4.7 out of 5 stars 109 total reviews • Free plan available Get visual real time insights into what happens in your store Install" [ref=e173] [cursor=pointer]':
+              - figure [ref=e174]
+              - generic [ref=e175]:
+                - generic [ref=e176]:
+                  - 'link "RealtimeStack : Live Analytics" [ref=e178]':
+                    - /url: https://apps.shopify.com/realtime-view?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=2&surface_type=story
+                  - generic [ref=e179]:
+                    - generic [ref=e180]:
+                      - text: "4.7"
+                      - generic [ref=e181]: out of 5 stars
+                    - img [ref=e183]
+                    - generic [ref=e184]: (109)
+                    - generic [ref=e185]: 109 total reviews
+                    - generic [ref=e186]: •
+                    - generic [ref=e187]: Free plan available
+                  - generic [ref=e188]: Get visual real time insights into what happens in your store
+                  - button [ref=e193]:
+                    - generic [ref=e194]:
+                      - img [ref=e195]
+                      - generic [ref=e203]: Built for Shopify
+                - button "Install" [ref=e206]
+            - 'button "PushBot: Web Push Notification 4.5 out of 5 stars 21 total reviews • Free plan available Recover sales by targeted and automated web push notifications Install" [ref=e209] [cursor=pointer]':
+              - figure [ref=e210]
+              - generic [ref=e211]:
+                - generic [ref=e212]:
+                  - 'link "PushBot: Web Push Notification" [ref=e214]':
+                    - /url: https://apps.shopify.com/pushbot?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=3&surface_type=story
+                  - generic [ref=e215]:
+                    - generic [ref=e216]:
+                      - text: "4.5"
+                      - generic [ref=e217]: out of 5 stars
+                    - img [ref=e219]
+                    - generic [ref=e220]: (21)
+                    - generic [ref=e221]: 21 total reviews
+                    - generic [ref=e222]: •
+                    - generic [ref=e223]: Free plan available
+                  - generic [ref=e224]: Recover sales by targeted and automated web push notifications
+                - button "Install" [ref=e227]
+            - button "Pasilobus Google Analytics 4.9 out of 5 stars 11 total reviews • Free plan available Google Analytics tracking with server-side accuracy Install" [ref=e230] [cursor=pointer]:
+              - figure [ref=e231]
+              - generic [ref=e232]:
+                - generic [ref=e233]:
+                  - link "Pasilobus Google Analytics" [ref=e235]:
+                    - /url: https://apps.shopify.com/pasilobus-google-analytics?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=4&surface_type=story
+                  - generic [ref=e236]:
+                    - generic [ref=e237]:
+                      - text: "4.9"
+                      - generic [ref=e238]: out of 5 stars
+                    - img [ref=e240]
+                    - generic [ref=e241]: (11)
+                    - generic [ref=e242]: 11 total reviews
+                    - generic [ref=e243]: •
+                    - generic [ref=e244]: Free plan available
+                  - generic [ref=e245]: Google Analytics tracking with server-side accuracy
+                - button "Install" [ref=e248]
+      - article [ref=e251]:
+        - heading "Customize every touchpoint" [level=2] [ref=e252]
+        - generic [ref=e253]:
+          - paragraph [ref=e255]: Optimize each customer engagement using apps that offer accurate event tracking and attribution—from the first ad they click all the way through to checkout.
+          - generic [ref=e256]:
+            - button "Mailchimp Email SMS Marketing 4.8 out of 5 stars 1204 total reviews • Free plan available Drive sales with email marketing, SMS, forms, and automation Install" [ref=e259] [cursor=pointer]:
+              - figure [ref=e260]
+              - generic [ref=e261]:
+                - generic [ref=e262]:
+                  - link "Mailchimp Email SMS Marketing" [ref=e264]:
+                    - /url: https://apps.shopify.com/mailchimp?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=1&surface_type=story
+                  - generic [ref=e265]:
+                    - generic [ref=e266]:
+                      - text: "4.8"
+                      - generic [ref=e267]: out of 5 stars
+                    - img [ref=e269]
+                    - generic [ref=e270]: (1,204)
+                    - generic [ref=e271]: 1204 total reviews
+                    - generic [ref=e272]: •
+                    - generic [ref=e273]: Free plan available
+                  - generic [ref=e274]: Drive sales with email marketing, SMS, forms, and automation
+                - button "Install" [ref=e277]
+            - button "Snapchat Ads 4.6 out of 5 stars 589 total reviews • Free to install Reach shoppers with intent not just to scroll Install" [ref=e280] [cursor=pointer]:
+              - figure [ref=e281]
+              - generic [ref=e282]:
+                - generic [ref=e283]:
+                  - link "Snapchat Ads" [ref=e285]:
+                    - /url: https://apps.shopify.com/snapchat-ads?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=2&surface_type=story
+                  - generic [ref=e286]:
+                    - generic [ref=e287]:
+                      - text: "4.6"
+                      - generic [ref=e288]: out of 5 stars
+                    - img [ref=e290]
+                    - generic [ref=e291]: (589)
+                    - generic [ref=e292]: 589 total reviews
+                    - generic [ref=e293]: •
+                    - generic [ref=e294]: Free to install
+                  - generic [ref=e295]: Reach shoppers with intent not just to scroll
+                - button "Install" [ref=e298]
+            - button "Zalify Pixels, Popups & Emails 4.6 out of 5 stars 70 total reviews • Free trial available Drive sales with abandoned carts emails, ad pixels & pop-ups Install" [ref=e301] [cursor=pointer]:
+              - figure [ref=e302]
+              - generic [ref=e303]:
+                - generic [ref=e304]:
+                  - link "Zalify Pixels, Popups & Emails" [ref=e306]:
+                    - /url: https://apps.shopify.com/zalify?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=3&surface_type=story
+                  - generic [ref=e307]:
+                    - generic [ref=e308]:
+                      - text: "4.6"
+                      - generic [ref=e309]: out of 5 stars
+                    - img [ref=e311]
+                    - generic [ref=e312]: (70)
+                    - generic [ref=e313]: 70 total reviews
+                    - generic [ref=e314]: •
+                    - generic [ref=e315]: Free trial available
+                  - generic [ref=e316]: Drive sales with abandoned carts emails, ad pixels & pop-ups
+                - button "Install" [ref=e319]
+            - button "impact.com Affiliate Marketing 4.6 out of 5 stars 199 total reviews • Free trial available Manage affiliates & influencers to acquire new customers Install" [ref=e322] [cursor=pointer]:
+              - figure [ref=e323]
+              - generic [ref=e324]:
+                - generic [ref=e325]:
+                  - link "impact.com Affiliate Marketing" [ref=e327]:
+                    - /url: https://apps.shopify.com/impact-1?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=4&surface_type=story
+                  - generic [ref=e328]:
+                    - generic [ref=e329]:
+                      - text: "4.6"
+                      - generic [ref=e330]: out of 5 stars
+                    - img [ref=e332]
+                    - generic [ref=e333]: (199)
+                    - generic [ref=e334]: 199 total reviews
+                    - generic [ref=e335]: •
+                    - generic [ref=e336]: Free trial available
+                  - generic [ref=e337]: Manage affiliates & influencers to acquire new customers
+                - button "Install" [ref=e340]
+      - article [ref=e343]:
+        - heading "Boost your AOV" [level=2] [ref=e344]
+        - generic [ref=e345]:
+          - paragraph [ref=e347]: Increase your average order value and get added visibility into your customers’ post-purchase behavior when you use these apps to do your upselling and cross-selling.
+          - generic [ref=e348]:
+            - button "Upsell.com ‑ ReConvert Upsell 4.8 out of 5 stars 2846 total reviews • Free plan available Create Cart Upsell & Cross Sell + Post Purchase Upsell Funnels Install" [ref=e351] [cursor=pointer]:
+              - figure [ref=e352]
+              - generic [ref=e353]:
+                - generic [ref=e354]:
+                  - link "Upsell.com ‑ ReConvert Upsell" [ref=e356]:
+                    - /url: https://apps.shopify.com/reconvert-upsell-cross-sell?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=1&surface_type=story
+                  - generic [ref=e357]:
+                    - generic [ref=e358]:
+                      - text: "4.8"
+                      - generic [ref=e359]: out of 5 stars
+                    - img [ref=e361]
+                    - generic [ref=e362]: (2,846)
+                    - generic [ref=e363]: 2846 total reviews
+                    - generic [ref=e364]: •
+                    - generic [ref=e365]: Free plan available
+                  - generic [ref=e366]: Create Cart Upsell & Cross Sell + Post Purchase Upsell Funnels
+                  - button [ref=e371]:
+                    - generic [ref=e372]:
+                      - img [ref=e373]
+                      - generic [ref=e381]: Built for Shopify
+                - button "Install" [ref=e384]
+            - button "Candy Rack • All‑in‑One Upsell 4.9 out of 5 stars 195 total reviews • Free plan available AI-powered upsell & cross-sell app with built-in cart drawer. Install" [ref=e387] [cursor=pointer]:
+              - figure [ref=e388]
+              - generic [ref=e389]:
+                - generic [ref=e390]:
+                  - link "Candy Rack • All‑in‑One Upsell" [ref=e392]:
+                    - /url: https://apps.shopify.com/candyrack?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=2&surface_type=story
+                  - generic [ref=e393]:
+                    - generic [ref=e394]:
+                      - text: "4.9"
+                      - generic [ref=e395]: out of 5 stars
+                    - img [ref=e397]
+                    - generic [ref=e398]: (195)
+                    - generic [ref=e399]: 195 total reviews
+                    - generic [ref=e400]: •
+                    - generic [ref=e401]: Free plan available
+                  - generic [ref=e402]: AI-powered upsell & cross-sell app with built-in cart drawer.
+                  - button [ref=e407]:
+                    - generic [ref=e408]:
+                      - img [ref=e409]
+                      - generic [ref=e417]: Built for Shopify
+                - button "Install" [ref=e420]
+            - 'button "ABConvert: A/B Testing 4.8 out of 5 stars 76 total reviews • Free trial available Boost profit with price test, shipping, template AB test & CRO Install" [ref=e423] [cursor=pointer]':
+              - figure [ref=e424]
+              - generic [ref=e425]:
+                - generic [ref=e426]:
+                  - 'link "ABConvert: A/B Testing" [ref=e428]':
+                    - /url: https://apps.shopify.com/a-b-convert-price-a-b-test?shallow_install_type=story&surface_detail=guide-web-pixels&surface_intra_position=3&surface_type=story
+                  - generic [ref=e429]:
+                    - generic [ref=e430]:
+                      - text: "4.8"
+                      - generic [ref=e431]: out of 5 stars
+                    - img [ref=e433]
+                    - generic [ref=e434]: (76)
+                    - generic [ref=e435]: 76 total reviews
+                    - generic [ref=e436]: •
+                    - generic [ref=e437]: Free trial available
+                  - generic [ref=e438]: Boost profit with price test, shipping, template AB test & CRO
+                - button "Install" [ref=e441]
+      - generic [ref=e444]:
+        - heading "More apps to optimize your marketing and analytics" [level=2] [ref=e446]
+        - link "See all" [ref=e448] [cursor=pointer]:
+          - /url: https://apps.shopify.com/extensions/checkout?shallow_install_type=story&simplified=false&surface_detail=guide-web-pixels&surface_type=story
+      - generic [ref=e450]:
+        - heading "Helpful how-tos" [level=2] [ref=e451]
+        - generic [ref=e452]:
+          - link "Help center Learn more about how app pixels work" [ref=e454] [cursor=pointer]:
+            - /url: https://help.shopify.com/en/manual/promoting-marketing/pixels/app-pixels
+            - generic [ref=e456]:
+              - heading "Help center" [level=5] [ref=e457]
+              - heading "Learn more about how app pixels work" [level=3] [ref=e458]
+          - link "Built into Shopify Manage pixels right from your Shopify admin" [ref=e460] [cursor=pointer]:
+            - /url: https://admin.shopify.com/settings/customer_events
+            - generic [ref=e462]:
+              - heading "Built into Shopify" [level=5] [ref=e463]
+              - heading "Manage pixels right from your Shopify admin" [level=3] [ref=e464]
+          - link "Guide More apps that let you customize your checkout" [ref=e466] [cursor=pointer]:
+            - /url: https://apps.shopify.com/stories/guide-customize-your-checkout
+            - generic [ref=e468]:
+              - heading "Guide" [level=5] [ref=e469]
+              - heading "More apps that let you customize your checkout" [level=3] [ref=e470]
+      - link "All app stories" [ref=e472] [cursor=pointer]:
+        - /url: https://apps.shopify.com/stories
+        - text: All app stories
+        - img [ref=e474]:
+          - img [ref=e475]
+  - contentinfo [ref=e477]:
+    - generic [ref=e478]:
+      - generic [ref=e479]:
+        - generic [ref=e482]:
+          - heading "App categories" [level=6] [ref=e483]
+          - link "Sales channels" [ref=e484] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels
+          - link "Finding products" [ref=e485] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products
+          - link "Selling products" [ref=e486] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/selling-products
+          - link "Orders and shipping" [ref=e487] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping
+          - link "Store design" [ref=e488] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design
+          - link "Marketing and conversion" [ref=e489] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion
+          - link "Store management" [ref=e490] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-management
+        - generic [ref=e491]:
+          - heading "Top categories" [level=6] [ref=e492]
+          - link "Dropshipping" [ref=e493] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping
+          - link "Marketplaces" [ref=e494] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces
+          - link "Product reviews" [ref=e495] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-social-trust-product-reviews
+          - link "Upsell and bundles" [ref=e496] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-upsell-and-bundles
+          - link "Email marketing" [ref=e497] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-marketing-email-marketing
+          - link "SEO" [ref=e498] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-site-optimization-seo
+          - link "Shipping" [ref=e499] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping-shipping-solutions-shipping
+          - link "Currency and translation" [ref=e500] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-internationalization-currency-and-translation
+        - generic [ref=e501]:
+          - heading "Resources" [level=6] [ref=e502]
+          - link "Shopify Help Center" [ref=e503] [cursor=pointer]:
+            - /url: https://help.shopify.com/en/
+          - link "API documentation" [ref=e504] [cursor=pointer]:
+            - /url: https://shopify.dev/api
+          - link "Shopify Community" [ref=e505] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/shopify-community-en/ct-p/en
+          - link "Community Events" [ref=e506] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/events/eb-p/events_en
+          - link "Shopify Blog" [ref=e507] [cursor=pointer]:
+            - /url: https://www.shopify.com/blog
+          - link "Research" [ref=e508] [cursor=pointer]:
+            - /url: https://www.shopify.com/research/future-of-commerce
+        - generic [ref=e509]:
+          - heading "Shopify" [level=6] [ref=e510]
+          - link "About" [ref=e511] [cursor=pointer]:
+            - /url: https://www.shopify.com/about
+          - link "Careers" [ref=e512] [cursor=pointer]:
+            - /url: https://www.shopify.com/careers
+          - link "Investors" [ref=e513] [cursor=pointer]:
+            - /url: https://investors.shopify.com/home/default.aspx
+          - link "Press and media" [ref=e514] [cursor=pointer]:
+            - /url: https://news.shopify.com/
+          - link "Partners" [ref=e515] [cursor=pointer]:
+            - /url: https://www.shopify.com/partners
+          - link "Affiliates" [ref=e516] [cursor=pointer]:
+            - /url: https://www.shopify.com/affiliates
+          - link "Legal" [ref=e517] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal
+          - link "Service status" [ref=e518] [cursor=pointer]:
+            - /url: https://shopifystatus.com
+      - separator [ref=e519]
+      - generic [ref=e520]:
+        - generic [ref=e521]:
+          - link "Developer login" [ref=e523] [cursor=pointer]:
+            - /url: https://apps.shopify.com/?auth=1
+          - link "Terms of service" [ref=e525] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/terms
+          - link "Privacy policy" [ref=e527] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/privacy
+          - link "Sitemap" [ref=e529] [cursor=pointer]:
+            - /url: https://apps.shopify.com/sitemap
+          - generic [ref=e531]:
+            - link "Your privacy choices" [ref=e532] [cursor=pointer]:
+              - /url: https://privacy.shopify.com/en/
+            - img "California Consumer Privacy Act (CCPA) Opt-Out Icon" [ref=e533]
+        - combobox "Change your language" [ref=e538]:
+          - option "Čeština"
+          - option "Dansk"
+          - option "Deutsch"
+          - option "English" [selected]
+          - option "Español"
+          - option "Français"
+          - option "Italiano"
+          - option "Nederlands"
+          - option "Norsk (bokmål)"
+          - option "Polski"
+          - option "Português (Brasil)"
+          - option "Português (Portugal)"
+          - option "Suomi"
+          - option "Svenska"
+          - option "Türkçe"
+          - option "ภาษาไทย"
+          - option "日本語"
+          - option "简体中文"
+          - option "繁體中文"
+          - option "한국어"

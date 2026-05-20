@@ -1,0 +1,323 @@
+- generic [ref=e2]:
+  - generic [ref=e44]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e49]:
+      - generic [ref=e54] [cursor=pointer]:
+        - img "Shopify" [ref=e55]
+        - img "Shopify" [ref=e56]
+      - generic [ref=e58]:
+        - button "Search ⌘ K" [ref=e1406] [cursor=pointer]:
+          - generic [ref=e1407]:
+            - generic [ref=e1408]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+              - generic "Search" [ref=e1409]
+            - generic [ref=e1410]:
+              - generic [ref=e1411]: ⌘
+              - generic [ref=e1412]: K
+        - toolbar [ref=e1415]:
+          - generic [ref=e1417]:
+            - generic [ref=e1418]:
+              - img [ref=e1421]
+              - heading "Unsaved changes" [level=2] [ref=e1425]
+            - generic [ref=e1426]:
+              - button "Discard" [ref=e1429] [cursor=pointer]
+              - button "Save" [disabled] [ref=e1432]
+      - generic [ref=e71]:
+        - generic [ref=e73]:
+          - button "Sidekick" [ref=e77] [cursor=pointer]:
+            - img [ref=e81]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e91] [cursor=pointer]:
+            - img [ref=e95]
+        - button "eguale samuel" [ref=e106] [cursor=pointer]:
+          - generic [ref=e109]:
+            - img "shopwithin" [ref=e113]:
+              - generic [ref=e114]: SHO
+            - paragraph [ref=e116]: shopwithin
+    - generic [ref=e118]:
+      - generic "Navigation" [ref=e119]:
+        - navigation [ref=e121]:
+          - generic [ref=e122]:
+            - generic [ref=e123]:
+              - list [ref=e125]:
+                - listitem [ref=e126]:
+                  - link "Home" [ref=e129] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e130]:
+                      - img [ref=e133]
+                      - img [ref=e137]
+                    - generic [ref=e139]: Home
+                - listitem [ref=e140]:
+                  - link "Orders" [ref=e143] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e144]:
+                      - img [ref=e147]
+                      - img [ref=e151]
+                    - generic [ref=e153]: Orders
+                - listitem [ref=e154]:
+                  - link "Products" [ref=e157] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e158]:
+                      - img [ref=e161]
+                      - img [ref=e165]
+                    - generic [ref=e168]: Products
+                - listitem [ref=e169]:
+                  - link "Customers" [ref=e172] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e173]:
+                      - img [ref=e176]
+                      - img [ref=e181]
+                    - generic [ref=e184]: Customers
+                - listitem [ref=e185]:
+                  - link "Marketing" [ref=e188] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e189]:
+                      - img [ref=e192]
+                      - img [ref=e198]
+                    - generic [ref=e202]: Marketing
+                - listitem [ref=e203]:
+                  - link "Discounts" [ref=e206] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e207]:
+                      - img [ref=e210]
+                      - img [ref=e214]
+                    - generic [ref=e219]: Discounts
+                - listitem [ref=e220]:
+                  - link "Content" [ref=e223] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e224]:
+                      - img [ref=e227]
+                      - img [ref=e234]
+                    - generic [ref=e239]: Content
+                - listitem [ref=e240]:
+                  - link "Markets" [expanded] [ref=e243] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e244]:
+                      - img [ref=e247]
+                      - img [ref=e252]
+                    - generic [ref=e255]: Markets
+                  - list [ref=e1138]:
+                    - listitem [ref=e1139]:
+                      - link "Catalogs" [ref=e1142] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/catalogs
+                        - generic [ref=e1143]: Catalogs
+                    - listitem [ref=e1144]:
+                      - link "Rollouts" [ref=e1147] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/rollouts
+                        - generic [ref=e1148]: Rollouts
+                - listitem [ref=e256]:
+                  - link "Analytics" [ref=e259] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e260]:
+                      - img [ref=e263]
+                      - img [ref=e269]
+                    - generic [ref=e273]: Analytics
+              - list [ref=e274]:
+                - listitem [ref=e275]:
+                  - button "Sales channels" [ref=e277] [cursor=pointer]:
+                    - strong [ref=e279]:
+                      - generic: Sales channels
+                  - list [ref=e281]:
+                    - button "Online Store" [ref=e282]:
+                      - list [ref=e283]:
+                        - listitem [ref=e284]:
+                          - link "Online Store" [ref=e287] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=ee1a8da1-0c68-47b6-b6da-bf644f7528a4
+                            - img [ref=e289]
+                            - generic [ref=e290]: Online Store
+                    - button "Agentic" [ref=e291]:
+                      - list [ref=e292]:
+                        - listitem [ref=e293]:
+                          - link "Agentic" [ref=e296] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=202829a6-a465-4a5d-8e9d-472056ba7de5
+                            - img [ref=e298]
+                            - generic [ref=e299]: Agentic
+                  - status [ref=e300]
+                - listitem [ref=e301]:
+                  - button "Apps" [ref=e303] [cursor=pointer]:
+                    - strong [ref=e305]:
+                      - generic: Apps
+            - generic [ref=e307]:
+              - list [ref=e308]:
+                - listitem [ref=e309]:
+                  - link "Settings" [ref=e312] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings
+                    - img [ref=e316]
+                    - generic [ref=e318]: Settings
+              - link "Subscribe for $1" [ref=e320] [cursor=pointer]:
+                - /url: /store/mxu168-9g/subscribe/checkout
+                - generic [ref=e321]:
+                  - paragraph [ref=e322]: Trial ends in 3 days
+                  - paragraph [ref=e323]: Subscribe for $1
+                  - button "Select a plan" [ref=e325]:
+                    - generic [ref=e327]:
+                      - generic: Select a plan
+      - main [ref=e328]:
+        - generic [ref=e1433]:
+          - generic [ref=e1434]:
+            - status:
+              - paragraph [ref=e1435]: New market. This page is ready
+            - generic [ref=e1439]:
+              - navigation "Breadcrumbs for Markets" [ref=e1440]:
+                - generic [ref=e1441]:
+                  - link "Markets" [ref=e1442] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - img [ref=e1446]
+                  - img [ref=e1449]
+                  - heading "New market" [active] [level=1] [ref=e1452]
+              - generic "Status" [ref=e1455]:
+                - generic [ref=e1457]:
+                  - generic: Active
+          - generic [ref=e1459]:
+            - generic [ref=e1461]:
+              - generic [ref=e1465]:
+                - heading "Market details" [level=2] [ref=e1466]:
+                  - generic: Market details
+                - generic [ref=e1467]:
+                  - generic [ref=e1469]:
+                    - generic [ref=e1472]: Name
+                    - textbox "Name" [ref=e1476]
+                  - generic [ref=e1480]:
+                    - generic:
+                      - generic [ref=e1481]: Status
+                      - generic [ref=e1482]:
+                        - generic [ref=e1487]: Active
+                        - img [ref=e1490]
+                        - combobox "Status" [ref=e1493] [cursor=pointer]:
+                          - option "Draft"
+                          - option "Active" [selected]
+                - generic "Includes" [ref=e1494]:
+                  - generic [ref=e1495]:
+                    - heading "Includes" [level=3] [ref=e1497]
+                    - listitem [ref=e1499]:
+                      - button "Add condition" [ref=e1500] [cursor=pointer]:
+                        - img [ref=e1504]
+                        - generic [ref=e1507]: Add condition
+              - generic [ref=e1511]:
+                - heading "Customized" [level=2] [ref=e1512]:
+                  - generic: Customized
+                - paragraph [ref=e1513]:
+                  - generic: Create unique configurations for customers in this market
+              - generic [ref=e1515]:
+                - heading "Inherited" [level=2] [ref=e1516]
+                - list [ref=e1517]:
+                  - listitem "Currency" [ref=e1518]:
+                    - generic [ref=e1521]:
+                      - img [ref=e1524]
+                      - heading "Currency" [level=3] [ref=e1528]:
+                        - generic: Currency
+                    - generic [ref=e1529]:
+                      - list [ref=e1530]:
+                        - listitem "Inherited from Store default" [ref=e1531]:
+                          - generic [ref=e1532]:
+                            - generic [ref=e1534]:
+                              - img [ref=e1538]
+                              - img [ref=e1542]
+                            - generic [ref=e1545]:
+                              - generic: US Dollar (USD $)
+                      - button "Add currency customization" [ref=e1548] [cursor=pointer]:
+                        - img [ref=e1551]
+                  - listitem "Catalogs" [ref=e1554]:
+                    - generic [ref=e1557]:
+                      - img [ref=e1560]
+                      - heading "Catalogs" [level=3] [ref=e1565]:
+                        - generic: Catalogs
+                    - generic [ref=e1566]:
+                      - generic [ref=e1567]:
+                        - generic [ref=e1569]:
+                          - img [ref=e1573]
+                          - img [ref=e1577]
+                        - generic [ref=e1579]:
+                          - generic: All products
+                      - button "Add catalog customization" [ref=e1582] [cursor=pointer]:
+                        - img [ref=e1585]
+                  - listitem "Discounts" [ref=e1588]:
+                    - generic [ref=e1591]:
+                      - img [ref=e1594]
+                      - heading "Discounts" [level=3] [ref=e1599]:
+                        - generic: Discounts
+                    - generic [ref=e1600]:
+                      - generic [ref=e1601]:
+                        - generic [ref=e1603]:
+                          - img [ref=e1607]
+                          - img [ref=e1611]
+                        - generic [ref=e1613]:
+                          - generic: All eligible discounts
+                      - button "Add discounts customization" [ref=e1616] [cursor=pointer]:
+                        - img [ref=e1619]
+                  - listitem "Domain / language" [ref=e1622]:
+                    - generic [ref=e1625]:
+                      - img [ref=e1628]
+                      - heading "Domain / language" [level=3] [ref=e1632]:
+                        - generic: Domain / language
+                    - generic [ref=e1633]:
+                      - list [ref=e1634]:
+                        - listitem "Inherited from Store default" [ref=e1635]:
+                          - generic [ref=e1636]:
+                            - generic [ref=e1638]:
+                              - button [ref=e1639] [cursor=pointer]:
+                                - img [ref=e1643]
+                              - img [ref=e1647]
+                            - generic [ref=e1649]:
+                              - generic [ref=e1650]: mxu168-9g.myshopify.com
+                              - generic [ref=e1651]:
+                                - generic: •
+                              - generic [ref=e1652]:
+                                - generic: English
+                      - button "Add domain customization" [ref=e1656] [cursor=pointer]:
+                        - img [ref=e1659]
+                  - listitem "Online Store" [ref=e1662]:
+                    - generic [ref=e1665]:
+                      - img [ref=e1668]
+                      - heading "Online Store" [level=3] [ref=e1670]:
+                        - generic: Online Store
+                    - list [ref=e1672]:
+                      - listitem "Inherited from Store default" [ref=e1673]:
+                        - generic [ref=e1674]:
+                          - generic [ref=e1676]:
+                            - img [ref=e1680]
+                            - img [ref=e1684]
+                          - generic [ref=e1686]: Horizon
+                  - listitem "Checkout and accounts" [ref=e1687]:
+                    - generic [ref=e1690]:
+                      - img [ref=e1693]
+                      - heading "Checkout and accounts" [level=3] [ref=e1695]:
+                        - generic: Checkout and accounts
+                    - list [ref=e1697]:
+                      - listitem "Inherited from Store default" [ref=e1698]:
+                        - generic [ref=e1699]:
+                          - generic [ref=e1701]:
+                            - img [ref=e1705]
+                            - img [ref=e1709]
+                          - generic [ref=e1711]: My Store 5 configuration
+            - generic [ref=e1715]:
+              - link "View in graph":
+                - /url: /store/mxu168-9g/markets/new
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img:
+                          - generic:
+                            - img "Edge from storeDefault to 0"
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+              - generic [ref=e1720]:
+                - img [ref=e1724]
+                - generic [ref=e1728]:
+                  - generic: Save to show market hierarchy
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e1120]

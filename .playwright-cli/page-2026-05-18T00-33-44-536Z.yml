@@ -1,0 +1,110 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e3]:
+    - complementary [ref=e6]:
+      - paragraph [ref=e10]: Welcome to our store
+    - banner [ref=e11]:
+      - generic [ref=e12]:
+        - heading "shopwithin" [level=1] [ref=e14]
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - link "shopwithin" [ref=e18] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e19]: shopwithin
+            - navigation "Primary" [ref=e22]:
+              - list [ref=e24]:
+                - generic:
+                  - link "Home" [ref=e25] [cursor=pointer]:
+                    - /url: /
+                    - generic [ref=e26]: Home
+                  - link "Catalog" [ref=e27] [cursor=pointer]:
+                    - /url: /collections/all
+                    - generic [ref=e28]: Catalog
+                  - link "Contact" [ref=e29] [cursor=pointer]:
+                    - /url: /pages/contact
+                    - generic [ref=e30]: Contact
+          - generic [ref=e31]:
+            - button "USD Region and language selector" [ref=e33] [cursor=pointer]:
+              - generic [ref=e34]: USD
+              - generic [ref=e35]: Region and language selector
+              - generic:
+                - img
+            - button "Search" [ref=e37] [cursor=pointer]:
+              - generic:
+                - img
+            - generic [ref=e38]:
+              - button "Account" [ref=e43] [cursor=pointer]:
+                - img [ref=e45]
+              - button "Cart" [ref=e48] [cursor=pointer]:
+                - generic [ref=e49]:
+                  - generic:
+                    - img
+              - status [ref=e52]
+  - main [ref=e53]:
+    - generic [ref=e56]:
+      - generic:
+        - img
+      - generic:
+        - generic:
+          - paragraph: Browse our latest products
+        - link "Shop all" [ref=e57] [cursor=pointer]:
+          - /url: /collections/all
+    - generic [ref=e60]:
+      - heading "Products" [level=3] [ref=e65]
+      - generic [ref=e68]:
+        - link "FurLift Reusable Pet Hair Detailer" [ref=e69] [cursor=pointer]:
+          - /url: /products/furlift-reusable-pet-hair-detailer?variant=52404939948313
+          - generic [ref=e70]: FurLift Reusable Pet Hair Detailer
+        - generic [ref=e71] [cursor=pointer]:
+          - generic [ref=e72]:
+            - link "FurLift Reusable Pet Hair Detailer" [ref=e73]:
+              - /url: /products/furlift-reusable-pet-hair-detailer?variant=52404939948313
+              - generic [ref=e75]:
+                - generic:
+                  - button "Previous slide" [ref=e76]:
+                    - generic:
+                      - img
+                  - button "Next slide" [ref=e77]:
+                    - generic:
+                      - img
+                - generic [ref=e78]:
+                  - img "FurLift Reusable Pet Hair Detailer" [ref=e81]
+                  - img [ref=e84]
+                  - img [ref=e87]
+                  - img [ref=e90]
+                  - img [ref=e93]
+            - generic [ref=e95]: Sold out
+            - generic:
+              - generic:
+                - status
+          - link "FurLift Reusable Pet Hair Detailer" [ref=e96]:
+            - /url: /products/furlift-reusable-pet-hair-detailer?variant=52404939948313
+            - heading "FurLift Reusable Pet Hair Detailer" [level=3] [ref=e98]
+          - generic [ref=e101]:
+            - generic [ref=e102]:
+              - generic [ref=e103]: Sale price
+              - text: $24.95
+            - generic [ref=e104]:
+              - generic [ref=e105]: Regular price
+              - text: $34,231.15
+  - contentinfo [ref=e106]:
+    - generic [ref=e110]:
+      - generic [ref=e112]:
+        - heading "Join our email list" [level=2] [ref=e114]
+        - paragraph [ref=e116]: Get exclusive deals and early access to new products.
+      - generic [ref=e119]:
+        - generic [ref=e120]: Email
+        - textbox "Email" [ref=e121]:
+          - /placeholder: Email address
+        - button "Sign up" [ref=e122]:
+          - img [ref=e123]
+    - generic [ref=e128]:
+      - generic [ref=e130]:
+        - text: © 2026
+        - link "shopwithin" [ref=e131] [cursor=pointer]:
+          - /url: /
+        - text: ","
+        - link "Powered by Shopify" [ref=e132] [cursor=pointer]:
+          - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+      - button "Terms and Policies" [ref=e134] [cursor=pointer]

@@ -1,0 +1,157 @@
+- generic [ref=e3]:
+  - generic:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+  - generic [ref=e5]:
+    - link "Return to home page" [ref=e7] [cursor=pointer]:
+      - /url: /4820690
+      - img "Return to home page" [ref=e8]
+    - generic [ref=e9]:
+      - generic [ref=e11]:
+        - generic [ref=e12]: Search
+        - searchbox "Search" [ref=e13]
+        - generic:
+          - generic:
+            - img
+      - button "Notifications 1" [ref=e18] [cursor=pointer]:
+        - link "Notifications 1" [ref=e19]:
+          - /url: /4820690/notifications
+          - generic [ref=e20]:
+            - generic [ref=e21]: Notifications
+            - img [ref=e22]
+          - generic [ref=e24]: "1"
+      - button "Avatar with initials B A Barpel AI Austyn Eguale" [ref=e27] [cursor=pointer]:
+        - img "Avatar with initials B A" [ref=e29]:
+          - img [ref=e31]:
+            - generic [ref=e32]: BA
+        - generic [ref=e33]:
+          - paragraph [ref=e34]: Barpel AI
+          - paragraph [ref=e35]: Austyn Eguale
+  - generic "Navigation" [ref=e36]:
+    - navigation [ref=e37]:
+      - generic [ref=e38]:
+        - list [ref=e39]:
+          - listitem [ref=e40]:
+            - link "Home" [ref=e43] [cursor=pointer]:
+              - /url: /4820690
+              - img [ref=e47]
+              - generic [ref=e49]: Home
+          - listitem [ref=e50]:
+            - generic [ref=e52]:
+              - link "Stores" [active] [ref=e53] [cursor=pointer]:
+                - /url: https://dev.shopify.com/dashboard/211341554/stores
+                - img [ref=e57]
+                - generic [ref=e60]: Stores
+              - link "Stores" [ref=e277] [cursor=pointer]:
+                - /url: https://dev.shopify.com/dashboard/211341554/stores
+                - img [ref=e280]
+          - listitem [ref=e61]:
+            - link "Sales" [ref=e64] [cursor=pointer]:
+              - /url: /4820690/partner_leads
+              - img [ref=e68]
+              - generic [ref=e70]: Sales
+          - listitem [ref=e71]:
+            - link "App distribution" [ref=e74] [cursor=pointer]:
+              - /url: /4820690/apps
+              - img [ref=e78]
+              - generic [ref=e80]: App distribution
+          - listitem [ref=e81]:
+            - link "Catalogs" [ref=e84] [cursor=pointer]:
+              - /url: https://dev.shopify.com/dashboard/211341554/catalogs
+              - img [ref=e88]
+              - generic [ref=e92]: Catalogs
+          - listitem [ref=e93]:
+            - link "Themes" [ref=e96] [cursor=pointer]:
+              - /url: /4820690/themes
+              - img [ref=e100]
+              - generic [ref=e102]: Themes
+        - list [ref=e103]:
+          - listitem [ref=e104]:
+            - generic [ref=e105]: Admin
+          - listitem [ref=e106]:
+            - link "Payouts" [ref=e109] [cursor=pointer]:
+              - /url: /4820690/payments
+              - img [ref=e113]
+              - generic [ref=e115]: Payouts
+          - listitem [ref=e116]:
+            - link "Partner settings" [ref=e119] [cursor=pointer]:
+              - /url: /4820690/settings
+              - img [ref=e123]
+              - generic [ref=e125]: Partner settings
+        - list [ref=e126]:
+          - listitem [ref=e127]:
+            - link "Organization" [ref=e130] [cursor=pointer]:
+              - /url: https://admin.shopify.com/organization/211341554/settings/organization-account
+              - img [ref=e134]
+              - generic [ref=e137]: Organization
+          - listitem [ref=e138]:
+            - link "Dev dashboard" [ref=e141] [cursor=pointer]:
+              - /url: https://dev.shopify.com/dashboard/211341554
+              - img [ref=e145]
+              - generic [ref=e147]: Dev dashboard
+  - main [ref=e148]:
+    - generic [ref=e152]:
+      - status [ref=e154]:
+        - button "Dismiss notification" [ref=e156] [cursor=pointer]:
+          - img [ref=e161]
+        - img [ref=e166]
+        - generic [ref=e168]:
+          - heading "Create your first app" [level=2] [ref=e169]
+          - generic [ref=e170]:
+            - text: You can use the CLI to create a new app and install it on a
+            - link "dev store with generated test data" [ref=e171] [cursor=pointer]:
+              - /url: https://dev.shopify.com/dashboard/211341554/stores
+            - text: to fully build and test the app.
+      - complementary [ref=e282]:
+        - generic [ref=e284]:
+          - img [ref=e288]
+          - link "View Shopify changelog" [ref=e292] [cursor=pointer]:
+            - /url: https://changelog.shopify.com/
+            - heading "View Shopify changelog" [level=3] [ref=e293]
+          - img [ref=e296]
+      - generic [ref=e173]:
+        - heading "Business overview" [level=2] [ref=e175]
+        - generic [ref=e176]:
+          - link "Pending payout $0.00 USD $0 USD this year" [ref=e299] [cursor=pointer]:
+            - /url: /4820690/payments
+            - generic [ref=e301]:
+              - heading "Pending payout" [level=3] [ref=e303]
+              - paragraph [ref=e305]: $0.00 USD
+              - paragraph [ref=e307]: $0 USD this year
+          - link "Active store referrals 0 0 stores this year" [ref=e309] [cursor=pointer]:
+            - /url: /4820690/referral_history
+            - generic [ref=e311]:
+              - heading "Active store referrals" [level=3] [ref=e312]
+              - paragraph [ref=e314]: "0"
+              - paragraph [ref=e316]: 0 stores this year
+          - link "Lifetime leads submitted 0 0 leads this year" [ref=e318] [cursor=pointer]:
+            - /url: /4820690/partner_leads
+            - generic [ref=e320]:
+              - heading "Lifetime leads submitted" [level=3] [ref=e321]
+              - paragraph [ref=e323]: "0"
+              - paragraph [ref=e325]: 0 leads this year
+      - generic [ref=e200]:
+        - generic [ref=e201]:
+          - generic [ref=e202]:
+            - heading "Registered Partner" [level=2] [ref=e204]
+            - generic [ref=e205]:
+              - link "View the program guide" [ref=e206] [cursor=pointer]:
+                - /url: https://cdn.shopify.com/static/partner-resources/Shopify-Partner-Program-Guide-Service-Track.pdf
+              - text: to learn how tiers are set and their benefits.
+          - img "Registered Partner Badge" [ref=e208]
+        - separator [ref=e209]
+      - generic [ref=e211]:
+        - heading "Recent lead activity" [level=2] [ref=e213]
+        - generic [ref=e215]:
+          - generic [ref=e216]:
+            - heading "Earn referral income" [level=3] [ref=e217]
+            - paragraph [ref=e218]: Earn revenue when you refer a merchant to Shopify products, including Shopify POS, Shopify Markets, and more.
+          - generic [ref=e219]:
+            - link "Submit a lead" [ref=e221] [cursor=pointer]:
+              - /url: /4820690/partner_leads
+              - generic [ref=e223]: Submit a lead
+            - link "Learn more" [ref=e225] [cursor=pointer]:
+              - /url: https://help.shopify.com/partners/how-to-earn?locale=en
+              - generic [ref=e226]:
+                - text: Learn more
+                - img [ref=e229]

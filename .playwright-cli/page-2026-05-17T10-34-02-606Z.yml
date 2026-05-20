@@ -1,0 +1,39 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic:
+      - link "Skip to content":
+        - /url: "#AppFrameMain"
+    - main [ref=e5]:
+      - generic [ref=e7]:
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - heading "Flutterwave Payment Settings" [level=1] [ref=e11]
+            - paragraph [ref=e13]: Flutterwave helps you collect payments
+          - generic [ref=e14]:
+            - button "More actions" [ref=e21] [cursor=pointer]:
+              - generic [ref=e22]:
+                - generic [ref=e23]: More actions
+                - img [ref=e28]
+            - link "Get API Keys" [ref=e31] [cursor=pointer]:
+              - /url: https://app.flutterwave.com/login
+              - generic [ref=e33]: Get API Keys
+        - generic [ref=e37]:
+          - heading "Configure your API Keys" [level=2] [ref=e40]
+          - generic [ref=e44]:
+            - button [ref=e46]: Submit
+            - generic [ref=e47]:
+              - generic [ref=e49]:
+                - generic [ref=e52]: Public Key*
+                - textbox "Public Key*" [ref=e56]
+              - generic [ref=e58]:
+                - generic [ref=e61]: Secret Key*
+                - textbox "Secret Key*" [ref=e65]
+              - generic [ref=e67]:
+                - generic [ref=e70]: Test Public Key*
+                - textbox "Test Public Key*" [ref=e74]
+              - generic [ref=e76]:
+                - generic [ref=e79]: Test Secret Key*
+                - textbox "Test Secret Key*" [ref=e83]
+              - button "Submit" [ref=e85] [cursor=pointer]:
+                - generic [ref=e87]: Submit
+  - alert [ref=e88]

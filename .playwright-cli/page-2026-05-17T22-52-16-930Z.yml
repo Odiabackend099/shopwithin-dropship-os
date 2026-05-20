@@ -1,0 +1,42 @@
+- generic [ref=e6]:
+  - img "Shopify" [ref=e8]
+  - generic [ref=e9]:
+    - generic [ref=e11]:
+      - heading "Let's get started" [level=1] [ref=e13]
+      - heading "Add some details to customize your setup" [level=2] [ref=e15]
+    - generic [ref=e17]:
+      - button "Back" [ref=e19] [cursor=pointer]:
+        - img [ref=e22]
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - paragraph [ref=e26]: What can we help you do?
+          - generic [ref=e27]:
+            - checkbox "Sell online" [checked] [ref=e28] [cursor=pointer]:
+              - checkbox [checked] [ref=e29]
+              - img [ref=e31]
+              - generic [ref=e34]: Sell online
+            - checkbox "Sell in-store" [ref=e35] [cursor=pointer]:
+              - checkbox [ref=e36]
+              - img [ref=e38]
+              - generic [ref=e41]: Sell in-store
+            - checkbox "Dropshipping" [checked] [active] [ref=e42] [cursor=pointer]:
+              - checkbox [checked] [ref=e43]
+              - img [ref=e45]
+              - generic [ref=e48]: Dropshipping
+            - checkbox "Sell digital products" [ref=e49] [cursor=pointer]:
+              - checkbox [ref=e50]
+              - img [ref=e52]
+              - generic [ref=e55]: Sell digital products
+            - checkbox "Move existing store" [ref=e56] [cursor=pointer]:
+              - checkbox [ref=e57]
+              - img [ref=e59]
+              - generic [ref=e62]: Move existing store
+        - generic [ref=e63]:
+          - paragraph [ref=e64]: What should we call your store?
+          - generic [ref=e67]:
+            - generic: Your store name (optional)
+            - textbox "Your store name (optional)" [ref=e68]:
+              - /placeholder: My Store (optional)
+        - generic [ref=e69]:
+          - button "Continue" [ref=e70] [cursor=pointer]
+          - button "I'll do this later" [ref=e72] [cursor=pointer]

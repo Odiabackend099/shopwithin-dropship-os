@@ -1,0 +1,211 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - generic [ref=e12]:
+      - generic [ref=e14]:
+        - link "Ads Manager Meta" [ref=e16] [cursor=pointer]:
+          - /url: https://business.facebook.com/adsmanager/?business_id=990501983779852
+          - generic [ref=e18]:
+            - generic [ref=e19]: Ads Manager
+            - img "Meta" [ref=e22]
+        - generic [ref=e23]:
+          - generic [ref=e26]:
+            - button "Pressable" [ref=e27] [cursor=pointer]
+            - generic:
+              - generic:
+                - generic:
+                  - button:
+                    - generic:
+                      - generic: "0"
+          - separator [ref=e32]
+      - navigation "tools" [ref=e36]:
+        - list [ref=e37]:
+          - listitem [ref=e39]:
+            - link "Account overview" [disabled] [ref=e41]
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Account overview
+          - listitem [ref=e48]:
+            - link "Campaigns" [disabled] [ref=e50]
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Campaigns
+          - listitem [ref=e56]:
+            - link "Ads Reporting" [disabled] [ref=e58]
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ads Reporting
+          - listitem [ref=e64]:
+            - link "Audiences" [disabled] [ref=e66]
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Audiences
+          - listitem [ref=e72]:
+            - link "Billing & payments" [disabled] [ref=e74]
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Billing & payments
+          - listitem [ref=e80]:
+            - link "Advertising settings" [disabled] [ref=e82]
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Advertising settings
+          - listitem [ref=e88]:
+            - link "Events Manager" [disabled] [ref=e90]
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Events Manager
+          - listitem [ref=e95]:
+            - button "All tools" [ref=e97] [cursor=pointer]
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: All tools
+      - generic [ref=e106]:
+        - separator [ref=e107]
+        - generic [ref=e109]:
+          - button "Help" [ref=e115] [cursor=pointer]
+          - button "Ad account updates" [ref=e121] [cursor=pointer]:
+            - generic [ref=e124]: Ad account updates
+          - button "Business Settings" [disabled] [ref=e128]:
+            - generic [ref=e131]: Business Settings
+          - button "Search" [ref=e135] [cursor=pointer]:
+            - generic [ref=e138]: Search
+          - button "Report a problem" [ref=e141] [cursor=pointer]:
+            - generic [ref=e144]: Report a problem
+    - generic [ref=e161]:
+      - generic [ref=e162]:
+        - heading "Billing & payments" [level=2] [ref=e164]
+        - combobox "Shopwithin" [ref=e176] [cursor=pointer]:
+          - generic [ref=e189]: Shopwithin
+        - button "Facebook" [ref=e195] [cursor=pointer]:
+          - generic [ref=e201]:
+            - generic:
+              - img
+            - img "Facebook" [ref=e203]
+      - generic [ref=e204]:
+        - generic [ref=e207]:
+          - generic [ref=e210]:
+            - listitem [ref=e211]:
+              - button "Accounts" [ref=e213] [cursor=pointer]
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Accounts
+            - listitem [ref=e219]:
+              - button "Payment methods" [ref=e221] [cursor=pointer]
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Payment methods
+            - listitem [ref=e227]:
+              - button "Payment activity" [ref=e229] [cursor=pointer]
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Payment activity
+            - listitem [ref=e235]:
+              - button "Credit lines" [ref=e237] [cursor=pointer]
+              - generic:
+                - listitem:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Credit lines
+          - button "Collapse" [ref=e247] [cursor=pointer]:
+            - generic [ref=e250]: Collapse
+        - generic [ref=e256]:
+          - heading "Accounts" [level=1] [ref=e259]
+          - generic [ref=e261]:
+            - generic [ref=e268]:
+              - button "Close" [ref=e270] [cursor=pointer]:
+                - generic [ref=e273]: Close
+              - generic [ref=e278]:
+                - generic [ref=e279]:
+                  - heading "See how to manage billing for multiple accounts" [level=2] [ref=e280]
+                  - generic [ref=e281]: View billing for all of the accounts connected to your business.
+                - generic [ref=e282]:
+                  - button "Watch the video" [ref=e283] [cursor=pointer]:
+                    - generic [ref=e287]: Watch the video
+                  - button "Take tour" [ref=e288] [cursor=pointer]:
+                    - generic [ref=e292]: Take tour
+            - button "Open tour card" [ref=e294] [cursor=pointer]:
+              - generic [ref=e297]: Open tour card
+          - generic [ref=e303]:
+            - tablist [ref=e305]:
+              - tab "Ad accounts" [selected] [ref=e306] [cursor=pointer]:
+                - generic [ref=e309]: Ad accounts
+              - tab "WhatsApp Business accounts" [ref=e310] [cursor=pointer]:
+                - generic [ref=e313]: WhatsApp Business accounts
+              - tab "Meta Verified accounts" [ref=e314] [cursor=pointer]:
+                - generic [ref=e317]: Meta Verified accounts
+            - generic [ref=e322]:
+              - generic [ref=e323]:
+                - generic [ref=e329]: Search
+                - textbox "Search" [ref=e340]:
+                  - /placeholder: Search by name...
+              - button "Advanced filters" [ref=e341] [cursor=pointer]:
+                - generic [ref=e344]: Advanced filters
+            - separator [ref=e347]
+            - grid "Ad accounts" [ref=e351]:
+              - rowgroup [ref=e352]:
+                - row "Account Status How you'll pay Current balance" [ref=e353]:
+                  - columnheader "Account" [ref=e354]:
+                    - heading "Account" [level=4] [ref=e358]
+                  - columnheader "Status" [ref=e359]:
+                    - heading "Status" [level=4] [ref=e363]
+                  - columnheader "How you'll pay" [ref=e364]:
+                    - heading "How you'll pay" [level=4] [ref=e370]
+                  - columnheader "Current balance" [ref=e376]:
+                    - heading "Current balance" [level=4] [ref=e380]
+                  - columnheader [ref=e381]
+              - rowgroup [ref=e382]:
+                - 'row "Shopwithin USD Ad Account ID: 26070663195942187 Active No payment method $0.00" [ref=e383] [cursor=pointer]':
+                  - 'gridcell "Shopwithin USD Ad Account ID: 26070663195942187" [ref=e384]':
+                    - 'button "Shopwithin USD Ad Account ID: 26070663195942187" [ref=e386]':
+                      - 'button "Shopwithin USD Ad Account ID: 26070663195942187" [ref=e387]':
+                        - generic [ref=e391]:
+                          - generic [ref=e392]: Shopwithin USD Ad Account
+                          - generic [ref=e393]: "ID: 26070663195942187"
+                  - gridcell "Active" [ref=e394]:
+                    - generic [ref=e398]: Active
+                  - gridcell "No payment method" [ref=e399]:
+                    - generic [ref=e406]: No payment method
+                  - gridcell "$0.00" [ref=e407]:
+                    - heading "$0.00" [level=4] [ref=e411]
+                  - gridcell [ref=e412]:
+                    - group [ref=e414]:
+                      - button "Add payment method" [ref=e415]:
+                        - generic [ref=e419]: Add payment method
+                      - button "More items" [ref=e420]:
+                        - generic [ref=e423]: More items
+  - link "Translations" [ref=e429] [cursor=pointer]:
+    - /url: https://www.facebook.com/translations/?ref=trans_nub

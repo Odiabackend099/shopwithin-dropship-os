@@ -1,0 +1,218 @@
+- generic [ref=e3]:
+  - generic:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+  - generic [ref=e5]:
+    - link "Return to home page" [ref=e7] [cursor=pointer]:
+      - /url: /4820690
+      - img "Return to home page" [ref=e8]
+    - generic [ref=e9]:
+      - generic [ref=e11]:
+        - generic [ref=e12]: Search
+        - searchbox "Search" [ref=e13]
+        - generic:
+          - generic:
+            - img
+      - button "Notifications 1" [ref=e18] [cursor=pointer]:
+        - link "Notifications 1" [ref=e19]:
+          - /url: /4820690/notifications
+          - generic [ref=e20]:
+            - generic [ref=e21]: Notifications
+            - img [ref=e22]
+          - generic [ref=e24]: "1"
+      - button "Avatar with initials B A Barpel AI Austyn Eguale" [ref=e27] [cursor=pointer]:
+        - img "Avatar with initials B A" [ref=e29]:
+          - img [ref=e31]:
+            - generic [ref=e32]: BA
+        - generic [ref=e33]:
+          - paragraph [ref=e34]: Barpel AI
+          - paragraph [ref=e35]: Austyn Eguale
+  - generic "Navigation" [ref=e36]:
+    - navigation [ref=e37]:
+      - generic [ref=e38]:
+        - list [ref=e39]:
+          - listitem [ref=e40]:
+            - link "Home" [ref=e43] [cursor=pointer]:
+              - /url: /4820690
+              - img [ref=e47]
+              - generic [ref=e49]: Home
+          - listitem [ref=e50]:
+            - generic [ref=e52]:
+              - link "Stores" [active] [ref=e53] [cursor=pointer]:
+                - /url: https://dev.shopify.com/dashboard/211341554/stores
+                - img [ref=e57]
+                - generic [ref=e60]: Stores
+              - link "Stores" [ref=e277] [cursor=pointer]:
+                - /url: https://dev.shopify.com/dashboard/211341554/stores
+                - img [ref=e280]
+          - listitem [ref=e61]:
+            - link "Sales" [ref=e64] [cursor=pointer]:
+              - /url: /4820690/partner_leads
+              - img [ref=e68]
+              - generic [ref=e70]: Sales
+          - listitem [ref=e71]:
+            - link "App distribution" [ref=e74] [cursor=pointer]:
+              - /url: /4820690/apps
+              - img [ref=e78]
+              - generic [ref=e80]: App distribution
+          - listitem [ref=e81]:
+            - link "Catalogs" [ref=e84] [cursor=pointer]:
+              - /url: https://dev.shopify.com/dashboard/211341554/catalogs
+              - img [ref=e88]
+              - generic [ref=e92]: Catalogs
+          - listitem [ref=e93]:
+            - link "Themes" [ref=e96] [cursor=pointer]:
+              - /url: /4820690/themes
+              - img [ref=e100]
+              - generic [ref=e102]: Themes
+        - list [ref=e103]:
+          - listitem [ref=e104]:
+            - generic [ref=e105]: Admin
+          - listitem [ref=e106]:
+            - link "Payouts" [ref=e109] [cursor=pointer]:
+              - /url: /4820690/payments
+              - img [ref=e113]
+              - generic [ref=e115]: Payouts
+          - listitem [ref=e116]:
+            - link "Partner settings" [ref=e119] [cursor=pointer]:
+              - /url: /4820690/settings
+              - img [ref=e123]
+              - generic [ref=e125]: Partner settings
+        - list [ref=e126]:
+          - listitem [ref=e127]:
+            - link "Organization" [ref=e130] [cursor=pointer]:
+              - /url: https://admin.shopify.com/organization/211341554/settings/organization-account
+              - img [ref=e134]
+              - generic [ref=e137]: Organization
+          - listitem [ref=e138]:
+            - link "Dev dashboard" [ref=e141] [cursor=pointer]:
+              - /url: https://dev.shopify.com/dashboard/211341554
+              - img [ref=e145]
+              - generic [ref=e147]: Dev dashboard
+  - main [ref=e148]:
+    - generic [ref=e150]:
+      - generic [ref=e152]:
+        - status [ref=e154]:
+          - button "Dismiss notification" [ref=e156] [cursor=pointer]:
+            - img [ref=e161]
+          - img [ref=e166]
+          - generic [ref=e168]:
+            - heading "Create your first app" [level=2] [ref=e169]
+            - generic [ref=e170]:
+              - text: You can use the CLI to create a new app and install it on a
+              - link "dev store with generated test data" [ref=e171] [cursor=pointer]:
+                - /url: https://dev.shopify.com/dashboard/211341554/stores
+              - text: to fully build and test the app.
+        - generic [ref=e173]:
+          - heading "Business overview" [level=2] [ref=e175]
+          - generic [ref=e176]:
+            - generic [ref=e178]:
+              - heading "Pending payout" [level=3] [ref=e180]
+              - link "$0.00 USD" [ref=e181] [cursor=pointer]:
+                - /url: /4820690/payments
+                - paragraph [ref=e182]: $0.00 USD
+              - paragraph [ref=e184]: $0 USD this year
+            - generic [ref=e186]:
+              - heading "Active store referrals" [level=3] [ref=e187]
+              - link "0" [ref=e188] [cursor=pointer]:
+                - /url: /4820690/referral_history
+                - paragraph [ref=e189]: "0"
+              - paragraph [ref=e191]: 0 stores this year
+            - generic [ref=e193]:
+              - heading "Lifetime leads submitted" [level=3] [ref=e194]
+              - link "0" [ref=e195] [cursor=pointer]:
+                - /url: /4820690/partner_leads
+                - paragraph [ref=e196]: "0"
+              - paragraph [ref=e198]: 0 leads this year
+        - generic [ref=e200]:
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - heading "Registered Partner" [level=2] [ref=e204]
+              - generic [ref=e205]:
+                - link "View the program guide" [ref=e206] [cursor=pointer]:
+                  - /url: https://cdn.shopify.com/static/partner-resources/Shopify-Partner-Program-Guide-Service-Track.pdf
+                - text: to learn how tiers are set and their benefits.
+            - img "Registered Partner Badge" [ref=e208]
+          - separator [ref=e209]
+        - generic [ref=e211]:
+          - heading "Recent lead activity" [level=2] [ref=e213]
+          - generic [ref=e215]:
+            - generic [ref=e216]:
+              - heading "Earn referral income" [level=3] [ref=e217]
+              - paragraph [ref=e218]: Earn revenue when you refer a merchant to Shopify products, including Shopify POS, Shopify Markets, and more.
+            - generic [ref=e219]:
+              - link "Submit a lead" [ref=e221] [cursor=pointer]:
+                - /url: /4820690/partner_leads
+                - generic [ref=e223]: Submit a lead
+              - link "Learn more" [ref=e225] [cursor=pointer]:
+                - /url: https://help.shopify.com/partners/how-to-earn?locale=en
+                - generic [ref=e226]:
+                  - text: Learn more
+                  - img [ref=e229]
+      - complementary [ref=e231]:
+        - generic [ref=e235]:
+          - heading "Changelog" [level=6] [ref=e236]
+          - list [ref=e237]:
+            - listitem [ref=e238]:
+              - text: 15 May, 2026 • Admin
+              - link "Sell from multiple legal entities in the same country using Shopify Payments" [ref=e239] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/sell-from-multiple-legal-entities-in-the-same-country-using-shopify-payments
+                - heading "Sell from multiple legal entities in the same country using Shopify Payments" [level=3] [ref=e240]
+            - listitem [ref=e241]:
+              - text: 14 May, 2026 • Admin
+              - link "Updates to Italy's Sardinian province definitions" [ref=e242] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/italy-s-sardinian-province-definitions-updated
+                - heading "Updates to Italy's Sardinian province definitions" [level=3] [ref=e243]
+            - listitem [ref=e244]:
+              - text: 12 May, 2026 • Admin
+              - link "Simpler inventory transfers" [ref=e245] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/simpler-inventory-transfers
+                - heading "Simpler inventory transfers" [level=3] [ref=e246]
+            - listitem [ref=e247]:
+              - text: 11 May, 2026 • POS
+              - link "Print packing slips for inventory transfers" [ref=e248] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/print-packing-slips-for-inventory-transfers
+                - heading "Print packing slips for inventory transfers" [level=3] [ref=e249]
+            - listitem [ref=e250]:
+              - text: 11 May, 2026 • Admin
+              - link "A new home for Agentic Storefronts in your admin" [ref=e251] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/a-new-home-for-agentic-storefronts-in-your-admin
+                - heading "A new home for Agentic Storefronts in your admin" [level=3] [ref=e252]
+            - listitem [ref=e253]:
+              - text: 11 May, 2026 • Admin
+              - link "Sell gift cards in your customers' local currency" [ref=e254] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/sell-gift-cards-in-your-customers-local-currency
+                - heading "Sell gift cards in your customers' local currency" [level=3] [ref=e255]
+            - listitem [ref=e256]:
+              - text: 9 May, 2026 • Apps
+              - 'link "Flow: New action to get analytics data using ShopifyQL" [ref=e257] [cursor=pointer]':
+                - /url: https://changelog.shopify.com/posts/flow-new-action-to-get-analytics-data-using-shopifyql
+                - 'heading "Flow: New action to get analytics data using ShopifyQL" [level=3] [ref=e258]'
+            - listitem [ref=e259]:
+              - text: 7 May, 2026 • Admin
+              - link "Inventory adjustment workflow now with full change tracking" [ref=e260] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/inventory-adjustment-workflow-now-with-full-change-tracking
+                - heading "Inventory adjustment workflow now with full change tracking" [level=3] [ref=e261]
+            - listitem [ref=e262]:
+              - text: 7 May, 2026 • Admin
+              - link "Product Variant Publishing" [ref=e263] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/product-variant-publishing
+                - heading "Product Variant Publishing" [level=3] [ref=e264]
+            - listitem [ref=e265]:
+              - text: 13 May, 2026 • Admin
+              - link "Shopify Tax has expanded to Canada" [ref=e266] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/shopify-tax-has-expanded-to-canada
+                - heading "Shopify Tax has expanded to Canada" [level=3] [ref=e267]
+            - listitem [ref=e268]:
+              - text: 7 May, 2026 • Admin
+              - link "Assign discounts to specific markets" [ref=e269] [cursor=pointer]:
+                - /url: https://changelog.shopify.com/posts/assign-discounts-to-specific-markets
+                - heading "Assign discounts to specific markets" [level=3] [ref=e270]
+            - listitem [ref=e271]:
+              - text: 14 May, 2026 • Apps
+              - 'link "Flow: Make test events for your workflows with existing shop data" [ref=e272] [cursor=pointer]':
+                - /url: https://changelog.shopify.com/posts/flow-sidekick-generates-test-cases-for-your-workflows
+                - 'heading "Flow: Make test events for your workflows with existing shop data" [level=3] [ref=e273]'
+          - link "View more" [ref=e274] [cursor=pointer]:
+            - /url: https://changelog.shopify.com/
+            - paragraph [ref=e275]: View more

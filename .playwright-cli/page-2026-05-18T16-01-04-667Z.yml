@@ -1,0 +1,78 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - banner:
+            - generic [ref=e2]:
+              - generic:
+                - generic:
+                  - button [disabled]:
+                    - img
+              - link "Facebook" [ref=e3] [cursor=pointer]:
+                - /url: /
+                - img [ref=e4]
+            - status "Loading..." [ref=e10]
+            - navigation "Facebook" [ref=e14]:
+              - list [ref=e15]:
+                - listitem [ref=e16]:
+                  - link "Home" [ref=e19] [cursor=pointer]:
+                    - /url: /
+                    - img [ref=e21]
+                - listitem [ref=e23]:
+                  - link "Reels" [ref=e26] [cursor=pointer]:
+                    - /url: /reel/?s=tab
+                    - img [ref=e28]
+                - listitem [ref=e31]:
+                  - link "Friends" [ref=e34] [cursor=pointer]:
+                    - /url: /friends/
+                    - img [ref=e36]
+                - listitem [ref=e38]:
+                  - link "Groups" [ref=e41] [cursor=pointer]:
+                    - /url: /groups/
+                    - img [ref=e43]
+            - navigation "Account controls and settings" [ref=e46]:
+              - button "Facebook menu" [ref=e50] [cursor=pointer]:
+                - img [ref=e51]
+              - button "Messenger" [ref=e57] [cursor=pointer]:
+                - img [ref=e58]
+              - button "Notifications" [ref=e65] [cursor=pointer]:
+                - img [ref=e66]
+              - button "Your profile" [ref=e70] [cursor=pointer]:
+                - generic [ref=e71]:
+                  - img "Your profile" [ref=e72]
+                  - img [ref=e79]
+          - main [ref=e87]:
+            - generic [ref=e88]:
+              - generic [ref=e92]:
+                - navigation [ref=e94]:
+                  - generic [ref=e97]:
+                    - link [ref=e99] [cursor=pointer]:
+                      - /url: /pages/
+                      - text: Pages
+                    - text: › Create a Page
+                - generic [ref=e100]:
+                  - heading [level=1] [ref=e103]: Create a Page
+                  - generic [ref=e105]: Your Page is where people go to learn more about you. Make sure that yours has all of the information they may need.
+              - form [ref=e109]:
+                - generic [ref=e111]:
+                  - status [ref=e113]
+                  - status [ref=e115]
+                  - status [ref=e117]
+              - generic [ref=e119]:
+                - img [ref=e122]
+                - status [ref=e134]
+  - dialog [ref=e141]:
+    - button "Close" [ref=e143] [cursor=pointer]
+    - generic [ref=e145]:
+      - img "Facebook Protect intro screen" [ref=e147]
+      - heading "Your account requires stronger security by 22 June 2026" [active] [level=2] [ref=e150]:
+        - generic [ref=e151]: Your account requires stronger security by 22 June 2026
+      - generic [ref=e154]: Your account has the potential to reach many people, so we require you to have Advanced Protection to help keep it secure.
+      - generic [ref=e158]: This programme helps defend accounts like yours against targeted online attacks. To complete your setup, you must have a strong password and two-factor authentication.
+      - link "Next" [ref=e161] [cursor=pointer]:
+        - /url: https://accountscenter.facebook.com/password_and_security/advanced_protection/?cross_platform_redirect=1&flow_entrypoint=qp&specific_identity_selection=61589295400760
+        - generic [ref=e164]: Next
+      - link "Learn more" [ref=e167] [cursor=pointer]:
+        - /url: https://www.facebook.com/help/1052552578831700
+        - generic [ref=e170]: Learn more

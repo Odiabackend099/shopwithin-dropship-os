@@ -1,0 +1,279 @@
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - link "Skip to content" [ref=e7] [cursor=pointer]:
+        - /url: "#checkout-main"
+      - generic [ref=e8]:
+        - banner [ref=e9]:
+          - generic [ref=e14]:
+            - link "shopwithin Navigate to Online Store" [ref=e16] [cursor=pointer]:
+              - /url: https://mxu168-9g.myshopify.com
+              - generic: shopwithin
+              - generic [ref=e17]: Navigate to Online Store
+            - link "Cart" [ref=e19] [cursor=pointer]:
+              - /url: https://mxu168-9g.myshopify.com/cart
+              - img [ref=e21]
+        - generic [ref=e23]:
+          - generic [ref=e25]:
+            - main [ref=e26]:
+              - heading "shopwithin Checkout" [level=1] [ref=e27]
+              - generic [ref=e29]:
+                - generic [ref=e30]:
+                  - region "Contact" [ref=e31]:
+                    - generic [ref=e35]:
+                      - generic [ref=e36]:
+                        - heading "Contact" [level=2] [ref=e37]
+                        - link "Sign in" [ref=e38] [cursor=pointer]:
+                          - /url: https://mxu168-9g.myshopify.com/customer_authentication/login?locale=en-NG&return_to=%2Fcheckouts%2Fcn%2FhWNCK50pOMLbUB9sKJUfwGGZ%2Fen-ng%3F_r%3DAQABGat0N7dBm7Q-kf9U53QX0FEy43CHGM08WChAWmeWp_c%26locale%3Den-NG
+                      - generic [ref=e40]:
+                        - generic [ref=e45]:
+                          - generic:
+                            - generic:
+                              - generic: Email
+                          - textbox "Email" [active] [ref=e46]
+                        - generic [ref=e49]:
+                          - generic [ref=e50]:
+                            - checkbox "Email me with news and offers" [ref=e51] [cursor=pointer]
+                            - generic:
+                              - generic:
+                                - img
+                          - generic [ref=e52] [cursor=pointer]: Email me with news and offers
+                  - group "Delivery" [ref=e56]:
+                    - generic [ref=e57]:
+                      - heading "Delivery" [level=2] [ref=e59]
+                      - generic [ref=e65]:
+                        - generic [ref=e69]:
+                          - generic [ref=e70]:
+                            - generic [ref=e74]:
+                              - generic:
+                                - generic:
+                                  - generic: Country/Region
+                              - combobox "Country/Region" [ref=e75]:
+                                - option "Nigeria" [selected]
+                                - option "United States"
+                              - generic:
+                                - generic:
+                                  - img
+                            - generic [ref=e76]:
+                              - generic [ref=e78]:
+                                - generic:
+                                  - generic:
+                                    - generic: First name
+                                - textbox "First name" [ref=e79]
+                              - generic [ref=e81]:
+                                - generic:
+                                  - generic:
+                                    - generic: Last name
+                                - textbox "Last name" [ref=e82]
+                            - generic [ref=e87]:
+                              - generic:
+                                - generic:
+                                  - generic: Address
+                              - textbox "Address" [ref=e88]
+                            - generic [ref=e91]:
+                              - generic:
+                                - generic:
+                                  - generic: Apartment, suite, etc. (optional)
+                              - textbox "Apartment, suite, etc. (optional)" [ref=e92]
+                            - generic [ref=e93]:
+                              - generic [ref=e95]:
+                                - generic:
+                                  - generic:
+                                    - generic: City
+                                - textbox "City" [ref=e96]
+                              - generic [ref=e99]:
+                                - generic:
+                                  - generic:
+                                    - generic: State
+                                - combobox "State" [ref=e100]:
+                                  - option "Abia"
+                                  - option "Federal Capital Territory" [selected]
+                                  - option "Adamawa"
+                                  - option "Akwa Ibom"
+                                  - option "Anambra"
+                                  - option "Bauchi"
+                                  - option "Bayelsa"
+                                  - option "Benue"
+                                  - option "Borno"
+                                  - option "Cross River"
+                                  - option "Delta"
+                                  - option "Ebonyi"
+                                  - option "Edo"
+                                  - option "Ekiti"
+                                  - option "Enugu"
+                                  - option "Gombe"
+                                  - option "Imo"
+                                  - option "Jigawa"
+                                  - option "Kaduna"
+                                  - option "Kano"
+                                  - option "Katsina"
+                                  - option "Kebbi"
+                                  - option "Kogi"
+                                  - option "Kwara"
+                                  - option "Lagos"
+                                  - option "Nasarawa"
+                                  - option "Niger"
+                                  - option "Ogun"
+                                  - option "Ondo"
+                                  - option "Osun"
+                                  - option "Oyo"
+                                  - option "Plateau"
+                                  - option "Rivers"
+                                  - option "Sokoto"
+                                  - option "Taraba"
+                                  - option "Yobe"
+                                  - option "Zamfara"
+                                - generic:
+                                  - generic:
+                                    - img
+                              - generic [ref=e103]:
+                                - generic:
+                                  - generic:
+                                    - generic: Postal code (optional)
+                                - textbox "Postal code (optional)" [ref=e104]
+                            - generic [ref=e107]:
+                              - generic:
+                                - generic:
+                                  - generic: Phone (optional)
+                              - textbox "Phone (optional)" [ref=e108]
+                              - button "More information about Phone" [ref=e111] [cursor=pointer]:
+                                - img [ref=e113]
+                            - generic [ref=e116]:
+                              - generic [ref=e117]:
+                                - checkbox "Save this information for next time" [ref=e118] [cursor=pointer]
+                                - generic:
+                                  - generic:
+                                    - img
+                              - generic [ref=e119] [cursor=pointer]: Save this information for next time
+                          - generic [ref=e120]:
+                            - textbox [ref=e121]
+                            - textbox [ref=e122]
+                            - textbox [ref=e123]
+                            - textbox [ref=e124]
+                            - textbox [ref=e125]
+                            - textbox [ref=e126]: NG
+                            - textbox [ref=e127]: FC
+                            - textbox [ref=e128]: FC
+                            - textbox [ref=e129]: FC
+                            - textbox [ref=e130]
+                            - textbox [ref=e131]
+                        - generic [ref=e132]:
+                          - heading "Shipping method" [level=2] [ref=e133]
+                          - group [ref=e138]:
+                            - generic [ref=e139]:
+                              - generic [ref=e143]:
+                                - radio "Loading…" [disabled]
+                              - generic [ref=e153]:
+                                - radio "Loading…" [disabled]
+                  - region "Payment" [ref=e161]:
+                    - group "Payment" [ref=e165]:
+                      - generic [ref=e166]:
+                        - heading "Payment" [level=2] [ref=e167]
+                        - paragraph [ref=e168]: All transactions are secure and encrypted.
+                      - generic [ref=e171]:
+                        - group [ref=e175]:
+                          - generic [ref=e177]:
+                            - generic [ref=e178]:
+                              - heading "Flutterwave" [level=3] [ref=e180]:
+                                - strong [ref=e181]: Flutterwave
+                              - generic [ref=e184]:
+                                - img "visa" [ref=e185]
+                                - img "master" [ref=e186]
+                                - img "mtn mobile money" [ref=e187]
+                                - button [ref=e188] [cursor=pointer]:
+                                  - generic [ref=e190]: "+5"
+                            - paragraph [ref=e197]: You'll be redirected to Flutterwave to complete your purchase.
+                        - group "Billing address" [ref=e198]:
+                          - heading "Billing address" [level=3] [ref=e199]
+                          - group [ref=e200]:
+                            - generic [ref=e201]:
+                              - generic [ref=e203] [cursor=pointer]:
+                                - radio "Same as shipping address" [checked] [ref=e205]
+                                - generic [ref=e206]: Same as shipping address
+                              - generic [ref=e208] [cursor=pointer]:
+                                - radio "Use a different billing address" [ref=e210]
+                                - generic [ref=e211]: Use a different billing address
+                    - generic [ref=e218]:
+                      - heading "Finalize order" [level=2] [ref=e219]
+                      - generic [ref=e222]:
+                        - button "Pay now" [disabled]:
+                          - generic:
+                            - generic: Pay now
+                - button [ref=e224] [cursor=pointer]: Submit
+            - contentinfo [ref=e225]:
+              - list [ref=e229]:
+                - listitem [ref=e230]:
+                  - button "Privacy policy" [ref=e231] [cursor=pointer]:
+                    - generic: Privacy policy
+          - complementary [ref=e234]:
+            - generic [ref=e237]:
+              - heading "Order summary" [level=2] [ref=e238]
+              - generic [ref=e241]:
+                - region "Shopping cart" [ref=e242]:
+                  - heading "Shopping cart" [level=3] [ref=e244]
+                  - table "Shopping cart" [ref=e245]:
+                    - rowgroup [ref=e246]:
+                      - row "Product image Description Quantity Price":
+                        - columnheader "Product image" [ref=e247]
+                        - columnheader "Description" [ref=e248]
+                        - columnheader "Quantity" [ref=e249]
+                        - columnheader "Price" [ref=e250]
+                    - rowgroup [ref=e251]:
+                      - row "FurLift Reusable Pet Hair Detailer Quantity 1 FurLift Reusable Pet Hair Detailer New Blue 1 $24.95" [ref=e252]:
+                        - cell "FurLift Reusable Pet Hair Detailer Quantity 1" [ref=e253]:
+                          - generic [ref=e254]:
+                            - img "FurLift Reusable Pet Hair Detailer" [ref=e255]
+                            - generic [ref=e257]:
+                              - generic [ref=e258]: Quantity
+                              - text: "1"
+                        - cell "FurLift Reusable Pet Hair Detailer New Blue" [ref=e259]:
+                          - generic [ref=e260]:
+                            - paragraph [ref=e261]: FurLift Reusable Pet Hair Detailer
+                            - paragraph [ref=e263]: New Blue
+                        - cell "1":
+                          - generic [ref=e264]: "1"
+                        - cell "$24.95" [ref=e265]:
+                          - generic [ref=e267]: $24.95
+                - generic:
+                  - generic:
+                    - generic:
+                      - text: Scroll for more items
+                      - generic:
+                        - img
+              - generic [ref=e268]:
+                - heading "Cost summary" [level=3] [ref=e270]
+                - table "Cost summary" [ref=e271]:
+                  - rowgroup [ref=e272]:
+                    - row "Item Value" [ref=e273]:
+                      - columnheader "Item" [ref=e274]
+                      - columnheader "Value" [ref=e275]
+                  - rowgroup [ref=e276]:
+                    - row "Subtotal $24.95" [ref=e277]:
+                      - rowheader "Subtotal" [ref=e278]
+                      - cell "$24.95" [ref=e279]
+                    - row "Shipping Enter shipping address" [ref=e280]:
+                      - rowheader "Shipping" [ref=e281]:
+                        - generic [ref=e283]: Shipping
+                      - cell "Enter shipping address" [ref=e284]
+                    - row "Estimated taxes More information about Estimated taxes $1.87" [ref=e285]:
+                      - rowheader "Estimated taxes More information about Estimated taxes" [ref=e286]:
+                        - generic [ref=e287]:
+                          - generic [ref=e288]: Estimated taxes
+                          - button "More information about Estimated taxes" [ref=e289] [cursor=pointer]:
+                            - img [ref=e291]
+                      - cell "$1.87" [ref=e293]:
+                        - generic [ref=e295]: $1.87
+                    - row "Total USD $26.82" [ref=e296]:
+                      - rowheader "Total" [ref=e297]:
+                        - strong [ref=e298]: Total
+                      - cell "USD $26.82" [ref=e299]:
+                        - generic [ref=e300]:
+                          - generic [ref=e301]: USD
+                          - strong [ref=e302]: $26.82
+    - generic:
+      - progressbar
+  - generic [ref=e303]: Opens external website in a new window.
+  - generic [ref=e304]: Opens in a new window.
+  - generic [ref=e305]: Opens external website.
+  - status [ref=e306]
+  - alert [ref=e307]

@@ -1,0 +1,83 @@
+- generic [ref=e12]:
+  - generic [ref=e24]:
+    - generic [ref=e26]:
+      - generic:
+        - progressbar
+      - toolbar [ref=e27]:
+        - generic [ref=e28]:
+          - progressbar
+          - generic:
+            - progressbar
+            - progressbar
+    - generic [ref=e30]:
+      - progressbar [ref=e36]
+      - progressbar [ref=e45]
+  - generic [ref=e79]:
+    - generic [ref=e81]:
+      - button "Meta logo" [ref=e83] [cursor=pointer]:
+        - generic [ref=e86]: Meta Business Suite
+      - button "Pressable" [ref=e94] [cursor=pointer]
+    - navigation "Links" [ref=e101]:
+      - generic [ref=e102]: Links
+      - list [ref=e103]:
+        - generic [ref=e104]:
+          - listitem [ref=e108]:
+            - generic [ref=e110]:
+              - link "Billing & payments" [ref=e111] [cursor=pointer]:
+                - /url: https://business.facebook.com/billing_hub/?business_id=990501983779852&placement=mbs_all_tools_menu
+                - generic [ref=e112]: Billing & payments
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Billing & payments
+          - listitem [ref=e116]:
+            - generic [ref=e118]:
+              - link "All tools" [ref=e119] [cursor=pointer]:
+                - generic [ref=e120]: All tools
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: All tools
+    - generic [ref=e122]:
+      - listitem [ref=e125]:
+        - generic [ref=e127]:
+          - link "Search" [ref=e128] [cursor=pointer]:
+            - generic [ref=e129]: Search
+          - generic:
+            - generic:
+              - generic:
+                - generic: Search
+          - generic:
+            - generic:
+              - img
+      - navigation "Links" [ref=e130]:
+        - generic [ref=e131]: Links
+        - list [ref=e132]:
+          - listitem [ref=e136]:
+            - generic [ref=e138]:
+              - link "Settings" [ref=e139] [cursor=pointer]:
+                - /url: https://business.facebook.com/latest/settings/business_users?business_id=990501983779852&asset_id=26070663195942187
+                - generic [ref=e140]: Settings
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Settings
+          - listitem [ref=e144]:
+            - generic [ref=e146]:
+              - link "Notifications" [ref=e147] [cursor=pointer]:
+                - generic [ref=e148]: Notifications
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Notifications
+      - listitem [ref=e155]:
+        - generic [ref=e157]:
+          - link "Help" [ref=e158] [cursor=pointer]:
+            - generic [ref=e159]: Help
+          - generic:
+            - generic:
+              - generic:
+                - generic: Help
+          - generic:
+            - generic:
+              - img

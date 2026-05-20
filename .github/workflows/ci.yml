@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: dropship
+          POSTGRES_PASSWORD: dropship
+          POSTGRES_DB: dropship_os
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U dropship -d dropship_os"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile=false
+      - run: pnpm --filter @dropship-os/api prisma:generate
+      - run: pnpm run ci
+        env:
+          DATABASE_URL: postgresql://dropship:dropship@localhost:5432/dropship_os
+          SHOPIFY_WEBHOOK_SECRET: test_shopify_secret
+          FLUTTERWAVE_SECRET_HASH: test_flutterwave_hash
+          SUPPLIER_WEBHOOK_SECRET: test_supplier_secret

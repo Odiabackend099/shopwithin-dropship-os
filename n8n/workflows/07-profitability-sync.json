@@ -1,0 +1,11 @@
+{
+  "name": "07-profitability-sync",
+  "active": false,
+  "nodes": [
+    { "parameters": { "rule": { "interval": [{ "field": "hours", "hoursInterval": 1 }] } }, "id": "schedule", "name": "Hourly", "type": "n8n-nodes-base.scheduleTrigger", "typeVersion": 1.2, "position": [0, 0] },
+    { "parameters": { "values": { "string": [{ "name": "dashboard", "value": "revenue,net_profit,cac,roas,aov,refund_rate,shipping_delays" }] } }, "id": "set", "name": "Metric Set", "type": "n8n-nodes-base.set", "typeVersion": 3.4, "position": [220, 0] }
+  ],
+  "connections": { "Hourly": { "main": [[{ "node": "Metric Set", "type": "main", "index": 0 }]] } },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

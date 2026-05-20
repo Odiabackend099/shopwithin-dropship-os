@@ -1,0 +1,5 @@
+level,name,objective,optimization_event,countries,budget_usd_per_day,status,creative,landing_page,utm_source,utm_medium,utm_campaign,utm_content,kill_rule
+campaign,META_SALES_US_FURLIFT_RETARGET_V1,Sales,Purchase,US,1.00,DRAFT_ONLY,best Reels post,https://mxu168-9g.myshopify.com/products/furlift-reusable-pet-hair-detailer,meta,paid_social,furlift_validation_20260518_meta,reels_winner_v1,Pause if no ATC after 100 sessions
+ad_set,META_US_IGREELS_PETOWNERS_V1,Sales,AddToCart,US,1.00,DRAFT_ONLY,1-2 Reels variants,product URL with UTMs,meta,paid_social,furlift_validation_20260518_meta,ig_reels_petowners_v1,Pause if CTR < 0.8%
+ad,META_AD_TRANSFORMATION_FIRST_V1,Sales,AddToCart,US,1.00,DRAFT_ONLY,launch/content-engine/instagram-reels/furlift-reels-v1-transformation-first.mp4,product URL with UTMs,meta,paid_social,furlift_validation_20260518_meta,transformation_first_v1,Pause if CPC is too high and ATC is zero
+

@@ -1,0 +1,13 @@
+- iframe [active] [ref=e2]:
+  - main [ref=f51e3]:
+    - generic [ref=f51e261]:
+      - button [ref=f51e263] [cursor=pointer]:
+        - img [ref=f51e264]
+      - alert [ref=f51e268]:
+        - figure [ref=f51e270]:
+          - img [ref=f51e271]
+        - heading "Thanks for your payment!" [level=4] [ref=f51e276]
+        - paragraph [ref=f51e277]: Your transaction was completed successfully.
+      - generic [ref=f51e278]:
+        - img [ref=f51e279]
+        - generic [ref=f51e281]: SECURED BY FLUTTERWAVE

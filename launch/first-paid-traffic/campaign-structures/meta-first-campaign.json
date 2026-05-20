@@ -1,0 +1,57 @@
+{
+  "campaign": {
+    "name": "META_Sales_FurLift_FirstTraffic_202605",
+    "objective": "Sales",
+    "status": "draft",
+    "dailyBudgetNgnEquivalent": 5000,
+    "spendSafety": {
+      "autoScale": false,
+      "operatorApprovalRequired": true,
+      "maxInitialTestBudgetNgn": 15000
+    }
+  },
+  "adSets": [
+    {
+      "name": "US_CA_UK_AU_BroadPetOwners",
+      "geo": ["United States", "Canada", "United Kingdom", "Australia"],
+      "age": "21-55",
+      "gender": "all",
+      "targeting": "broad with pet-owner creative signals",
+      "optimization": "Purchase if verified, otherwise AddToCart/LandingPageViews"
+    },
+    {
+      "name": "US_CA_UK_AU_PetOwners_Cleaning",
+      "geo": ["United States", "Canada", "United Kingdom", "Australia"],
+      "age": "21-55",
+      "gender": "all",
+      "targeting": ["pet owners", "cats", "dogs", "home cleaning", "housekeeping", "pet supplies"],
+      "optimization": "Purchase if verified, otherwise AddToCart/LandingPageViews"
+    }
+  ],
+  "ads": [
+    {
+      "name": "problem_first",
+      "asset": "launch/content-engine/spark-ad-variants/furlift-spark-a-problem-first.mp4",
+      "primaryText": "Pet hair on the couch again? FurLift scrapes it up fast without wasting lint roller sheets.",
+      "headline": "Reusable Pet Hair Detailer",
+      "cta": "Shop Now",
+      "url": "https://mxu168-9g.myshopify.com/products/furlift-reusable-pet-hair-detailer?utm_source=meta&utm_medium=paid_social&utm_campaign=furlift_validation_20260518_meta&utm_content=problem_first_v1&utm_term=pet_owners"
+    },
+    {
+      "name": "transformation_first",
+      "asset": "launch/content-engine/spark-ad-variants/furlift-spark-b-transformation-first.mp4",
+      "primaryText": "From furry to clean in seconds. Keep one in the car, laundry room, or near the couch.",
+      "headline": "Clean Pet Hair Fast",
+      "cta": "Shop Now",
+      "url": "https://mxu168-9g.myshopify.com/products/furlift-reusable-pet-hair-detailer?utm_source=meta&utm_medium=paid_social&utm_campaign=furlift_validation_20260518_meta&utm_content=transformation_first_v1&utm_term=pet_owners"
+    },
+    {
+      "name": "pov_style",
+      "asset": "launch/content-engine/spark-ad-variants/furlift-spark-c-pov-style.mp4",
+      "primaryText": "POV: you finally found something that pulls pet hair out of fabric instead of just moving it around.",
+      "headline": "Pet Hair Cleanup Tool",
+      "cta": "Shop Now",
+      "url": "https://mxu168-9g.myshopify.com/products/furlift-reusable-pet-hair-detailer?utm_source=meta&utm_medium=paid_social&utm_campaign=furlift_validation_20260518_meta&utm_content=pov_style_v1&utm_term=pet_owners"
+    }
+  ]
+}

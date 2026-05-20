@@ -1,0 +1,14 @@
+{
+  "id": "organization-transformation",
+  "name": "Organization Transformation",
+  "description": "Before/after organization reveal",
+  "environment_block": "closet, drawer, or storage space showing initial disorganized state, visible clutter and mess, realistic home organization challenge, warm neutral home tones",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing with dramatic before/after reveal, natural hand movement showing organization transformation, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "product_interaction_block": "creator shows messy space first, then demonstrates organization product in action, reveals clean organized result with satisfying reveal moment, natural satisfaction expression",
+  "performance_block": "genuine frustration with initial mess, growing satisfaction as organization progresses, joyful reaction at final clean result, authentic transformation emotions",
+  "platform_block": "realistic TikTok organization content style, organic creator content, not polished commercial, satisfying transformation content, authentic organization enthusiast vibe",
+  "lighting_block": "natural daylight or warm indoor lighting, soft shadows, realistic home environment lighting, slight smartphone overexposure during reveal",
+  "motion_block": "satisfying before/after reveal sequence, natural hand movements when organizing, smooth product demonstrations, authentic satisfaction reactions",
+  "audio_block": "subtle drawer opening sounds, product placement sounds, home environment ambience, authentic satisfied speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury home influencer aesthetic, no overly polished production"
+}

@@ -1,0 +1,502 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - generic [ref=e22]:
+        - link "Back to Shipping page" [ref=e451] [cursor=pointer]:
+          - generic [ref=e452]:
+            - img [ref=e456]
+            - img [ref=e461]
+            - generic [ref=e465]: Shipping
+        - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+          - generic [ref=e28]:
+            - generic [ref=e29]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+              - generic "Search" [ref=e30]
+            - generic [ref=e31]:
+              - generic [ref=e32]: ⌘
+              - generic [ref=e33]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e185] [cursor=pointer]:
+            - img [ref=e189]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e44] [cursor=pointer]:
+            - img [ref=e192]
+        - button "eguale samuel" [ref=e57] [cursor=pointer]:
+          - generic [ref=e60]:
+            - img "shopwithin" [ref=e64]:
+              - generic [ref=e65]: SHO
+            - paragraph [ref=e67]: shopwithin
+    - generic [ref=e69]:
+      - generic "Navigation" [ref=e70]:
+        - navigation [ref=e195]:
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - list [ref=e199]:
+                - listitem [ref=e200]:
+                  - link "Home" [ref=e203] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e204]:
+                      - img [ref=e207]
+                      - img [ref=e211]
+                    - generic [ref=e213]: Home
+                - listitem [ref=e214]:
+                  - link "Orders" [ref=e217] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e218]:
+                      - img [ref=e221]
+                      - img [ref=e225]
+                    - generic [ref=e227]: Orders
+                - listitem [ref=e228]:
+                  - link "Products" [ref=e231] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e232]:
+                      - img [ref=e235]
+                      - img [ref=e239]
+                    - generic [ref=e242]: Products
+                - listitem [ref=e243]:
+                  - link "Customers" [ref=e246] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e247]:
+                      - img [ref=e250]
+                      - img [ref=e255]
+                    - generic [ref=e258]: Customers
+                - listitem [ref=e259]:
+                  - link "Marketing" [ref=e262] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e263]:
+                      - img [ref=e266]
+                      - img [ref=e272]
+                    - generic [ref=e276]: Marketing
+                - listitem [ref=e277]:
+                  - link "Discounts" [ref=e280] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e281]:
+                      - img [ref=e284]
+                      - img [ref=e288]
+                    - generic [ref=e293]: Discounts
+                - listitem [ref=e294]:
+                  - link "Content" [ref=e297] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e298]:
+                      - img [ref=e301]
+                      - img [ref=e308]
+                    - generic [ref=e313]: Content
+                - listitem [ref=e314]:
+                  - link "Markets" [ref=e317] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e318]:
+                      - img [ref=e321]
+                      - img [ref=e326]
+                    - generic [ref=e329]: Markets
+                - listitem [ref=e343]:
+                  - link "Analytics" [ref=e346] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e347]:
+                      - img [ref=e350]
+                      - img [ref=e356]
+                    - generic [ref=e360]: Analytics
+              - list [ref=e361]:
+                - listitem [ref=e362]:
+                  - button "Sales channels" [ref=e364] [cursor=pointer]:
+                    - strong [ref=e366]:
+                      - generic: Sales channels
+                  - list [ref=e368]:
+                    - button "Online Store" [ref=e369]:
+                      - list [ref=e370]:
+                        - listitem [ref=e371]:
+                          - link "Online Store" [ref=e374] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=f63a54a6-0421-4c28-8463-f08955835be0
+                            - img [ref=e376]
+                            - generic [ref=e377]: Online Store
+                    - button "Agentic" [ref=e378]:
+                      - list [ref=e379]:
+                        - listitem [ref=e380]:
+                          - link "Agentic" [ref=e383] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=183a4d4c-dc52-4cbb-90be-ae9e39f92fc1
+                            - img [ref=e385]
+                            - generic [ref=e386]: Agentic
+                  - status [ref=e387]
+                - listitem [ref=e388]:
+                  - button "Apps" [ref=e390] [cursor=pointer]:
+                    - strong [ref=e392]:
+                      - generic: Apps
+                - listitem [ref=e394]:
+                  - button "Sidekick conversations" [ref=e396] [cursor=pointer]:
+                    - strong [ref=e398]:
+                      - generic: Sidekick conversations
+                  - list [ref=e401]:
+                    - listitem [ref=e402]:
+                      - button "Setting up payments for your store" [ref=e405] [cursor=pointer]:
+                        - generic [ref=e406]: Setting up payments for your store
+            - list [ref=e408]:
+              - listitem [ref=e409]:
+                - link "Settings" [ref=e412] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings
+                  - img [ref=e416]
+                  - generic [ref=e418]: Settings
+      - main [ref=e95]
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e430]
+    - dialog "Settings" [ref=e467]:
+      - button "Close" [ref=e468] [cursor=pointer]:
+        - img [ref=e471]
+      - generic [ref=e476]:
+        - generic [ref=e480]:
+          - generic [ref=e481]:
+            - button "Update internal icon" [ref=e483] [cursor=pointer]:
+              - generic [ref=e484]:
+                - img "shopwithin" [ref=e487]:
+                  - generic [ref=e488]: SHO
+                - img [ref=e492]
+            - generic [ref=e494]:
+              - heading "shopwithin" [level=3] [ref=e495]:
+                - generic [ref=e496]: shopwithin
+              - link "mxu168-9g.myshopify.com" [ref=e499] [cursor=pointer]:
+                - /url: /store/mxu168-9g/settings/domains
+                - generic [ref=e500]: mxu168-9g.myshopify.com
+          - generic [ref=e504]:
+            - img [ref=e508]
+            - combobox "Search" [ref=e511]
+          - navigation "Shop settings menu" [ref=e512]:
+            - list [ref=e513]:
+              - listitem [ref=e514]:
+                - link "General" [ref=e516] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/general
+                  - generic [ref=e517]:
+                    - img [ref=e521]
+                    - generic [ref=e524]: General
+              - listitem [ref=e525]:
+                - link "Plan" [ref=e527] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/plan
+                  - generic [ref=e528]:
+                    - img [ref=e532]
+                    - generic [ref=e535]: Plan
+              - listitem [ref=e536]:
+                - link "Billing" [ref=e538] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/billing
+                  - generic [ref=e539]:
+                    - img [ref=e543]
+                    - generic [ref=e545]: Billing
+              - listitem [ref=e546]:
+                - link "Users" [ref=e548] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/organization-account
+                  - generic [ref=e549]:
+                    - img [ref=e553]
+                    - generic [ref=e555]: Users
+              - listitem [ref=e556]:
+                - link "Payments" [ref=e558] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/payments
+                  - generic [ref=e559]:
+                    - img [ref=e563]
+                    - generic [ref=e566]: Payments
+              - listitem [ref=e567]:
+                - link "Checkout" [ref=e569] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/checkout
+                  - generic [ref=e570]:
+                    - img [ref=e574]
+                    - generic [ref=e578]: Checkout
+              - listitem [ref=e579]:
+                - link "Customer accounts" [ref=e581] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/customer_accounts
+                  - generic [ref=e582]:
+                    - img [ref=e586]
+                    - generic [ref=e589]: Customer accounts
+              - listitem [ref=e590]:
+                - link "Shipping and delivery" [ref=e592] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/shipping
+                  - generic [ref=e593]:
+                    - img [ref=e597]
+                    - generic [ref=e600]: Shipping and delivery
+              - listitem [ref=e601]:
+                - link "Taxes and duties" [ref=e603] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/taxes
+                  - generic [ref=e604]:
+                    - img [ref=e608]
+                    - generic [ref=e610]: Taxes and duties
+              - listitem [ref=e611]:
+                - link "Locations" [ref=e613] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/locations
+                  - generic [ref=e614]:
+                    - img [ref=e618]
+                    - generic [ref=e620]: Locations
+              - listitem [ref=e621]:
+                - link "Apps" [ref=e623] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/apps
+                  - generic [ref=e624]:
+                    - img [ref=e628]
+                    - generic [ref=e633]: Apps
+              - listitem [ref=e634]:
+                - link "Sales channels" [ref=e636] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/sales_channels
+                  - generic [ref=e637]:
+                    - img [ref=e641]
+                    - generic [ref=e643]: Sales channels
+              - listitem [ref=e644]:
+                - link "Domains" [ref=e646] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/domains
+                  - generic [ref=e647]:
+                    - img [ref=e651]
+                    - generic [ref=e655]: Domains
+              - listitem [ref=e656]:
+                - link "Customer events" [ref=e658] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/customer_events
+                  - generic [ref=e659]:
+                    - img [ref=e663]
+                    - generic [ref=e670]: Customer events
+              - listitem [ref=e671]:
+                - link "Notifications" [ref=e673] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/notifications
+                  - generic [ref=e674]:
+                    - img [ref=e678]
+                    - generic [ref=e680]: Notifications
+              - listitem [ref=e681]:
+                - link "Metafields and metaobjects" [ref=e683] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/custom_data
+                  - generic [ref=e684]:
+                    - img [ref=e688]
+                    - generic [ref=e690]: Metafields and metaobjects
+              - listitem [ref=e691]:
+                - link "Languages" [ref=e693] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/languages
+                  - generic [ref=e694]:
+                    - img [ref=e698]
+                    - generic [ref=e702]: Languages
+              - listitem [ref=e703]:
+                - link "Customer privacy" [ref=e705] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/privacy
+                  - generic [ref=e706]:
+                    - img [ref=e710]
+                    - generic [ref=e712]: Customer privacy
+              - listitem [ref=e713]:
+                - link "Policies" [ref=e715] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/legal
+                  - generic [ref=e716]:
+                    - img [ref=e720]
+                    - generic [ref=e722]: Policies
+          - link "eguale samuel egualesamuel@gmail.com" [ref=e724] [cursor=pointer]:
+            - /url: https://accounts.shopify.com/accounts/400d1013-c92b-4292-b70c-576c4dcdc41f/redirect
+            - generic [ref=e725]:
+              - img "es" [ref=e728]:
+                - generic [ref=e729]: ES
+              - generic [ref=e730]:
+                - heading "eguale samuel" [level=6] [ref=e732]:
+                  - generic [ref=e733]: eguale samuel
+                - heading "egualesamuel@gmail.com" [level=6] [ref=e734]:
+                  - generic [ref=e735]: egualesamuel@gmail.com
+        - generic [ref=e739]:
+          - generic [ref=e740]:
+            - status:
+              - paragraph [ref=e741]: Manage shipping profile. This page is ready
+            - generic [ref=e743]:
+              - navigation "Breadcrumbs for Shipping and delivery" [ref=e746]:
+                - generic [ref=e747]:
+                  - link "Shipping and delivery" [ref=e748] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings/shipping
+                    - img [ref=e752]
+                  - img [ref=e755]
+                  - heading "Manage shipping profile" [level=1] [ref=e758]
+              - button "Actions" [ref=e765] [cursor=pointer]:
+                - generic [ref=e766]: Actions
+                - img [ref=e770]
+          - generic [ref=e775]:
+            - generic [ref=e778]:
+              - heading "Profile name" [level=2] [ref=e779]:
+                - generic: Profile name
+              - generic [ref=e780]:
+                - generic [ref=e783]: Profile name
+                - textbox "Profile name" [ref=e787]:
+                  - /placeholder: Fragile products
+                  - text: Zendrop
+                - paragraph [ref=e789]: Customers won’t see this
+            - generic [ref=e793]:
+              - heading "Products" [level=2] [ref=e799]
+              - list [ref=e806]:
+                - listitem [ref=e807] [cursor=pointer]:
+                  - generic [ref=e811]:
+                    - generic [ref=e813]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                    - button "0 products" [ref=e818]
+                    - generic [ref=e819]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+            - generic [ref=e827]:
+              - generic [ref=e829]: Fulfillment location
+              - generic [ref=e831]:
+                - list [ref=e833]:
+                  - listitem [ref=e834]:
+                    - generic [ref=e838]:
+                      - img [ref=e843]
+                      - generic [ref=e848]:
+                        - generic [ref=e850]: Zendrop
+                        - generic [ref=e852]:
+                          - generic: App
+                      - button "More actions" [ref=e857] [cursor=pointer]:
+                        - img [ref=e861]
+                - separator [ref=e866]
+                - button "Add location" [ref=e868] [cursor=pointer]:
+                  - generic [ref=e872]:
+                    - img [ref=e875]
+                    - paragraph [ref=e879]: Add location
+              - generic [ref=e880]: Shipping zones
+              - generic [ref=e882]:
+                - heading "[Zendrop — Worldwide Zone] Rest of World More actions" [level=2] [ref=e883]:
+                  - generic [ref=e887]:
+                    - generic [ref=e892]:
+                      - generic [ref=e893]: "[Zendrop — Worldwide Zone]"
+                      - generic [ref=e894]:
+                        - generic: Rest of World
+                    - button "More actions" [ref=e899] [cursor=pointer]:
+                      - img [ref=e903]
+                - list [ref=e908]:
+                  - separator [ref=e910]
+                  - listitem [ref=e911]:
+                    - generic [ref=e915]:
+                      - img [ref=e920]
+                      - generic [ref=e923]:
+                        - generic [ref=e927]: "[Free Shipping]"
+                        - generic [ref=e929]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic: Free
+                      - button "More actions" [ref=e934] [cursor=pointer]:
+                        - img [ref=e938]
+                - separator [ref=e943]
+                - button "Add shipping option" [ref=e945] [cursor=pointer]:
+                  - generic [ref=e949]:
+                    - img [ref=e952]
+                    - paragraph [ref=e956]: Add shipping option
+              - list [ref=e960]:
+                - button "Add zone" [ref=e962] [cursor=pointer]:
+                  - generic [ref=e966]:
+                    - img [ref=e969]
+                    - paragraph [ref=e973]: Add zone
+            - generic [ref=e977]:
+              - heading "Not fulfilling from" [level=2] [ref=e983]
+              - list [ref=e990]:
+                - listitem [ref=e991]:
+                  - generic [ref=e995]:
+                    - img [ref=e1000]
+                    - generic [ref=e1005]:
+                      - link "Shop location" [ref=e1008] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/settings/locations/114816942361
+                        - generic: Shop location
+                      - generic [ref=e1012]:
+                        - generic: Nigeria
+                    - button "Start shipping" [ref=e1016] [cursor=pointer]:
+                      - generic [ref=e1017]: Start shipping
+      - generic:
+        - generic:
+          - button "Close":
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic: Close
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - dialog "Manage products":
+              - generic [ref=e1018]:
+                - generic [ref=e1020]:
+                  - heading "Manage products" [level=2] [ref=e1022]
+                  - button "Close" [ref=e1023] [cursor=pointer]:
+                    - img [ref=e1027]
+                - generic [ref=e1032]:
+                  - generic [ref=e1036]:
+                    - generic [ref=e1039]:
+                      - generic [ref=e1041]:
+                        - generic [ref=e1044]: Search products
+                        - generic [ref=e1047]:
+                          - img [ref=e1051]
+                          - textbox "Search products" [active] [ref=e1053]
+                      - generic [ref=e1056]:
+                        - generic [ref=e1059]: Search by
+                        - generic [ref=e1060]:
+                          - combobox "Search by" [ref=e1061]:
+                            - option "All" [selected]
+                            - option "Product title"
+                            - option "Product ID"
+                            - option "Barcode"
+                            - option "SKU"
+                            - option "Variant ID"
+                            - option "Variant title"
+                          - generic [ref=e1062]:
+                            - generic [ref=e1064]: Search by
+                            - generic [ref=e1065]: All
+                            - img [ref=e1069]
+                    - button "Add filter" [ref=e1079] [cursor=pointer]:
+                      - generic [ref=e1080]: Add filter
+                      - img [ref=e1081]
+                  - list [ref=e1086]:
+                    - listitem [ref=e1087]:
+                      - generic [ref=e1090]:
+                        - generic [ref=e1092]:
+                          - generic [ref=e1095] [cursor=pointer]:
+                            - generic [ref=e1097]:
+                              - checkbox "Product" [ref=e1098]
+                              - generic:
+                                - img
+                            - generic [ref=e1100]: Product
+                          - paragraph [ref=e1101]: Product
+                        - paragraph [ref=e1103]: Profile
+                    - listitem [ref=e1104]:
+                      - 'generic "Select: FurLift Reusable Pet Hair Detailer" [ref=e1106]':
+                        - generic [ref=e1109]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - checkbox "FurLift Reusable Pet Hair Detailer"
+                                      - generic:
+                                        - img
+                                  - generic:
+                                    - generic: FurLift Reusable Pet Hair Detailer
+                          - img "FurLift Reusable Pet Hair Detailer" [ref=e1113]
+                          - generic [ref=e1114]: FurLift Reusable Pet Hair Detailer
+                    - listitem [ref=e1115]:
+                      - 'generic "Select: FurLift Reusable Pet Hair Detailer - New Blue" [ref=e1117]':
+                        - generic [ref=e1119]:
+                          - generic [ref=e1121]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - checkbox "FurLift Reusable Pet Hair Detailer - New Blue"
+                                        - generic:
+                                          - img
+                                    - generic:
+                                      - generic: FurLift Reusable Pet Hair Detailer - New Blue
+                            - generic [ref=e1124]: New Blue
+                          - generic [ref=e1126]: General profile
+                - generic [ref=e1133]:
+                  - button "Cancel" [ref=e1134] [cursor=pointer]:
+                    - generic [ref=e1135]: Cancel
+                  - button "Done" [disabled]:
+                    - generic: Done

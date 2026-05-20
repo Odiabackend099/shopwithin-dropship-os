@@ -1,0 +1,14 @@
+{
+  "id": "beauty-tool-demo",
+  "name": "Beauty Tool Demo",
+  "description": "Beauty tool demonstration and results",
+  "environment_block": "bathroom vanity or bedroom makeup area, visible beauty products and tools, realistic home beauty environment, warm aesthetic lighting",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing with bathroom mirror or vanity shots, natural hand movement showing beauty tools, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "product_interaction_block": "creator demonstrates beauty tool in action, shows application process and final result, natural satisfaction with tool performance, pauses to explain benefits to camera",
+  "performance_block": "enthusiastic beauty care energy, genuine curiosity and excitement, natural eye contact with camera during explanations, authentic reactions to beauty results",
+  "platform_block": "realistic TikTok beauty content style, organic creator content, not polished commercial, authentic beauty enthusiast vibe, satisfying product demonstrations",
+  "lighting_block": "warm vanity lighting or natural daylight, soft shadows, realistic beauty environment lighting, slight smartphone overexposure on bright surfaces",
+  "motion_block": "natural hand movements when applying beauty products, smooth tool demonstrations, authentic satisfaction reactions with results",
+  "audio_block": "subtle product application sounds, beauty tool operation sounds, bathroom environment ambience, authentic enthusiastic speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury beauty influencer aesthetic, no overly polished production"
+}

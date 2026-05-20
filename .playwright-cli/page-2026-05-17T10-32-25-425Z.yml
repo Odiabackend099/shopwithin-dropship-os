@@ -1,0 +1,685 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e30]
+          - generic [ref=e31]:
+            - generic [ref=e32]: ⌘
+            - generic [ref=e33]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e40] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e54] [cursor=pointer]:
+            - img [ref=e58]
+        - button "Austyn Eguale" [ref=e69] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img "FurLift Staging" [ref=e76]:
+              - generic [ref=e77]: FS
+            - paragraph [ref=e79]: FurLift Staging
+            - generic [ref=e81]: dev
+    - generic [ref=e83]:
+      - generic "Navigation" [ref=e84]:
+        - navigation [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - list [ref=e90]:
+                - listitem [ref=e91]:
+                  - link "Home" [ref=e94] [cursor=pointer]:
+                    - /url: /store/furlift-staging
+                    - generic [ref=e95]:
+                      - img [ref=e98]
+                      - img [ref=e102]
+                    - generic [ref=e104]: Home
+                - listitem [ref=e105]:
+                  - link "Orders" [ref=e108] [cursor=pointer]:
+                    - /url: /store/furlift-staging/orders
+                    - generic [ref=e109]:
+                      - img [ref=e112]
+                      - img [ref=e116]
+                    - generic [ref=e118]: Orders
+                - listitem [ref=e119]:
+                  - link "Products" [ref=e122] [cursor=pointer]:
+                    - /url: /store/furlift-staging/products
+                    - generic [ref=e123]:
+                      - img [ref=e126]
+                      - img [ref=e130]
+                    - generic [ref=e133]: Products
+                - listitem [ref=e134]:
+                  - link "Customers" [ref=e137] [cursor=pointer]:
+                    - /url: /store/furlift-staging/customers
+                    - generic [ref=e138]:
+                      - img [ref=e141]
+                      - img [ref=e146]
+                    - generic [ref=e149]: Customers
+                - listitem [ref=e150]:
+                  - link "Marketing" [ref=e153] [cursor=pointer]:
+                    - /url: /store/furlift-staging/marketing
+                    - generic [ref=e154]:
+                      - img [ref=e157]
+                      - img [ref=e163]
+                    - generic [ref=e167]: Marketing
+                - listitem [ref=e168]:
+                  - link "Discounts" [ref=e171] [cursor=pointer]:
+                    - /url: /store/furlift-staging/discounts
+                    - generic [ref=e172]:
+                      - img [ref=e175]
+                      - img [ref=e179]
+                    - generic [ref=e184]: Discounts
+                - listitem [ref=e185]:
+                  - link "Content" [ref=e188] [cursor=pointer]:
+                    - /url: /store/furlift-staging/content/metaobjects
+                    - generic [ref=e189]:
+                      - img [ref=e192]
+                      - img [ref=e199]
+                    - generic [ref=e204]: Content
+                - listitem [ref=e205]:
+                  - link "Markets" [ref=e208] [cursor=pointer]:
+                    - /url: /store/furlift-staging/markets
+                    - generic [ref=e209]:
+                      - img [ref=e212]
+                      - img [ref=e217]
+                    - generic [ref=e220]: Markets
+                - listitem [ref=e221]:
+                  - link "Finance" [ref=e224] [cursor=pointer]:
+                    - /url: /store/furlift-staging/finance
+                    - generic [ref=e225]:
+                      - img [ref=e228]
+                      - img [ref=e232]
+                    - generic [ref=e234]: Finance
+                - listitem [ref=e235]:
+                  - link "Analytics" [ref=e238] [cursor=pointer]:
+                    - /url: /store/furlift-staging/analytics
+                    - generic [ref=e239]:
+                      - img [ref=e242]
+                      - img [ref=e248]
+                    - generic [ref=e252]: Analytics
+              - list [ref=e253]:
+                - listitem [ref=e254]:
+                  - button "Sales channels" [ref=e256] [cursor=pointer]:
+                    - strong [ref=e258]:
+                      - generic: Sales channels
+                  - list [ref=e260]:
+                    - button "Online Store" [ref=e261]:
+                      - list [ref=e262]:
+                        - listitem [ref=e263]:
+                          - link "Online Store" [ref=e266] [cursor=pointer]:
+                            - /url: /store/furlift-staging/themes?appLoadId=2e1715b6-8447-431a-8cbc-5628bff763f1
+                            - img [ref=e268]
+                            - generic [ref=e269]: Online Store
+                    - button "Agentic" [ref=e270]:
+                      - list [ref=e271]:
+                        - listitem [ref=e272]:
+                          - link "Agentic" [ref=e275] [cursor=pointer]:
+                            - /url: /store/furlift-staging/apps/agentic?appLoadId=b2359ee5-bdc9-4de7-9aaf-76392f706f9c
+                            - img [ref=e277]
+                            - generic [ref=e278]: Agentic
+                  - status [ref=e279]
+                - listitem [ref=e280]:
+                  - button "Apps" [ref=e282] [cursor=pointer]:
+                    - strong [ref=e284]:
+                      - generic: Apps
+                  - button "Add" [ref=e287] [cursor=pointer]:
+                    - img [ref=e291]
+                    - text: Add
+                - listitem [ref=e294]:
+                  - button "Sidekick conversations" [ref=e296] [cursor=pointer]:
+                    - strong [ref=e298]:
+                      - generic: Sidekick conversations
+                  - list [ref=e301]:
+                    - listitem [ref=e302]:
+                      - button "Designing your Shopify store for launch" [ref=e305] [cursor=pointer]:
+                        - generic [ref=e306]: Designing your Shopify store for launch
+            - list [ref=e308]:
+              - listitem [ref=e309]:
+                - link "Settings" [ref=e312] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings
+                  - img [ref=e316]
+                  - generic [ref=e318]: Settings
+      - main [ref=e319]
+  - generic:
+    - dialog "Settings" [ref=e325]:
+      - button "Close" [ref=e326] [cursor=pointer]:
+        - img [ref=e329]
+      - generic [ref=e334]:
+        - generic [ref=e338]:
+          - generic [ref=e341]:
+            - heading "Barpel AI" [level=3] [ref=e342]:
+              - generic [ref=e343]: Barpel AI
+            - generic [ref=e344]: Organization
+          - generic [ref=e348]:
+            - img [ref=e352]
+            - combobox "Search" [ref=e355]
+          - navigation "Organization settings menu" [ref=e357]:
+            - list [ref=e358]:
+              - listitem [ref=e359]:
+                - link "Organization" [ref=e361] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/organization-details
+                  - generic [ref=e362]:
+                    - img [ref=e366]
+                    - generic [ref=e368]: Organization
+              - listitem [ref=e369]:
+                - link "Users" [ref=e371] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/organization-account
+                  - generic [ref=e372]:
+                    - img [ref=e376]
+                    - generic [ref=e378]: Users
+          - navigation "Shop settings menu" [ref=e379]:
+            - generic [ref=e381]:
+              - button "Update internal icon" [ref=e383] [cursor=pointer]:
+                - generic [ref=e384]:
+                  - img "FurLift Staging" [ref=e387]:
+                    - generic [ref=e388]: FS
+                  - img [ref=e392]
+              - generic [ref=e395]:
+                - heading "FurLift Staging" [level=3] [ref=e396]:
+                  - generic [ref=e397]: FurLift Staging
+                - link "furlift-staging.myshopify.com" [ref=e400] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/domains
+                  - generic [ref=e403]: furlift-staging.myshopify.com
+            - list [ref=e404]:
+              - listitem [ref=e405]:
+                - link "General" [ref=e407] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/general
+                  - generic [ref=e408]:
+                    - img [ref=e412]
+                    - generic [ref=e415]: General
+              - listitem [ref=e416]:
+                - link "Plan" [ref=e418] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/plan
+                  - generic [ref=e419]:
+                    - img [ref=e423]
+                    - generic [ref=e426]: Plan
+              - listitem [ref=e427]:
+                - link "Billing" [ref=e429] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/billing
+                  - generic [ref=e430]:
+                    - img [ref=e434]
+                    - generic [ref=e436]: Billing
+              - listitem [ref=e437]:
+                - link "Payments" [ref=e439] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/payments
+                  - generic [ref=e440]:
+                    - img [ref=e444]
+                    - generic [ref=e446]: Payments
+              - listitem [ref=e447]:
+                - link "Checkout" [ref=e449] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/checkout
+                  - generic [ref=e450]:
+                    - img [ref=e454]
+                    - generic [ref=e458]: Checkout
+              - listitem [ref=e459]:
+                - link "Customer accounts" [ref=e461] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/customer_accounts
+                  - generic [ref=e462]:
+                    - img [ref=e466]
+                    - generic [ref=e469]: Customer accounts
+              - listitem [ref=e470]:
+                - link "Shipping and delivery" [ref=e472] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/shipping
+                  - generic [ref=e473]:
+                    - img [ref=e477]
+                    - generic [ref=e479]: Shipping and delivery
+              - listitem [ref=e480]:
+                - link "Taxes and duties" [ref=e482] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/taxes
+                  - generic [ref=e483]:
+                    - img [ref=e487]
+                    - generic [ref=e489]: Taxes and duties
+              - listitem [ref=e490]:
+                - link "Locations" [ref=e492] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/locations
+                  - generic [ref=e493]:
+                    - img [ref=e497]
+                    - generic [ref=e499]: Locations
+              - listitem [ref=e500]:
+                - link "Markets" [ref=e502] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/markets
+                  - generic [ref=e503]:
+                    - img [ref=e507]
+                    - generic [ref=e510]: Markets
+              - listitem [ref=e511]:
+                - link "Apps" [ref=e513] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/apps
+                  - generic [ref=e514]:
+                    - img [ref=e518]
+                    - generic [ref=e523]: Apps
+              - listitem [ref=e524]:
+                - link "Sales channels" [ref=e526] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/sales_channels
+                  - generic [ref=e527]:
+                    - img [ref=e531]
+                    - generic [ref=e533]: Sales channels
+              - listitem [ref=e534]:
+                - link "Domains" [ref=e536] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/domains
+                  - generic [ref=e537]:
+                    - img [ref=e541]
+                    - generic [ref=e545]: Domains
+              - listitem [ref=e546]:
+                - link "Customer events" [ref=e548] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/customer_events
+                  - generic [ref=e549]:
+                    - img [ref=e553]
+                    - generic [ref=e560]: Customer events
+              - listitem [ref=e561]:
+                - link "Notifications" [ref=e563] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/notifications
+                  - generic [ref=e564]:
+                    - img [ref=e568]
+                    - generic [ref=e570]: Notifications
+              - listitem [ref=e571]:
+                - link "Metafields and metaobjects" [ref=e573] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/custom_data
+                  - generic [ref=e574]:
+                    - img [ref=e578]
+                    - generic [ref=e580]: Metafields and metaobjects
+              - listitem [ref=e581]:
+                - link "Languages" [ref=e583] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/languages
+                  - generic [ref=e584]:
+                    - img [ref=e588]
+                    - generic [ref=e592]: Languages
+              - listitem [ref=e593]:
+                - link "Customer privacy" [ref=e595] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/privacy
+                  - generic [ref=e596]:
+                    - img [ref=e600]
+                    - generic [ref=e602]: Customer privacy
+              - listitem [ref=e603]:
+                - link "Policies" [ref=e605] [cursor=pointer]:
+                  - /url: /store/furlift-staging/settings/legal
+                  - generic [ref=e606]:
+                    - img [ref=e610]
+                    - generic [ref=e612]: Policies
+          - link "Austyn Eguale austyneguale@gmail.com" [ref=e614] [cursor=pointer]:
+            - /url: https://accounts.shopify.com/accounts/73d9c79f-52db-460a-be70-6b76608743d1/redirect
+            - generic [ref=e615]:
+              - img "AE" [ref=e618]:
+                - generic [ref=e619]: AE
+              - generic [ref=e620]:
+                - heading "Austyn Eguale" [level=6] [ref=e622]:
+                  - generic [ref=e623]: Austyn Eguale
+                - heading "austyneguale@gmail.com" [level=6] [ref=e624]:
+                  - generic [ref=e625]: austyneguale@gmail.com
+        - main [ref=e911]:
+          - generic [ref=e919]:
+            - generic:
+              - navigation [ref=e922]:
+                - generic [ref=e924]:
+                  - generic:
+                    - link "Payments" [ref=e927] [cursor=pointer]:
+                      - /url: /store/furlift-staging/settings/payments
+                      - img [ref=e931]
+                    - img [ref=e936]
+              - heading "Third-party payment providers" [level=1] [ref=e941]
+          - generic [ref=e944]:
+            - generic:
+              - generic [ref=e951]:
+                - generic [ref=e953]:
+                  - generic [ref=e955]:
+                    - generic [ref=e957]: Search
+                    - generic [ref=e960]:
+                      - img [ref=e965]
+                      - searchbox "Search" [ref=e967]
+                  - button [ref=e969] [cursor=pointer]:
+                    - img [ref=e973]
+                - list [ref=e980]:
+                  - listitem [ref=e981] [cursor=pointer]:
+                    - generic [ref=e985]:
+                      - button "(for testing) Bogus Gateway" [ref=e988]:
+                        - generic [ref=e990]:
+                          - heading "(for testing) Bogus Gateway" [level=4] [ref=e993]
+                          - img "Bogus (for testing)" [ref=e1001]
+                      - generic [ref=e1002]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1004]
+                  - listitem [ref=e1005] [cursor=pointer]:
+                    - generic [ref=e1009]:
+                      - button "Airwallex Supports 3DS +1" [ref=e1012]:
+                        - generic [ref=e1014]:
+                          - generic [ref=e1015]:
+                            - heading "Airwallex" [level=4] [ref=e1017]
+                            - generic [ref=e1018]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1021]:
+                            - img "Visa" [ref=e1026]
+                            - img "Mastercard" [ref=e1031]
+                            - img "American Express" [ref=e1036]
+                            - img "Discover" [ref=e1041]
+                            - img "JCB" [ref=e1046]
+                            - img "Diners Club" [ref=e1051]
+                            - img "Maestro" [ref=e1056]
+                            - img "UnionPay" [ref=e1061]
+                            - img "Apple Pay" [ref=e1066]
+                            - generic [ref=e1071]:
+                              - generic: "+1"
+                      - generic [ref=e1072]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1074]
+                  - listitem [ref=e1075] [cursor=pointer]:
+                    - generic [ref=e1079]:
+                      - button "Antom (Ant Intl) - Credit Card Supports 3DS" [ref=e1082]:
+                        - generic [ref=e1084]:
+                          - generic [ref=e1085]:
+                            - heading "Antom (Ant Intl) - Credit Card" [level=4] [ref=e1087]
+                            - generic [ref=e1088]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1091]:
+                            - img "Visa" [ref=e1096]
+                            - img "Mastercard" [ref=e1101]
+                            - img "American Express" [ref=e1106]
+                            - img "Discover" [ref=e1111]
+                            - img "JCB" [ref=e1116]
+                            - img "Diners Club" [ref=e1121]
+                            - img "UnionPay" [ref=e1126]
+                      - generic [ref=e1127]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1129]
+                  - listitem [ref=e1130] [cursor=pointer]:
+                    - generic [ref=e1134]:
+                      - button "Appmax - Cartão de Crédito" [ref=e1137]:
+                        - generic [ref=e1139]:
+                          - heading "Appmax - Cartão de Crédito" [level=4] [ref=e1142]
+                          - generic [ref=e1145]:
+                            - img "Visa" [ref=e1150]
+                            - img "Mastercard" [ref=e1155]
+                            - img "American Express" [ref=e1160]
+                            - img "Discover" [ref=e1165]
+                            - img "JCB" [ref=e1170]
+                            - img "Diners Club" [ref=e1175]
+                            - img "Elo" [ref=e1180]
+                      - generic [ref=e1181]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1183]
+                  - listitem [ref=e1184] [cursor=pointer]:
+                    - generic [ref=e1188]:
+                      - button "authorize.net" [ref=e1191]:
+                        - generic [ref=e1193]:
+                          - heading "authorize.net" [level=4] [ref=e1196]
+                          - generic [ref=e1199]:
+                            - img "Visa" [ref=e1204]
+                            - img "Mastercard" [ref=e1209]
+                            - img "American Express" [ref=e1214]
+                            - img "Discover" [ref=e1219]
+                            - img "JCB" [ref=e1224]
+                            - img "Diners Club" [ref=e1229]
+                            - img "Apple Pay" [ref=e1234]
+                            - img "Google Pay" [ref=e1239]
+                      - generic [ref=e1240]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1242]
+                  - listitem [ref=e1243] [cursor=pointer]:
+                    - generic [ref=e1247]:
+                      - button "Cards Onsite by 1Razorpay Supports 3DS" [ref=e1250]:
+                        - generic [ref=e1252]:
+                          - generic [ref=e1253]:
+                            - heading "Cards Onsite by 1Razorpay" [level=4] [ref=e1255]
+                            - generic [ref=e1256]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1259]:
+                            - img "Visa" [ref=e1264]
+                            - img "Mastercard" [ref=e1269]
+                            - img "American Express" [ref=e1274]
+                            - img "Diners Club" [ref=e1279]
+                            - img "Maestro" [ref=e1284]
+                            - img "RuPay" [ref=e1289]
+                      - generic [ref=e1290]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1292]
+                  - listitem [ref=e1293] [cursor=pointer]:
+                    - generic [ref=e1297]:
+                      - button "Clover Payments" [ref=e1300]:
+                        - generic [ref=e1302]:
+                          - heading "Clover Payments" [level=4] [ref=e1305]
+                          - generic [ref=e1308]:
+                            - img "Visa" [ref=e1313]
+                            - img "Mastercard" [ref=e1318]
+                            - img "American Express" [ref=e1323]
+                            - img "Discover" [ref=e1328]
+                            - img "JCB" [ref=e1333]
+                            - img "UnionPay" [ref=e1338]
+                            - img "Apple Pay" [ref=e1343]
+                            - img "Google Pay" [ref=e1348]
+                      - generic [ref=e1349]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1351]
+                  - listitem [ref=e1352] [cursor=pointer]:
+                    - generic [ref=e1356]:
+                      - button "Cybersource Supports 3DS" [ref=e1359]:
+                        - generic [ref=e1361]:
+                          - generic [ref=e1362]:
+                            - heading "Cybersource" [level=4] [ref=e1364]
+                            - generic [ref=e1365]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1368]:
+                            - img "Visa" [ref=e1373]
+                            - img "Mastercard" [ref=e1378]
+                            - img "American Express" [ref=e1383]
+                            - img "Discover" [ref=e1388]
+                            - img "JCB" [ref=e1393]
+                            - img "Diners Club" [ref=e1398]
+                            - img "UnionPay" [ref=e1403]
+                            - img "Apple Pay" [ref=e1408]
+                            - img "Google Pay" [ref=e1413]
+                      - generic [ref=e1414]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1416]
+                  - listitem [ref=e1417] [cursor=pointer]:
+                    - generic [ref=e1421]:
+                      - button "dLocal Go Credit Cards" [ref=e1424]:
+                        - generic [ref=e1426]:
+                          - heading "dLocal Go Credit Cards" [level=4] [ref=e1429]
+                          - generic [ref=e1432]:
+                            - img "Visa" [ref=e1437]
+                            - img "Mastercard" [ref=e1442]
+                            - img "American Express" [ref=e1447]
+                            - img "Discover" [ref=e1452]
+                      - generic [ref=e1453]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1455]
+                  - listitem [ref=e1456] [cursor=pointer]:
+                    - generic [ref=e1460]:
+                      - button "Ecart Pay Card Supports 3DS" [ref=e1463]:
+                        - generic [ref=e1465]:
+                          - generic [ref=e1466]:
+                            - heading "Ecart Pay Card" [level=4] [ref=e1468]
+                            - generic [ref=e1469]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1472]:
+                            - img "Visa" [ref=e1477]
+                            - img "Mastercard" [ref=e1482]
+                            - img "American Express" [ref=e1487]
+                      - generic [ref=e1488]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1490]
+                  - listitem [ref=e1491] [cursor=pointer]:
+                    - generic [ref=e1495]:
+                      - button "Integration-UseePay Supports 3DS" [ref=e1498]:
+                        - generic [ref=e1500]:
+                          - generic [ref=e1501]:
+                            - heading "Integration-UseePay" [level=4] [ref=e1503]
+                            - generic [ref=e1504]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1507]:
+                            - img "Visa" [ref=e1512]
+                            - img "Mastercard" [ref=e1517]
+                            - img "American Express" [ref=e1522]
+                            - img "Discover" [ref=e1527]
+                            - img "JCB" [ref=e1532]
+                            - img "Diners Club" [ref=e1537]
+                            - img "Maestro" [ref=e1542]
+                      - generic [ref=e1543]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1545]
+                  - listitem [ref=e1546] [cursor=pointer]:
+                    - generic [ref=e1550]:
+                      - button "MyFatoorah Supports 3DS" [ref=e1553]:
+                        - generic [ref=e1555]:
+                          - generic [ref=e1556]:
+                            - heading "MyFatoorah" [level=4] [ref=e1558]
+                            - generic [ref=e1559]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1562]:
+                            - img "Visa" [ref=e1567]
+                            - img "Mastercard" [ref=e1572]
+                            - img "American Express" [ref=e1577]
+                      - generic [ref=e1578]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1580]
+                  - listitem [ref=e1581] [cursor=pointer]:
+                    - generic [ref=e1585]:
+                      - button "ONERWAY (Direct) Supports 3DS" [ref=e1588]:
+                        - generic [ref=e1590]:
+                          - generic [ref=e1591]:
+                            - heading "ONERWAY (Direct)" [level=4] [ref=e1593]
+                            - generic [ref=e1594]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1597]:
+                            - img "Visa" [ref=e1602]
+                            - img "Mastercard" [ref=e1607]
+                            - img "American Express" [ref=e1612]
+                            - img "Discover" [ref=e1617]
+                            - img "JCB" [ref=e1622]
+                            - img "Diners Club" [ref=e1627]
+                            - img "Visa Electron" [ref=e1632]
+                            - img "Maestro" [ref=e1637]
+                      - generic [ref=e1638]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1640]
+                  - listitem [ref=e1641] [cursor=pointer]:
+                    - generic [ref=e1645]:
+                      - button "PagBrasil - Cartão de crédito" [ref=e1648]:
+                        - generic [ref=e1650]:
+                          - heading "PagBrasil - Cartão de crédito" [level=4] [ref=e1653]
+                          - generic [ref=e1656]:
+                            - img "Visa" [ref=e1661]
+                            - img "Mastercard" [ref=e1666]
+                            - img "American Express" [ref=e1671]
+                            - img "Elo" [ref=e1676]
+                            - img "Hypercard" [ref=e1681]
+                            - img "Hyper" [ref=e1686]
+                      - generic [ref=e1687]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1689]
+                  - listitem [ref=e1690] [cursor=pointer]:
+                    - generic [ref=e1694]:
+                      - button "Tap Payments Supports 3DS" [ref=e1697]:
+                        - generic [ref=e1699]:
+                          - generic [ref=e1700]:
+                            - heading "Tap Payments" [level=4] [ref=e1702]
+                            - generic [ref=e1703]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1706]:
+                            - img "Visa" [ref=e1711]
+                            - img "Mastercard" [ref=e1716]
+                            - img "American Express" [ref=e1721]
+                            - img "OmanNet" [ref=e1726]
+                            - img "Apple Pay" [ref=e1731]
+                            - img "Mada" [ref=e1736]
+                            - img "Benefit" [ref=e1741]
+                      - generic [ref=e1742]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1744]
+                  - listitem [ref=e1745] [cursor=pointer]:
+                    - generic [ref=e1749]:
+                      - button "Tilopay - Credit Card Onsite Supports 3DS" [ref=e1752]:
+                        - generic [ref=e1754]:
+                          - generic [ref=e1755]:
+                            - heading "Tilopay - Credit Card Onsite" [level=4] [ref=e1757]
+                            - generic [ref=e1758]:
+                              - generic: Supports 3DS
+                          - generic [ref=e1761]:
+                            - img "Visa" [ref=e1766]
+                            - img "Mastercard" [ref=e1771]
+                            - img "American Express" [ref=e1776]
+                      - generic [ref=e1777]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - paragraph [ref=e1779]:
+                - button "Learn more about third-party payment providers" [ref=e1780] [cursor=pointer]:
+                  - generic [ref=e1782]:
+                    - generic: Learn more about third-party payment providers
+      - generic:
+        - generic:
+          - button "Close":
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic: Close
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e908]
+    - generic:
+      - generic:
+        - generic: You need to set-up two-step authentication before adding a bank account.
+        - generic: two-step authentication
+        - generic: Set up two-step
+    - generic [ref=e1783]:
+      - generic:
+        - img
+        - tooltip "Mastercard"

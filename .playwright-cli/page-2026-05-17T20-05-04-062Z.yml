@@ -1,0 +1,116 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e123]:
+      - img "Zendrop" [ref=e125]
+      - link "Connect store" [ref=e127] [cursor=pointer]:
+        - /url: /my-stores/connect-shopify
+        - generic [ref=e128]:
+          - img [ref=e129]
+          - generic [ref=e131]: Connect store
+          - img [ref=e132]
+      - navigation [ref=e134]:
+        - generic [ref=e135]:
+          - link "Dashboard 0/5 tasks" [ref=e136] [cursor=pointer]:
+            - /url: /dashboard
+            - img [ref=e137]
+            - generic [ref=e139]: Dashboard
+            - generic [ref=e140]: 0/5 tasks
+          - link "Find products" [ref=e141] [cursor=pointer]:
+            - /url: /product
+            - img [ref=e142]
+            - generic [ref=e145]: Find products
+          - link "Trending products" [ref=e146] [cursor=pointer]:
+            - /url: /trending-products
+            - img [ref=e147]
+            - generic [ref=e149]: Trending products
+          - link "My products" [ref=e150] [cursor=pointer]:
+            - /url: /my-products#import-list
+            - img [ref=e151]
+            - generic [ref=e153]: My products
+          - link "Academy" [ref=e154] [cursor=pointer]:
+            - /url: /zendrop-academy
+            - img [ref=e155]
+            - generic [ref=e157]: Academy
+            - img [ref=e158]
+        - generic [ref=e161]:
+          - button "AI Creatives New ✦ ✦ ✦" [ref=e162] [cursor=pointer]:
+            - img [ref=e163]
+            - generic [ref=e165]: AI Creatives
+            - generic [ref=e166]: New
+            - img [ref=e167]
+            - generic: ✦
+            - generic: ✦
+            - generic: ✦
+          - link "Orders" [ref=e170] [cursor=pointer]:
+            - /url: /orders#all
+            - img [ref=e171]
+            - generic [ref=e173]: Orders
+          - link "Request a product" [ref=e174] [cursor=pointer]:
+            - /url: /request-a-product
+            - img [ref=e175]
+            - generic [ref=e177]: Request a product
+          - link "Branding" [ref=e178] [cursor=pointer]:
+            - /url: /branding#classic
+            - img [ref=e179]
+            - generic [ref=e181]: Branding
+          - button "Private Agent" [ref=e182] [cursor=pointer]:
+            - img [ref=e183]
+            - generic [ref=e185]: Private Agent
+          - link "Print-on-demand" [ref=e186] [cursor=pointer]:
+            - /url: /catalog
+            - img [ref=e187]
+            - generic [ref=e189]: Print-on-demand
+    - generic [ref=e75]:
+      - button "Austyn Eguale" [ref=e191] [cursor=pointer]:
+        - generic [ref=e81]:
+          - img [ref=e192]
+          - generic [ref=e83]: Austyn Eguale
+          - img [ref=e193]
+      - generic [ref=e196]:
+        - generic [ref=e198]:
+          - heading "Connect or create a Shopify store in minutes" [level=2] [ref=e200]:
+            - generic [ref=e201]: Connect or create a
+            - generic [ref=e202]: Shopify store in minutes
+          - generic [ref=e203]:
+            - generic [ref=e204]:
+              - generic [ref=e205]: Most popular
+              - heading "Connect a Shopify store to get started" [level=4] [ref=e207]
+              - heading "Link your store and start importing products instantly." [level=6] [ref=e208]
+              - button "Connect" [ref=e209] [cursor=pointer]:
+                - generic [ref=e210]:
+                  - text: Connect
+                  - img [ref=e211]
+            - generic [ref=e213]:
+              - generic [ref=e214]: Great for beginners
+              - img [ref=e215]
+              - heading "Create a free Shopify store with our AI builder" [level=4] [ref=e220]
+              - heading "AI picks products, builds your store, and optimizes for sales." [level=6] [ref=e221]
+              - generic [ref=e222]:
+                - generic [ref=e223]:
+                  - img [ref=e224]
+                  - generic [ref=e227]: Ready in under 5 minutes
+                - generic [ref=e228]:
+                  - img [ref=e229]
+                  - generic [ref=e234]: Professional design included
+              - button "Create AI-built store" [ref=e235] [cursor=pointer]:
+                - generic [ref=e236]:
+                  - text: Create AI-built store
+                  - img [ref=e237]
+          - link "View all options" [ref=e240] [cursor=pointer]:
+            - /url: /my-stores/choose-platform
+        - generic [ref=e241]:
+          - generic [ref=e242]:
+            - generic [ref=e243]: "Become an Affiliate:"
+            - link "Apply Here" [ref=e244] [cursor=pointer]:
+              - /url: https://www.zendrop.com/become-a-zendrop-affiliate/
+          - generic [ref=e246]:
+            - generic [ref=e247]: "Become a Supplier:"
+            - link "Apply Here" [ref=e248] [cursor=pointer]:
+              - /url: https://www.zendrop.com/apply-to-be-a-us-supplier/
+  - iframe [ref=e114]:
+    
+  - iframe [ref=e115]:
+    
+  - button "Open Intercom Messenger" [ref=e116] [cursor=pointer]:
+    - generic:
+      - img

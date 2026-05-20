@@ -1,0 +1,47 @@
+[
+  {
+    "content": {
+      "productName": "FurLift Pet Hair Remover",
+      "platform": "TikTok",
+      "hook": "Stop scrolling if you hate pet hair",
+      "angle": "before-after-transformation"
+    },
+    "metrics": {
+      "views": 1250,
+      "watchTime": 12,
+      "ctr": 3.2,
+      "addToCart": 8,
+      "purchases": 2
+    }
+  },
+  {
+    "content": {
+      "productName": "Expandable Drawer Organizer",
+      "platform": "TikTok",
+      "hook": "Messy drawer transformation",
+      "angle": "problem-pain-point"
+    },
+    "metrics": {
+      "views": 850,
+      "watchTime": 8,
+      "ctr": 1.8,
+      "addToCart": 3,
+      "purchases": 0
+    }
+  },
+  {
+    "content": {
+      "productName": "Volcano Car Diffuser",
+      "platform": "Instagram Reels",
+      "hook": "Car odor hack",
+      "angle": "demonstration-tutorial"
+    },
+    "metrics": {
+      "views": 320,
+      "watchTime": 5,
+      "ctr": 0.9,
+      "addToCart": 1,
+      "purchases": 0
+    }
+  }
+]

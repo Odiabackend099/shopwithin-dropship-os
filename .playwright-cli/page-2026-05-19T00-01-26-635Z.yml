@@ -1,0 +1,210 @@
+- generic [ref=e2]:
+  - generic [ref=e10]:
+    - generic [ref=e14]:
+      - generic [ref=e16]:
+        - link "Ads Manager Meta" [ref=e18] [cursor=pointer]:
+          - /url: /adsmanager/
+          - generic [ref=e20]:
+            - generic [ref=e21]: Ads Manager
+            - img "Meta" [ref=e24]
+        - generic [ref=e25]:
+          - generic [ref=e28]:
+            - button "Pressable" [ref=e29] [cursor=pointer]
+            - generic:
+              - generic:
+                - generic:
+                  - button:
+                    - generic:
+                      - generic: "0"
+          - separator [ref=e34]
+      - navigation "tools" [ref=e38]:
+        - list [ref=e39]:
+          - listitem [ref=e41]:
+            - link "Account overview" [ref=e43] [cursor=pointer]:
+              - /url: /adsmanager/manage/accounts?business_id=990501983779852&nav_entry_point=ads_ecosystem_navigation_menu&nav_source=ads_manager
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Account overview
+          - listitem [ref=e50]:
+            - link "Campaigns" [ref=e52] [cursor=pointer]:
+              - /url: /adsmanager/manage/campaigns?business_id=990501983779852&nav_entry_point=ads_ecosystem_navigation_menu&nav_source=ads_manager
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Campaigns
+          - listitem [ref=e58]:
+            - link "Ads Reporting" [ref=e60] [cursor=pointer]:
+              - /url: /adsreporting/?business_id=990501983779852
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ads Reporting
+          - listitem [ref=e66]:
+            - link "Audiences" [ref=e68] [cursor=pointer]:
+              - /url: /adsmanager/?business_id=990501983779852&tool=AUDIENCES&nav_entry_point=ads_ecosystem_navigation_menu&nav_source=ads_manager
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Audiences
+          - listitem [ref=e74]:
+            - link "Billing & payments" [ref=e76] [cursor=pointer]:
+              - /url: /billing_hub/payment_settings/?placement=ads_manager&business_id=990501983779852&entrypoint=ads_ecosystem_navigation_ads_billing_tool_plugin
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Billing & payments
+          - listitem [ref=e82]:
+            - link "Advertising settings" [ref=e84] [cursor=pointer]:
+              - /url: https://eventsmanager.facebook.com/adsmanager/manage/advertising_settings/?business_id=990501983779852&nav_entry_point=ads_ecosystem_navigation_menu&nav_source=ads_manager
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Advertising settings
+          - listitem [ref=e90]:
+            - link "Events Manager" [ref=e92] [cursor=pointer]:
+              - /url: /events_manager2/?business_id=990501983779852&nav_source=ads_ecosystem_nav
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Events Manager
+          - listitem [ref=e97]:
+            - button "All tools" [ref=e99] [cursor=pointer]
+            - generic:
+              - listitem:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: All tools
+      - generic [ref=e107]:
+        - separator [ref=e108]
+        - generic [ref=e110]:
+          - button "Business Settings" [disabled] [ref=e112]:
+            - generic [ref=e115]: Business Settings
+          - button "Search" [ref=e119] [cursor=pointer]:
+            - generic [ref=e122]: Search
+          - button "Help" [ref=e128] [cursor=pointer]:
+            - generic [ref=e131]: Help
+          - button "Report a problem" [ref=e134] [cursor=pointer]:
+            - generic [ref=e137]: Report a problem
+    - generic [ref=e144]:
+      - generic [ref=e147]:
+        - heading "Datasets" [level=1] [ref=e149]
+        - generic [ref=e150]:
+          - combobox "Shopwithin" [ref=e162] [cursor=pointer]:
+            - generic [ref=e175]: Shopwithin
+          - button "Facebook" [ref=e180] [cursor=pointer]:
+            - generic [ref=e186]:
+              - generic:
+                - img
+              - img "Facebook" [ref=e188]
+      - generic [ref=e189]:
+        - generic [ref=e194]:
+          - navigation "Tools" [ref=e198]:
+            - list [ref=e199]:
+              - listitem [ref=e200]:
+                - button "Connect data" [ref=e202] [cursor=pointer]
+                - generic:
+                  - listitem:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Connect data
+              - listitem [ref=e208]:
+                - button "Overview" [ref=e210] [cursor=pointer]
+                - generic:
+                  - listitem:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Overview
+              - listitem [ref=e216]:
+                - button "Datasets" [ref=e218] [cursor=pointer]
+                - generic:
+                  - listitem:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Datasets
+              - listitem [ref=e224]:
+                - button "Custom conversions" [ref=e226] [cursor=pointer]
+                - generic:
+                  - listitem:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Custom conversions
+              - listitem [ref=e232]:
+                - button "Integrations" [ref=e234] [cursor=pointer]
+                - generic:
+                  - listitem:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Integrations
+          - button "Expand" [ref=e242] [cursor=pointer]:
+            - generic [ref=e245]: Expand
+        - generic [ref=e257]:
+          - generic [ref=e259]:
+            - generic [ref=e260]:
+              - generic [ref=e380]:
+                - generic [ref=e382]:
+                  - generic [ref=e383]:
+                    - generic [ref=e385]: Shopwithin Pixel
+                    - text: ID 971950502213246
+                  - generic [ref=e389]:
+                    - generic [ref=e395]: Data source
+                    - combobox "Data source Shopwithin Pixel" [ref=e400] [cursor=pointer]:
+                      - generic [ref=e405]:
+                        - generic:
+                          - generic: Shopwithin Pixel
+                - link "Edit data source name" [ref=e409] [cursor=pointer]:
+                  - /url: "#"
+              - button "Create" [ref=e280] [cursor=pointer]:
+                - generic [ref=e284]: Create
+            - tablist [ref=e286]:
+              - tab "Overview" [ref=e287] [cursor=pointer]:
+                - generic [ref=e290]: Overview
+              - tab "Test events" [selected] [ref=e291] [cursor=pointer]:
+                - generic [ref=e294]: Test events
+              - tab "Diagnostics" [ref=e295] [cursor=pointer]:
+                - generic [ref=e298]: Diagnostics
+              - tab "History" [ref=e299] [cursor=pointer]:
+                - generic [ref=e302]: History
+              - tab "Settings" [ref=e303] [cursor=pointer]:
+                - generic [ref=e306]: Settings
+          - generic [ref=e1664]:
+            - generic [ref=e1665]:
+              - heading "Test your events" [level=3] [ref=e1667]
+              - generic [ref=e1669]: Use test events to confirm your website, app, CRM and server events are set up correctly.
+              - generic [ref=e1672]:
+                - text: Note that test behaviour may differ from live environments and your personal ad settings won't affect test data.
+                - link "Learn more" [ref=e1673] [cursor=pointer]:
+                  - /url: /business/help/2040882565969969
+            - generic [ref=e1674]:
+              - text: "Select a marketing channel to receive its corresponding instructions:"
+              - generic [ref=e1676]:
+                - generic [ref=e1682]: Test events action source selector
+                - combobox "Test events action source selector" [expanded] [ref=e1687] [cursor=pointer]:
+                  - generic [ref=e1691]: Select channel
+                  - listbox "Test events action source selector" [ref=e1693]:
+                    - option "Website" [active] [ref=e1694]:
+                      - generic [ref=e1702]: Website
+                    - option "Offline" [ref=e1703]:
+                      - generic [ref=e1711]: Offline
+  - link "Translations" [ref=e378] [cursor=pointer]:
+    - /url: https://www.facebook.com/translations/?ref=trans_nub

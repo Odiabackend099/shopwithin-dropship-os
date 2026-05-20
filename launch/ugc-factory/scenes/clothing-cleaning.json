@@ -1,0 +1,14 @@
+{
+  "id": "clothing-cleaning",
+  "name": "Clothing Cleaning",
+  "description": "Pet hair removal on clothing",
+  "environment_block": "bedroom with natural daylight through windows, dark sweater visibly covered in golden retriever pet hair, realistic bedroom clutter, warm neutral tones",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld selfie framing, natural hand movement, slight micro-shakes, autofocus breathing, realistic phone exposure changes, vertical 9:16 TikTok format",
+  "product_interaction_block": "creator slowly drags FurLift across sweater surface in one motion, visibly removing pet hair from fabric, pauses to show collected hair, shows clean sweater result",
+  "performance_block": "surprised expression, natural smile, casual eye contact with camera, genuine disbelief at how well it works",
+  "platform_block": "realistic TikTok UGC ad style, organic creator content, not polished commercial, fast social-media pacing",
+  "lighting_block": "natural daylight, soft shadows, realistic bedroom lighting, slight smartphone overexposure near windows",
+  "motion_block": "slow handheld motion, natural body shifting, realistic wrist movement while filming selfie-style, smooth but imperfect movement",
+  "audio_block": "subtle bedroom ambience, fabric brushing sounds, quiet room tone, authentic creator speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no beauty-filter look, no luxury influencer aesthetic"
+}

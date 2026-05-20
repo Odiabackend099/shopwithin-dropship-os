@@ -1,0 +1,12 @@
+{
+  "name": "06-tracking-sync",
+  "active": false,
+  "nodes": [
+    { "parameters": { "path": "tracking-sync", "responseMode": "responseNode", "options": {} }, "id": "webhook", "name": "Supplier Tracking Callback", "type": "n8n-nodes-base.webhook", "typeVersion": 2, "position": [0, 0] },
+    { "parameters": { "method": "POST", "url": "={{$env.API_PUBLIC_URL}}/webhooks/supplier/tracking", "sendBody": true, "contentType": "json", "jsonBody": "={{$json}}", "options": { "retry": { "maxTries": 5, "waitBetweenTries": 5000 } } }, "id": "api", "name": "Forward To API", "type": "n8n-nodes-base.httpRequest", "typeVersion": 4.2, "position": [240, 0] },
+    { "parameters": { "respondWith": "json", "responseBody": "{\"ok\":true}" }, "id": "response", "name": "Respond", "type": "n8n-nodes-base.respondToWebhook", "typeVersion": 1.1, "position": [480, 0] }
+  ],
+  "connections": { "Supplier Tracking Callback": { "main": [[{ "node": "Forward To API", "type": "main", "index": 0 }]] }, "Forward To API": { "main": [[{ "node": "Respond", "type": "main", "index": 0 }]] } },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

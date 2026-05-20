@@ -1,0 +1,15 @@
+{
+  "id": "tech-reviewer",
+  "name": "Alex",
+  "age": 28,
+  "gender": "male",
+  "character_block": "28-year-old male tech reviewer with modern casual style, short dark hair, glasses, plain black t-shirt, realistic skin texture, authentic tech enthusiast energy, expressive hands when demonstrating products, natural speaking manner",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing with product close-ups, natural hand movement showing gadgets, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "environment_block": "modern home office setup with RGB lighting, gaming monitor in background, tech gadgets on desk, clean minimalist aesthetic, cool blue and purple lighting accents",
+  "platform_block": "realistic TikTok tech review style, organic creator content, not polished commercial, fast social-media pacing, authentic tech enthusiast vibe",
+  "lighting_block": "RGB ambient lighting, soft monitor glow, realistic indoor tech setup lighting, slight smartphone overexposure on bright elements",
+  "motion_block": "natural hand movements when demonstrating gadgets, smooth product rotations, authentic excitement reactions, casual body shifting",
+  "audio_block": "subtle keyboard typing sounds, gadget click sounds, tech setup ambience, authentic enthusiastic speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no corporate tech presenter aesthetic, no overly polished production",
+  "reference_images": []
+}

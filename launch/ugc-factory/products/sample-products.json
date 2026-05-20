@@ -1,0 +1,234 @@
+{
+  "products": [
+    {
+      "id": "furlift",
+      "name": "FurLift Pet Hair Remover",
+      "sku": "VLOY30HZN",
+      "category": "pet",
+      "price": 24.95,
+      "problemStatement": "Pet hair sticks to every couch, car seat, and sweater. Lint rollers run out. Vacuums are bulky. Nothing actually works fast.",
+      "transformationStatement": "One swipe with FurLift lifts embedded pet hair instantly. No refills, no batteries, reusable forever.",
+      "emotionalHooks": [
+        "You love your pet, but you hate the hair everywhere.",
+        "Your couch looks like a fur coat.",
+        "Guests are coming in 10 minutes.",
+        "That black sweater is ruined again.",
+        "You just bought a lint roller and it is already empty."
+      ],
+      "ctaVariants": [
+        "Get FurLift for $24.95 — free shipping today",
+        "Tap the link in bio before stock runs out",
+        "Shop now and stop picking hair off your clothes",
+        "Limited launch price — claim yours",
+        "Link in bio — your couch will thank you"
+      ]
+    },
+    {
+      "id": "volcano-diffuser",
+      "name": "Volcano Car Diffuser",
+      "sku": "VCD-001",
+      "category": "car",
+      "price": 19.99,
+      "problemStatement": "Car smells bad, air fresheners don't last, chemical scents are overwhelming, nothing actually eliminates odors.",
+      "transformationStatement": "Volcano diffuser provides long-lasting natural fragrance, eliminates odors, stylish car accessory.",
+      "emotionalHooks": [
+        "Your car smells like old gym clothes.",
+        "Air fresheners die after 3 days.",
+        "Passengers comment on the smell.",
+        "Chemical scents give you headaches.",
+        "You're embarrassed to give rides."
+      ],
+      "ctaVariants": [
+        "Get your volcano diffuser for $19.99",
+        "Transform your car's scent today",
+        "Link in bio — free shipping",
+        "Limited stock available",
+        "Your nose will thank you"
+      ]
+    },
+    {
+      "id": "led-dog-leash",
+      "name": "LED Reflective Dog Leash",
+      "sku": "LDL-002",
+      "category": "pet",
+      "price": 29.99,
+      "problemStatement": "Walking dog at night is dangerous, cars can't see you, regular leashes are invisible in darkness.",
+      "transformationStatement": "LED reflective leash keeps you and your dog visible at night, hands-free design with poo bag holder.",
+      "emotionalHooks": [
+        "Night walks feel unsafe.",
+        "Cars almost hit you in darkness.",
+        "You worry about your dog's safety.",
+        "Regular leashes are useless at night.",
+        "You want peace of mind on evening walks."
+      ],
+      "ctaVariants": [
+        "Keep your dog safe for $29.99",
+        "Walk confidently at night",
+        "Link in bio — free shipping",
+        "Your dog deserves safety",
+        "Limited time offer"
+      ]
+    },
+    {
+      "id": "drawer-organizer",
+      "name": "Expandable Drawer Organizer",
+      "sku": "EDO-003",
+      "category": "organization",
+      "price": 15.99,
+      "problemStatement": "Drawers are messy chaos, can't find anything, small items get lost, organization takes too much time.",
+      "transformationStatement": "Expandable organizer fits any drawer, customizable compartments, instant organization.",
+      "emotionalHooks": [
+        "You can never find what you need.",
+        "Drawers look like a disaster zone.",
+        "Organization feels overwhelming.",
+        "Small items disappear forever.",
+        "You waste time digging through mess."
+      ],
+      "ctaVariants": [
+        "Organize instantly for $15.99",
+        "Transform your drawers today",
+        "Link in bio — buy 2 get 1 free",
+        "Your sanity will thank you",
+        "Limited stock available"
+      ]
+    },
+    {
+      "id": "kitchen-slicer",
+      "name": "Multi-Purpose Kitchen Slicer",
+      "sku": "MKS-004",
+      "category": "kitchen",
+      "price": 22.99,
+      "problemStatement": "Chopping vegetables takes forever, knife skills are lacking, prep time is exhausting, cuts are uneven.",
+      "transformationStatement": "Multi-purpose slicer cuts everything perfectly in seconds, safe design, easy to clean.",
+      "emotionalHooks": [
+        "Dinner prep takes forever.",
+        "You're afraid of cutting yourself.",
+        "Vegetable chopping is exhausting.",
+        "Your knife skills are embarrassing.",
+        "You want restaurant-quality results."
+      ],
+      "ctaVariants": [
+        "Slice like a pro for $22.99",
+        "Cut prep time in half",
+        "Link in bio — free shipping",
+        "Your wrists will thank you",
+        "Limited time offer"
+      ]
+    },
+    {
+      "id": "beauty-gadget",
+      "name": "LED Makeup Mirror",
+      "sku": "LMM-005",
+      "category": "beauty",
+      "price": 34.99,
+      "problemStatement": "Bathroom lighting is terrible for makeup, can't see details, application is uneven, portable options don't exist.",
+      "transformationStatement": "LED mirror provides perfect lighting, adjustable brightness, portable and rechargeable.",
+      "emotionalHooks": [
+        "Your makeup looks different outside.",
+        "Bathroom lighting is the worst.",
+        "You can't see what you're doing.",
+        "Application is always uneven.",
+        "You need professional lighting at home."
+      ],
+      "ctaVariants": [
+        "Perfect lighting for $34.99",
+        "Transform your makeup routine",
+        "Link in bio — free shipping",
+        "Your face will thank you",
+        "Limited stock available"
+      ]
+    },
+    {
+      "id": "wellness-lamp",
+      "name": "Sunrise Alarm Clock",
+      "sku": "SAC-006",
+      "category": "wellness",
+      "price": 44.99,
+      "problemStatement": "Waking up is brutal, alarm is jarring, mornings feel groggy, sleep quality is poor.",
+      "transformationStatement": "Sunrise alarm wakes you gently with light, natural wake-up cycle, improved sleep quality.",
+      "emotionalHooks": [
+        "Mornings are the worst part of your day.",
+        "Your alarm ruins your mood instantly.",
+        "You feel groggy for hours.",
+        "Sleep quality is terrible.",
+        "You want to wake up naturally."
+      ],
+      "ctaVariants": [
+        "Wake up happy for $44.99",
+        "Transform your mornings",
+        "Link in bio — free shipping",
+        "Your sleep will thank you",
+        "Limited time offer"
+      ]
+    },
+    {
+      "id": "phone-grip",
+      "name": "360° Phone Grip Stand",
+      "sku": "PGS-007",
+      "category": "gadgets",
+      "price": 12.99,
+      "problemStatement": "Phone drops constantly, one-handed use is impossible, watching videos is uncomfortable, hands get tired.",
+      "transformationStatement": "360° grip provides secure hold, works as stand, comfortable for extended use.",
+      "emotionalHooks": [
+        "You drop your phone constantly.",
+        "One-handed use is a struggle.",
+        "Your hands get tired holding your phone.",
+        "Watching videos is uncomfortable.",
+        "You're afraid of breaking your screen."
+      ],
+      "ctaVariants": [
+        "Secure grip for $12.99",
+        "Never drop your phone again",
+        "Link in bio — buy 2 get 1 free",
+        "Your phone will thank you",
+        "Limited stock available"
+      ]
+    },
+    {
+      "id": "travel-pillow",
+      "name": "Memory Foam Travel Pillow",
+      "sku": "MFP-008",
+      "category": "travel",
+      "price": 27.99,
+      "problemStatement": "Travel neck pain is real, regular pillows are useless, can't sleep on planes, arrives exhausted.",
+      "transformationStatement": "Memory foam pillow provides perfect support, compact design, washable cover.",
+      "emotionalHooks": [
+        "You arrive at destinations exhausted.",
+        "Neck pain ruins your trips.",
+        "Airplane sleep is impossible.",
+        "Regular travel pillows don't work.",
+        "You want to actually enjoy travel."
+      ],
+      "ctaVariants": [
+        "Sleep anywhere for $27.99",
+        "Transform your travel experience",
+        "Link in bio — free shipping",
+        "Your neck will thank you",
+        "Limited time offer"
+      ]
+    },
+    {
+      "id": "home-scent",
+      "name": "Ultrasonic Diffuser",
+      "sku": "USD-009",
+      "category": "home",
+      "price": 32.99,
+      "problemStatement": "Home smells stale, candles are fire hazards, sprays don't last, chemical scents are overwhelming.",
+      "transformationStatement": "Ultrasonic diffuser provides natural aromatherapy, safe operation, long-lasting fragrance.",
+      "emotionalHooks": [
+        "Your home doesn't smell welcoming.",
+        "Candles stress you out with fire risk.",
+        "Air fresheners die too quickly.",
+        "Chemical scents give you headaches.",
+        "You want a peaceful home atmosphere."
+      ],
+      "ctaVariants": [
+        "Transform your home for $32.99",
+        "Natural aromatherapy today",
+        "Link in bio — free shipping",
+        "Your home will thank you",
+        "Limited stock available"
+      ]
+    }
+  ]
+}

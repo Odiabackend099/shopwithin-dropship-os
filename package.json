@@ -1,0 +1,41 @@
+{
+  "name": "dropship-os",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Global AI-assisted Shopify dropshipping operating system.",
+  "packageManager": "pnpm@9.15.4",
+  "engines": {
+    "node": ">=20.11.0",
+    "pnpm": ">=9.0.0"
+  },
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm --filter @dropship-os/api dev",
+    "dev:admin": "pnpm --filter @dropship-os/admin dev",
+    "db:migrate": "node scripts/prisma-root-env.mjs migrate deploy",
+    "db:generate": "node scripts/prisma-root-env.mjs generate",
+    "staging:order-smoke": "pnpm --filter @dropship-os/core build && pnpm --filter @dropship-os/api build && node scripts/staging-order-smoke.mjs",
+    "staging:product-smoke": "pnpm --filter @dropship-os/core build && pnpm --filter @dropship-os/api build && node scripts/staging-product-smoke.mjs",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm --filter @dropship-os/core build && pnpm -r typecheck",
+    "validate:workflows": "node scripts/validate-workflows.mjs",
+    "launch:check": "node scripts/launch-readiness.mjs",
+    "browser:meta": "node scripts/open-meta-browser.mjs",
+    "ugc:build": "pnpm --filter @dropship-os/ugc-engine build",
+    "ugc:test": "pnpm --filter @dropship-os/ugc-engine test",
+    "ugc:cli": "node launch/ugc-engine/dist/cli.js",
+    "operator:viral-finder": "node scripts/viral-product-finder.mjs",
+    "operator:ugc-worker": "node scripts/ugc-worker.mjs",
+    "operator:analytics": "node scripts/analytics-feedback-loop.mjs",
+    "operator:daily": "node scripts/operator-daily.mjs",
+    "ci": "pnpm typecheck && pnpm lint && pnpm test && pnpm validate:workflows"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "eslint": "^9.18.0",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.3",
+    "vitest": "^2.1.8"
+  }
+}

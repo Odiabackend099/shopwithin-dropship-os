@@ -1,0 +1,1121 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e30]
+          - generic [ref=e31]:
+            - generic [ref=e32]: ⌘
+            - generic [ref=e33]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e314] [cursor=pointer]:
+            - img [ref=e318]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e44] [cursor=pointer]:
+            - img [ref=e48]
+        - button "eguale samuel" [ref=e59] [cursor=pointer]:
+          - generic [ref=e62]:
+            - img "shopwithin" [ref=e66]:
+              - generic [ref=e67]: SHO
+            - paragraph [ref=e69]: shopwithin
+    - generic [ref=e71]:
+      - generic "Navigation" [ref=e72]:
+        - navigation [ref=e74]:
+          - generic [ref=e75]:
+            - generic [ref=e76]:
+              - list [ref=e78]:
+                - listitem [ref=e79]:
+                  - link "Home" [ref=e82] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e83]:
+                      - img [ref=e86]
+                      - img [ref=e90]
+                    - generic [ref=e92]: Home
+                - listitem [ref=e93]:
+                  - link "Orders 1" [ref=e96] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e97]:
+                      - img [ref=e100]
+                      - img [ref=e104]
+                    - generic [ref=e106]: Orders
+                    - generic [ref=e109]:
+                      - generic: "1"
+                - listitem [ref=e110]:
+                  - link "Products" [ref=e113] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e114]:
+                      - img [ref=e117]
+                      - img [ref=e121]
+                    - generic [ref=e124]: Products
+                - listitem [ref=e125]:
+                  - link "Customers" [ref=e128] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e129]:
+                      - img [ref=e132]
+                      - img [ref=e137]
+                    - generic [ref=e140]: Customers
+                - listitem [ref=e141]:
+                  - link "Marketing" [ref=e144] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e145]:
+                      - img [ref=e148]
+                      - img [ref=e154]
+                    - generic [ref=e158]: Marketing
+                - listitem [ref=e159]:
+                  - link "Discounts" [ref=e162] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e163]:
+                      - img [ref=e166]
+                      - img [ref=e170]
+                    - generic [ref=e175]: Discounts
+                - listitem [ref=e176]:
+                  - link "Content" [ref=e179] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e180]:
+                      - img [ref=e183]
+                      - img [ref=e190]
+                    - generic [ref=e195]: Content
+                - listitem [ref=e196]:
+                  - link "Markets" [ref=e199] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e200]:
+                      - img [ref=e203]
+                      - img [ref=e208]
+                    - generic [ref=e211]: Markets
+                - listitem [ref=e212]:
+                  - link "Analytics" [ref=e215] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e216]:
+                      - img [ref=e219]
+                      - img [ref=e225]
+                    - generic [ref=e229]: Analytics
+              - list [ref=e230]:
+                - listitem [ref=e231]:
+                  - button "Sales channels" [ref=e233] [cursor=pointer]:
+                    - strong [ref=e235]:
+                      - generic: Sales channels
+                  - list [ref=e237]:
+                    - button "Online Store" [ref=e238]:
+                      - list [ref=e239]:
+                        - listitem [ref=e240]:
+                          - link "Online Store" [ref=e243] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=85ea440d-124a-4283-ac0e-81eef6224889
+                            - img [ref=e245]
+                            - generic [ref=e246]: Online Store
+                    - button "Agentic" [ref=e247]:
+                      - list [ref=e248]:
+                        - listitem [ref=e249]:
+                          - link "Agentic" [ref=e252] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=c4034e58-bfeb-4093-bbe6-9b2059675d59
+                            - img [ref=e254]
+                            - generic [ref=e255]: Agentic
+                  - status [ref=e256]
+                - listitem [ref=e257]:
+                  - button "Apps" [ref=e259] [cursor=pointer]:
+                    - strong [ref=e261]:
+                      - generic: Apps
+                - listitem [ref=e263]:
+                  - button "Sidekick conversations" [ref=e265] [cursor=pointer]:
+                    - strong [ref=e267]:
+                      - generic: Sidekick conversations
+                  - list [ref=e270]:
+                    - listitem [ref=e271]:
+                      - button "Setting up payments for your store" [ref=e274] [cursor=pointer]:
+                        - generic [ref=e275]: Setting up payments for your store
+            - list [ref=e277]:
+              - listitem [ref=e278]:
+                - link "Settings" [ref=e281] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings
+                  - img [ref=e285]
+                  - generic [ref=e287]: Settings
+      - main [ref=e288]
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Settings" [ref=e293]:
+      - button "Close" [ref=e294] [cursor=pointer]:
+        - img [ref=e297]
+      - generic [ref=e324]:
+        - generic [ref=e328]:
+          - generic [ref=e329]:
+            - button "Update internal icon" [ref=e331] [cursor=pointer]:
+              - generic [ref=e332]:
+                - img "shopwithin" [ref=e335]:
+                  - generic [ref=e336]: SHO
+                - img [ref=e340]
+            - generic [ref=e342]:
+              - heading "shopwithin" [level=3] [ref=e343]:
+                - generic [ref=e344]: shopwithin
+              - link "mxu168-9g.myshopify.com" [ref=e347] [cursor=pointer]:
+                - /url: /store/mxu168-9g/settings/domains
+                - generic [ref=e348]: mxu168-9g.myshopify.com
+          - generic [ref=e352]:
+            - img [ref=e356]
+            - combobox "Search" [ref=e359]
+          - navigation "Shop settings menu" [ref=e360]:
+            - list [ref=e361]:
+              - listitem [ref=e362]:
+                - link "General" [ref=e364] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/general
+                  - generic [ref=e365]:
+                    - img [ref=e369]
+                    - generic [ref=e372]: General
+              - listitem [ref=e373]:
+                - link "Plan" [ref=e375] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/plan
+                  - generic [ref=e376]:
+                    - img [ref=e380]
+                    - generic [ref=e383]: Plan
+              - listitem [ref=e384]:
+                - link "Billing" [ref=e386] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/billing
+                  - generic [ref=e387]:
+                    - img [ref=e391]
+                    - generic [ref=e393]: Billing
+              - listitem [ref=e394]:
+                - link "Users" [ref=e396] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/organization-account
+                  - generic [ref=e397]:
+                    - img [ref=e401]
+                    - generic [ref=e403]: Users
+              - listitem [ref=e404]:
+                - link "Payments" [ref=e406] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/payments
+                  - generic [ref=e407]:
+                    - img [ref=e411]
+                    - generic [ref=e414]: Payments
+              - listitem [ref=e415]:
+                - link "Checkout" [ref=e417] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/checkout
+                  - generic [ref=e418]:
+                    - img [ref=e422]
+                    - generic [ref=e426]: Checkout
+              - listitem [ref=e427]:
+                - link "Customer accounts" [ref=e429] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/customer_accounts
+                  - generic [ref=e430]:
+                    - img [ref=e434]
+                    - generic [ref=e437]: Customer accounts
+              - listitem [ref=e438]:
+                - link "Shipping and delivery" [ref=e440] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/shipping
+                  - generic [ref=e441]:
+                    - img [ref=e445]
+                    - generic [ref=e447]: Shipping and delivery
+              - listitem [ref=e448]:
+                - link "Taxes and duties" [ref=e450] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/taxes
+                  - generic [ref=e451]:
+                    - img [ref=e455]
+                    - generic [ref=e457]: Taxes and duties
+              - listitem [ref=e458]:
+                - link "Locations" [ref=e460] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/locations
+                  - generic [ref=e461]:
+                    - img [ref=e465]
+                    - generic [ref=e467]: Locations
+              - listitem [ref=e468]:
+                - link "Apps" [ref=e470] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/apps
+                  - generic [ref=e471]:
+                    - img [ref=e475]
+                    - generic [ref=e480]: Apps
+              - listitem [ref=e481]:
+                - link "Sales channels" [ref=e483] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/sales_channels
+                  - generic [ref=e484]:
+                    - img [ref=e488]
+                    - generic [ref=e490]: Sales channels
+              - listitem [ref=e491]:
+                - link "Domains" [ref=e493] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/domains
+                  - generic [ref=e494]:
+                    - img [ref=e498]
+                    - generic [ref=e502]: Domains
+              - listitem [ref=e503]:
+                - link "Customer events" [ref=e505] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/customer_events
+                  - generic [ref=e506]:
+                    - img [ref=e510]
+                    - generic [ref=e517]: Customer events
+              - listitem [ref=e518]:
+                - link "Notifications" [ref=e520] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/notifications
+                  - generic [ref=e521]:
+                    - img [ref=e525]
+                    - generic [ref=e527]: Notifications
+              - listitem [ref=e528]:
+                - link "Metafields and metaobjects" [ref=e530] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/custom_data
+                  - generic [ref=e531]:
+                    - img [ref=e535]
+                    - generic [ref=e537]: Metafields and metaobjects
+              - listitem [ref=e538]:
+                - link "Languages" [ref=e540] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/languages
+                  - generic [ref=e541]:
+                    - img [ref=e545]
+                    - generic [ref=e549]: Languages
+              - listitem [ref=e550]:
+                - link "Customer privacy" [ref=e552] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/privacy
+                  - generic [ref=e553]:
+                    - img [ref=e557]
+                    - generic [ref=e559]: Customer privacy
+              - listitem [ref=e560]:
+                - link "Policies" [ref=e562] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/legal
+                  - generic [ref=e563]:
+                    - img [ref=e567]
+                    - generic [ref=e569]: Policies
+          - link "eguale samuel egualesamuel@gmail.com" [ref=e571] [cursor=pointer]:
+            - /url: https://accounts.shopify.com/accounts/400d1013-c92b-4292-b70c-576c4dcdc41f/redirect
+            - generic [ref=e572]:
+              - img "es" [ref=e575]:
+                - generic [ref=e576]: ES
+              - generic [ref=e577]:
+                - heading "eguale samuel" [level=6] [ref=e579]:
+                  - generic [ref=e580]: eguale samuel
+                - heading "egualesamuel@gmail.com" [level=6] [ref=e581]:
+                  - generic [ref=e582]: egualesamuel@gmail.com
+        - main [ref=e721]:
+          - generic [ref=e725]:
+            - generic [ref=e729]:
+              - generic:
+                - navigation [ref=e732]:
+                  - generic [ref=e734]:
+                    - generic:
+                      - link "Notifications" [ref=e737] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/settings/notifications
+                        - img [ref=e741]
+                      - img [ref=e746]
+                - heading "Customer notifications" [level=1] [ref=e751]
+            - link "Customize email templates" [ref=e754] [cursor=pointer]:
+              - /url: /store/mxu168-9g/settings/email_settings
+              - generic [ref=e756]:
+                - generic: Customize email templates
+          - generic [ref=e762]:
+            - generic [ref=e769]:
+              - generic [ref=e772]:
+                - heading "Order processing" [level=2] [ref=e773]:
+                  - button "Order processing" [expanded] [ref=e776] [cursor=pointer]:
+                    - generic [ref=e777]:
+                      - generic [ref=e779]: Order processing
+                      - img [ref=e785]
+                - list [ref=e788]:
+                  - separator [ref=e790]
+                  - listitem [ref=e791] [cursor=pointer]:
+                    - generic [ref=e795]:
+                      - generic [ref=e798]:
+                        - link "Order confirmation" [ref=e800]:
+                          - /url: /store/mxu168-9g/email_templates/order_confirmation/preview
+                          - generic [ref=e802]: Order confirmation
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer places an order
+                      - generic [ref=e803]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e805]
+                  - listitem [ref=e806] [cursor=pointer]:
+                    - generic [ref=e810]:
+                      - generic [ref=e813]:
+                        - link "Draft order invoice" [ref=e815]:
+                          - /url: /store/mxu168-9g/email_templates/draft_order_invoice/preview
+                          - generic [ref=e817]: Draft order invoice
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when you create an invoice on the draft order page
+                      - generic [ref=e818]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e820]
+                  - listitem [ref=e821] [cursor=pointer]:
+                    - generic [ref=e825]:
+                      - generic [ref=e828]:
+                        - link "Shipping confirmation" [ref=e830]:
+                          - /url: /store/mxu168-9g/email_templates/shipping_confirmation/preview
+                          - generic [ref=e832]: Shipping confirmation
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when you mark an order as fulfilled
+                      - generic [ref=e833]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - generic [ref=e836]:
+                - heading "Local pick up" [level=2] [ref=e837]:
+                  - button "Local pick up" [expanded] [ref=e840] [cursor=pointer]:
+                    - generic [ref=e841]:
+                      - generic [ref=e843]: Local pick up
+                      - img [ref=e849]
+                - list [ref=e852]:
+                  - separator [ref=e854]
+                  - listitem [ref=e855] [cursor=pointer]:
+                    - generic [ref=e859]:
+                      - generic [ref=e862]:
+                        - link "Ready for local pickup" [ref=e864]:
+                          - /url: /store/mxu168-9g/email_templates/ready_for_pickup/preview
+                          - generic [ref=e866]: Ready for local pickup
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when an order is ready to be picked up
+                      - generic [ref=e867]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e869]
+                  - listitem [ref=e870] [cursor=pointer]:
+                    - generic [ref=e874]:
+                      - generic [ref=e877]:
+                        - link "Picked up by customer" [ref=e879]:
+                          - /url: /store/mxu168-9g/email_templates/pickup_receipt/preview
+                          - generic [ref=e881]: Picked up by customer
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent to confirm an order was picked up by the customer
+                      - generic [ref=e882]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - generic [ref=e885]:
+                - heading "Local delivery" [level=2] [ref=e886]:
+                  - button "Local delivery" [expanded] [ref=e889] [cursor=pointer]:
+                    - generic [ref=e890]:
+                      - generic [ref=e892]: Local delivery
+                      - img [ref=e898]
+                - list [ref=e901]:
+                  - separator [ref=e903]
+                  - listitem [ref=e905] [cursor=pointer]:
+                    - generic [ref=e909]:
+                      - generic [ref=e912]:
+                        - link "Order out for local delivery" [ref=e914]:
+                          - /url: /store/mxu168-9g/email_templates/local_out_for_delivery/preview
+                          - generic [ref=e916]: Order out for local delivery
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when an order is out for local delivery
+                      - generic [ref=e917]:
+                        - checkbox "Order out for local delivery" [checked] [ref=e922]
+                        - generic [ref=e923]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                  - separator [ref=e925]
+                  - listitem [ref=e927] [cursor=pointer]:
+                    - generic [ref=e931]:
+                      - generic [ref=e934]:
+                        - link "Order locally delivered" [ref=e936]:
+                          - /url: /store/mxu168-9g/email_templates/local_delivered/preview
+                          - generic [ref=e938]: Order locally delivered
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent to confirm the order was delivered
+                      - generic [ref=e939]:
+                        - checkbox "Order locally delivered" [checked] [ref=e944]
+                        - generic [ref=e945]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                  - separator [ref=e947]
+                  - listitem [ref=e949] [cursor=pointer]:
+                    - generic [ref=e953]:
+                      - generic [ref=e956]:
+                        - link "Order missed local delivery" [ref=e958]:
+                          - /url: /store/mxu168-9g/email_templates/local_missed_delivery/preview
+                          - generic [ref=e960]: Order missed local delivery
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer misses a local delivery
+                      - generic [ref=e961]:
+                        - checkbox "Order missed local delivery" [checked] [ref=e966]
+                        - generic [ref=e967]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+              - generic [ref=e970]:
+                - heading "Gift cards" [level=2] [ref=e971]:
+                  - button "Gift cards" [expanded] [ref=e974] [cursor=pointer]:
+                    - generic [ref=e975]:
+                      - generic [ref=e977]: Gift cards
+                      - img [ref=e983]
+                - list [ref=e986]:
+                  - separator [ref=e988]
+                  - listitem [ref=e989] [cursor=pointer]:
+                    - generic [ref=e993]:
+                      - generic [ref=e996]:
+                        - link "New gift card" [ref=e998]:
+                          - /url: /store/mxu168-9g/email_templates/gift_card_notification/preview
+                          - generic [ref=e1000]: New gift card
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent to the customer or recipient when a gift card is fulfilled, or when you send a gift card
+                      - generic [ref=e1001]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1003]
+                  - listitem [ref=e1004] [cursor=pointer]:
+                    - generic [ref=e1008]:
+                      - generic [ref=e1011]:
+                        - link "Gift card receipt" [ref=e1013]:
+                          - /url: /store/mxu168-9g/email_templates/gift_card_confirmation/preview
+                          - generic [ref=e1015]: Gift card receipt
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent to the customer if they add a recipient to a gift card
+                      - generic [ref=e1016]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - generic [ref=e1019]:
+                - heading "Store credit" [level=2] [ref=e1020]:
+                  - button "Store credit" [expanded] [ref=e1023] [cursor=pointer]:
+                    - generic [ref=e1024]:
+                      - generic [ref=e1026]: Store credit
+                      - img [ref=e1032]
+                - list [ref=e1035]:
+                  - separator [ref=e1037]
+                  - listitem [ref=e1038] [cursor=pointer]:
+                    - generic [ref=e1042]:
+                      - generic [ref=e1045]:
+                        - link "Store credit issued" [ref=e1047]:
+                          - /url: /store/mxu168-9g/email_templates/store_credit_issued/preview
+                          - generic [ref=e1049]: Store credit issued
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a store credit amount is credited to the customer's account
+                      - generic [ref=e1050]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - generic [ref=e1053]:
+                - heading "Order exceptions" [level=2] [ref=e1054]:
+                  - button "Order exceptions" [expanded] [ref=e1057] [cursor=pointer]:
+                    - generic [ref=e1058]:
+                      - generic [ref=e1060]: Order exceptions
+                      - img [ref=e1066]
+                - list [ref=e1069]:
+                  - separator [ref=e1071]
+                  - listitem [ref=e1072] [cursor=pointer]:
+                    - generic [ref=e1076]:
+                      - generic [ref=e1079]:
+                        - link "Order invoice" [ref=e1081]:
+                          - /url: /store/mxu168-9g/email_templates/order_invoice/preview
+                          - generic [ref=e1083]: Order invoice
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when an order has an outstanding balance
+                      - generic [ref=e1084]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1086]
+                  - listitem [ref=e1087] [cursor=pointer]:
+                    - generic [ref=e1091]:
+                      - generic [ref=e1094]:
+                        - link "Order edited" [ref=e1096]:
+                          - /url: /store/mxu168-9g/email_templates/order_edited/preview
+                          - generic [ref=e1098]: Order edited
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when an order is edited
+                      - generic [ref=e1099]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1101]
+                  - listitem [ref=e1102] [cursor=pointer]:
+                    - generic [ref=e1106]:
+                      - generic [ref=e1109]:
+                        - link "Order canceled" [ref=e1111]:
+                          - /url: /store/mxu168-9g/email_templates/order_cancelled/preview
+                          - generic [ref=e1113]: Order canceled
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent if a customer cancels their order
+                      - generic [ref=e1114]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1116]
+                  - listitem [ref=e1117] [cursor=pointer]:
+                    - generic [ref=e1121]:
+                      - generic [ref=e1124]:
+                        - link "Order payment receipt" [ref=e1126]:
+                          - /url: /store/mxu168-9g/email_templates/order_payment_receipt/preview
+                          - generic [ref=e1128]: Order payment receipt
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent after you charge a customer's saved payment method
+                      - generic [ref=e1129]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1131]
+                  - listitem [ref=e1132] [cursor=pointer]:
+                    - generic [ref=e1136]:
+                      - generic [ref=e1139]:
+                        - link "Order refund" [ref=e1141]:
+                          - /url: /store/mxu168-9g/email_templates/refund_notification/preview
+                          - generic [ref=e1143]: Order refund
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent if an order is refunded
+                      - generic [ref=e1144]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1146]
+                  - listitem [ref=e1147] [cursor=pointer]:
+                    - generic [ref=e1151]:
+                      - generic [ref=e1154]:
+                        - link "Abandoned checkout" [ref=e1156]:
+                          - /url: /store/mxu168-9g/email_templates/abandoned_checkout_notification/preview
+                          - generic [ref=e1158]: Abandoned checkout
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer doesn't finish checking out
+                      - generic [ref=e1159]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1161]
+                  - listitem [ref=e1162] [cursor=pointer]:
+                    - generic [ref=e1166]:
+                      - generic [ref=e1169]:
+                        - link "Order link" [ref=e1171]:
+                          - /url: /store/mxu168-9g/email_templates/order_link/preview
+                          - generic [ref=e1173]: Order link
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer requests a new link from an expired order status page
+                      - generic [ref=e1174]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - generic [ref=e1177]:
+                - heading "Payments" [level=2] [ref=e1178]:
+                  - button "Payments" [expanded] [ref=e1181] [cursor=pointer]:
+                    - generic [ref=e1182]:
+                      - generic [ref=e1184]: Payments
+                      - img [ref=e1190]
+                - list [ref=e1193]:
+                  - separator [ref=e1195]
+                  - listitem [ref=e1196] [cursor=pointer]:
+                    - generic [ref=e1200]:
+                      - generic [ref=e1203]:
+                        - link "Payment error" [ref=e1205]:
+                          - /url: /store/mxu168-9g/email_templates/failed_payment_processing/preview
+                          - generic [ref=e1207]: Payment error
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent if a customer's payment can't be processed during checkout
+                      - generic [ref=e1208]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1210]
+                  - listitem [ref=e1211] [cursor=pointer]:
+                    - generic [ref=e1215]:
+                      - generic [ref=e1218]:
+                        - link "Pending payment error" [ref=e1220]:
+                          - /url: /store/mxu168-9g/email_templates/pending_payment_failure/preview
+                          - generic [ref=e1222]: Pending payment error
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer's pending payment can't be processed
+                      - generic [ref=e1223]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1225]
+                  - listitem [ref=e1226] [cursor=pointer]:
+                    - generic [ref=e1230]:
+                      - generic [ref=e1233]:
+                        - link "Pending payment success" [ref=e1235]:
+                          - /url: /store/mxu168-9g/email_templates/pending_payment_success/preview
+                          - generic [ref=e1237]: Pending payment success
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent after a customer's pending payment has been processed successfully
+                      - generic [ref=e1238]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1240]
+                  - listitem [ref=e1241] [cursor=pointer]:
+                    - generic [ref=e1245]:
+                      - generic [ref=e1248]:
+                        - link "Payment reminder" [ref=e1250]:
+                          - /url: /store/mxu168-9g/email_templates/payment_reminder/preview
+                          - generic [ref=e1252]: Payment reminder
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent on or after the due date for an unpaid order
+                      - generic [ref=e1253]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - generic [ref=e1256]:
+                - heading "Point of Sale" [level=2] [ref=e1257]:
+                  - button "Point of Sale" [expanded] [ref=e1260] [cursor=pointer]:
+                    - generic [ref=e1261]:
+                      - generic [ref=e1263]: Point of Sale
+                      - img [ref=e1269]
+                - list [ref=e1272]:
+                  - separator [ref=e1274]
+                  - listitem [ref=e1275] [cursor=pointer]:
+                    - generic [ref=e1279]:
+                      - generic [ref=e1282]:
+                        - link "POS abandoned checkout" [ref=e1284]:
+                          - /url: /store/mxu168-9g/email_templates/buy_online/preview
+                          - generic [ref=e1286]: POS abandoned checkout
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a POS draft order is created so a customer can complete a purchase online
+                      - generic [ref=e1287]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1289]
+                  - listitem [ref=e1290] [cursor=pointer]:
+                    - generic [ref=e1294]:
+                      - generic [ref=e1297]:
+                        - link "POS email to customer" [ref=e1299]:
+                          - /url: /store/mxu168-9g/email_templates/pos_send_cart/preview
+                          - generic [ref=e1301]: POS email to customer
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a POS cart is emailed to customer so it can be completed online
+                      - generic [ref=e1302]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1304]
+                  - listitem [ref=e1305] [cursor=pointer]:
+                    - generic [ref=e1309]:
+                      - generic [ref=e1312]:
+                        - link "POS and mobile receipt" [ref=e1314]:
+                          - /url: /store/mxu168-9g/email_templates/store_receipt/preview
+                          - generic [ref=e1316]: POS and mobile receipt
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer places an in-person order and requests a receipt
+                      - generic [ref=e1317]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1319]
+                  - listitem [ref=e1320] [cursor=pointer]:
+                    - generic [ref=e1324]:
+                      - generic [ref=e1327]:
+                        - link "POS exchange receipt" [ref=e1329]:
+                          - /url: /store/mxu168-9g/email_templates/pos_exchange_v2_receipt/preview
+                          - generic [ref=e1331]: POS exchange receipt
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer completes a POS exchange and requests a receipt
+                      - generic [ref=e1332]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - generic [ref=e1335]:
+                - heading "Shipping updated" [level=2] [ref=e1336]:
+                  - button "Shipping updated" [expanded] [ref=e1339] [cursor=pointer]:
+                    - generic [ref=e1340]:
+                      - generic [ref=e1342]: Shipping updated
+                      - img [ref=e1348]
+                - list [ref=e1351]:
+                  - separator [ref=e1353]
+                  - listitem [ref=e1354] [cursor=pointer]:
+                    - generic [ref=e1358]:
+                      - generic [ref=e1361]:
+                        - link "Shipping update" [ref=e1363]:
+                          - /url: /store/mxu168-9g/email_templates/shipping_update/preview
+                          - generic [ref=e1365]: Shipping update
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when you add or update an order tracking number
+                      - generic [ref=e1366]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1368]
+                  - listitem [ref=e1370] [cursor=pointer]:
+                    - generic [ref=e1374]:
+                      - generic [ref=e1377]:
+                        - link "Out for delivery" [ref=e1379]:
+                          - /url: /store/mxu168-9g/email_templates/shipment_out_for_delivery/preview
+                          - generic [ref=e1381]: Out for delivery
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when an order with a tracking number is out for delivery
+                      - generic [ref=e1382]:
+                        - checkbox "Out for delivery" [checked] [ref=e1387]
+                        - generic [ref=e1388]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                  - separator [ref=e1390]
+                  - listitem [ref=e1392] [cursor=pointer]:
+                    - generic [ref=e1396]:
+                      - generic [ref=e1399]:
+                        - link "Delivered" [ref=e1401]:
+                          - /url: /store/mxu168-9g/email_templates/shipment_delivered/preview
+                          - generic [ref=e1403]: Delivered
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent if an order with a tracking number is delivered
+                      - generic [ref=e1404]:
+                        - checkbox "Delivered" [checked] [ref=e1409]
+                        - generic [ref=e1410]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+              - generic [ref=e1413]:
+                - heading "Returns" [level=2] [ref=e1414]:
+                  - button "Returns" [expanded] [ref=e1417] [cursor=pointer]:
+                    - generic [ref=e1418]:
+                      - generic [ref=e1420]: Returns
+                      - img [ref=e1426]
+                - list [ref=e1429]:
+                  - separator [ref=e1431]
+                  - listitem [ref=e1432] [cursor=pointer]:
+                    - generic [ref=e1436]:
+                      - generic [ref=e1439]:
+                        - link "Return created" [ref=e1441]:
+                          - /url: /store/mxu168-9g/email_templates/return_created/preview
+                          - generic [ref=e1443]: Return created
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when you create a return, including any return label or tracking information
+                      - generic [ref=e1444]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1446]
+                  - listitem [ref=e1447] [cursor=pointer]:
+                    - generic [ref=e1451]:
+                      - generic [ref=e1454]:
+                        - link "Order-level return label created" [ref=e1456]:
+                          - /url: /store/mxu168-9g/email_templates/return_label_notification/preview
+                          - generic [ref=e1458]: Order-level return label created
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when you create a return label from the order page (US only)
+                      - generic [ref=e1459]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1461]
+                  - listitem [ref=e1462] [cursor=pointer]:
+                    - generic [ref=e1466]:
+                      - generic [ref=e1469]:
+                        - link "Return request received" [ref=e1471]:
+                          - /url: /store/mxu168-9g/email_templates/return_requested/preview
+                          - generic [ref=e1473]: Return request received
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent to confirm a customer's self-serve return request was received
+                      - generic [ref=e1474]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1476]
+                  - listitem [ref=e1477] [cursor=pointer]:
+                    - generic [ref=e1481]:
+                      - generic [ref=e1484]:
+                        - link "Return request approved" [ref=e1486]:
+                          - /url: /store/mxu168-9g/email_templates/return_approved/preview
+                          - generic [ref=e1488]: Return request approved
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when you approve a return request
+                      - generic [ref=e1489]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1491]
+                  - listitem [ref=e1492] [cursor=pointer]:
+                    - generic [ref=e1496]:
+                      - generic [ref=e1499]:
+                        - link "Return request declined" [ref=e1501]:
+                          - /url: /store/mxu168-9g/email_templates/return_declined/preview
+                          - generic [ref=e1503]: Return request declined
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when you decline a return request
+                      - generic [ref=e1504]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+              - generic [ref=e1507]:
+                - heading "Accounts and outreach" [level=2] [ref=e1508]:
+                  - button "Accounts and outreach" [expanded] [ref=e1511] [cursor=pointer]:
+                    - generic [ref=e1512]:
+                      - generic [ref=e1514]: Accounts and outreach
+                      - img [ref=e1520]
+                - list [ref=e1523]:
+                  - separator [ref=e1525]
+                  - listitem [ref=e1526] [cursor=pointer]:
+                    - generic [ref=e1530]:
+                      - generic [ref=e1533]:
+                        - link "Customer account invite" [ref=e1535]:
+                          - /url: /store/mxu168-9g/email_templates/customer_account_activate/preview
+                          - generic [ref=e1537]: Customer account invite
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when you invite a customer to create an account
+                      - generic [ref=e1538]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1540]
+                  - listitem [ref=e1541] [cursor=pointer]:
+                    - generic [ref=e1545]:
+                      - generic [ref=e1548]:
+                        - link "Customer account welcome" [ref=e1550]:
+                          - /url: /store/mxu168-9g/email_templates/customer_account_welcome/preview
+                          - generic [ref=e1552]: Customer account welcome
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer completes their account activation
+                      - generic [ref=e1553]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1555]
+                  - listitem [ref=e1556] [cursor=pointer]:
+                    - generic [ref=e1560]:
+                      - generic [ref=e1563]:
+                        - link "Customer account password reset" [ref=e1565]:
+                          - /url: /store/mxu168-9g/email_templates/customer_account_reset/preview
+                          - generic [ref=e1567]: Customer account password reset
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer requests to reset their account password
+                      - generic [ref=e1568]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1570]
+                  - listitem [ref=e1571] [cursor=pointer]:
+                    - generic [ref=e1575]:
+                      - generic [ref=e1578]:
+                        - link "Customer payment method add request" [ref=e1580]:
+                          - /url: /store/mxu168-9g/email_templates/customer_add_payment_method/preview
+                          - generic [ref=e1582]: Customer payment method add request
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer requests to add a new payment method
+                      - generic [ref=e1583]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1585]
+                  - listitem [ref=e1586] [cursor=pointer]:
+                    - generic [ref=e1590]:
+                      - generic [ref=e1593]:
+                        - link "B2B access email" [ref=e1595]:
+                          - /url: /store/mxu168-9g/email_templates/company_contact_welcome_email/preview
+                          - generic [ref=e1597]: B2B access email
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer is added to a company
+                      - generic [ref=e1598]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1600]
+                  - listitem [ref=e1601] [cursor=pointer]:
+                    - generic [ref=e1605]:
+                      - generic [ref=e1608]:
+                        - link "B2B location update payment method" [ref=e1610]:
+                          - /url: /store/mxu168-9g/email_templates/company_location_update_payment_method/preview
+                          - generic [ref=e1612]: B2B location update payment method
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer requests to update their payment method for a B2B location
+                      - generic [ref=e1613]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1615]
+                  - listitem [ref=e1616] [cursor=pointer]:
+                    - generic [ref=e1620]:
+                      - generic [ref=e1623]:
+                        - link "Contact customer" [ref=e1625]:
+                          - /url: /store/mxu168-9g/email_templates/contact_buyer/preview
+                          - generic [ref=e1627]: Contact customer
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when you contact a customer from the orders or customers page
+                      - generic [ref=e1628]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                  - separator [ref=e1630]
+                  - listitem [ref=e1631] [cursor=pointer]:
+                    - generic [ref=e1635]:
+                      - generic [ref=e1638]:
+                        - link "Customer email address change confirmation" [ref=e1640]:
+                          - /url: /store/mxu168-9g/email_templates/customer_email_address_changed_confirmation/preview
+                          - generic [ref=e1642]: Customer email address change confirmation
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent when a customer changes their email address
+                      - generic [ref=e1643]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+            - generic [ref=e1647]:
+              - generic [ref=e1651]:
+                - generic [ref=e1652]:
+                  - heading "Marketing double opt-in" [level=2] [ref=e1653]:
+                    - generic [ref=e1654]: Marketing double opt-in
+                  - link "Learn more" [ref=e1656] [cursor=pointer]:
+                    - /url: https://help.shopify.com/en//manual/promoting-marketing/create-marketing/customer-emails#enable-double-opt-in-for-subscribers
+                    - img [ref=e1660]
+                - generic [ref=e1664]:
+                  - generic: Get explicit consent from customers to send them email and SMS marketing
+              - generic [ref=e1665]:
+                - list [ref=e1671]:
+                  - listitem [ref=e1672] [cursor=pointer]:
+                    - generic [ref=e1676]:
+                      - generic [ref=e1679]:
+                        - link "Customer marketing confirmation" [ref=e1681]:
+                          - /url: /store/mxu168-9g/email_templates/customer_marketing_confirmation/preview
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Sent to subscribers so they can confirm their email or SMS subscription
+                      - generic [ref=e1682]:
+                        - checkbox "Manage consent and tracking options." [ref=e1687]
+                        - generic [ref=e1688]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                - paragraph [ref=e1691]:
+                  - generic "Shopify Messaging app card" [ref=e1692]:
+                    - generic [ref=e1694]:
+                      - link "View details for Shopify Messaging app" [ref=e1696] [cursor=pointer]:
+                        - img "Shopify Messaging icon" [ref=e1697]
+                      - generic [ref=e1700]:
+                        - button "Shopify Messaging app card" [ref=e1702] [cursor=pointer]:
+                          - heading "Shopify Messaging" [level=3] [ref=e1703]
+                        - generic [ref=e1704]:
+                          - generic: Installed
+                      - button "Open app" [ref=e1706] [cursor=pointer]:
+                        - generic [ref=e1707]: Open
+      - generic:
+        - generic:
+          - button "Close":
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic: Close
+    - dialog "Sidekick" [ref=e309]

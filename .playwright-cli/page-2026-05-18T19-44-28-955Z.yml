@@ -1,0 +1,159 @@
+- generic [ref=e12]:
+  - generic [ref=e13]:
+    - generic [ref=e24]:
+      - button "Back" [ref=e27] [cursor=pointer]:
+        - img [ref=e28]
+      - main [ref=e34]:
+        - generic [ref=e37]:
+          - img "Meta logo" [ref=e39]
+          - generic [ref=e47]:
+            - generic [ref=e49]: Get started on Facebook
+            - generic [ref=e52]: Create an account to connect with friends, family and communities of people who share your interests.
+          - generic [ref=e56]:
+            - generic [ref=e62]: Name
+            - generic [ref=e65]:
+              - generic [ref=e69]:
+                - textbox "Name First name Surname" [ref=e70]
+                - generic: First name
+              - generic [ref=e74]:
+                - textbox "Surname" [ref=e75]
+                - generic: Surname
+          - generic [ref=e79]:
+            - generic [ref=e83]:
+              - generic [ref=e85]: Date of birth
+              - button "Click for more information about entering date of birth" [ref=e87] [cursor=pointer]:
+                - img [ref=e88]
+            - group [ref=e96]:
+              - combobox "Select day" [ref=e100] [cursor=pointer]:
+                - generic [ref=e101]:
+                  - generic: Day
+                  - img [ref=e103]
+              - combobox "Select month" [ref=e108] [cursor=pointer]:
+                - generic [ref=e109]:
+                  - generic: Month
+                  - img [ref=e111]
+              - combobox "Select year" [ref=e116] [cursor=pointer]:
+                - generic [ref=e117]:
+                  - generic: Year
+                  - img [ref=e119]
+          - generic [ref=e127]:
+            - generic [ref=e131]:
+              - generic [ref=e133]: Gender
+              - button "Click for more information about selecting gender" [ref=e135] [cursor=pointer]:
+                - img [ref=e136]
+            - combobox [ref=e143] [cursor=pointer]:
+              - generic [ref=e144]:
+                - generic: Select your gender
+                - img [ref=e146]
+          - generic [ref=e150]:
+            - generic [ref=e154]:
+              - generic [ref=e160]: Mobile number or email address
+              - generic [ref=e165]:
+                - textbox "Mobile number or email address Mobile number or email address" [ref=e166]
+                - generic: Mobile number or email address
+            - generic [ref=e168]:
+              - text: You may receive notifications from us.
+              - link "Learn why we ask for your contact information" [ref=e169] [cursor=pointer]:
+                - /url: https://web.facebook.com/help/297947214257999/?helpref=uf_share
+          - generic [ref=e173]:
+            - generic [ref=e179]: Password
+            - generic [ref=e184]:
+              - textbox "Password Password" [ref=e185]
+              - generic: Password
+          - generic [ref=e191]:
+            - generic [ref=e194]:
+              - text: People who use our service may have uploaded your contact information to Facebook.
+              - link "Learn more" [ref=e195] [cursor=pointer]:
+                - /url: https://web.facebook.com/help/637205020878504
+              - text: .
+            - generic [ref=e198]:
+              - text: By tapping Submit, you agree to create an account and to Facebook's
+              - link "Terms" [ref=e199] [cursor=pointer]:
+                - /url: https://web.facebook.com/terms.php
+              - text: ","
+              - link "Privacy Policy" [ref=e200] [cursor=pointer]:
+                - /url: https://web.facebook.com/policy.php
+              - text: and
+              - link "Cookies Policy" [ref=e201] [cursor=pointer]:
+                - /url: https://web.facebook.com/help/cookies
+              - text: .
+            - generic [ref=e204]:
+              - text: The
+              - link "Privacy Policy" [ref=e205] [cursor=pointer]:
+                - /url: https://web.facebook.com/policy.php
+              - text: describes the ways we can use the information we collect when you create an account. For example, we use this information to provide, personalise and improve our products, including ads.
+          - generic [ref=e208]:
+            - button "Submit" [ref=e211] [cursor=pointer]:
+              - generic [ref=e214]: Submit
+            - button "I already have an account" [ref=e217] [cursor=pointer]:
+              - generic [ref=e220]: I already have an account
+    - main [ref=e227]:
+      - generic [ref=e232]:
+        - generic [ref=e234]:
+          - generic [ref=e236]: English (UK)
+          - link "Hausa" [ref=e239] [cursor=pointer]:
+            - /url: "#"
+          - link "Français (France)" [ref=e242] [cursor=pointer]:
+            - /url: "#"
+          - link "Português (Brasil)" [ref=e245] [cursor=pointer]:
+            - /url: "#"
+          - link "Español" [ref=e248] [cursor=pointer]:
+            - /url: "#"
+          - link "العربية" [ref=e251] [cursor=pointer]:
+            - /url: "#"
+          - link "Bahasa Indonesia" [ref=e254] [cursor=pointer]:
+            - /url: "#"
+          - link "More languages…" [ref=e257] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e260]:
+          - link "Sign up" [ref=e263] [cursor=pointer]:
+            - /url: https://web.facebook.com/reg/
+          - link "Log in" [ref=e266] [cursor=pointer]:
+            - /url: https://web.facebook.com/login/
+          - link "Messenger" [ref=e269] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F&h=AUDWPiAJRmljBdBO0CZRmsu0IlZHSKuiFW4tA4t4b5XhkIID0BoqBxw2j6eTh0bPDgXJDx6qxX0A3kjzRq3RKEbHowsApxuRPtt9nNH9hQ2sDHSyGidJ1B3YpiNM5YGOUzmP9cMpOWxxMcteiHVm4mT-PUA
+          - link "Facebook Lite" [ref=e272] [cursor=pointer]:
+            - /url: https://web.facebook.com/lite/
+          - link "Video" [ref=e275] [cursor=pointer]:
+            - /url: https://web.facebook.com/watch/
+          - link "Meta Pay" [ref=e278] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay&h=AUDWPiAJRmljBdBO0CZRmsu0IlZHSKuiFW4tA4t4b5XhkIID0BoqBxw2j6eTh0bPDgXJDx6qxX0A3kjzRq3RKEbHowsApxuRPtt9nNH9hQ2sDHSyGidJ1B3YpiNM5YGOUzmP9cMpOWxxMcteiHVm4mT-PUA
+          - link "Meta Store" [ref=e281] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F&h=AUDWPiAJRmljBdBO0CZRmsu0IlZHSKuiFW4tA4t4b5XhkIID0BoqBxw2j6eTh0bPDgXJDx6qxX0A3kjzRq3RKEbHowsApxuRPtt9nNH9hQ2sDHSyGidJ1B3YpiNM5YGOUzmP9cMpOWxxMcteiHVm4mT-PUA
+          - link "Meta Quest" [ref=e284] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F&h=AUDWPiAJRmljBdBO0CZRmsu0IlZHSKuiFW4tA4t4b5XhkIID0BoqBxw2j6eTh0bPDgXJDx6qxX0A3kjzRq3RKEbHowsApxuRPtt9nNH9hQ2sDHSyGidJ1B3YpiNM5YGOUzmP9cMpOWxxMcteiHVm4mT-PUA
+          - link "Ray-Ban Meta" [ref=e287] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fsmart-glasses%2F&h=AUDWPiAJRmljBdBO0CZRmsu0IlZHSKuiFW4tA4t4b5XhkIID0BoqBxw2j6eTh0bPDgXJDx6qxX0A3kjzRq3RKEbHowsApxuRPtt9nNH9hQ2sDHSyGidJ1B3YpiNM5YGOUzmP9cMpOWxxMcteiHVm4mT-PUA
+          - link "Meta AI" [ref=e290] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F&h=AUDWPiAJRmljBdBO0CZRmsu0IlZHSKuiFW4tA4t4b5XhkIID0BoqBxw2j6eTh0bPDgXJDx6qxX0A3kjzRq3RKEbHowsApxuRPtt9nNH9hQ2sDHSyGidJ1B3YpiNM5YGOUzmP9cMpOWxxMcteiHVm4mT-PUA
+          - link "Instagram" [ref=e293] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AUDWPiAJRmljBdBO0CZRmsu0IlZHSKuiFW4tA4t4b5XhkIID0BoqBxw2j6eTh0bPDgXJDx6qxX0A3kjzRq3RKEbHowsApxuRPtt9nNH9hQ2sDHSyGidJ1B3YpiNM5YGOUzmP9cMpOWxxMcteiHVm4mT-PUA
+          - link "Threads" [ref=e296] [cursor=pointer]:
+            - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F&h=AUDWPiAJRmljBdBO0CZRmsu0IlZHSKuiFW4tA4t4b5XhkIID0BoqBxw2j6eTh0bPDgXJDx6qxX0A3kjzRq3RKEbHowsApxuRPtt9nNH9hQ2sDHSyGidJ1B3YpiNM5YGOUzmP9cMpOWxxMcteiHVm4mT-PUA
+          - link "Privacy Policy" [ref=e299] [cursor=pointer]:
+            - /url: https://web.facebook.com/privacy/policy/?entry_point=facebook_page_footer
+          - link "Privacy Centre" [ref=e302] [cursor=pointer]:
+            - /url: https://web.facebook.com/privacy/center/?entry_point=facebook_page_footer
+          - link "About" [ref=e305] [cursor=pointer]:
+            - /url: https://web.facebook.com/about/
+          - link "Create ad" [ref=e308] [cursor=pointer]:
+            - /url: https://web.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto
+          - link "Create Page" [ref=e311] [cursor=pointer]:
+            - /url: https://web.facebook.com/pages/create/?ref_type=site_footer
+          - link "Developers" [ref=e314] [cursor=pointer]:
+            - /url: https://developers.facebook.com/?ref=pf
+          - link "Careers" [ref=e317] [cursor=pointer]:
+            - /url: https://web.facebook.com/careers/?ref=pf
+          - link "Cookies" [ref=e320] [cursor=pointer]:
+            - /url: https://web.facebook.com/policies/cookies/
+          - link "AdChoices" [ref=e323] [cursor=pointer]:
+            - /url: https://web.facebook.com/help/568137493302217
+          - link "Terms" [ref=e326] [cursor=pointer]:
+            - /url: https://web.facebook.com/policies?ref=pf
+          - link "Help" [ref=e329] [cursor=pointer]:
+            - /url: https://web.facebook.com/help/?ref=pf
+          - link "Contact uploading and non-users" [ref=e332] [cursor=pointer]:
+            - /url: https://web.facebook.com/help/637205020878504
+        - generic [ref=e335]: Meta © 2026
+  - generic:
+    - img

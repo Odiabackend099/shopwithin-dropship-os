@@ -1,0 +1,16 @@
+{
+  "id": "test-char-1",
+  "version": "1.0.0",
+  "createdAt": "2026-05-19T09:50:57.994Z",
+  "updatedAt": "2026-05-19T09:50:57.994Z",
+  "identity": {
+    "name": "Test Character",
+    "faceDescriptor": "blue eyes, short hair",
+    "vibe": "energetic",
+    "outfitStyle": "athleisure",
+    "roomAesthetic": "minimalist studio",
+    "accessories": []
+  },
+  "referenceImages": [],
+  "tags": []
+}

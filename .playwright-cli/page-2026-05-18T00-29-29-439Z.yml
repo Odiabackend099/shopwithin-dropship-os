@@ -1,0 +1,491 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e30]
+          - generic [ref=e31]:
+            - generic [ref=e32]: ⌘
+            - generic [ref=e33]: K
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e40] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e54] [cursor=pointer]:
+            - img [ref=e58]
+        - button "eguale samuel" [ref=e69] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img "shopwithin" [ref=e76]:
+              - generic [ref=e77]: SHO
+            - paragraph [ref=e79]: shopwithin
+    - generic [ref=e81]:
+      - generic "Navigation" [ref=e82]:
+        - navigation [ref=e84]:
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - list [ref=e88]:
+                - listitem [ref=e89]:
+                  - link "Home" [ref=e92] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e93]:
+                      - img [ref=e96]
+                      - img [ref=e100]
+                    - generic [ref=e102]: Home
+                - listitem [ref=e103]:
+                  - link "Orders" [ref=e106] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e107]:
+                      - img [ref=e110]
+                      - img [ref=e114]
+                    - generic [ref=e116]: Orders
+                - listitem [ref=e117]:
+                  - link "Products" [ref=e120] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e121]:
+                      - img [ref=e124]
+                      - img [ref=e128]
+                    - generic [ref=e131]: Products
+                - listitem [ref=e132]:
+                  - link "Customers" [ref=e135] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e136]:
+                      - img [ref=e139]
+                      - img [ref=e144]
+                    - generic [ref=e147]: Customers
+                - listitem [ref=e148]:
+                  - link "Marketing" [ref=e151] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e152]:
+                      - img [ref=e155]
+                      - img [ref=e161]
+                    - generic [ref=e165]: Marketing
+                - listitem [ref=e166]:
+                  - link "Discounts" [ref=e169] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e170]:
+                      - img [ref=e173]
+                      - img [ref=e177]
+                    - generic [ref=e182]: Discounts
+                - listitem [ref=e183]:
+                  - link "Content" [ref=e186] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e187]:
+                      - img [ref=e190]
+                      - img [ref=e197]
+                    - generic [ref=e202]: Content
+                - listitem [ref=e203]:
+                  - link "Markets" [ref=e206] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e207]:
+                      - img [ref=e210]
+                      - img [ref=e215]
+                    - generic [ref=e218]: Markets
+                - listitem [ref=e219]:
+                  - link "Analytics" [ref=e222] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e223]:
+                      - img [ref=e226]
+                      - img [ref=e232]
+                    - generic [ref=e236]: Analytics
+              - list [ref=e237]:
+                - listitem [ref=e238]:
+                  - button "Sales channels" [ref=e240] [cursor=pointer]:
+                    - strong [ref=e242]:
+                      - generic: Sales channels
+                  - list [ref=e244]:
+                    - button "Online Store" [ref=e245]:
+                      - list [ref=e246]:
+                        - listitem [ref=e247]:
+                          - link "Online Store" [ref=e250] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=bf62ccdc-82f0-426a-a5b1-78ee70eb6026
+                            - img [ref=e252]
+                            - generic [ref=e253]: Online Store
+                    - button "Agentic" [ref=e254]:
+                      - list [ref=e255]:
+                        - listitem [ref=e256]:
+                          - link "Agentic" [ref=e259] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=66821d15-a3d9-48da-a8c5-f9f0eb576329
+                            - img [ref=e261]
+                            - generic [ref=e262]: Agentic
+                  - status [ref=e263]
+                - listitem [ref=e264]:
+                  - button "Apps" [ref=e266] [cursor=pointer]:
+                    - strong [ref=e268]:
+                      - generic: Apps
+                - listitem [ref=e270]:
+                  - button "Sidekick conversations" [ref=e272] [cursor=pointer]:
+                    - strong [ref=e274]:
+                      - generic: Sidekick conversations
+                  - list [ref=e277]:
+                    - listitem [ref=e278]:
+                      - button "Setting up payments for your store" [ref=e281] [cursor=pointer]:
+                        - generic [ref=e282]: Setting up payments for your store
+            - list [ref=e284]:
+              - listitem [ref=e285]:
+                - link "Settings" [ref=e288] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings
+                  - img [ref=e292]
+                  - generic [ref=e294]: Settings
+      - main [ref=e295]
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Settings" [ref=e300]:
+      - button "Close" [ref=e301] [cursor=pointer]:
+        - img [ref=e304]
+      - generic [ref=e309]:
+        - generic [ref=e313]:
+          - generic [ref=e314]:
+            - button "Update internal icon" [ref=e316] [cursor=pointer]:
+              - generic [ref=e317]:
+                - img "shopwithin" [ref=e320]:
+                  - generic [ref=e321]: SHO
+                - img [ref=e325]
+            - generic [ref=e327]:
+              - heading "shopwithin" [level=3] [ref=e328]:
+                - generic [ref=e329]: shopwithin
+              - link "mxu168-9g.myshopify.com" [ref=e332] [cursor=pointer]:
+                - /url: /store/mxu168-9g/settings/domains
+                - generic [ref=e333]: mxu168-9g.myshopify.com
+          - generic [ref=e337]:
+            - img [ref=e341]
+            - combobox "Search" [ref=e344]
+          - navigation "Shop settings menu" [ref=e345]:
+            - list [ref=e346]:
+              - listitem [ref=e347]:
+                - link "General" [ref=e349] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/general
+                  - generic [ref=e350]:
+                    - img [ref=e354]
+                    - generic [ref=e357]: General
+              - listitem [ref=e358]:
+                - link "Plan" [ref=e360] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/plan
+                  - generic [ref=e361]:
+                    - img [ref=e365]
+                    - generic [ref=e368]: Plan
+              - listitem [ref=e369]:
+                - link "Billing" [ref=e371] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/billing
+                  - generic [ref=e372]:
+                    - img [ref=e376]
+                    - generic [ref=e378]: Billing
+              - listitem [ref=e379]:
+                - link "Users" [ref=e381] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/organization-account
+                  - generic [ref=e382]:
+                    - img [ref=e386]
+                    - generic [ref=e388]: Users
+              - listitem [ref=e389]:
+                - link "Payments" [ref=e391] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/payments
+                  - generic [ref=e392]:
+                    - img [ref=e396]
+                    - generic [ref=e399]: Payments
+              - listitem [ref=e400]:
+                - link "Checkout" [ref=e402] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/checkout
+                  - generic [ref=e403]:
+                    - img [ref=e407]
+                    - generic [ref=e411]: Checkout
+              - listitem [ref=e412]:
+                - link "Customer accounts" [ref=e414] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/customer_accounts
+                  - generic [ref=e415]:
+                    - img [ref=e419]
+                    - generic [ref=e422]: Customer accounts
+              - listitem [ref=e423]:
+                - link "Shipping and delivery" [ref=e425] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/shipping
+                  - generic [ref=e426]:
+                    - img [ref=e430]
+                    - generic [ref=e432]: Shipping and delivery
+              - listitem [ref=e433]:
+                - link "Taxes and duties" [ref=e435] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/taxes
+                  - generic [ref=e436]:
+                    - img [ref=e440]
+                    - generic [ref=e442]: Taxes and duties
+              - listitem [ref=e443]:
+                - link "Locations" [ref=e445] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/locations
+                  - generic [ref=e446]:
+                    - img [ref=e450]
+                    - generic [ref=e452]: Locations
+              - listitem [ref=e453]:
+                - link "Apps" [ref=e455] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/apps
+                  - generic [ref=e456]:
+                    - img [ref=e460]
+                    - generic [ref=e465]: Apps
+              - listitem [ref=e466]:
+                - link "Sales channels" [ref=e468] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/sales_channels
+                  - generic [ref=e469]:
+                    - img [ref=e473]
+                    - generic [ref=e475]: Sales channels
+              - listitem [ref=e476]:
+                - link "Domains" [ref=e478] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/domains
+                  - generic [ref=e479]:
+                    - img [ref=e483]
+                    - generic [ref=e487]: Domains
+              - listitem [ref=e488]:
+                - link "Customer events" [ref=e490] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/customer_events
+                  - generic [ref=e491]:
+                    - img [ref=e495]
+                    - generic [ref=e502]: Customer events
+              - listitem [ref=e503]:
+                - link "Notifications" [ref=e505] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/notifications
+                  - generic [ref=e506]:
+                    - img [ref=e510]
+                    - generic [ref=e512]: Notifications
+              - listitem [ref=e513]:
+                - link "Metafields and metaobjects" [ref=e515] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/custom_data
+                  - generic [ref=e516]:
+                    - img [ref=e520]
+                    - generic [ref=e522]: Metafields and metaobjects
+              - listitem [ref=e523]:
+                - link "Languages" [ref=e525] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/languages
+                  - generic [ref=e526]:
+                    - img [ref=e530]
+                    - generic [ref=e534]: Languages
+              - listitem [ref=e535]:
+                - link "Customer privacy" [ref=e537] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/privacy
+                  - generic [ref=e538]:
+                    - img [ref=e542]
+                    - generic [ref=e544]: Customer privacy
+              - listitem [ref=e545]:
+                - link "Policies" [ref=e547] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings/legal
+                  - generic [ref=e548]:
+                    - img [ref=e552]
+                    - generic [ref=e554]: Policies
+          - link "eguale samuel egualesamuel@gmail.com" [ref=e556] [cursor=pointer]:
+            - /url: https://accounts.shopify.com/accounts/400d1013-c92b-4292-b70c-576c4dcdc41f/redirect
+            - generic [ref=e557]:
+              - img "es" [ref=e560]:
+                - generic [ref=e561]: ES
+              - generic [ref=e562]:
+                - heading "eguale samuel" [level=6] [ref=e564]:
+                  - generic [ref=e565]: eguale samuel
+                - heading "egualesamuel@gmail.com" [level=6] [ref=e566]:
+                  - generic [ref=e567]: egualesamuel@gmail.com
+        - main [ref=e711]:
+          - generic [ref=e719]:
+            - generic:
+              - navigation [ref=e722]:
+                - generic [ref=e724]:
+                  - generic:
+                    - link "Notifications" [ref=e727] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/settings/notifications
+                      - img [ref=e731]
+                    - img [ref=e736]
+              - heading "Webhooks" [level=1] [ref=e741]
+          - generic [ref=e751]:
+            - generic [ref=e753]:
+              - paragraph [ref=e754]:
+                - generic: Send XML or JSON notifications about store events to a URL
+              - generic [ref=e756]:
+                - list [ref=e873]:
+                  - listitem [ref=e874]:
+                    - generic [ref=e878]:
+                      - generic [ref=e881]:
+                        - generic [ref=e883]: Order payment
+                        - generic [ref=e885]:
+                          - generic: https://arumlike-lustfully-armida.ngrok-free.dev/webhooks/shopify/orders-paid • JSON
+                      - button "More actions" [ref=e890] [cursor=pointer]:
+                        - img [ref=e894]
+                  - separator [ref=e913]
+                  - listitem [ref=e914]:
+                    - generic [ref=e918]:
+                      - generic [ref=e921]:
+                        - generic [ref=e923]: Order cancellation
+                        - generic [ref=e925]:
+                          - generic: https://arumlike-lustfully-armida.ngrok-free.dev/webhooks/shopify/orders-cancelled • JSON
+                      - button "More actions" [ref=e930] [cursor=pointer]:
+                        - img [ref=e934]
+                - separator [ref=e899]
+                - button "Create webhook" [ref=e758] [cursor=pointer]:
+                  - generic [ref=e762]:
+                    - img [ref=e765]
+                    - paragraph [ref=e769]: Create webhook
+            - paragraph [ref=e772]:
+              - generic:
+                - text: Your webhooks will be signed with
+                - generic [ref=e773]:
+                  - generic: 982eee5c4c6524ec2d743c4240837ac2852d0848b7dc676bb487638a781771a8
+      - generic:
+        - generic:
+          - button "Close":
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic: Close
+    - dialog "Sidekick" [ref=e706]
+    - dialog "Add webhook" [ref=e775]:
+      - button "Close" [ref=e777] [cursor=pointer]:
+        - img [ref=e781]
+      - generic [ref=e783]:
+        - heading "Add webhook" [level=2] [ref=e785]:
+          - generic: Add webhook
+        - generic [ref=e791]:
+          - group [ref=e792]:
+            - generic [ref=e793]:
+              - generic [ref=e796]:
+                - generic:
+                  - generic [ref=e797]: Event
+                  - generic [ref=e798]:
+                    - generic [ref=e803]: Refund create
+                    - img [ref=e806]
+                    - combobox "Event" [ref=e809] [cursor=pointer]:
+                      - option "Cart creation"
+                      - option "Cart update"
+                      - option "Checkout creation"
+                      - option "Checkout deletion"
+                      - option "Checkout update"
+                      - option "Collection creation"
+                      - option "Collection deletion"
+                      - option "Collection update"
+                      - option "Customer SMS marketing consent update"
+                      - option "Customer account settings update"
+                      - option "Customer creation"
+                      - option "Customer deletion"
+                      - option "Customer disable"
+                      - option "Customer email marketing consent update"
+                      - option "Customer enable"
+                      - option "Customer group creation"
+                      - option "Customer group deletion"
+                      - option "Customer group update"
+                      - option "Customer purchasing summary"
+                      - option "Customer tags added"
+                      - option "Customer tags removed"
+                      - option "Customer update"
+                      - option "Discount creation"
+                      - option "Discount deletion"
+                      - option "Discount update"
+                      - option "Draft order creation"
+                      - option "Draft order deletion"
+                      - option "Draft order update"
+                      - option "Fulfillment creation"
+                      - option "Fulfillment hold added to a fulfillment order"
+                      - option "Fulfillment hold released from a fulfillment order"
+                      - option "Fulfillment order cannot be completed by fulfillment service"
+                      - option "Fulfillment order line items are prepared for pickup"
+                      - option "Fulfillment order moved"
+                      - option "Fulfillment order rescheduled"
+                      - option "Fulfillment order that was scheduled becomes due"
+                      - option "Fulfillment order transitioned to the \"On hold\" status"
+                      - option "Fulfillment order was released and is no longer on hold"
+                      - option "Fulfillment order's order routing complete"
+                      - option "Fulfillment orders canceled"
+                      - option "Fulfillment orders cancellation request accepted"
+                      - option "Fulfillment orders cancellation request rejected"
+                      - option "Fulfillment orders cancellation request submitted"
+                      - option "Fulfillment orders fulfillment request accepted"
+                      - option "Fulfillment orders fulfillment request rejected"
+                      - option "Fulfillment orders fulfillment request submitted"
+                      - option "Fulfillment orders line items prepared for local delivery"
+                      - option "Fulfillment orders merged"
+                      - option "Fulfillment orders split"
+                      - option "Fulfillment update"
+                      - option "Inventory item creation"
+                      - option "Inventory item deletion"
+                      - option "Inventory item update"
+                      - option "Inventory level connect"
+                      - option "Inventory level disconnect"
+                      - option "Inventory level update"
+                      - option "Inventory shipment creation"
+                      - option "Inventory shipment deletion"
+                      - option "Inventory shipment item addition"
+                      - option "Inventory shipment item quantity update"
+                      - option "Inventory shipment item receipt"
+                      - option "Inventory shipment item removal"
+                      - option "Inventory shipment marked as in transit"
+                      - option "Inventory shipment tracking update"
+                      - option "Inventory transfer cancellation"
+                      - option "Inventory transfer completion"
+                      - option "Inventory transfer item addition"
+                      - option "Inventory transfer item quantity update"
+                      - option "Inventory transfer item removal"
+                      - option "Inventory transfer marked as ready to ship"
+                      - option "Location activation"
+                      - option "Location creation"
+                      - option "Location deactivation"
+                      - option "Location deletion"
+                      - option "Location update"
+                      - option "Market creation"
+                      - option "Market deletion"
+                      - option "Market update"
+                      - option "Order cancellation"
+                      - option "Order creation"
+                      - option "Order deletion"
+                      - option "Order edit"
+                      - option "Order fulfillment"
+                      - option "Order payment"
+                      - option "Order risk assessment changed"
+                      - option "Order update"
+                      - option "Product creation"
+                      - option "Product deletion"
+                      - option "Product update"
+                      - option "Refund create" [selected]
+                      - option "Shop update"
+                      - option "Tender transaction creation"
+                      - option "Theme creation"
+                      - option "Theme deletion"
+                      - option "Theme publish"
+                      - option "Theme update"
+                      - option "Transaction creation"
+              - generic [ref=e812]:
+                - generic:
+                  - generic [ref=e813]: Format
+                  - generic [ref=e814]:
+                    - generic [ref=e819]: JSON
+                    - img [ref=e822]
+                    - combobox "Format" [ref=e825] [cursor=pointer]:
+                      - option "JSON" [selected]
+                      - option "XML"
+          - generic [ref=e827]:
+            - generic [ref=e828]: URL
+            - textbox "URL" [ref=e832]: https://arumlike-lustfully-armida.ngrok-free.dev/webhooks/shopify/refunds-create
+          - generic [ref=e835]:
+            - generic:
+              - generic [ref=e836]: Webhook API version
+              - generic [ref=e837]:
+                - generic [ref=e842]: 2026-04 (Latest)
+                - img [ref=e845]
+                - combobox "Webhook API version" [ref=e848] [cursor=pointer]:
+                  - option "unstable"
+                  - option "2026-07 (Release candidate)"
+                  - option "2026-04 (Latest)" [selected]
+                  - option "2026-01"
+                  - option "2025-10"
+                  - option "2025-07"
+        - generic [ref=e852]:
+          - button "Cancel" [ref=e854] [cursor=pointer]:
+            - generic [ref=e856]:
+              - generic: Cancel
+          - button "Save" [ref=e858] [cursor=pointer]:
+            - generic [ref=e860]:
+              - generic: Save

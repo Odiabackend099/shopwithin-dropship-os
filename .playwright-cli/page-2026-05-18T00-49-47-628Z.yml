@@ -1,0 +1,338 @@
+- generic [ref=e2]:
+  - generic [ref=e5]:
+    - generic:
+      - link:
+        - /url: "#checkout-main"
+        - text: Skip to content
+      - generic:
+        - banner:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - link:
+                        - /url: https://mxu168-9g.myshopify.com/
+                        - generic: shopwithin
+                        - generic: Navigate to Online Store
+        - complementary:
+          - generic:
+            - generic:
+              - button:
+                - generic:
+                  - generic:
+                    - text: Order summary
+                    - generic:
+                      - img
+                  - generic:
+                    - generic: Total price
+                    - generic:
+                      - paragraph:
+                        - strong: $24.95
+        - generic:
+          - generic:
+            - generic:
+              - main:
+                - heading [level=1]: shopwithin Checkout
+                - generic:
+                  - generic:
+                    - generic:
+                      - region:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - heading [level=2]: Contact
+                                  - link:
+                                    - /url: https://mxu168-9g.myshopify.com/customer_authentication/login?locale=en-US&return_to=%2Fcheckouts%2Fcn%2FhWNCHoJSjsdTND6RJHLwi0NH%2Fen-us%3F_r%3DAQABei7mylLAfYPMivKeMNdnckiof5T4D4LPOqZ6YmoB2Xk%26locale%3Den-US
+                                    - text: Sign in
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic: Email
+                                            - textbox:
+                                              - /placeholder: Email
+                                              - text: staging-buyer@example.com
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - checkbox
+                                          - generic:
+                                            - generic:
+                                              - img
+                                        - generic: Email me with news and offers
+                      - generic:
+                        - generic:
+                          - group:
+                            - generic:
+                              - generic:
+                                - heading [level=2]: Delivery
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic:
+                                                                - generic: Country/Region
+                                                            - combobox
+                                                            - generic:
+                                                              - generic:
+                                                                - img
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic: First name
+                                                          - textbox:
+                                                            - /placeholder: First name
+                                                            - text: Staging
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic: Last name
+                                                          - textbox:
+                                                            - /placeholder: Last name
+                                                            - text: Buyer
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic:
+                                                                - generic:
+                                                                  - generic:
+                                                                    - generic: Address
+                                                                - combobox: 123 Test Street
+                                                                - generic:
+                                                                  - generic:
+                                                                    - img
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic: Apartment, suite, etc. (optional)
+                                                          - textbox:
+                                                            - /placeholder: Apartment, suite, etc. (optional)
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic: City
+                                                          - textbox:
+                                                            - /placeholder: City
+                                                            - text: New York
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic:
+                                                                - generic: State
+                                                            - combobox
+                                                            - generic:
+                                                              - generic:
+                                                                - img
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic:
+                                                                - generic: ZIP code
+                                                            - textbox:
+                                                              - /placeholder: ZIP code
+                                                              - text: "10001"
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic: Phone (optional)
+                                                          - textbox:
+                                                            - /placeholder: Phone (optional)
+                                                            - text: (212) 555-0100
+                                                          - generic:
+                                                            - generic:
+                                                              - button:
+                                                                - generic:
+                                                                  - img
+                                                              - generic:
+                                                                - generic:
+                                                                  - img
+                                                                - generic:
+                                                                  - img
+                                                                - combobox
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - checkbox
+                                                          - generic:
+                                                            - generic:
+                                                              - img
+                                                        - generic: Save this information for next time
+                                                  - generic:
+                                                    - textbox: Staging
+                                                    - textbox: Buyer
+                                                    - textbox: 123 Test Street
+                                                    - textbox
+                                                    - textbox: New York
+                                                    - textbox: US
+                                                    - textbox: NY
+                                                    - textbox: NY
+                                                    - textbox: NY
+                                                    - textbox: "10001"
+                                                    - textbox: "2125550100"
+                                          - generic:
+                                            - heading [level=2]: Shipping method
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - group:
+                                                            - generic: Choose a shipping method
+                                                            - group:
+                                                              - generic:
+                                                                - generic:
+                                                                  - generic:
+                                                                    - generic:
+                                                                      - heading [level=3]:
+                                                                        - paragraph:
+                                                                          - strong: "[Free Shipping]"
+                                                                    - generic:
+                                                                      - strong: Free
+                      - generic:
+                        - generic:
+                          - generic:
+                            - region:
+                              - group:
+                                - generic:
+                                  - heading [level=2]: Payment
+                                  - paragraph: All transactions are secure and encrypted.
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - group:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - heading [level=3]:
+                                                        - strong: Flutterwave
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - img
+                                                          - img
+                                                          - img
+                                                          - button:
+                                                            - generic:
+                                                              - generic: "+5"
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic:
+                                                              - paragraph: You'll be redirected to Flutterwave to complete your purchase.
+                                      - group:
+                                        - heading [level=3]: Billing address
+                                        - group:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - radio [checked] [disabled]
+                                                - generic: Same as shipping address
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - radio [disabled]
+                                                - generic: Use a different billing address
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - region:
+                                  - heading [level=2]: Order summary
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - button:
+                                            - generic:
+                                              - generic:
+                                                - generic: Order summary
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - strong: Total
+                                                    - generic: 1 item
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - generic:
+                                                            - generic: USD
+                                                        - strong: $24.95
+                                                - generic:
+                                                  - generic:
+                                                    - img
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading [level=2]: Finalize order
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - button [disabled]:
+                                              - generic:
+                                                - generic: Pay now
+                                              - generic:
+                                                - generic:
+                                                  - img
+                                                - text: Processing…
+                    - generic:
+                      - button: Submit
+              - contentinfo:
+                - generic:
+                  - generic:
+                    - generic:
+                      - list:
+                        - listitem:
+                          - button:
+                            - generic: Privacy policy
+    - generic:
+      - progressbar
+  - generic [ref=e255]: Opens external website in a new window.
+  - generic [ref=e256]: Opens in a new window.
+  - generic [ref=e257]: Opens external website.
+  - status [ref=e258]: "Processing…Updated shipping method: [Free Shipping]"
+  - alert [ref=e259]

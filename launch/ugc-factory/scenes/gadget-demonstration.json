@@ -1,0 +1,14 @@
+{
+  "id": "gadget-demonstration",
+  "name": "Gadget Demonstration",
+  "description": "Tech gadget close-up demonstration",
+  "environment_block": "modern home office or tech setup with clean desk surface, RGB lighting elements, tech gadgets in background, minimalist aesthetic, cool blue and purple lighting accents",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera with close-up product shots, handheld framing with smooth zoom transitions, natural hand movement showing gadget features, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "product_interaction_block": "creator demonstrates gadget features with close-up shots, shows multiple functions and use cases, natural excitement when features work, pauses to explain benefits to camera",
+  "performance_block": "enthusiastic tech review energy, genuine curiosity and excitement, natural eye contact with camera during explanations, authentic reactions to gadget capabilities",
+  "platform_block": "realistic TikTok tech review style, organic creator content, not polished commercial, fast social-media pacing, authentic tech enthusiast vibe",
+  "lighting_block": "RGB ambient lighting or soft monitor glow, tech setup environment lighting, slight smartphone overexposure on bright gadget elements",
+  "motion_block": "smooth gadget rotations, natural hand movements when demonstrating features, authentic excitement reactions, casual body shifting",
+  "audio_block": "subtle gadget click sounds, tech setup ambience, keyboard typing sounds, authentic enthusiastic speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no corporate tech presenter aesthetic, no overly polished production"
+}

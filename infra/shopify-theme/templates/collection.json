@@ -1,0 +1,29 @@
+{
+  "sections": {
+    "collection_header": {
+      "type": "category-hero",
+      "settings": {
+        "title": "{{ collection.title }}",
+        "subtitle": "{{ collection.description }}",
+        "problem_statement": "Find the perfect solution for your needs",
+        "solution_statement": "Our curated products solve real problems",
+        "cta_link": "{{ collection.url }}",
+        "cta_text": "Shop Collection"
+      }
+    },
+    "collection_products": {
+      "type": "trending-products",
+      "settings": {
+        "title": "All Products",
+        "subtitle": "Problem-solving solutions for {{ collection.title }}",
+        "collection": "{{ collection.handle }}",
+        "product_count": 12,
+        "view_all_link": "/collections/all"
+      }
+    }
+  },
+  "order": [
+    "collection_header",
+    "collection_products"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "car-enthusiast",
+  "name": "Jordan",
+  "age": 27,
+  "gender": "male",
+  "character_block": "27-year-old male car enthusiast with casual style, short hair, plain t-shirt or hoodie, realistic skin texture, authentic car care energy, expressive hands when demonstrating car products, natural speaking manner",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing with car interior shots, natural hand movement showing car accessories, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "environment_block": "car interior or garage setting, modern vehicle interior, realistic car environment, natural lighting from garage or outdoor setting",
+  "platform_block": "realistic TikTok car content style, organic creator content, not polished commercial, authentic car enthusiast vibe, satisfying car care demonstrations",
+  "lighting_block": "natural garage lighting or outdoor daylight, soft shadows, realistic car environment lighting, slight smartphone overexposure on bright surfaces",
+  "motion_block": "natural hand movements when applying car products, smooth product demonstrations on car surfaces, authentic satisfaction reactions",
+  "audio_block": "subtle car door sounds, product application sounds, garage environment ambience, authentic enthusiastic speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury car influencer aesthetic, no overly polished production",
+  "reference_images": []
+}

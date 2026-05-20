@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product-dropship",
+      "settings": {
+        "show_sticky_cta": true,
+        "show_ugc_video": true,
+        "delivery_text": "Tracked delivery target: 4-10 business days in supported markets.",
+        "guarantee_text": "30-day support window for eligible product issues."
+      }
+    }
+  },
+  "order": ["main"]
+}

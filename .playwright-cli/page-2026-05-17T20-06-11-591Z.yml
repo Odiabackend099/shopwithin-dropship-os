@@ -1,0 +1,830 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Shopify App Store logo" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]:
+          - img [ref=e7]
+        - generic [ref=e9]: Shopify App Store
+      - button "Search" [ref=e12] [cursor=pointer]:
+        - img [ref=e13]:
+          - img [ref=e14]
+      - button "Menu" [ref=e17] [cursor=pointer]:
+        - img [ref=e18]:
+          - img [ref=e19]
+  - main [ref=e21]:
+    - generic [ref=e23]:
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e29]:
+            - figure [ref=e30]:
+              - 'img "Zendrop: AI Dropshipping & POD" [ref=e31]'
+            - 'heading "Zendrop: AI Dropshipping & POD" [level=1] [ref=e33]'
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - term [ref=e36]: Pricing
+              - definition [ref=e37]:
+                - generic [ref=e38]: Free to install. Free trial available.
+            - generic [ref=e39]:
+              - term [ref=e40]: Rating
+              - definition [ref=e41]:
+                - generic [ref=e42]: "4.3"
+                - img [ref=e44]
+                - link "1162 Reviews" [ref=e47] [cursor=pointer]:
+                  - /url: "#adp-reviews"
+                  - text: (1,162)
+            - generic [ref=e48]:
+              - term [ref=e49]: Developer
+              - definition [ref=e50]:
+                - link "Zendrop" [ref=e51] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/partners/stk1
+        - link "Install" [ref=e54] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e56]:
+        - list [ref=e60]:
+          - listitem [ref=e61] [cursor=pointer]:
+            - iframe [ref=e62]:
+              - generic [active] [ref=f2e1]:
+                - generic "YouTube Video Player" [ref=f2e3]
+                - generic [ref=f2e5]:
+                  - generic:
+                    - generic:
+                      - button "Play video" [ref=f2e10] [cursor=pointer]:
+                        - generic [ref=f2e13]:
+                          - img
+                      - button "Hide player controls" [ref=f2e14] [cursor=pointer]
+                      - generic [ref=f2e16]:
+                        - generic [ref=f2e21]:
+                          - generic [ref=f2e22]:
+                            - link "Welcome to Zendrop" [ref=f2e23] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=O8Lfjy_uHpk
+                            - link "Zendrop - Grow Your Dropshipping Business" [ref=f2e24] [cursor=pointer]:
+                              - /url: /channel/UC2PLx33fLqUaLXLP6ZVZt_Q
+                              - generic [ref=f2e25]: Zendrop - Grow Your Dropshipping Business
+                          - generic [ref=f2e26]:
+                            - button "thumbnail-image" [ref=f2e27] [cursor=pointer]:
+                              - img "thumbnail-image" [ref=f2e28]
+                            - generic [ref=f2e30]:
+                              - generic: Zendrop - Grow Your Dropshipping Business
+                              - generic: 24.4k subscribers
+                        - generic [ref=f2e31]:
+                          - button "Copy link" [ref=f2e34] [cursor=pointer]:
+                            - generic [ref=f2e38]:
+                              - img
+                          - link "Watch on YouTube" [ref=f2e45] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=O8Lfjy_uHpk
+                            - generic [ref=f2e48]:
+                              - text: Watch on
+                              - img [ref=f2e50]:
+                                - generic [ref=f2e52]:
+                                  - img
+          - listitem [ref=e63] [cursor=pointer]:
+            - img "auto-fulfillment and trusted dropshipping suppliers" [ref=e64]
+          - listitem [ref=e65] [cursor=pointer]:
+            - img "Fulfillment & Logistics" [ref=e66]
+          - listitem [ref=e67] [cursor=pointer]:
+            - img "Analytics & Reporting" [ref=e68]
+          - listitem [ref=e69] [cursor=pointer]:
+            - img "Brand Control & Print on demand" [ref=e70]
+          - listitem [ref=e71] [cursor=pointer]:
+            - img "Learn dropshipping and get 24/7 support" [ref=e72]
+        - generic [ref=e74]:
+          - heading "Dropshipping with USA drop suppliers & POD sourcing. Dropship without aliexpress or temu headaches." [level=2] [ref=e75]
+          - generic [ref=e76]: Zendrop AI dropshipping app helps you grow a large ecommerce business. Dropship app features ... more
+          - list [ref=e77]:
+            - listitem [ref=e78]: AI dropshipping app to automate sourcing & fulfillment for your ecommerce store
+            - listitem [ref=e79]: Accelerate delivery via a USA drop shipping network for your dropship business
+            - listitem [ref=e80]: Add custom branding to your choice of 1M+ products from global suppliers
+            - listitem [ref=e81]: Build a successful print on demand business using advanced pod features
+            - listitem [ref=e82]: Source from US-based supplier instead of aliexpress dropshipping, temu, alibaba
+        - generic [ref=e84]:
+          - term [ref=e85]: Popular with stores like yours
+          - definition [ref=e87]:
+            - generic [ref=e88]: Based in Nigeria
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - paragraph [ref=e91]: Languages
+            - paragraph [ref=e93]: English, Portuguese (Brazil), French, and German
+          - generic [ref=e94]:
+            - paragraph [ref=e95]: Works with
+            - list [ref=e96]:
+              - listitem [ref=e97]: ADS, DSers and Oberlo ,
+              - listitem [ref=e98]: Aliexpress dropshipping ,
+              - listitem [ref=e99]: "Dropship suppliers: Amazon ,"
+              - listitem [ref=e100]: In'l and USA dropshipping ,
+              - listitem [ref=e101]: POD custom product suppliers ,
+              - listitem [ref=e102]: Temu and CJ dropshipping
+        - generic [ref=e104]:
+          - paragraph [ref=e105]: Categories
+          - generic [ref=e106]:
+            - generic [ref=e107]:
+              - generic [ref=e108]:
+                - link "Dropshipping" [ref=e110] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping?surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                - button "Show features" [ref=e111] [cursor=pointer]
+              - generic:
+                - generic [ref=e112]:
+                  - paragraph [ref=e113]: Products you can sell
+                  - list [ref=e114]:
+                    - listitem [ref=e115]:
+                      - link "Clothing and accessories" [ref=e116] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.clothing_and_accessories&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e117]:
+                      - link "Bags and luggage" [ref=e118] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.bags_and_luggages&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e119]:
+                      - link "Home and garden" [ref=e120] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.home_and_garden&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e121]:
+                      - link "Health and beauty" [ref=e122] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.health_and_beauty&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e123]:
+                      - link "Electronics" [ref=e124] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.electronics&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e125]:
+                      - link "Arts and crafts" [ref=e126] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.arts_and_crafts&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e127]:
+                      - link "Entertainment and media" [ref=e128] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.entertainment_and_media&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e129]:
+                      - link "Toys and games" [ref=e130] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.toys_and_games&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e131]:
+                      - link "Baby products" [ref=e132] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.baby_products&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e133]:
+                      - link "Sports products" [ref=e134] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.sports_products&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e135]:
+                      - link "Pet products" [ref=e136] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.pet_products&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e137]:
+                      - link "Business and office" [ref=e138] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.business_and_office&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e139]:
+                      - link "Hardware" [ref=e140] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.hardware&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e141]:
+                      - link "Automotive" [ref=e142] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.products_you_can_sell.automotive&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                - generic [ref=e143]:
+                  - paragraph [ref=e144]: Sourcing locations
+                  - list [ref=e145]:
+                    - listitem [ref=e146]:
+                      - link "China" [ref=e147] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.sourcing_locations.cn&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e148]:
+                      - link "United States" [ref=e149] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping/all?feature_handles%5B%5D=cf.dropshipping.sourcing_locations.us&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - link "Print on demand (POD)" [ref=e153] [cursor=pointer]:
+                  - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod?surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                - button "Show features" [ref=e154] [cursor=pointer]
+              - generic:
+                - generic [ref=e155]:
+                  - paragraph [ref=e156]: Product customization
+                  - list [ref=e157]:
+                    - listitem [ref=e158]:
+                      - link "Private labels" [ref=e159] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.product_customization.private_labels&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e160]:
+                      - link "Custom packaging" [ref=e161] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.product_customization.custom_packaging&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e162]:
+                      - link "Design tools" [ref=e163] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.product_customization.design_tools&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e164]:
+                      - link "Mockup generator" [ref=e165] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.product_customization.mockup_generator&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e166]:
+                      - link "Pack-ins" [ref=e167] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.product_customization.pack_ins&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e168]:
+                      - link "Personalization" [ref=e169] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.product_customization.personalization&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e170]:
+                      - link "Custom templates" [ref=e171] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.product_customization.custom_templates&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                - generic [ref=e172]:
+                  - paragraph [ref=e173]: Products
+                  - list [ref=e174]:
+                    - listitem [ref=e175]:
+                      - link "All-over-print" [ref=e176] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.all_over_print&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e177]:
+                      - link "Bags" [ref=e178] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.bags&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e179]:
+                      - link "Blankets" [ref=e180] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.blankets&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e181]:
+                      - link "Apparel" [ref=e182] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.apparel&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e183]:
+                      - link "Embroidery" [ref=e184] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.embroidery&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e185]:
+                      - link "Hats" [ref=e186] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.hats&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e187]:
+                      - link "Drinkware" [ref=e188] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.drinkware&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e189]:
+                      - link "Holiday gifts" [ref=e190] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.holiday_gifts&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e191]:
+                      - link "Home decor" [ref=e192] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.home_decor&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e193]:
+                      - link "Jewelry" [ref=e194] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.jewelry&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e195]:
+                      - link "Pet products" [ref=e196] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.pet_products&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e197]:
+                      - link "Eco-friendly" [ref=e198] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.products.eco_friendly&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                - generic [ref=e199]:
+                  - paragraph [ref=e200]: Shipping options
+                  - list [ref=e201]:
+                    - listitem [ref=e202]:
+                      - link "Custom shipping" [ref=e203] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.shipping_options.custom_shipping&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e204]:
+                      - link "Global fulfillment" [ref=e205] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.shipping_options.global_fulfillment&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e206]:
+                      - link "Multi-shipping" [ref=e207] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.shipping_options.multi_shipping&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e208]:
+                      - link "Real-time updates" [ref=e209] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.shipping_options.real_time_updates&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e210]:
+                      - link "Inclusive pricing" [ref=e211] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.shipping_options.inclusive_pricing&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+                      - text: ","
+                    - listitem [ref=e212]:
+                      - link "Order tracking" [ref=e213] [cursor=pointer]:
+                        - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod/all?feature_handles%5B%5D=cf.print_on_demand_pod.shipping_options.order_tracking&locale=en&surface_detail=zendrop&surface_type=app_details&utm_medium=cpa&utm_source=3575575-impact
+    - generic [ref=e214]:
+      - generic [ref=e216]:
+        - generic [ref=e218]:
+          - generic [ref=e219]:
+            - heading "Pricing" [level=2] [ref=e221]
+            - paragraph [ref=e222]:
+              - text: External charges may be billed by Zendrop separately from your Shopify invoice.
+              - link "Learn more" [ref=e223] [cursor=pointer]:
+                - /url: https://zendrop.com/additional-charges/
+          - generic [ref=e225]:
+            - generic [ref=e227]:
+              - generic [ref=e228]:
+                - paragraph [ref=e229]: Free
+                - heading "Free to install" [level=3] [ref=e231]:
+                  - generic [ref=e232]: Free to install
+                - paragraph [ref=e233]: Product & Shipping Cost
+              - generic [ref=e234]:
+                - paragraph [ref=e235]: Features
+                - list [ref=e236]:
+                  - listitem [ref=e237]:
+                    - generic [ref=e238]:
+                      - img [ref=e239]:
+                        - img [ref=e240]
+                      - text: Access to 1M+ Products
+                  - listitem
+                  - listitem [ref=e242]:
+                    - generic [ref=e243]:
+                      - img [ref=e244]:
+                        - img [ref=e245]
+                      - text: 24/7 Support
+                  - listitem
+                  - listitem [ref=e247]:
+                    - generic [ref=e248]:
+                      - img [ref=e249]:
+                        - img [ref=e250]
+                      - text: No linked products allowed.
+                  - listitem
+            - generic [ref=e252]:
+              - generic [ref=e253]:
+                - generic [ref=e254]:
+                  - paragraph [ref=e255]: Beginner
+                  - heading "$29/month" [level=3] [ref=e257]:
+                    - generic [ref=e258]: $29
+                    - generic [ref=e259]: / month
+                  - paragraph [ref=e260]: Product & Shipping Cost
+                - generic [ref=e261]:
+                  - paragraph [ref=e262]: Features
+                  - list [ref=e263]:
+                    - listitem [ref=e264]:
+                      - generic [ref=e265]:
+                        - img [ref=e266]:
+                          - img [ref=e267]
+                        - text: 1-20 linked products
+                    - listitem
+                    - listitem [ref=e269]:
+                      - generic [ref=e270]:
+                        - img [ref=e271]:
+                          - img [ref=e272]
+                        - text: Access to Trending Products
+                    - listitem
+                    - listitem [ref=e274]:
+                      - generic [ref=e275]:
+                        - img [ref=e276]:
+                          - img [ref=e277]
+                        - text: Zendrop Academy
+                    - listitem
+                    - listitem [ref=e279]:
+                      - generic [ref=e280]:
+                        - img [ref=e281]:
+                          - img [ref=e282]
+                        - text: Zendrop AI
+                    - listitem
+                    - listitem [ref=e284]:
+                      - generic [ref=e285]:
+                        - img [ref=e286]:
+                          - img [ref=e287]
+                        - text: Custom Branding
+                    - listitem
+              - paragraph [ref=e289]: 3-day free trial
+            - generic [ref=e290]:
+              - generic [ref=e291]:
+                - generic [ref=e292]:
+                  - paragraph [ref=e293]: Pro
+                  - heading "$49/month" [level=3] [ref=e295]:
+                    - generic [ref=e296]: $49
+                    - generic [ref=e297]: / month
+                  - paragraph [ref=e298]: Product & Shipping Cost
+                - generic [ref=e299]:
+                  - paragraph [ref=e300]: Features
+                  - list [ref=e301]:
+                    - listitem [ref=e302]:
+                      - generic [ref=e303]:
+                        - img [ref=e304]:
+                          - img [ref=e305]
+                        - text: 21-100 linked products
+                    - listitem
+                    - listitem [ref=e307]:
+                      - generic [ref=e308]:
+                        - img [ref=e309]:
+                          - img [ref=e310]
+                        - text: Access to Trending Products
+                    - listitem
+                    - listitem [ref=e312]:
+                      - generic [ref=e313]:
+                        - img [ref=e314]:
+                          - img [ref=e315]
+                        - text: Zendrop Academy
+                    - listitem
+                    - listitem [ref=e317]:
+                      - generic [ref=e318]:
+                        - img [ref=e319]:
+                          - img [ref=e320]
+                        - text: Zendrop AI
+                    - listitem
+                    - listitem [ref=e322]:
+                      - generic [ref=e323]:
+                        - img [ref=e324]:
+                          - img [ref=e325]
+                        - text: Custom Branding
+                    - listitem
+              - paragraph [ref=e327]: 3-day free trial
+            - generic [ref=e328]:
+              - generic [ref=e329]:
+                - generic [ref=e330]:
+                  - paragraph [ref=e331]: Plus
+                  - heading "$79/month" [level=3] [ref=e333]:
+                    - generic [ref=e334]: $79
+                    - generic [ref=e335]: / month
+                  - paragraph [ref=e336]: Product & Shipping Cost
+                - generic [ref=e337]:
+                  - paragraph [ref=e338]: Features
+                  - list [ref=e339]:
+                    - listitem [ref=e340]:
+                      - generic [ref=e341]:
+                        - img [ref=e342]:
+                          - img [ref=e343]
+                        - text: 101+ linked products
+                    - listitem
+                    - listitem [ref=e345]:
+                      - generic [ref=e346]:
+                        - img [ref=e347]:
+                          - img [ref=e348]
+                        - text: Access to Trending Products
+                    - listitem
+                    - listitem [ref=e350]:
+                      - generic [ref=e351]:
+                        - img [ref=e352]:
+                          - img [ref=e353]
+                        - text: Zendrop Academy
+                    - listitem
+                    - listitem [ref=e355]:
+                      - generic [ref=e356]:
+                        - img [ref=e357]:
+                          - img [ref=e358]
+                        - text: Zendrop AI
+                    - listitem
+                    - listitem [ref=e360]:
+                      - generic [ref=e361]:
+                        - img [ref=e362]:
+                          - img [ref=e363]
+                        - text: Custom Branding
+                    - listitem
+              - paragraph [ref=e365]: 3-day free trial
+        - paragraph [ref=e367]: All charges are billed in USD. Recurring and usage-based charges are billed every 30 days.
+      - generic [ref=e371]:
+        - generic [ref=e372]:
+          - heading "Reviews (1,162)" [level=2] [ref=e373]
+          - generic [ref=e374]:
+            - generic [ref=e375]: Overall rating
+            - generic [ref=e376]:
+              - generic "4.3 out of 5 stars" [ref=e377]: "4.3"
+              - img [ref=e379]:
+                - img [ref=e380]
+                - img [ref=e382]
+                - img [ref=e384]
+                - img [ref=e386]
+                - img [ref=e388]
+            - list [ref=e391]:
+              - listitem [ref=e392]:
+                - generic [ref=e393]:
+                  - generic [ref=e394]: "5"
+                  - img [ref=e396]
+                - img [ref=e399]
+                - img [ref=e402]
+                - link "913 total reviews" [ref=e405] [cursor=pointer]:
+                  - /url: /zendrop/reviews?ratings%5B%5D=5
+                  - text: "913"
+              - listitem [ref=e406]:
+                - generic [ref=e407]:
+                  - generic [ref=e408]: "4"
+                  - img [ref=e410]
+                - img [ref=e413]
+                - img [ref=e416]
+                - link "98 total reviews" [ref=e419] [cursor=pointer]:
+                  - /url: /zendrop/reviews?ratings%5B%5D=4
+                  - text: "98"
+              - listitem [ref=e420]:
+                - generic [ref=e421]:
+                  - generic [ref=e422]: "3"
+                  - img [ref=e424]
+                - img [ref=e427]
+                - img [ref=e430]
+                - link "21 total reviews" [ref=e433] [cursor=pointer]:
+                  - /url: /zendrop/reviews?ratings%5B%5D=3
+                  - text: "21"
+              - listitem [ref=e434]:
+                - generic [ref=e435]:
+                  - generic [ref=e436]: "2"
+                  - img [ref=e438]
+                - img [ref=e441]
+                - img [ref=e444]
+                - link "17 total reviews" [ref=e447] [cursor=pointer]:
+                  - /url: /zendrop/reviews?ratings%5B%5D=2
+                  - text: "17"
+              - listitem [ref=e448]:
+                - generic [ref=e449]:
+                  - generic [ref=e450]: "1"
+                  - img [ref=e452]
+                - img [ref=e455]
+                - img [ref=e458]
+                - link "113 total reviews" [ref=e461] [cursor=pointer]:
+                  - /url: /zendrop/reviews?ratings%5B%5D=1
+                  - text: "113"
+          - generic [ref=e462]:
+            - button "Write a review" [ref=e463] [cursor=pointer]
+            - link "All reviews" [ref=e466] [cursor=pointer]:
+              - /url: /zendrop/reviews
+        - generic [ref=e467]:
+          - generic [ref=e469]:
+            - generic [ref=e470]:
+              - heading "What merchants think" [level=5] [ref=e471]:
+                - text: What merchants think
+                - button [ref=e473] [cursor=pointer]:
+                  - img [ref=e474]:
+                    - img [ref=e475]
+              - button "Feedback" [ref=e481] [cursor=pointer]:
+                - img [ref=e482]:
+                  - img [ref=e483]
+            - paragraph [ref=e486]: Merchants value this app for simplifying dropshipping with a wide product selection and efficient logistics. Its seamless Shopify integration, automated fulfillment, and custom thank you cards enhance user experience. Reliable customer support and educational resources like live workshops are praised. The platform is user-friendly and beginner-friendly, making it accessible for new dropshippers. It's seen as a reliable partner, contributing to customer satisfaction and business growth.
+          - generic [ref=e487]:
+            - generic [ref=e489]:
+              - generic [ref=e490]:
+                - generic [ref=e491]:
+                  - img "5 out of 5 stars" [ref=e492]:
+                    - img [ref=e493]
+                    - img [ref=e495]
+                    - img [ref=e497]
+                    - img [ref=e499]
+                    - img [ref=e501]
+                  - generic [ref=e503]: April 1, 2026
+                - paragraph [ref=e506]:
+                  - text: I have recently started working with Zendrop. They have been very helpful
+                  - text: They are always very polite and knowledgeable. Zendrop has consolidated my inventory and shipping needs, Helping my business to grow.
+                  - text: I highly recommend Zendrop, you will be too if you give them a try.
+              - generic [ref=e507]:
+                - generic [ref=e508]:
+                  - generic "Pillow Slides" [ref=e509]
+                  - button "Copy link to review" [ref=e510] [cursor=pointer]:
+                    - img [ref=e511]:
+                      - img [ref=e512]
+                - generic [ref=e514]: United States
+                - generic [ref=e515]: Over 3 years using the app
+              - generic [ref=e519]:
+                - generic [ref=e521]: Zendrop replied April 2, 2026
+                - generic [ref=e522]:
+                  - paragraph [ref=e524]: Thank you so much for your kind feedback! We’re really glad to hear that your experience with Zendrop has been helpful and that our team has been polite and knowledgeable ...
+                  - button "Show more" [ref=e525] [cursor=pointer]
+            - generic [ref=e527]:
+              - generic [ref=e528]:
+                - generic [ref=e529]:
+                  - img "5 out of 5 stars" [ref=e530]:
+                    - img [ref=e531]
+                    - img [ref=e533]
+                    - img [ref=e535]
+                    - img [ref=e537]
+                    - img [ref=e539]
+                  - generic [ref=e541]: May 4, 2026
+                - paragraph [ref=e544]: Zendrop has been a total game-changer for my shop! The automated fulfillment saves me so much time, and my customers love the faster shipping. It’s super easy to use, and the support team is always on it. If you want to scale without the stress, this is the app to get!
+              - generic [ref=e545]:
+                - generic [ref=e546]:
+                  - generic "Eternal Beauti" [ref=e547]
+                  - button "Copy link to review" [ref=e548] [cursor=pointer]:
+                    - img [ref=e549]:
+                      - img [ref=e550]
+                - generic [ref=e552]: United States
+                - generic [ref=e553]: Over 1 year using the app
+              - generic [ref=e557]:
+                - generic [ref=e559]: Zendrop replied May 5, 2026
+                - generic [ref=e560]:
+                  - paragraph [ref=e562]: Hearing that Zendrop has been a game-changer for your shop genuinely makes our day! Automated fulfillment, happy customers, and stress-free scaling is exactly what we're here ...
+                  - button "Show more" [ref=e563] [cursor=pointer]
+            - generic [ref=e565]:
+              - generic [ref=e566]:
+                - generic [ref=e567]:
+                  - img "4 out of 5 stars" [ref=e568]:
+                    - img [ref=e569]
+                    - img [ref=e571]
+                    - img [ref=e573]
+                    - img [ref=e575]
+                    - img [ref=e577]
+                  - generic [ref=e579]: April 7, 2026
+                - paragraph [ref=e582]: This site can be complicated, and I've had problems with it connecting to Shopify, but once it's established, it works great! The product summaries and prices are super easy to edit to fit my store's needs. The support team and AI at Zendrop are super useful. I'm using the free version now, but if my store gets big enough, I would consider using the paid version.
+              - generic [ref=e583]:
+                - generic [ref=e584]:
+                  - generic "Paint Pen and Paper" [ref=e585]
+                  - button "Copy link to review" [ref=e586] [cursor=pointer]:
+                    - img [ref=e587]:
+                      - img [ref=e588]
+                - generic [ref=e590]: United States
+                - generic [ref=e591]: Almost 2 years using the app
+              - generic [ref=e595]:
+                - generic [ref=e597]: Zendrop replied April 8, 2026
+                - generic [ref=e598]:
+                  - paragraph [ref=e600]: Thank you so much for sharing your experience! We truly appreciate your honest feedback. We understand that getting started and connecting your store can sometimes feel a bit ...
+                  - button "Show more" [ref=e601] [cursor=pointer]
+      - generic [ref=e602]:
+        - generic [ref=e603]:
+          - heading "Support" [level=2] [ref=e604]
+          - paragraph [ref=e606]: App support provided by Zendrop.
+        - generic [ref=e609]:
+          - generic [ref=e610]:
+            - heading "Resources" [level=3] [ref=e611]
+            - generic [ref=e612]:
+              - link "Privacy policy" [ref=e614] [cursor=pointer]:
+                - /url: https://zendrop.com/privacy-policy/
+              - link "FAQ" [ref=e616] [cursor=pointer]:
+                - /url: https://support.zendrop.com/en/collections/5545063-faqs
+              - link "Tutorial" [ref=e618] [cursor=pointer]:
+                - /url: https://support.zendrop.com/
+              - link "App Documentation" [ref=e620] [cursor=pointer]:
+                - /url: https://support.zendrop.com/
+          - generic [ref=e621]:
+            - heading "Developer" [level=3] [ref=e622]
+            - generic [ref=e623]:
+              - link "Zendrop" [ref=e624] [cursor=pointer]:
+                - /url: https://apps.shopify.com/partners/stk1
+              - link "Website" [ref=e626] [cursor=pointer]:
+                - /url: https://zendrop.com/
+              - paragraph [ref=e627]: 5499 North Federal Highway, Suite R, Boca Raton, FL, 33487, US
+          - generic [ref=e628]:
+            - paragraph [ref=e629]: Launched
+            - paragraph [ref=e630]: November 4, 2020
+      - generic [ref=e633]:
+        - heading "More apps like this" [level=2] [ref=e636]
+        - generic [ref=e638]:
+          - 'button "CJdropshipping: Much Faster 4.9 out of 5 stars 2529 total reviews • Free to install You Sell - We source and ship for you!" [ref=e640] [cursor=pointer]':
+            - figure [ref=e641]
+            - generic [ref=e643]:
+              - 'link "CJdropshipping: Much Faster" [ref=e645]':
+                - /url: https://apps.shopify.com/cucheng?surface_detail=zendrop&surface_inter_position=1&surface_intra_position=1&surface_type=app_details
+              - generic [ref=e646]:
+                - generic [ref=e647]:
+                  - text: "4.9"
+                  - generic [ref=e648]: out of 5 stars
+                - img [ref=e650]
+                - generic [ref=e651]: (2,529)
+                - generic [ref=e652]: 2529 total reviews
+                - generic [ref=e653]: •
+                - generic [ref=e654]: Free to install
+              - generic [ref=e655]: You Sell - We source and ship for you!
+          - 'button "Auto DS: AI Dropshipping & POD 4.3 out of 5 stars 1326 total reviews • Free trial available Find dropshipping products from the best global drop suppliers" [ref=e657] [cursor=pointer]':
+            - figure [ref=e658]
+            - generic [ref=e660]:
+              - 'link "Auto DS: AI Dropshipping & POD" [ref=e662]':
+                - /url: https://apps.shopify.com/autods?surface_detail=zendrop&surface_inter_position=1&surface_intra_position=2&surface_type=app_details
+              - generic [ref=e663]:
+                - generic [ref=e664]:
+                  - text: "4.3"
+                  - generic [ref=e665]: out of 5 stars
+                - img [ref=e667]
+                - generic [ref=e668]: (1,326)
+                - generic [ref=e669]: 1326 total reviews
+                - generic [ref=e670]: •
+                - generic [ref=e671]: Free trial available
+              - generic [ref=e672]: Find dropshipping products from the best global drop suppliers
+          - 'button "Printify: Print on Demand 4.7 out of 5 stars 3308 total reviews • Free to install Create and Sell Custom Products, We Handle the Rest." [ref=e674] [cursor=pointer]':
+            - figure [ref=e675]
+            - generic [ref=e677]:
+              - 'link "Printify: Print on Demand" [ref=e679]':
+                - /url: https://apps.shopify.com/printify?surface_detail=zendrop&surface_inter_position=1&surface_intra_position=3&surface_type=app_details
+              - generic [ref=e680]:
+                - generic [ref=e681]:
+                  - text: "4.7"
+                  - generic [ref=e682]: out of 5 stars
+                - img [ref=e684]
+                - generic [ref=e685]: (3,308)
+                - generic [ref=e686]: 3308 total reviews
+                - generic [ref=e687]: •
+                - generic [ref=e688]: Free to install
+              - generic [ref=e689]: Create and Sell Custom Products, We Handle the Rest.
+    - generic [ref=e692]:
+      - heading "Want to add an app?" [level=2] [ref=e693]
+      - link "Try Shopify free for 3 days" [ref=e694] [cursor=pointer]:
+        - /url: https://accounts.shopify.com/store-create?_s=&_y=&locale=en&signup_page=https%3A%2F%2Fapps.shopify.com%2Fzendrop%3Firclickid%3DX-fTLI1UOxyZWfEUK5WbWVpyUkuR0IUFJyxaxY0%26irgwc%3D1%26afsrc%3D1%26partner%3D3575575%26affpt%3Dexcluded%26utm_channel%3Daffiliates%26utm_source%3D3575575-impact%26utm_medium%3Dcpa%26iradid%3D1061744&signup_types%5B%5D=paid_trial_experience
+  - contentinfo [ref=e695]:
+    - generic [ref=e696]:
+      - generic [ref=e697]:
+        - generic [ref=e700]:
+          - heading "App categories" [level=6] [ref=e701]
+          - link "Sales channels" [ref=e702] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels
+          - link "Finding products" [ref=e703] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products
+          - link "Selling products" [ref=e704] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/selling-products
+          - link "Orders and shipping" [ref=e705] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping
+          - link "Store design" [ref=e706] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design
+          - link "Marketing and conversion" [ref=e707] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion
+          - link "Store management" [ref=e708] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-management
+        - generic [ref=e709]:
+          - heading "Top categories" [level=6] [ref=e710]
+          - link "Dropshipping" [ref=e711] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping
+          - link "Marketplaces" [ref=e712] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces
+          - link "Product reviews" [ref=e713] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-social-trust-product-reviews
+          - link "Upsell and bundles" [ref=e714] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-upsell-and-bundles
+          - link "Email marketing" [ref=e715] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/marketing-and-conversion-marketing-email-marketing
+          - link "SEO" [ref=e716] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-site-optimization-seo
+          - link "Shipping" [ref=e717] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/orders-and-shipping-shipping-solutions-shipping
+          - link "Currency and translation" [ref=e718] [cursor=pointer]:
+            - /url: https://apps.shopify.com/categories/store-design-internationalization-currency-and-translation
+        - generic [ref=e719]:
+          - heading "Resources" [level=6] [ref=e720]
+          - link "Shopify Help Center" [ref=e721] [cursor=pointer]:
+            - /url: https://help.shopify.com/en/
+          - link "API documentation" [ref=e722] [cursor=pointer]:
+            - /url: https://shopify.dev/api
+          - link "Shopify Community" [ref=e723] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/shopify-community-en/ct-p/en
+          - link "Community Events" [ref=e724] [cursor=pointer]:
+            - /url: https://community.shopify.com/c/events/eb-p/events_en
+          - link "Shopify Blog" [ref=e725] [cursor=pointer]:
+            - /url: https://www.shopify.com/blog
+          - link "Research" [ref=e726] [cursor=pointer]:
+            - /url: https://www.shopify.com/research/future-of-commerce
+        - generic [ref=e727]:
+          - heading "Shopify" [level=6] [ref=e728]
+          - link "About" [ref=e729] [cursor=pointer]:
+            - /url: https://www.shopify.com/about
+          - link "Careers" [ref=e730] [cursor=pointer]:
+            - /url: https://www.shopify.com/careers
+          - link "Investors" [ref=e731] [cursor=pointer]:
+            - /url: https://investors.shopify.com/home/default.aspx
+          - link "Press and media" [ref=e732] [cursor=pointer]:
+            - /url: https://news.shopify.com/
+          - link "Partners" [ref=e733] [cursor=pointer]:
+            - /url: https://www.shopify.com/partners
+          - link "Affiliates" [ref=e734] [cursor=pointer]:
+            - /url: https://www.shopify.com/affiliates
+          - link "Legal" [ref=e735] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal
+          - link "Service status" [ref=e736] [cursor=pointer]:
+            - /url: https://shopifystatus.com
+      - separator [ref=e737]
+      - generic [ref=e738]:
+        - generic [ref=e739]:
+          - link "Developer login" [ref=e741] [cursor=pointer]:
+            - /url: https://apps.shopify.com/?auth=1
+          - link "Terms of service" [ref=e743] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/terms
+          - link "Privacy policy" [ref=e745] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/privacy
+          - link "Sitemap" [ref=e747] [cursor=pointer]:
+            - /url: https://apps.shopify.com/sitemap
+          - generic [ref=e749]:
+            - link "Your privacy choices" [ref=e750] [cursor=pointer]:
+              - /url: https://privacy.shopify.com/en/
+            - img "California Consumer Privacy Act (CCPA) Opt-Out Icon" [ref=e751]
+        - combobox "Change your language" [ref=e756]:
+          - option "Čeština"
+          - option "Dansk"
+          - option "Deutsch"
+          - option "English" [selected]
+          - option "Español"
+          - option "Français"
+          - option "Italiano"
+          - option "Nederlands"
+          - option "Norsk (bokmål)"
+          - option "Polski"
+          - option "Português (Brasil)"
+          - option "Português (Portugal)"
+          - option "Suomi"
+          - option "Svenska"
+          - option "Türkçe"
+          - option "ภาษาไทย"
+          - option "日本語"
+          - option "简体中文"
+          - option "繁體中文"
+          - option "한국어"
+  - dialog [active] [ref=e757]:
+    - generic [ref=e758]:
+      - generic [ref=e759]:
+        - heading [level=2] [ref=e760]
+        - button "close modal" [ref=e761] [cursor=pointer]:
+          - img [ref=e762]
+      - generic [ref=e764]:
+        - generic [ref=e765]:
+          - 'img "Zendrop: AI Dropshipping & POD" [ref=e766]'
+          - img [ref=e767]
+          - img [ref=e769]
+        - 'heading "Install Zendrop: AI Dropshipping & POD" [level=2] [ref=e770]'
+        - paragraph [ref=e771]: To install this app you need to create a Shopify account or log in to an existing one and then select a store.
+        - generic [ref=e772]:
+          - link "Create a Shopify account" [ref=e773] [cursor=pointer]:
+            - /url: https://admin.shopify.com/signup?install_app=4e6b2c3e3ba0f788aaf4a0945cbc544b&locale=en
+            - button "Create a Shopify account" [ref=e774]
+          - button "Log in to an existing account" [ref=e776] [cursor=pointer]
+        - paragraph [ref=e777]:
+          - text: By proceeding, you agree to Shopify's
+          - link "Terms of service" [ref=e778] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/terms
+          - text: and
+          - link "Privacy policy" [ref=e779] [cursor=pointer]:
+            - /url: https://www.shopify.com/legal/privacy
+          - text: .

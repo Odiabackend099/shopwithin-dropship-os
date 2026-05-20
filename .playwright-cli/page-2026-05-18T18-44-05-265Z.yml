@@ -1,0 +1,117 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - alert [ref=e86]:
+      - generic [ref=e88]:
+        - generic [ref=e90]: Submitted Successfully!
+        - button [ref=e92] [cursor=pointer]:
+          - img [ref=e94]
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - link [ref=e96] [cursor=pointer]:
+          - /url: /
+          - img [ref=e97]
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link [ref=e98] [cursor=pointer]:
+              - /url: /support/objection
+              - text: Objection For IT & LTD/GTE
+          - listitem [ref=e12]:
+            - link [ref=e99] [cursor=pointer]:
+              - /url: /support/help
+              - text: Help
+              - generic [ref=e14]: "& Support"
+          - listitem [ref=e15]:
+            - link [ref=e100] [cursor=pointer]:
+              - /url: /support/faq
+              - text: FAQs
+          - listitem [ref=e17]:
+            - link [ref=e101] [cursor=pointer]:
+              - /url: /support/contact
+              - text: Contact Us
+          - listitem [ref=e19]:
+            - link [ref=e102] [cursor=pointer]:
+              - /url: /public-search
+              - img [ref=e22]
+              - generic [ref=e24]: Public
+              - text: Search
+      - list [ref=e27]:
+        - listitem [ref=e28]:
+          - link [ref=e103] [cursor=pointer]:
+            - /url: /auth/new-account
+            - text: Sign Up
+        - listitem [ref=e30]:
+          - link [ref=e104] [cursor=pointer]:
+            - /url: /auth/login
+            - img [ref=e33]
+            - text: Login
+    - main [ref=e35]:
+      - generic [ref=e37]:
+        - list [ref=e39]:
+          - listitem [ref=e40]:
+            - link [ref=e105] [cursor=pointer]:
+              - /url: /
+              - text: Home
+            - text: /
+          - listitem [ref=e42]: Support/
+          - listitem [ref=e43]: Complaint
+        - generic [ref=e44]:
+          - img [ref=e47]
+          - generic [ref=e49]:
+            - heading [level=1] [ref=e106]: Thank you for using the Company Registration Portal.
+            - paragraph [ref=e51]: Please use this form if you encounter any issue while using the portal and we will get back to you very soon.
+            - paragraph [ref=e52]:
+              - text: "Note: If you have an objection to the registration of any"
+              - strong [ref=e53]: Incorporated Trustee
+              - text: or
+              - strong [ref=e54]: Company Limited by Guarantee
+              - text: ", you can"
+              - link [ref=e107] [cursor=pointer]:
+                - /url: /support/objection
+                - strong [ref=e56]: file a complaint / objection for them here
+        - generic [ref=e57]:
+          - heading [level=1] [ref=e108]: Complaint Form
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - generic [ref=e61]: Category
+              - combobox [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - generic [ref=e64]: Description
+              - textbox [ref=e65]: "Hello CAC Support, I am Samuel Oko Eguale and I need help recovering/updating access for ODIADEV AI LTD (RC 8989175). I am trying to access CAC iCRP/TaxPro Max for company tax validation. TaxPro Max shows the company record, but OTP is tied to masked contacts that I cannot validate: email shown as netf*****.com and phone shown as 0811*****2987. I tried CAC forgot-password with austyneguale@gmail.com; the portal said a reset email was sent, but no email arrived, including spam. Please help confirm or update the registered account/contact details for this company, or advise the exact documents required to recover access. Current contact requested: austyneguale@gmail.com, 08141995397."
+            - generic [ref=e66]:
+              - generic [ref=e67]: Name
+              - textbox [ref=e68]: Samuel Oko Eguale
+            - generic [ref=e69]:
+              - generic [ref=e70]: Email
+              - textbox [ref=e71]: austyneguale@gmail.com
+            - generic [ref=e72]:
+              - generic [ref=e73]: Phone Number
+              - textbox [ref=e74]: "08141995397"
+            - button [ref=e109] [cursor=pointer]: Submit
+    - contentinfo [ref=e78]:
+      - generic [ref=e79]:
+        - img [ref=e110]
+        - text: © 2026 Corporate Affairs Commission (CAC), Nigeria
+      - generic [ref=e81]:
+        - link [ref=e111] [cursor=pointer]:
+          - /url: /legal/privacy-policy
+          - text: Privacy Policy
+        - text: "|"
+        - link [ref=e112] [cursor=pointer]:
+          - /url: /legal/refund-policy
+          - text: Refunds, Cancellation and Return Policy
+        - text: "|"
+        - link [ref=e113] [cursor=pointer]:
+          - /url: /legal/terms-of-use
+          - text: Terms of Use
+        - text: "|"
+        - link [ref=e114] [cursor=pointer]:
+          - /url: /support/contact
+          - text: Contact Us
+  - dialog [active] [ref=e116]:
+    - document:
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - img [ref=e121]
+          - generic [ref=e124]: Recieved Successfully
+          - generic [ref=e126]: Your complaint has been recieved and the proper channels have been notified!
+        - button "Continue" [ref=e127] [cursor=pointer]

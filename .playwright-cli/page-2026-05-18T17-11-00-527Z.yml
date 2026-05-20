@@ -1,0 +1,79 @@
+- generic [ref=e3]:
+  - region "Notifications alt+T"
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e9]:
+        - link "coat of arm" [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img "coat of arm" [ref=e11]
+        - button "Help & Support" [ref=e12] [cursor=pointer]
+        - button [ref=e14] [cursor=pointer]:
+          - img
+    - main [ref=e15]:
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - heading "Seamless Tax ID Retrieval" [level=1] [ref=e20]
+          - img "hero" [ref=e21]
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - button "Individual" [ref=e25] [cursor=pointer]
+            - button "Corporate" [active] [ref=e26] [cursor=pointer]
+            - button "Others" [ref=e27] [cursor=pointer]
+          - generic [ref=e93]:
+            - generic [ref=e94]:
+              - generic [ref=e95]:
+                - generic [ref=e96]: Select organization type
+                - combobox "Select organization type" [ref=e97] [cursor=pointer]:
+                  - generic: Select organization type
+                  - img
+                - combobox [ref=e98]
+              - generic [ref=e99]:
+                - generic [ref=e100]: Enter ID Number
+                - textbox "Enter ID Number" [ref=e102]:
+                  - /placeholder: " "
+            - generic [ref=e103]:
+              - img [ref=e104]
+              - paragraph [ref=e106]: I hereby consent to the processing of my information for tax-related identity verification.
+            - button "Retrieve Tax ID" [ref=e108] [cursor=pointer]
+        - generic [ref=e50]:
+          - heading "What is a Tax Identification Number (Tax ID)?" [level=4] [ref=e51]
+          - paragraph [ref=e52]: A Tax Identification Number (Tax ID) is a unique number jointly issued by the Nigeria Revenue Service (NRS) and the Joint Revenue Board (JRB) in accordance with Nigerian tax laws for the purpose of identifying individuals and entities for tax administration, compliance, and enforcement.
+          - paragraph [ref=e53]: Under Nigeria’s tax administration framework, a Tax ID is not created in isolation.
+          - link "Read More" [ref=e55] [cursor=pointer]:
+            - /url: /what-is-a-tax-id
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - heading "Who Is Required to Have a Tax ID?" [level=3] [ref=e62]
+            - paragraph [ref=e63]: A valid Tax ID is mandatory for accessing many public and private services, including banking, employment documentation, government contracts, and statutory filings.
+          - generic [ref=e64]:
+            - generic [ref=e65]:
+              - img "Individuals" [ref=e66]
+              - paragraph [ref=e67]: Individuals earning income or engaging in taxable activities in Nigeria
+            - generic [ref=e68]:
+              - img "Companies and business entities" [ref=e69]
+              - paragraph [ref=e70]: Companies and business entities registered with the CAC. Organizations, trustees, and partnerships conducting regulated or taxable operations
+            - generic [ref=e71]:
+              - img "Non-residents" [ref=e72]
+              - paragraph [ref=e73]: Non-residents with tax obligations or economic presence in Nigeria
+    - contentinfo [ref=e74]:
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - generic [ref=e79]:
+            - img [ref=e80]
+            - paragraph [ref=e81]: Tax ID Retrieval Portal
+          - generic [ref=e82]: © 2026 | All Rights Reserved
+        - generic [ref=e83]:
+          - link "What Is A Tax ID?" [ref=e84] [cursor=pointer]:
+            - /url: /what-is-a-tax-id
+          - link "How It Works" [ref=e85] [cursor=pointer]:
+            - /url: /
+          - link "Service Availability" [ref=e86] [cursor=pointer]:
+            - /url: /service-availability
+          - generic [ref=e87] [cursor=pointer]: Help & Support
+        - generic [ref=e88]:
+          - link "Terms of Service" [ref=e89] [cursor=pointer]:
+            - /url: https://www.firs.gov.ng/privacy-policy
+          - link "Privacy Policy" [ref=e90] [cursor=pointer]:
+            - /url: https://www.firs.gov.ng/privacy-policy
+          - link "Cookie Policy" [ref=e91] [cursor=pointer]:
+            - /url: https://www.firs.gov.ng/privacy-policy

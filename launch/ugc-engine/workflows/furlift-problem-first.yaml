@@ -1,0 +1,15 @@
+id: furlift-problem-first
+name: FurLift Problem-First Hook
+productSlug: furlift
+characterId: sarah-pet-mom
+scenes:
+  - sceneId: couch-cleaning
+    hookVariant: 0
+    ctaVariant: 0
+  - sceneId: car-seat-cleaning
+    hookVariant: 1
+    ctaVariant: 2
+platforms:
+  - tiktok
+  - reels
+outputVariants: 3

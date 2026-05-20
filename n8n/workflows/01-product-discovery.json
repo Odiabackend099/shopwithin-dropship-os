@@ -1,0 +1,59 @@
+{
+  "name": "01-product-discovery",
+  "active": false,
+  "nodes": [
+    {
+      "parameters": { "rule": { "interval": [{ "field": "hours", "hoursInterval": 6 }] } },
+      "id": "schedule",
+      "name": "Every 6 Hours",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            { "name": "sources", "value": "tiktok,meta_ads_library,amazon_movers,google_trends,aliexpress,shopify_spy" },
+            { "name": "markets", "value": "US,UK,CA,EU,AU" }
+          ]
+        }
+      },
+      "id": "seed",
+      "name": "Seed Discovery Sources",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [220, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.API_PUBLIC_URL}}/internal/products/score",
+        "sendBody": true,
+        "contentType": "json",
+        "bodyParameters": {
+          "parameters": [
+            { "name": "demandVelocity", "value": 80 },
+            { "name": "margin", "value": 75 },
+            { "name": "shippingSpeed", "value": 74 },
+            { "name": "wowFactor", "value": 80 },
+            { "name": "creativeEase", "value": 85 },
+            { "name": "trendLongevity", "value": 70 },
+            { "name": "competition", "value": 35 },
+            { "name": "adSaturation", "value": 30 },
+            { "name": "riskPenalties", "value": 0 }
+          ]
+        },
+        "options": { "retry": { "maxTries": 3, "waitBetweenTries": 5000 } }
+      },
+      "id": "score",
+      "name": "Score Discovery Batch",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [460, 0]
+    }
+  ],
+  "connections": { "Every 6 Hours": { "main": [[{ "node": "Seed Discovery Sources", "type": "main", "index": 0 }]] }, "Seed Discovery Sources": { "main": [[{ "node": "Score Discovery Batch", "type": "main", "index": 0 }]] } },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

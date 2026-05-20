@@ -1,0 +1,248 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - banner:
+      - generic [ref=e6]:
+        - generic:
+          - generic:
+            - button [disabled]:
+              - img
+        - link "Facebook" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img [ref=e8]
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic:
+            - generic:
+              - generic:
+                - button:
+                  - img
+        - generic [ref=e19]:
+          - generic:
+            - img
+          - combobox "Search Facebook" [ref=e20] [cursor=pointer]
+      - navigation "Facebook" [ref=e24]:
+        - list [ref=e25]:
+          - listitem [ref=e26]:
+            - link "Home" [ref=e29] [cursor=pointer]:
+              - /url: /
+              - img [ref=e31]
+          - listitem [ref=e33]:
+            - link "Reels" [ref=e36] [cursor=pointer]:
+              - /url: /reel/?s=tab
+              - img [ref=e38]
+          - listitem [ref=e41]:
+            - link "Friends" [ref=e44] [cursor=pointer]:
+              - /url: /friends/
+              - img [ref=e46]
+          - listitem [ref=e48]:
+            - link "Groups" [ref=e51] [cursor=pointer]:
+              - /url: /groups/
+              - img [ref=e53]
+      - navigation "Account controls and settings" [ref=e56]:
+        - button "Facebook menu" [ref=e60] [cursor=pointer]:
+          - img [ref=e61]
+        - button "Messenger" [ref=e67] [cursor=pointer]:
+          - img [ref=e68]
+        - generic [ref=e73]:
+          - button "Notifications, 1 unread" [ref=e74] [cursor=pointer]:
+            - img [ref=e75]
+          - button [ref=e77] [cursor=pointer]:
+            - generic [ref=e78]:
+              - generic [ref=e79]: Number of unread notifications
+              - generic [ref=e80]: "1"
+        - button "Your profile" [ref=e83] [cursor=pointer]:
+          - generic [ref=e84]:
+            - img "Your profile" [ref=e85]
+            - img [ref=e92]
+    - generic [ref=e99]:
+      - main "Page creation form" [ref=e100]:
+        - generic [ref=e101]:
+          - generic [ref=e105]:
+            - navigation "Breadcrumb" [ref=e107]:
+              - generic [ref=e110]:
+                - link "Pages" [ref=e112] [cursor=pointer]:
+                  - /url: /pages/
+                - text: › Create a Page
+            - generic [ref=e113]:
+              - heading "Create a Page" [level=1] [ref=e116]
+              - generic [ref=e118]: Your Page is where people go to learn more about you. Make sure that yours has all of the information they may need.
+          - form "Pages" [ref=e122]:
+            - generic [ref=e124]:
+              - generic [ref=e128]:
+                - generic [ref=e129]:
+                  - generic: Page name (required)
+                  - textbox "Page name (required) Input Page name (required) is valid." [ref=e212]: Shopwithin
+                - generic [ref=e216]: Input Page name (required) is valid.
+              - generic [ref=e134]:
+                - text: Use the name of your business, brand or organisation, or a name that helps explain your Page.
+                - link "Learn more about naming your Page" [ref=e135] [cursor=pointer]:
+                  - /url: https://www.facebook.com/help/519912414718764
+              - generic [ref=e137]:
+                - alert [ref=e266]: Shopping & retail added
+                - generic [ref=e141]:
+                  - generic [ref=e142]:
+                    - generic: Category (required)
+                    - generic [ref=e143]:
+                      - grid "Selected values" [ref=e268]:
+                        - row "Remove Shopping & retail" [ref=e269]:
+                          - gridcell "Remove Shopping & retail" [ref=e270]:
+                            - generic [ref=e271]:
+                              - generic [ref=e273]: Shopping & retail
+                              - button "Remove Shopping & retail" [ref=e274] [cursor=pointer]
+                      - combobox "Category (required)" [active] [ref=e144]
+                  - generic [ref=e279]: Input Category (required) is valid.
+              - generic [ref=e148]: Enter a category that best describes you.
+              - generic [ref=e150]:
+                - generic [ref=e153]:
+                  - generic: Bio (optional)
+                  - textbox "Bio (optional)" [ref=e155]
+                - generic [ref=e159]: Tell people a little about what you do.
+          - generic [ref=e160]:
+            - button "Create Page" [ref=e163] [cursor=pointer]:
+              - generic [ref=e166]: Create Page
+            - generic [ref=e171]:
+              - text: By creating a Page, you agree to the
+              - link "Pages, Groups and Events Policies" [ref=e172] [cursor=pointer]:
+                - /url: https://www.facebook.com/policies_center/pages_groups_events/
+      - complementary "Page creation preview" [ref=e173]:
+        - region [ref=e177]:
+          - generic [ref=e178]:
+            - heading "Desktop preview" [level=2] [ref=e188]:
+              - generic [ref=e190]: Desktop preview
+            - group "Devices" [ref=e192]:
+              - button "Switch to desktop layout" [pressed] [ref=e194] [cursor=pointer]
+              - button "Switch to mobile layout" [ref=e197] [cursor=pointer]
+          - generic [ref=e204]:
+            - generic:
+              - main:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Shopwithin
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - tablist:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: More
+                                    - generic:
+                                      - img
+                                - tab "Posts":
+                                  - generic:
+                                    - generic: Posts
+                                - tab "About":
+                                  - generic:
+                                    - generic: About
+                                - tab "Followers":
+                                  - generic:
+                                    - generic: Followers
+                                - tab "Photos":
+                                  - generic:
+                                    - generic: Photos
+                                - tab [disabled]:
+                                  - generic:
+                                    - generic: Videos
+                                - generic:
+                                  - tab "More":
+                                    - generic:
+                                      - generic: More
+                                      - generic:
+                                        - img
+                      - generic:
+                        - generic:
+                          - generic:
+                            - button "Follow" [disabled]:
+                              - generic:
+                                - img
+                                - generic:
+                                  - generic: Follow
+                          - generic:
+                            - button "Message" [disabled]:
+                              - generic:
+                                - img
+                                - generic:
+                                  - generic: Message
+                          - generic:
+                            - button "More" [disabled]:
+                              - generic:
+                                - img
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - heading "Intro" [level=2]:
+                                              - generic:
+                                                - generic: Intro
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - listitem:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - img
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic: 0 followers
+                              - generic:
+                                - generic:
+                                  - listitem:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - img
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic: Page
+                                                  - generic:
+                                                    - generic: ·
+                                                  - generic: Shopping & retail
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - heading "Posts" [level=2]:
+                                      - generic: Posts
+                              - generic:
+                                - generic:
+                                  - button "Filters":
+                                    - generic:
+                                      - img
+                                      - generic:
+                                        - generic: Filters
+    - button "New message" [ref=e208] [cursor=pointer]:
+      - img [ref=e209]
+  - alert [ref=e222]: Input Page name (required) is valid.

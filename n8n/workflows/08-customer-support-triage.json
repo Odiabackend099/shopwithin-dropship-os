@@ -1,0 +1,12 @@
+{
+  "name": "08-customer-support-triage",
+  "active": false,
+  "nodes": [
+    { "parameters": { "path": "support-triage", "responseMode": "responseNode", "options": {} }, "id": "webhook", "name": "Support Message", "type": "n8n-nodes-base.webhook", "typeVersion": 2, "position": [0, 0] },
+    { "parameters": { "conditions": { "boolean": [{ "value1": "={{$env.CUSTOMER_AI_AUTO_REPLY_ENABLED === 'true'}}", "value2": true }] } }, "id": "gate", "name": "AI Reply Gate", "type": "n8n-nodes-base.if", "typeVersion": 2.2, "position": [240, 0] },
+    { "parameters": { "respondWith": "json", "responseBody": "{\"ok\":true,\"status\":\"triaged\"}" }, "id": "response", "name": "Respond", "type": "n8n-nodes-base.respondToWebhook", "typeVersion": 1.1, "position": [500, 0] }
+  ],
+  "connections": { "Support Message": { "main": [[{ "node": "AI Reply Gate", "type": "main", "index": 0 }]] }, "AI Reply Gate": { "main": [[{ "node": "Respond", "type": "main", "index": 0 }], [{ "node": "Respond", "type": "main", "index": 0 }]] } },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

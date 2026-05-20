@@ -1,0 +1,39 @@
+{
+  "sections": {
+    "category_hero": {
+      "type": "category-hero",
+      "settings": {
+        "category": "home",
+        "title": "Solve Everyday Problems",
+        "subtitle": "Viral products that actually work",
+        "trending_badge": true,
+        "problem_statement": "Dealing with everyday problems that slow you down?",
+        "solution_statement": "Our trending products solve these problems fast",
+        "cta_link": "/collections/all",
+        "cta_text": "Shop All Solutions"
+      }
+    },
+    "category_grid": {
+      "type": "category-grid",
+      "settings": {
+        "title": "Shop by Problem",
+        "subtitle": "Find the perfect solution for your everyday challenges"
+      }
+    },
+    "trending_products": {
+      "type": "trending-products",
+      "settings": {
+        "title": "Trending Now",
+        "subtitle": "Viral products taking over TikTok",
+        "collection": "all",
+        "product_count": 8,
+        "view_all_link": "/collections/all"
+      }
+    }
+  },
+  "order": [
+    "category_hero",
+    "category_grid",
+    "trending_products"
+  ]
+}

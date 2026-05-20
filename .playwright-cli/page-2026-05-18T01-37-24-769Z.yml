@@ -1,0 +1,313 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - generic [ref=e21]:
+        - button "Search ⌘ K" [ref=e608] [cursor=pointer]:
+          - generic [ref=e609]:
+            - generic [ref=e610]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+              - generic "Search" [ref=e611]
+            - generic [ref=e612]:
+              - generic [ref=e613]: ⌘
+              - generic [ref=e614]: K
+        - toolbar [ref=e617]:
+          - generic [ref=e619]:
+            - generic [ref=e620]:
+              - img [ref=e623]
+              - heading "Unsaved changes" [level=2] [ref=e627]
+            - generic [ref=e628]:
+              - button "Discard" [ref=e631] [cursor=pointer]
+              - button "Save" [ref=e634] [cursor=pointer]
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - button "Sidekick" [ref=e553] [cursor=pointer]:
+            - img [ref=e557]
+          - button "Alerts Feed - 1 unseen alerts" [ref=e560] [cursor=pointer]:
+            - generic [ref=e561]:
+              - img [ref=e564]
+              - generic [ref=e566]: "1"
+        - button "eguale samuel" [ref=e59] [cursor=pointer]:
+          - generic [ref=e62]:
+            - img "shopwithin" [ref=e66]:
+              - generic [ref=e67]: SHO
+            - paragraph [ref=e69]: shopwithin
+    - generic [ref=e71]:
+      - generic "Navigation" [ref=e72]:
+        - navigation [ref=e74]:
+          - generic [ref=e75]:
+            - generic [ref=e76]:
+              - list [ref=e78]:
+                - listitem [ref=e79]:
+                  - link "Home" [ref=e82] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e83]:
+                      - img [ref=e86]
+                      - img [ref=e90]
+                    - generic [ref=e92]: Home
+                - listitem [ref=e93]:
+                  - link "Orders 1" [ref=e96] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e97]:
+                      - img [ref=e100]
+                      - img [ref=e104]
+                    - generic [ref=e106]: Orders
+                    - generic [ref=e109]:
+                      - generic: "1"
+                - listitem [ref=e110]:
+                  - link "Products" [ref=e113] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e114]:
+                      - img [ref=e117]
+                      - img [ref=e121]
+                    - generic [ref=e124]: Products
+                - listitem [ref=e125]:
+                  - link "Customers" [ref=e128] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e129]:
+                      - img [ref=e132]
+                      - img [ref=e137]
+                    - generic [ref=e140]: Customers
+                - listitem [ref=e141]:
+                  - link "Marketing" [ref=e144] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e145]:
+                      - img [ref=e148]
+                      - img [ref=e154]
+                    - generic [ref=e158]: Marketing
+                - listitem [ref=e159]:
+                  - link "Discounts" [ref=e162] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e163]:
+                      - img [ref=e166]
+                      - img [ref=e170]
+                    - generic [ref=e175]: Discounts
+                - listitem [ref=e176]:
+                  - link "Content" [ref=e179] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e180]:
+                      - img [ref=e183]
+                      - img [ref=e190]
+                    - generic [ref=e195]: Content
+                - listitem [ref=e196]:
+                  - link "Markets" [ref=e199] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e200]:
+                      - img [ref=e203]
+                      - img [ref=e208]
+                    - generic [ref=e211]: Markets
+                - listitem [ref=e212]:
+                  - link "Analytics" [ref=e215] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e216]:
+                      - img [ref=e219]
+                      - img [ref=e225]
+                    - generic [ref=e229]: Analytics
+              - list [ref=e230]:
+                - listitem [ref=e231]:
+                  - button "Sales channels" [ref=e233] [cursor=pointer]:
+                    - strong [ref=e235]:
+                      - generic: Sales channels
+                  - list [ref=e237]:
+                    - button "Online Store Pages Preferences" [ref=e567]:
+                      - list [ref=e239]:
+                        - listitem [ref=e240]:
+                          - link "Online Store" [expanded] [ref=e243] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes
+                            - img [ref=e245]
+                            - generic [ref=e246]: Online Store
+                          - list [ref=e570]:
+                            - listitem [ref=e571]:
+                              - link "Pages" [ref=e574] [cursor=pointer]:
+                                - /url: /store/mxu168-9g/pages
+                                - generic [ref=e575]: Pages
+                            - listitem [ref=e576]:
+                              - link "Preferences" [ref=e579] [cursor=pointer]:
+                                - /url: /store/mxu168-9g/online_store/preferences
+                                - generic [ref=e580]: Preferences
+                    - button "Agentic" [ref=e260]:
+                      - list [ref=e261]:
+                        - listitem [ref=e262]:
+                          - link "Agentic" [ref=e265] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=2ca6072f-68f1-4999-a581-16fa5e76a54d
+                            - img [ref=e267]
+                            - generic [ref=e268]: Agentic
+                  - status [ref=e269]
+                - listitem [ref=e270]:
+                  - button "Apps" [ref=e272] [cursor=pointer]:
+                    - strong [ref=e274]:
+                      - generic: Apps
+                - listitem [ref=e276]:
+                  - button "Sidekick conversations" [ref=e278] [cursor=pointer]:
+                    - strong [ref=e280]:
+                      - generic: Sidekick conversations
+                  - list [ref=e283]:
+                    - listitem [ref=e284]:
+                      - button "Setting up payments for your store" [ref=e287] [cursor=pointer]:
+                        - generic [ref=e288]: Setting up payments for your store
+            - list [ref=e290]:
+              - listitem [ref=e291]:
+                - link "Settings" [ref=e294] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings
+                  - img [ref=e298]
+                  - generic [ref=e300]: Settings
+      - main [ref=e301]:
+        - generic [ref=e584]:
+          - generic [ref=e586]:
+            - navigation "Breadcrumbs for Online Store" [ref=e587]:
+              - heading "Online Store" [level=1] [ref=e591]
+            - button "More actions" [ref=e595] [cursor=pointer]:
+              - img [ref=e599]
+          - iframe [active] [ref=e603]:
+            - generic [ref=f3e5]:
+              - generic [ref=f3e6]:
+                - status:
+                  - paragraph [ref=f3e7]: Preferences. This page is ready
+                - generic [ref=f3e12]:
+                  - link "Themes" [ref=f3e14] [cursor=pointer]:
+                    - /url: https://admin.shopify.com/store/mxu168-9g/themes
+                    - img [ref=f3e18]
+                  - img [ref=f3e20]
+                  - heading "Preferences" [level=1] [ref=f3e23]
+              - generic [ref=f3e26]:
+                - button [ref=f3e28]: Submit
+                - generic [ref=f3e29]:
+                  - generic [ref=f3e36]:
+                    - heading "Store access" [level=1] [ref=f3e39]
+                    - generic [ref=f3e41]:
+                      - generic [ref=f3e42]:
+                        - generic [ref=f3e45]:
+                          - img [ref=f3e48]
+                          - generic [ref=f3e51]:
+                            - generic [ref=f3e52]:
+                              - generic [ref=f3e53]: Password protection
+                              - link "Learn more" [ref=f3e56] [cursor=pointer]:
+                                - /url: https://help.shopify.com/en/manual/using-themes/password-page
+                                - img [ref=f3e60]
+                            - generic [ref=f3e64]: Restrict access to visitors with the password
+                          - button "Restrict access to visitors with the password, currently off" [active] [ref=f3e352] [cursor=pointer]
+                        - separator [ref=f3e95]
+                      - generic [ref=f3e97]:
+                        - img [ref=f3e100]
+                        - generic [ref=f3e103]:
+                          - generic [ref=f3e104]:
+                            - generic [ref=f3e105]: Restrict access to B2B customers only
+                            - link "Learn more" [ref=f3e108] [cursor=pointer]:
+                              - /url: https://help.shopify.com/en/manual/b2b/b2b-customers#allow-store-access-to-b2b-customers-only
+                              - img [ref=f3e112]
+                          - generic [ref=f3e116]:
+                            - text: B2B customers will need to log in and verify their account to access your store.
+                            - link "Manage companies" [ref=f3e117] [cursor=pointer]:
+                              - /url: https://admin.shopify.com/store/mxu168-9g/companies
+                        - button "Restrict access to B2B customers only, currently off" [ref=f3e119] [cursor=pointer]
+                  - generic [ref=f3e128]:
+                    - generic [ref=f3e130]:
+                      - heading "Social sharing image and SEO" [level=1] [ref=f3e131]
+                      - link "Learn more" [ref=f3e134] [cursor=pointer]:
+                        - /url: https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/showing-social-media-thumbnail-images
+                        - img [ref=f3e138]
+                    - generic [ref=f3e142]:
+                      - generic [ref=f3e144]:
+                        - generic [ref=f3e146]:
+                          - generic [ref=f3e149]: Upload image
+                          - generic [ref=f3e150]:
+                            - button "Upload image" [ref=f3e152]
+                            - generic [ref=f3e156]:
+                              - button "Edit social sharing image" [ref=f3e157] [cursor=pointer]:
+                                - generic [ref=f3e158]: Add image
+                              - generic [ref=f3e159]: "Recommended: 1200 x 628 px"
+                        - generic [ref=f3e161]:
+                          - paragraph [ref=f3e162]: MXU168-9G.MYSHOPIFY.COM
+                          - paragraph [ref=f3e163]: mxu168-9g.myshopify.com
+                          - paragraph [ref=f3e164]: shopwithin
+                      - generic [ref=f3e166]:
+                        - generic [ref=f3e167]:
+                          - generic [ref=f3e170]: Home page title
+                          - textbox "Home page title" [ref=f3e174]:
+                            - /placeholder: mxu168-9g.myshopify.com
+                          - paragraph [ref=f3e176]: 0 of 70 characters used
+                        - generic [ref=f3e177]:
+                          - generic [ref=f3e180]: Meta description
+                          - textbox "Meta description" [ref=f3e184]:
+                            - /placeholder: Enter a description to be shown on search engines like Google
+                          - paragraph [ref=f3e186]: 0 of 320 characters used
+                  - generic [ref=f3e193]:
+                    - generic [ref=f3e195]:
+                      - heading "Automatic redirection" [level=1] [ref=f3e196]
+                      - link "Learn more" [ref=f3e199] [cursor=pointer]:
+                        - /url: https://help.shopify.com/en/manual/international/automatic-redirection
+                        - img [ref=f3e203]
+                    - generic [ref=f3e208]:
+                      - generic [ref=f3e209]:
+                        - generic [ref=f3e210]:
+                          - img [ref=f3e213]
+                          - generic [ref=f3e215]:
+                            - generic [ref=f3e217]: Country/region
+                            - generic [ref=f3e218]: Displays the storefront that matches a visitor’s location
+                          - button "Country/region automatic redirection enabled. Displays the storefront that matches a visitor’s location." [pressed] [ref=f3e220] [cursor=pointer]
+                        - separator [ref=f3e223]
+                      - generic [ref=f3e225]:
+                        - img [ref=f3e228]
+                        - generic [ref=f3e233]:
+                          - generic [ref=f3e235]: Language
+                          - generic [ref=f3e236]: Displays the language that matches a visitor’s browser, when available
+                        - button "Language redirection disabled. Displays the language that matches a visitor’s browser." [ref=f3e238] [cursor=pointer]
+                  - generic [ref=f3e247]:
+                    - generic [ref=f3e248]:
+                      - heading "Spam protection" [level=1] [ref=f3e250]
+                      - generic [ref=f3e252]: Enabling hCaptcha can protect your store from spam. Some customers may need to complete the hCaptcha task.
+                    - generic [ref=f3e254]:
+                      - generic [ref=f3e255]:
+                        - generic [ref=f3e256]:
+                          - img [ref=f3e259]
+                          - generic [ref=f3e265]: Enable on contact and comment forms
+                          - button "Enable hCaptcha on contact and comment forms, currently enabled" [pressed] [ref=f3e267] [cursor=pointer]
+                        - separator [ref=f3e270]
+                      - generic [ref=f3e272]:
+                        - img [ref=f3e275]
+                        - generic [ref=f3e280]: Enable on login, create account and password recovery pages
+                        - button "Enable hCaptcha on login, create account and password recovery pages, currently enabled" [pressed] [ref=f3e282] [cursor=pointer]
+                  - generic [ref=f3e291]:
+                    - generic [ref=f3e292]:
+                      - generic [ref=f3e293]:
+                        - heading "Crawler access" [level=1] [ref=f3e294]
+                        - link "Learn more" [ref=f3e297] [cursor=pointer]:
+                          - /url: https://help.shopify.com/en/manual/promoting-marketing/seo/crawling-your-store
+                          - img [ref=f3e301]
+                      - generic [ref=f3e305]:
+                        - generic [ref=f3e306]: Authorize external tools to crawl your store. Copy the full values for Signature, Signature-Input, and Signature-Agent, then paste them into your HTTP crawler requests.
+                        - button "Create signature" [ref=f3e307] [cursor=pointer]:
+                          - generic [ref=f3e308]: Create signature
+                    - generic [ref=f3e312]:
+                      - tablist [ref=f3e324]:
+                        - tab "All" [selected] [ref=f3e325] [cursor=pointer]:
+                          - generic [ref=f3e327]: All
+                        - tab "Active" [ref=f3e328] [cursor=pointer]:
+                          - generic [ref=f3e330]: Active
+                        - tab "Expired" [ref=f3e331] [cursor=pointer]:
+                          - generic [ref=f3e333]: Expired
+                      - generic [ref=f3e335]:
+                        - table
+                        - generic [ref=f3e341]:
+                          - generic [ref=f3e342]:
+                            - paragraph [ref=f3e344]: Manage crawler access
+                            - generic [ref=f3e345]: Create signatures that allow trusted tools to crawl your store
+                          - button "Create signature" [ref=f3e347] [cursor=pointer]:
+                            - generic [ref=f3e348]: Create signature
+                  - button "Save" [ref=f3e353] [cursor=pointer]:
+                    - generic [ref=f3e354]: Save
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e307]

@@ -1,0 +1,210 @@
+- generic [ref=e2]:
+  - generic [ref=e21]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e26]:
+      - generic [ref=e31] [cursor=pointer]:
+        - img "Shopify" [ref=e32]
+        - img "Shopify" [ref=e33]
+      - button "Search ⌘ K" [ref=e41] [cursor=pointer]:
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+            - generic "Search" [ref=e44]
+          - generic [ref=e45]:
+            - generic [ref=e46]: ⌘
+            - generic [ref=e47]: K
+      - generic [ref=e48]:
+        - generic [ref=e50]:
+          - button "Sidekick" [ref=e54] [cursor=pointer]:
+            - img [ref=e58]
+          - button "Alerts Feed - 3 unseen alerts" [ref=e68] [cursor=pointer]:
+            - generic [ref=e70]:
+              - img [ref=e73]
+              - generic [ref=e75]: "3"
+        - button "peter ntaji" [ref=e85] [cursor=pointer]:
+          - generic [ref=e88]:
+            - img "shopwithin" [ref=e92]:
+              - generic [ref=e93]: SHO
+            - paragraph [ref=e95]: shopwithin
+    - generic [ref=e97]:
+      - generic "Navigation" [ref=e98]:
+        - navigation [ref=e100]:
+          - generic [ref=e101]:
+            - generic [ref=e102]:
+              - list [ref=e104]:
+                - listitem [ref=e105]:
+                  - link "Home" [ref=e108] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e109]:
+                      - img [ref=e112]
+                      - img [ref=e116]
+                    - generic [ref=e118]: Home
+                - listitem [ref=e119]:
+                  - link "Orders 1" [ref=e122] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e123]:
+                      - img [ref=e126]
+                      - img [ref=e130]
+                    - generic [ref=e132]: Orders
+                    - generic [ref=e135]:
+                      - generic: "1"
+                - listitem [ref=e136]:
+                  - link "Products" [ref=e139] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e140]:
+                      - img [ref=e143]
+                      - img [ref=e147]
+                    - generic [ref=e150]: Products
+                - listitem [ref=e151]:
+                  - link "Customers" [ref=e154] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e155]:
+                      - img [ref=e158]
+                      - img [ref=e163]
+                    - generic [ref=e166]: Customers
+                - listitem [ref=e167]:
+                  - link "Marketing" [ref=e170] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e171]:
+                      - img [ref=e174]
+                      - img [ref=e180]
+                    - generic [ref=e184]: Marketing
+                - listitem [ref=e185]:
+                  - link "Discounts" [ref=e188] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e189]:
+                      - img [ref=e192]
+                      - img [ref=e196]
+                    - generic [ref=e201]: Discounts
+                - listitem [ref=e202]:
+                  - link "Content" [ref=e205] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e206]:
+                      - img [ref=e209]
+                      - img [ref=e216]
+                    - generic [ref=e221]: Content
+                - listitem [ref=e222]:
+                  - link "Markets" [ref=e225] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e226]:
+                      - img [ref=e229]
+                      - img [ref=e234]
+                    - generic [ref=e237]: Markets
+                - listitem [ref=e238]:
+                  - link "Analytics" [ref=e241] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e242]:
+                      - img [ref=e245]
+                      - img [ref=e251]
+                    - generic [ref=e255]: Analytics
+              - list [ref=e256]:
+                - listitem [ref=e257]:
+                  - button "Sales channels" [ref=e259] [cursor=pointer]:
+                    - strong [ref=e261]:
+                      - generic: Sales channels
+                  - list [ref=e263]:
+                    - button "Online Store" [ref=e264]:
+                      - list [ref=e265]:
+                        - listitem [ref=e266]:
+                          - link "Online Store" [ref=e269] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=459eb58d-a227-4b3e-86e6-ad45f3eb410d
+                            - img [ref=e271]
+                            - generic [ref=e272]: Online Store
+                    - button "Agentic" [ref=e273]:
+                      - list [ref=e274]:
+                        - listitem [ref=e275]:
+                          - link "Agentic" [ref=e278] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=f6279f19-e2d6-426b-9a75-7b1ef282a799
+                            - img [ref=e280]
+                            - generic [ref=e281]: Agentic
+                    - listitem
+                    - button "Facebook & Instagram Pin to your navigation" [ref=e282]:
+                      - list [ref=e283]:
+                        - listitem [ref=e284]:
+                          - generic [ref=e286]:
+                            - link "Facebook & Instagram" [ref=e287] [cursor=pointer]:
+                              - /url: /store/mxu168-9g/apps/facebook-ads?appLoadId=78640715-47b6-4fa6-bf19-af7e0c7bcc75
+                              - img [ref=e289]
+                              - generic [ref=e290]: Facebook & Instagram
+                            - button "Pin to your navigation" [ref=e293] [cursor=pointer]:
+                              - text: •
+                              - img [ref=e297]
+                  - status [ref=e299]
+                - listitem [ref=e300]:
+                  - button "Apps" [ref=e302] [cursor=pointer]:
+                    - strong [ref=e304]:
+                      - generic: Apps
+                - listitem [ref=e306]:
+                  - button "Sidekick conversations" [ref=e308] [cursor=pointer]:
+                    - strong [ref=e310]:
+                      - generic: Sidekick conversations
+                  - generic [ref=e312]:
+                    - list [ref=e313]:
+                      - listitem [ref=e314]:
+                        - button "Connecting TikTok to Shopify store" [ref=e317] [cursor=pointer]:
+                          - generic [ref=e318]: Connecting TikTok to Shopify store
+                    - list [ref=e319]:
+                      - listitem [ref=e320]:
+                        - button "Setting up payments for your store" [ref=e323] [cursor=pointer]:
+                          - generic [ref=e324]: Setting up payments for your store
+            - list [ref=e326]:
+              - listitem [ref=e327]:
+                - link "Settings" [ref=e330] [cursor=pointer]:
+                  - /url: /store/mxu168-9g/settings
+                  - img [ref=e334]
+                  - generic [ref=e336]: Settings
+      - main [ref=e337]:
+        - generic [ref=e346]:
+          - generic [ref=e348]:
+            - navigation "Breadcrumbs for Facebook & Instagram" [ref=e350]:
+              - heading "Facebook & Instagram" [level=1] [ref=e354]
+            - button "More actions" [ref=e358] [cursor=pointer]:
+              - img [ref=e362]
+          - iframe [active] [ref=e366]:
+            - generic [ref=f1e3]:
+              - generic:
+                - link:
+                  - /url: "#AppFrameMain"
+              - main [ref=f1e4]:
+                - generic [ref=f1e12]:
+                  - generic [ref=f1e14]:
+                    - button "Get support" [ref=f1e16] [cursor=pointer]:
+                      - generic [ref=f1e18]: Get support
+                    - button "Connect Facebook account" [ref=f1e22] [cursor=pointer]:
+                      - generic [ref=f1e24]: Connect Facebook account
+                  - generic [ref=f1e25]:
+                    - generic [ref=f1e29]:
+                      - generic [ref=f1e30]: Drive more sales with Advantage+ catalog ads
+                      - generic [ref=f1e31]: We can help scale creative from your product catalog and personalize ads for every potential customer.
+                      - button "Get started" [ref=f1e34] [cursor=pointer]:
+                        - generic [ref=f1e36]: Get started
+                    - generic [ref=f1e38]:
+                      - generic [ref=f1e39]:
+                        - generic [ref=f1e40]: Increase your sales with personalized ads
+                        - generic [ref=f1e41]: Formerly known as dynamic ads, Meta Advantage+ catalog ads use machine learning to scale your ads when you have a broad range or large volume of products.
+                      - generic [ref=f1e42]:
+                        - generic [ref=f1e43]:
+                          - generic [ref=f1e46]: Personalize your ads
+                          - generic [ref=f1e47]: Show people across Meta Apps like Facebook and Instagram the items that they’re most interested in.
+                        - generic [ref=f1e48]:
+                          - generic [ref=f1e51]: Drive more sales
+                          - generic [ref=f1e52]: Increase conversions on your website by showing people products they want to buy.
+                        - generic [ref=f1e53]:
+                          - generic [ref=f1e56]: Retarget visitors
+                          - generic [ref=f1e57]: Bring back recent website visitors who viewed an item without purchasing.
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e367]
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: OK

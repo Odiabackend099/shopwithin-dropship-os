@@ -1,0 +1,602 @@
+- generic [ref=e1]:
+  - generic [ref=e6]:
+    - generic [ref=e8]:
+      - button [ref=e9] [cursor=pointer]
+      - button "ES" [ref=e13] [cursor=pointer]:
+        - generic [ref=e15]: ES
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - generic [ref=e22]:
+              - generic [ref=e24]:
+                - img [ref=e26]
+                - img [ref=e28]
+                - img [ref=e30]
+                - img [ref=e32]
+                - img [ref=e34]
+                - img [ref=e36]
+                - img [ref=e38]
+                - img [ref=e40]
+                - img [ref=e42]
+              - generic [ref=e43]:
+                - img [ref=e44]
+                - text: US shipping
+              - button [ref=e45] [cursor=pointer]:
+                - img [ref=e47]
+            - generic [ref=e49]:
+              - button "Thumbnail" [ref=e50] [cursor=pointer]:
+                - img "Thumbnail" [ref=e51]
+              - button "Thumbnail" [ref=e52] [cursor=pointer]:
+                - img "Thumbnail" [ref=e53]
+              - button "Thumbnail" [ref=e54] [cursor=pointer]:
+                - img "Thumbnail" [ref=e55]
+              - button "Thumbnail" [ref=e56] [cursor=pointer]:
+                - img "Thumbnail" [ref=e57]
+              - button "Thumbnail" [ref=e58] [cursor=pointer]:
+                - img "Thumbnail" [ref=e59]
+              - button "Thumbnail" [ref=e60] [cursor=pointer]:
+                - img "Thumbnail" [ref=e61]
+              - button "Thumbnail" [ref=e62] [cursor=pointer]:
+                - img "Thumbnail" [ref=e63]
+              - button "Thumbnail" [ref=e64] [cursor=pointer]:
+                - img "Thumbnail" [ref=e65]
+              - button "Thumbnail" [ref=e66] [cursor=pointer]:
+                - img "Thumbnail" [ref=e67]
+          - generic [ref=e68]:
+            - link "Zendrop Fulfillment" [ref=e70] [cursor=pointer]:
+              - /url: /product?supplier=13
+              - text: Zendrop Fulfillment
+              - img [ref=e71]
+            - heading "Portable Fabric and Pet Hair Remover" [level=1] [ref=e72]
+            - generic [ref=e73]:
+              - generic [ref=e74]:
+                - heading "Colour" [level=3] [ref=e75]
+                - generic [ref=e76]:
+                  - button "New Blue" [ref=e79] [cursor=pointer]
+                  - button "Blue (Out of stock)" [disabled] [ref=e82]:
+                    - text: Blue
+                    - generic [ref=e83]: (Out of stock)
+                  - button "2pcs" [ref=e86] [cursor=pointer]
+                  - button "Pink" [ref=e89] [cursor=pointer]
+              - generic [ref=e90]:
+                - button "All SKUs" [active] [ref=e91] [cursor=pointer]:
+                  - generic [ref=e93]: All SKUs
+                - button "Sizing charts" [ref=e96] [cursor=pointer]:
+                  - generic [ref=e98]: Sizing charts
+            - generic [ref=e99]:
+              - generic [ref=e100]: Shipping
+              - generic [ref=e101]:
+                - generic [ref=e102]:
+                  - generic [ref=e103]: Shipping country
+                  - button "United States" [ref=e106] [cursor=pointer]:
+                    - generic [ref=e107]:
+                      - img [ref=e108]
+                      - generic [ref=e110]: United States
+                      - img [ref=e111]
+                - generic [ref=e113]:
+                  - generic [ref=e114]: Avg shipping time
+                  - generic [ref=e115]: 8 days
+                - generic [ref=e116]:
+                  - generic [ref=e117]: Processing time
+                  - link "Learn more" [ref=e118] [cursor=pointer]:
+                    - /url: https://support.zendrop.com/en/articles/8176578-processing-times-when-dropshipping-from-china
+                    - generic [ref=e120]: Learn more
+            - generic [ref=e121]:
+              - generic [ref=e122]: Description
+              - generic [ref=e124]:
+                - paragraph [ref=e125]:
+                  - strong [ref=e126]: Material
+                  - text: ": Plastic, Metal"
+                  - strong [ref=e127]: Product Attributes
+                  - text: ": Standard"
+                  - strong [ref=e128]: Package Size
+                  - text: ": 160160280mm; 160160140mm"
+                - paragraph [ref=e129]:
+                  - strong [ref=e130]: About This Item
+                - list [ref=e131]:
+                  - listitem [ref=e132]:
+                    - strong [ref=e133]: Double-Sided Design
+                    - text: ": Features a unique handle with two sides—one side has a pure copper blade for quick removal of lint and pet hair, while the other smooths the fabric."
+                  - listitem [ref=e134]:
+                    - strong [ref=e135]: Durable and Safe
+                    - text: ": Made from high-quality PP plastic and pure copper, this lint remover is rust-resistant and safe to use for extended periods."
+                  - listitem [ref=e136]:
+                    - strong [ref=e137]: Versatile Use
+                    - text: ": Ideal for removing lint, pet hair, and dust from carpets, clothing, furniture, bedding, and more. Not recommended for low-density knitwear or delicate fabrics."
+                  - listitem [ref=e138]:
+                    - strong [ref=e139]: Portable and Easy to Clean
+                    - text: ": Lightweight and compact for easy travel. After use, simply wipe clean."
+                  - listitem [ref=e140]:
+                    - strong [ref=e141]: How to Use
+                    - text: ": Lay fabric flat and gently scrape in one direction to remove lint."
+              - button "Show more" [ref=e142] [cursor=pointer]:
+                - generic [ref=e143]:
+                  - img [ref=e144]
+                  - text: Show more
+        - generic [ref=e212]:
+          - heading "Overview" [level=2] [ref=e213]
+          - generic [ref=e214]:
+            - generic [ref=e215]:
+              - generic [ref=e217]:
+                - generic [ref=e218]:
+                  - heading "Order Trend Score" [level=4] [ref=e219]
+                  - img [ref=e222]
+                - generic [ref=e224]:
+                  - generic [ref=e225]: "71"
+                  - generic [ref=e226]: +113%
+                - generic [ref=e227]: 18 April 2026 - 17 May 2026
+              - generic [ref=e229]:
+                - img [ref=e230]:
+                  - generic [ref=e239]:
+                    - generic "18" [ref=e240]
+                    - generic "•" [ref=e241]
+                    - generic "•" [ref=e242]
+                    - generic "•" [ref=e243]
+                    - generic "•" [ref=e244]
+                    - generic "•" [ref=e245]
+                    - generic "•" [ref=e246]
+                    - generic "25" [ref=e247]
+                    - generic "•" [ref=e248]
+                    - generic "•" [ref=e249]
+                    - generic "•" [ref=e250]
+                    - generic "•" [ref=e251]
+                    - generic "•" [ref=e252]
+                    - generic "•" [ref=e253]
+                    - generic "2" [ref=e254]
+                    - generic "•" [ref=e255]
+                    - generic "•" [ref=e256]
+                    - generic "•" [ref=e257]
+                    - generic "•" [ref=e258]
+                    - generic "•" [ref=e259]
+                    - generic "•" [ref=e260]
+                    - generic "9" [ref=e261]
+                    - generic "•" [ref=e262]
+                    - generic "•" [ref=e263]
+                    - generic "•" [ref=e264]
+                    - generic "•" [ref=e265]
+                    - generic "•" [ref=e266]
+                    - generic "•" [ref=e267]
+                    - generic "16" [ref=e268]
+                    - generic "•" [ref=e269]
+                - generic: ●
+            - generic [ref=e270]:
+              - generic [ref=e271]:
+                - heading "Orders by countries" [level=4] [ref=e272]
+                - img [ref=e275]
+              - generic [ref=e277]:
+                - generic [ref=e279]:
+                  - generic [ref=e281]: Portugal
+                  - generic [ref=e282]: 50%
+                - generic [ref=e286]:
+                  - generic [ref=e288]: United States
+                  - generic [ref=e289]: 25%
+                - generic [ref=e293]:
+                  - generic [ref=e295]: Austria
+                  - generic [ref=e296]: 13%
+                - generic [ref=e300]:
+                  - generic [ref=e302]: Others
+                  - generic [ref=e303]: 12%
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - heading "Saturation" [level=4] [ref=e308]
+                - img [ref=e312]
+              - img [ref=e315]:
+                - generic [ref=e341]: 100%
+                - generic [ref=e342]: High
+        - generic [ref=e146]:
+          - generic [ref=e147]: Related products
+          - generic [ref=e148]:
+            - generic [ref=e343]:
+              - region "Promotional Images" [ref=e345] [cursor=pointer]:
+                - generic [ref=e346]:
+                  - tabpanel [ref=e347]:
+                    - link [ref=e348]:
+                      - /url: /product/3133910
+                      - img [ref=e350]
+                  - tabpanel [ref=e351]:
+                    - link [ref=e352]:
+                      - /url: /product/3133910
+                      - img [ref=e354]
+                  - tabpanel "1 of 5" [ref=e355]:
+                    - link "Slide 1" [ref=e356]:
+                      - /url: /product/3133910
+                      - img "Slide 1" [ref=e358]
+                  - tabpanel [ref=e359]:
+                    - link [ref=e360]:
+                      - /url: /product/3133910
+                      - img [ref=e362]
+                  - tabpanel [ref=e363]:
+                    - link [ref=e364]:
+                      - /url: /product/3133910
+                      - img [ref=e366]
+                  - tabpanel [ref=e367]:
+                    - link [ref=e368]:
+                      - /url: /product/3133910
+                      - img [ref=e370]
+                  - tabpanel [ref=e371]:
+                    - link [ref=e372]:
+                      - /url: /product/3133910
+                      - img [ref=e374]
+                  - tabpanel [ref=e375]:
+                    - link [ref=e376]:
+                      - /url: /product/3133910
+                      - img [ref=e378]
+                  - tabpanel [ref=e379]:
+                    - link [ref=e380]:
+                      - /url: /product/3133910
+                      - img [ref=e382]
+                - tablist "Select a slide to show":
+                  - tab "Go to slide 1" [selected] [ref=e383]
+                  - tab "Go to slide 2" [ref=e384]
+                  - tab "Go to slide 3" [ref=e385]
+                  - tab "Go to slide 4" [ref=e386]
+                  - tab "Go to slide 5" [ref=e387]
+              - generic "Zendrop Fulfillment" [ref=e388] [cursor=pointer]:
+                - generic [ref=e389]: Zendrop Fulfillment
+                - img [ref=e390]
+              - link "Portable Manual Fabric Shaver & Pet Hair Remover – Dual-Sided Lint Remover for Clothes, Carpet, Furniture, and Blankets" [ref=e391] [cursor=pointer]:
+                - /url: /product/3133910
+              - generic [ref=e392]:
+                - generic [ref=e394]:
+                  - heading "Cost" [level=6] [ref=e395]
+                  - paragraph [ref=e396]: "1.35"
+                - button [ref=e400] [cursor=pointer]:
+                  - img [ref=e401]
+            - generic [ref=e405]:
+              - region "Promotional Images" [ref=e407] [cursor=pointer]:
+                - generic [ref=e408]:
+                  - tabpanel [ref=e409]:
+                    - link [ref=e410]:
+                      - /url: /product/2543060
+                      - img [ref=e412]
+                  - tabpanel [ref=e413]:
+                    - link [ref=e414]:
+                      - /url: /product/2543060
+                      - img [ref=e416]
+                  - tabpanel "1 of 5" [ref=e417]:
+                    - link "Slide 1" [ref=e418]:
+                      - /url: /product/2543060
+                      - img "Slide 1" [ref=e420]
+                  - tabpanel [ref=e421]:
+                    - link [ref=e422]:
+                      - /url: /product/2543060
+                      - img [ref=e424]
+                  - tabpanel [ref=e425]:
+                    - link [ref=e426]:
+                      - /url: /product/2543060
+                      - img [ref=e428]
+                  - tabpanel [ref=e429]:
+                    - link [ref=e430]:
+                      - /url: /product/2543060
+                      - img [ref=e432]
+                  - tabpanel [ref=e433]:
+                    - link [ref=e434]:
+                      - /url: /product/2543060
+                      - img [ref=e436]
+                  - tabpanel [ref=e437]:
+                    - link [ref=e438]:
+                      - /url: /product/2543060
+                      - img [ref=e440]
+                  - tabpanel [ref=e441]:
+                    - link [ref=e442]:
+                      - /url: /product/2543060
+                      - img [ref=e444]
+                - tablist "Select a slide to show":
+                  - tab "Go to slide 1" [selected] [ref=e445]
+                  - tab "Go to slide 2" [ref=e446]
+                  - tab "Go to slide 3" [ref=e447]
+                  - tab "Go to slide 4" [ref=e448]
+                  - tab "Go to slide 5" [ref=e449]
+              - generic "Zendrop Fulfillment" [ref=e450] [cursor=pointer]:
+                - generic [ref=e451]: Zendrop Fulfillment
+                - img [ref=e452]
+              - link "Manual Fabric & Pet Hair Remover" [ref=e453] [cursor=pointer]:
+                - /url: /product/2543060
+              - generic [ref=e454]:
+                - generic [ref=e456]:
+                  - heading "Cost" [level=6] [ref=e457]
+                  - paragraph [ref=e458]: "0.45"
+                - button [ref=e462] [cursor=pointer]:
+                  - img [ref=e463]
+            - generic [ref=e467]:
+              - region "Promotional Images" [ref=e469] [cursor=pointer]:
+                - generic [ref=e470]:
+                  - tabpanel [ref=e471]:
+                    - link [ref=e472]:
+                      - /url: /product/2077004
+                      - img [ref=e474]
+                  - tabpanel [ref=e475]:
+                    - link [ref=e476]:
+                      - /url: /product/2077004
+                      - img [ref=e478]
+                  - tabpanel "1 of 5" [ref=e479]:
+                    - link "Slide 1" [ref=e480]:
+                      - /url: /product/2077004
+                      - img "Slide 1" [ref=e482]
+                  - tabpanel [ref=e483]:
+                    - link [ref=e484]:
+                      - /url: /product/2077004
+                      - img [ref=e486]
+                  - tabpanel [ref=e487]:
+                    - link [ref=e488]:
+                      - /url: /product/2077004
+                      - img [ref=e490]
+                  - tabpanel [ref=e491]:
+                    - link [ref=e492]:
+                      - /url: /product/2077004
+                      - img [ref=e494]
+                  - tabpanel [ref=e495]:
+                    - link [ref=e496]:
+                      - /url: /product/2077004
+                      - img [ref=e498]
+                  - tabpanel [ref=e499]:
+                    - link [ref=e500]:
+                      - /url: /product/2077004
+                      - img [ref=e502]
+                  - tabpanel [ref=e503]:
+                    - link [ref=e504]:
+                      - /url: /product/2077004
+                      - img [ref=e506]
+                - tablist "Select a slide to show":
+                  - tab "Go to slide 1" [selected] [ref=e507]
+                  - tab "Go to slide 2" [ref=e508]
+                  - tab "Go to slide 3" [ref=e509]
+                  - tab "Go to slide 4" [ref=e510]
+                  - tab "Go to slide 5" [ref=e511]
+              - generic "Zendrop Fulfillment" [ref=e512] [cursor=pointer]:
+                - generic [ref=e513]: Zendrop Fulfillment
+                - img [ref=e514]
+              - link "Fabric Hair Remover" [ref=e515] [cursor=pointer]:
+                - /url: /product/2077004
+              - generic [ref=e516]:
+                - generic [ref=e518]:
+                  - heading "Cost" [level=6] [ref=e519]
+                  - paragraph [ref=e520]: "2.24"
+                - button [ref=e524] [cursor=pointer]:
+                  - img [ref=e525]
+            - generic [ref=e529]:
+              - link "Product image" [ref=e531] [cursor=pointer]:
+                - /url: /product/2921593
+                - img "Product image" [ref=e533]
+              - generic "Zendrop Fulfillment" [ref=e534] [cursor=pointer]:
+                - generic [ref=e535]: Zendrop Fulfillment
+                - img [ref=e536]
+              - link "Portable Electric Pet Hair Remover with Silicone Massage" [ref=e537] [cursor=pointer]:
+                - /url: /product/2921593
+              - generic [ref=e538]:
+                - generic [ref=e540]:
+                  - heading "Cost" [level=6] [ref=e541]
+                  - paragraph [ref=e542]: "1.91"
+                - button [ref=e546] [cursor=pointer]:
+                  - img [ref=e547]
+            - generic [ref=e551]:
+              - region "Promotional Images" [ref=e553] [cursor=pointer]:
+                - generic [ref=e554]:
+                  - tabpanel [ref=e555]:
+                    - link [ref=e556]:
+                      - /url: /product/1979817
+                      - img [ref=e558]
+                  - tabpanel [ref=e559]:
+                    - link [ref=e560]:
+                      - /url: /product/1979817
+                      - img [ref=e562]
+                  - tabpanel "1 of 5" [ref=e563]:
+                    - link "Slide 1" [ref=e564]:
+                      - /url: /product/1979817
+                      - img "Slide 1" [ref=e566]
+                  - tabpanel [ref=e567]:
+                    - link [ref=e568]:
+                      - /url: /product/1979817
+                      - img [ref=e570]
+                  - tabpanel [ref=e571]:
+                    - link [ref=e572]:
+                      - /url: /product/1979817
+                      - img [ref=e574]
+                  - tabpanel [ref=e575]:
+                    - link [ref=e576]:
+                      - /url: /product/1979817
+                      - img [ref=e578]
+                  - tabpanel [ref=e579]:
+                    - link [ref=e580]:
+                      - /url: /product/1979817
+                      - img [ref=e582]
+                  - tabpanel [ref=e583]:
+                    - link [ref=e584]:
+                      - /url: /product/1979817
+                      - img [ref=e586]
+                  - tabpanel [ref=e587]:
+                    - link [ref=e588]:
+                      - /url: /product/1979817
+                      - img [ref=e590]
+                - tablist "Select a slide to show":
+                  - tab "Go to slide 1" [selected] [ref=e591]
+                  - tab "Go to slide 2" [ref=e592]
+                  - tab "Go to slide 3" [ref=e593]
+                  - tab "Go to slide 4" [ref=e594]
+                  - tab "Go to slide 5" [ref=e595]
+              - generic "Zendrop Fulfillment" [ref=e596] [cursor=pointer]:
+                - generic [ref=e597]: Zendrop Fulfillment
+                - img [ref=e598]
+              - link "Pet hair remover" [ref=e599] [cursor=pointer]:
+                - /url: /product/1979817
+              - generic [ref=e600]:
+                - generic [ref=e602]:
+                  - heading "Cost" [level=6] [ref=e603]
+                  - paragraph [ref=e604]: "1.00"
+                - button [ref=e608] [cursor=pointer]:
+                  - img [ref=e609]
+            - generic [ref=e613]:
+              - region "Promotional Images" [ref=e615] [cursor=pointer]:
+                - generic [ref=e616]:
+                  - tabpanel [ref=e617]:
+                    - link [ref=e618]:
+                      - /url: /product/2768905
+                      - img [ref=e620]
+                  - tabpanel [ref=e621]:
+                    - link [ref=e622]:
+                      - /url: /product/2768905
+                      - img [ref=e624]
+                  - tabpanel "1 of 3" [ref=e625]:
+                    - link "Slide 1" [ref=e626]:
+                      - /url: /product/2768905
+                      - img "Slide 1" [ref=e628]
+                  - tabpanel [ref=e629]:
+                    - link [ref=e630]:
+                      - /url: /product/2768905
+                      - img [ref=e632]
+                  - tabpanel [ref=e633]:
+                    - link [ref=e634]:
+                      - /url: /product/2768905
+                      - img [ref=e636]
+                  - tabpanel [ref=e637]:
+                    - link [ref=e638]:
+                      - /url: /product/2768905
+                      - img [ref=e640]
+                  - tabpanel [ref=e641]:
+                    - link [ref=e642]:
+                      - /url: /product/2768905
+                      - img [ref=e644]
+                - tablist "Select a slide to show":
+                  - tab "Go to slide 1" [selected] [ref=e645]
+                  - tab "Go to slide 2" [ref=e646]
+                  - tab "Go to slide 3" [ref=e647]
+              - generic "Zendrop Fulfillment" [ref=e648] [cursor=pointer]:
+                - generic [ref=e649]: Zendrop Fulfillment
+                - img [ref=e650]
+              - link "Pet Hair Brush and Lint Remover for Dogs" [ref=e651] [cursor=pointer]:
+                - /url: /product/2768905
+              - generic [ref=e652]:
+                - generic [ref=e654]:
+                  - heading "Cost" [level=6] [ref=e655]
+                  - paragraph [ref=e656]: "1.43"
+                - button [ref=e660] [cursor=pointer]:
+                  - img [ref=e661]
+            - generic [ref=e665]:
+              - region "Promotional Images" [ref=e667] [cursor=pointer]:
+                - generic [ref=e668]:
+                  - tabpanel [ref=e669]:
+                    - link [ref=e670]:
+                      - /url: /product/2770195
+                      - img [ref=e672]
+                  - tabpanel [ref=e673]:
+                    - link [ref=e674]:
+                      - /url: /product/2770195
+                      - img [ref=e676]
+                  - tabpanel "1 of 5" [ref=e677]:
+                    - link "Slide 1" [ref=e678]:
+                      - /url: /product/2770195
+                      - img "Slide 1" [ref=e680]
+                  - tabpanel [ref=e681]:
+                    - link [ref=e682]:
+                      - /url: /product/2770195
+                      - img [ref=e684]
+                  - tabpanel [ref=e685]:
+                    - link [ref=e686]:
+                      - /url: /product/2770195
+                      - img [ref=e688]
+                  - tabpanel [ref=e689]:
+                    - link [ref=e690]:
+                      - /url: /product/2770195
+                      - img [ref=e692]
+                  - tabpanel [ref=e693]:
+                    - link [ref=e694]:
+                      - /url: /product/2770195
+                      - img [ref=e696]
+                  - tabpanel [ref=e697]:
+                    - link [ref=e698]:
+                      - /url: /product/2770195
+                      - img [ref=e700]
+                  - tabpanel [ref=e701]:
+                    - link [ref=e702]:
+                      - /url: /product/2770195
+                      - img [ref=e704]
+                - tablist "Select a slide to show":
+                  - tab "Go to slide 1" [selected] [ref=e705]
+                  - tab "Go to slide 2" [ref=e706]
+                  - tab "Go to slide 3" [ref=e707]
+                  - tab "Go to slide 4" [ref=e708]
+                  - tab "Go to slide 5" [ref=e709]
+              - generic "Zendrop Fulfillment" [ref=e710] [cursor=pointer]:
+                - generic [ref=e711]: Zendrop Fulfillment
+                - img [ref=e712]
+              - link "Pet Hair Remover Brush for Clothes and Carpets" [ref=e713] [cursor=pointer]:
+                - /url: /product/2770195
+              - generic [ref=e714]:
+                - generic [ref=e716]:
+                  - heading "Cost" [level=6] [ref=e717]
+                  - paragraph [ref=e718]: "0.75"
+                - button [ref=e722] [cursor=pointer]:
+                  - img [ref=e723]
+            - generic [ref=e727]:
+              - link "Product image" [ref=e729] [cursor=pointer]:
+                - /url: /product/2770338
+                - img "Product image" [ref=e731]
+              - generic "Zendrop Fulfillment" [ref=e732] [cursor=pointer]:
+                - generic [ref=e733]: Zendrop Fulfillment
+                - img [ref=e734]
+              - link "Pet Hair Remover Brush for Clothes and Dogs" [ref=e735] [cursor=pointer]:
+                - /url: /product/2770338
+              - generic [ref=e736]:
+                - generic [ref=e738]:
+                  - heading "Cost" [level=6] [ref=e739]
+                  - paragraph [ref=e740]: "1.72"
+                - button [ref=e744] [cursor=pointer]:
+                  - img [ref=e745]
+      - generic [ref=e197]:
+        - generic [ref=e199]: $1.55 - $3.16
+        - generic [ref=e200]:
+          - button [ref=e203] [cursor=pointer]:
+            - img [ref=e205]
+          - button "In My Products" [disabled] [ref=e207]:
+            - generic [ref=e208]:
+              - img [ref=e209]
+              - text: In My Products
+  - iframe [ref=e211]:
+    
+  - dialog [ref=e751]:
+    - generic [ref=e752]:
+      - generic [ref=e753]: Portable Fabric and Pet Hair Remover
+      - button "Close dialog" [ref=e754] [cursor=pointer]:
+        - img [ref=e756]
+    - generic [ref=e759]:
+      - generic [ref=e761]:
+        - generic [ref=e762]:
+          - generic [ref=e763]: Shipping country
+          - button "United States" [ref=e766] [cursor=pointer]:
+            - generic [ref=e767]:
+              - img [ref=e768]
+              - generic [ref=e770]: United States
+              - img [ref=e771]
+        - generic [ref=e773]:
+          - generic [ref=e774]: Avg shipping time
+          - generic [ref=e775]: 8 days
+      - generic [ref=e776]:
+        - generic [ref=e777]:
+          - generic [ref=e779]: Image
+          - generic [ref=e781]: SKU
+          - generic [ref=e783]: Variant
+          - generic [ref=e785]: Cost
+        - generic [ref=e786]:
+          - generic [ref=e787] [cursor=pointer]:
+            - img [ref=e789]
+            - generic [ref=e791]: VLOY30HZN
+            - generic [ref=e792]: New Blue
+            - generic [ref=e793]: $1.55
+          - generic [ref=e794] [cursor=pointer]:
+            - img [ref=e796]
+            - generic [ref=e798]: HNCHGJIND
+            - generic [ref=e799]: Blue
+            - generic [ref=e800]: $1.55
+          - generic [ref=e801] [cursor=pointer]:
+            - img [ref=e803]
+            - generic [ref=e805]: E657DYT
+            - generic [ref=e806]: 2pcs
+            - generic [ref=e807]: $3.16
+          - generic [ref=e808] [cursor=pointer]:
+            - img [ref=e810]
+            - generic [ref=e812]: 3MD0WYAMF
+            - generic [ref=e813]: Pink
+            - generic [ref=e814]: $1.55
+  - iframe [ref=e815]:
+    

@@ -1,0 +1,112 @@
+{% comment %}
+  Trending Products Section
+  Displays trending products with TikTok-style UGC cards
+{% endcomment %}
+
+<div class="trending-products">
+  <div class="trending-products__header">
+    <h2 class="trending-products__title">{{ section.settings.title }}</h2>
+    <p class="trending-products__subtitle">{{ section.settings.subtitle }}</p>
+    <a href="{{ section.settings.view_all_link }}" class="trending-products__view-all">View All →</a>
+  </div>
+  
+  <div class="trending-products__grid">
+    {% assign collection = collections[section.settings.collection] %}
+    {% for product in collection.products limit: section.settings.product_count %}
+      <div class="trending-card" data-product-id="{{ product.id }}">
+        <div class="trending-card__media">
+          {% if product.featured_media %}
+            {{ product.featured_media | image_url: width: 600 | image_tag: loading: 'lazy', class: 'trending-card__image' }}
+          {% endif %}
+          
+          {% if product.metafields.custom.ugc_video_url != blank %}
+            <div class="trending-card__video-badge">
+              <span>▶ Video</span>
+            </div>
+          {% endif %}
+          
+          <div class="trending-card__badges">
+            {% if product.tags contains 'trending' %}
+              <span class="badge trending">🔥 Trending</span>
+            {% endif %}
+            {% if product.tags contains 'new' %}
+              <span class="badge new">✨ New</span>
+            {% endif %}
+            {% if product.compare_at_price > product.price %}
+              <span class="badge sale">Sale</span>
+            {% endif %}
+          </div>
+        </div>
+        
+        <div class="trending-card__content">
+          <h3 class="trending-card__title">{{ product.title }}</h3>
+          
+          <div class="trending-card__problem">
+            {% if product.metafields.custom.problem_statement != blank %}
+              <p>{{ product.metafields.custom.problem_statement }}</p>
+            {% else %}
+              <p>Solves everyday problems efficiently</p>
+            {% endif %}
+          </div>
+          
+          <div class="trending-card__price">
+            <span class="price-current">{{ product.price | money }}</span>
+            {% if product.compare_at_price > product.price %}
+              <span class="price-original">{{ product.compare_at_price | money }}</span>
+            {% endif %}
+          </div>
+          
+          <a href="{{ product.url }}" class="trending-card__cta">
+            View Product →
+          </a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Trending Products",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Section title",
+      "default": "Trending Now"
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "label": "Section subtitle",
+      "default": "Viral products taking over TikTok"
+    },
+    {
+      "type": "collection",
+      "id": "collection",
+      "label": "Collection"
+    },
+    {
+      "type": "range",
+      "id": "product_count",
+      "label": "Product count",
+      "min": 4,
+      "max": 12,
+      "step": 2,
+      "default": 8
+    },
+    {
+      "type": "url",
+      "id": "view_all_link",
+      "label": "View all link",
+      "default": "/collections/all"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Trending Products",
+      "category": "Collection"
+    }
+  ]
+}
+{% endschema %}

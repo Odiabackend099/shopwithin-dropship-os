@@ -1,0 +1,940 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - link "Skip to content":
+      - /url: "#AppFrameMain"
+    - generic [ref=e12]:
+      - generic [ref=e17] [cursor=pointer]:
+        - img "Shopify" [ref=e18]
+        - img "Shopify" [ref=e19]
+      - generic [ref=e22]:
+        - button "Search ⌘ K" [ref=e27] [cursor=pointer]:
+          - generic [ref=e28]:
+            - generic [ref=e29]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+              - generic "Search" [ref=e30]
+            - generic [ref=e31]:
+              - generic [ref=e32]: ⌘
+              - generic [ref=e33]: K
+        - button [ref=e39] [cursor=pointer]:
+          - img [ref=e45]
+      - generic [ref=e48]:
+        - generic [ref=e50]:
+          - button "Sidekick" [ref=e54] [cursor=pointer]:
+            - img [ref=e58]
+          - button "Alerts Feed - 0 unseen alerts" [ref=e68] [cursor=pointer]:
+            - img [ref=e72]
+        - button "eguale samuel" [ref=e83] [cursor=pointer]:
+          - generic [ref=e86]:
+            - img "shopwithin" [ref=e90]:
+              - generic [ref=e91]: SHO
+            - paragraph [ref=e93]: shopwithin
+    - generic [ref=e95]:
+      - generic "Navigation" [ref=e96]:
+        - navigation [ref=e98]:
+          - generic [ref=e99]:
+            - generic [ref=e100]:
+              - list [ref=e102]:
+                - listitem [ref=e103]:
+                  - link "Home" [ref=e106] [cursor=pointer]:
+                    - /url: /store/mxu168-9g
+                    - generic [ref=e107]:
+                      - img [ref=e110]
+                      - img [ref=e114]
+                    - generic [ref=e116]: Home
+                - listitem [ref=e117]:
+                  - link "Orders" [ref=e120] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/orders
+                    - generic [ref=e121]:
+                      - img [ref=e124]
+                      - img [ref=e128]
+                    - generic [ref=e130]: Orders
+                - listitem [ref=e131]:
+                  - link "Products" [expanded] [ref=e134] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - generic [ref=e135]:
+                      - img [ref=e138]
+                      - img [ref=e142]
+                    - generic [ref=e145]: Products
+                  - list [ref=e148]:
+                    - listitem [ref=e149]:
+                      - link "Collections" [ref=e152] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/collections
+                        - generic [ref=e153]: Collections
+                    - listitem [ref=e154]:
+                      - link "Inventory" [ref=e157] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/products/inventory
+                        - generic [ref=e158]: Inventory
+                    - listitem [ref=e159]:
+                      - link "Purchase orders" [ref=e162] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/purchase_orders
+                        - generic [ref=e163]: Purchase orders
+                    - listitem [ref=e164]:
+                      - link "Transfers" [ref=e167] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/transfers
+                        - generic [ref=e168]: Transfers
+                    - listitem [ref=e169]:
+                      - link "Gift cards" [ref=e172] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/gift_cards
+                        - generic [ref=e173]: Gift cards
+                - listitem [ref=e174]:
+                  - link "Customers" [ref=e177] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/customers
+                    - generic [ref=e178]:
+                      - img [ref=e181]
+                      - img [ref=e186]
+                    - generic [ref=e189]: Customers
+                - listitem [ref=e190]:
+                  - link "Marketing" [ref=e193] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/marketing
+                    - generic [ref=e194]:
+                      - img [ref=e197]
+                      - img [ref=e203]
+                    - generic [ref=e207]: Marketing
+                - listitem [ref=e208]:
+                  - link "Discounts" [ref=e211] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/discounts
+                    - generic [ref=e212]:
+                      - img [ref=e215]
+                      - img [ref=e219]
+                    - generic [ref=e224]: Discounts
+                - listitem [ref=e225]:
+                  - link "Content" [ref=e228] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/content/metaobjects
+                    - generic [ref=e229]:
+                      - img [ref=e232]
+                      - img [ref=e239]
+                    - generic [ref=e244]: Content
+                - listitem [ref=e245]:
+                  - link "Markets" [ref=e248] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/markets
+                    - generic [ref=e249]:
+                      - img [ref=e252]
+                      - img [ref=e257]
+                    - generic [ref=e260]: Markets
+                - listitem [ref=e261]:
+                  - link "Analytics" [ref=e264] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/analytics
+                    - generic [ref=e265]:
+                      - img [ref=e268]
+                      - img [ref=e274]
+                    - generic [ref=e278]: Analytics
+              - list [ref=e279]:
+                - listitem [ref=e280]:
+                  - button "Sales channels" [ref=e282] [cursor=pointer]:
+                    - strong [ref=e284]:
+                      - generic: Sales channels
+                  - list [ref=e286]:
+                    - button "Online Store" [ref=e287]:
+                      - list [ref=e288]:
+                        - listitem [ref=e289]:
+                          - link "Online Store" [ref=e292] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/themes?appLoadId=72bd3a03-042c-4dd9-b89f-5b566559f5f8
+                            - img [ref=e294]
+                            - generic [ref=e295]: Online Store
+                    - button "Agentic" [ref=e296]:
+                      - list [ref=e297]:
+                        - listitem [ref=e298]:
+                          - link "Agentic" [ref=e301] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/apps/agentic?appLoadId=ccfd0b41-acb7-4aca-8b36-b532f42920dc
+                            - img [ref=e303]
+                            - generic [ref=e304]: Agentic
+                  - status [ref=e305]
+                - listitem [ref=e306]:
+                  - button "Apps" [ref=e308] [cursor=pointer]:
+                    - strong [ref=e310]:
+                      - generic: Apps
+            - generic [ref=e312]:
+              - list [ref=e313]:
+                - listitem [ref=e314]:
+                  - link "Settings" [ref=e317] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings
+                    - img [ref=e321]
+                    - generic [ref=e323]: Settings
+              - link "Subscribe for $1" [ref=e325] [cursor=pointer]:
+                - /url: /store/mxu168-9g/subscribe/checkout
+                - generic [ref=e326]:
+                  - paragraph [ref=e327]: Trial ends in 3 days
+                  - paragraph [ref=e328]: Subscribe for $1
+                  - button "Select a plan" [ref=e330]:
+                    - generic [ref=e332]:
+                      - generic: Select a plan
+      - main [ref=e333]:
+        - generic [ref=e553]:
+          - generic [ref=e554]:
+            - status:
+              - paragraph [ref=e555]: FurLift Reusable Pet Hair Detailer. This page is ready
+            - generic [ref=e557]:
+              - generic [ref=e559]:
+                - navigation "Breadcrumbs for Products" [ref=e560]:
+                  - generic [ref=e561]:
+                    - link "Products" [ref=e562] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/products?country=NG
+                      - img [ref=e566]
+                    - img [ref=e569]
+                    - heading "FurLift Reusable Pet Hair Detailer" [active] [level=1] [ref=e572]
+                - generic [ref=e576]:
+                  - generic: Active
+              - generic [ref=e578]:
+                - button "More actions" [ref=e584] [cursor=pointer]:
+                  - generic [ref=e585]: More actions
+                  - img [ref=e589]
+                - navigation "Pagination" [ref=e593]:
+                  - generic [ref=e595]:
+                    - generic [ref=e596]:
+                      - button "Previous" [disabled]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+                    - generic [ref=e597]:
+                      - button "Next" [disabled]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img
+          - generic [ref=e599]:
+            - button [ref=e601]: Submit
+            - generic [ref=e602]:
+              - generic [ref=e603]:
+                - generic [ref=e606]:
+                  - generic [ref=e608]:
+                    - generic [ref=e611]:
+                      - generic [ref=e612]: Title
+                      - textbox "Title" [ref=e616]:
+                        - /placeholder: Short sleeve t-shirt
+                        - text: FurLift Reusable Pet Hair Detailer
+                    - generic [ref=e618]:
+                      - generic [ref=e619]:
+                        - generic: Rich text editor
+                      - generic [ref=e620]:
+                        - generic [ref=e623]: Description
+                        - generic [ref=e624]:
+                          - generic [ref=e627]:
+                            - generic [ref=e628]:
+                              - button "Generate text" [ref=e633] [cursor=pointer]:
+                                - img [ref=e637]
+                              - generic [ref=e640]:
+                                - button "Formatting options, Paragraph selected" [ref=e646] [cursor=pointer]:
+                                  - text: Paragraph
+                                  - img [ref=e650]
+                                - generic [ref=e652]:
+                                  - button "Bold" [ref=e656] [cursor=pointer]:
+                                    - img [ref=e660]
+                                  - button "Italic" [ref=e665] [cursor=pointer]:
+                                    - img [ref=e669]
+                                  - button "Underline" [ref=e674] [cursor=pointer]:
+                                    - img [ref=e678]
+                                  - button "Color" [ref=e685] [cursor=pointer]:
+                                    - img [ref=e689]
+                                    - img [ref=e695]
+                                - button "Alignment" [ref=e702] [cursor=pointer]:
+                                  - img [ref=e706]
+                                  - img [ref=e714]
+                              - button "Additional controls" [ref=e718] [cursor=pointer]:
+                                - img [ref=e722]
+                            - button "Show HTML" [ref=e730] [cursor=pointer]:
+                              - img [ref=e734]
+                          - iframe [ref=e741]:
+                            - generic "Rich Text Area. Press ALT-0 for help." [active] [ref=f7e1]:
+                              - paragraph [ref=f7e2]:
+                                - strong [ref=f7e3]: Material
+                                - text: ": Plastic, Metal"
+                              - paragraph [ref=f7e4]:
+                                - strong [ref=f7e5]: Product Attributes
+                                - text: ": Standard"
+                              - paragraph [ref=f7e6]:
+                                - strong [ref=f7e7]: Package Size
+                                - text: ": 160"
+                                - emphasis [ref=f7e8]: "160"
+                                - text: 280mm; 160
+                                - emphasis [ref=f7e9]: "160"
+                                - text: 140mm
+                              - paragraph [ref=f7e10]:
+                                - strong [ref=f7e11]: About This Item
+                              - list [ref=f7e12]:
+                                - listitem [ref=f7e13]:
+                                  - strong [ref=f7e14]: Double-Sided Design
+                                  - text: ": Features a unique handle with two sides—one side has a pure copper blade for quick removal of lint and pet hair, while the other smooths the fabric."
+                                - listitem [ref=f7e15]:
+                                  - strong [ref=f7e16]: Durable and Safe
+                                  - text: ": Made from high-quality PP plastic and pure copper, this lint remover is rust-resistant and safe to use for extended periods."
+                                - listitem [ref=f7e17]:
+                                  - strong [ref=f7e18]: Versatile Use
+                                  - text: ": Ideal for removing lint, pet hair, and dust from carpets, clothing, furniture, bedding, and more. Not recommended for low-density knitwear or delicate fabrics."
+                                - listitem [ref=f7e19]:
+                                  - strong [ref=f7e20]: Portable and Easy to Clean
+                                  - text: ": Lightweight and compact for easy travel. After use, simply wipe clean."
+                                - listitem [ref=f7e21]:
+                                  - strong [ref=f7e22]: How to Use
+                                  - text: ": Lay fabric flat and gently scrape in one direction to remove lint."
+                  - generic [ref=e743]:
+                    - paragraph [ref=e747]:
+                      - generic: Media
+                    - generic [ref=e750]:
+                      - generic [ref=e752]: Drop media to upload
+                      - generic [ref=e753]:
+                        - button "Drop media to upload" [ref=e755]
+                        - generic [ref=e756]:
+                          - generic [ref=e767]:
+                            - button [ref=e769]:
+                              - generic [ref=e772] [cursor=pointer]:
+                                - checkbox "Select" [ref=e773]
+                                - generic [ref=e776]: Select
+                              - button [ref=e778]:
+                                - img [ref=e781]
+                            - button [ref=e790]:
+                              - generic [ref=e793] [cursor=pointer]:
+                                - checkbox "Select" [ref=e794]
+                                - generic [ref=e797]: Select
+                              - button [ref=e799]:
+                                - img [ref=e802]
+                            - button [ref=e811]:
+                              - generic [ref=e814] [cursor=pointer]:
+                                - checkbox "Select" [ref=e815]
+                                - generic [ref=e818]: Select
+                              - button [ref=e820]:
+                                - img [ref=e823]
+                            - button [ref=e832]:
+                              - generic [ref=e835] [cursor=pointer]:
+                                - checkbox "Select" [ref=e836]
+                                - generic [ref=e839]: Select
+                              - button [ref=e841]:
+                                - img [ref=e844]
+                            - button [ref=e853]:
+                              - generic [ref=e856] [cursor=pointer]:
+                                - checkbox "Select" [ref=e857]
+                                - generic [ref=e860]: Select
+                              - button [ref=e862]:
+                                - img [ref=e865]
+                            - button [ref=e874]:
+                              - generic [ref=e877] [cursor=pointer]:
+                                - checkbox "Select" [ref=e878]
+                                - generic [ref=e881]: Select
+                              - button [ref=e883]:
+                                - img [ref=e886]
+                            - button [ref=e895]:
+                              - generic [ref=e898] [cursor=pointer]:
+                                - checkbox "Select" [ref=e899]
+                                - generic [ref=e902]: Select
+                              - button [ref=e904]:
+                                - img [ref=e907]
+                            - generic [ref=e915]:
+                              - button "Show more files" [ref=e916] [cursor=pointer]:
+                                - paragraph [ref=e917]: "+3"
+                              - button [disabled]
+                            - button [ref=e918] [cursor=pointer]:
+                              - img [ref=e922]
+                          - status [ref=e924]
+                  - generic [ref=e928]:
+                    - generic [ref=e931]: Category
+                    - generic [ref=e933]:
+                      - generic [ref=e934]:
+                        - generic [ref=e936]:
+                          - generic [ref=e937]: Category
+                          - generic [ref=e938] [cursor=pointer]:
+                            - button "Category" [ref=e939]
+                            - generic:
+                              - generic: Choose a product category
+                            - img [ref=e943]
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Animals & Pet Supplies
+                              - generic: Apparel & Accessories
+                              - generic: Arts & Entertainment
+                              - generic: Baby & Toddler
+                              - generic: Business & Industrial
+                              - generic: Cameras & Optics
+                              - generic: Electronics
+                              - generic: Food, Beverages & Tobacco
+                              - generic: Furniture
+                              - generic: Hardware
+                              - generic: Health & Beauty
+                              - generic: Home & Garden
+                              - generic: Luggage & Bags
+                              - generic: Mature
+                              - generic: Media
+                              - generic: Office Supplies
+                              - generic: Religious & Ceremonial
+                              - generic: Software
+                              - generic: Sporting Goods
+                              - generic: Toys & Games
+                              - generic: Vehicles & Parts
+                              - generic: Gift Cards
+                              - generic: Uncategorized
+                              - generic: Services
+                              - generic: Product Add-Ons
+                              - generic: Bundles
+                        - generic:
+                          - generic: Lint Rollers in Laundry Supplies
+                          - generic:
+                            - generic: Suggested
+                      - generic [ref=e948]:
+                        - 'button "Accept suggested category: Lint Rollers in Laundry Supplies" [ref=e949] [cursor=pointer]':
+                          - generic [ref=e950]:
+                            - generic [ref=e953]:
+                              - generic:
+                                - strong [ref=e954]:
+                                  - generic: Lint Rollers
+                                - text: in Laundry Supplies
+                            - generic [ref=e955]:
+                              - generic: Suggested
+                        - 'button "Dismiss suggested category: Lint Rollers in Laundry Supplies" [ref=e956] [cursor=pointer]':
+                          - img [ref=e959]
+                    - paragraph [ref=e961]: Determines tax rates and adds metafields to improve search, filters, and cross-channel sales
+                - generic [ref=e964]:
+                  - generic:
+                    - generic [ref=e967]:
+                      - heading "Variants" [level=2] [ref=e968]:
+                        - generic: Variants
+                      - link "Add variant" [ref=e973] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/products/10628065001753/variants/new
+                        - generic [ref=e974]:
+                          - img [ref=e977]
+                          - generic [ref=e979]:
+                            - generic: Add variant
+                    - generic [ref=e981]:
+                      - generic [ref=e983]:
+                        - generic [ref=e984]:
+                          - generic [ref=e985]:
+                            - button [disabled]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - img
+                          - button "Color New Blue" [ref=e992] [cursor=pointer]:
+                            - strong [ref=e994]:
+                              - generic: Color
+                            - list [ref=e996]:
+                              - listitem [ref=e997]:
+                                - generic [ref=e1000]:
+                                  - generic: New Blue
+                        - separator [ref=e1001]
+                        - button "Add another option" [ref=e1002] [cursor=pointer]:
+                          - generic [ref=e1007]:
+                            - img [ref=e1010]
+                            - strong [ref=e1013]:
+                              - generic: Add another option
+                      - status [ref=e1014]
+                      - generic [ref=e1015]:
+                        - generic [ref=e1018]:
+                          - button [ref=e1020] [cursor=pointer]:
+                            - generic [ref=e1022]:
+                              - img [ref=e1025]
+                              - img [ref=e1029]
+                          - button "Select a location. All locations is selected" [ref=e1036] [cursor=pointer]:
+                            - generic [ref=e1037]: All locations
+                            - img [ref=e1041]
+                        - generic [ref=e1044]:
+                          - table [ref=e1045]:
+                            - rowgroup [ref=e1049]:
+                              - row "Selection Variant Price Available Publishing" [ref=e1050]:
+                                - columnheader "Selection" [ref=e1051]:
+                                  - generic [ref=e1055] [cursor=pointer]:
+                                    - generic [ref=e1057]:
+                                      - checkbox "Select all 1 on page" [ref=e1058]
+                                      - generic:
+                                        - img
+                                    - generic [ref=e1060]: Select all 1 on page
+                                - columnheader "Variant" [ref=e1061]
+                                - columnheader "Price" [ref=e1062]
+                                - columnheader "Available" [ref=e1063]:
+                                  - generic [ref=e1064]: Available
+                                - columnheader "Publishing" [ref=e1065]
+                            - rowgroup [ref=e1068]:
+                              - row "Select gid://shopify/ProductVariant/52404939948313 Upload image Select image for New Blue variant New Blue VLOY30HZN Price $ 50000 2 0" [ref=e1069] [cursor=pointer]:
+                                - cell "Select gid://shopify/ProductVariant/52404939948313" [ref=e1070]:
+                                  - generic [ref=e1076]:
+                                    - generic [ref=e1078]:
+                                      - checkbox "Select gid://shopify/ProductVariant/52404939948313" [ref=e1079]
+                                      - generic:
+                                        - img
+                                    - generic [ref=e1081]: Select gid://shopify/ProductVariant/52404939948313
+                                - cell "Upload image Select image for New Blue variant New Blue VLOY30HZN" [ref=e1082]:
+                                  - generic [ref=e1088]:
+                                    - generic [ref=e1091]:
+                                      - generic [ref=e1093]: Upload image
+                                      - generic [ref=e1094]:
+                                        - button "Upload image" [ref=e1096]
+                                        - button "Select image for New Blue variant" [ref=e1098]:
+                                          - generic [ref=e1099]:
+                                            - generic: image is applied
+                                    - link "New Blue VLOY30HZN" [ref=e1103]:
+                                      - /url: /store/mxu168-9g/products/10628065001753/variants/52404939948313
+                                      - generic [ref=e1104]:
+                                        - paragraph [ref=e1106]:
+                                          - generic: New Blue
+                                        - generic [ref=e1109]:
+                                          - generic: VLOY30HZN
+                                - cell "Price $" [ref=e1110]:
+                                  - generic [ref=e1115]:
+                                    - generic [ref=e1118]: Price
+                                    - generic [ref=e1121]:
+                                      - generic: $
+                                      - textbox "Price $" [ref=e1122]:
+                                        - /placeholder: ""
+                                        - text: 34,231.15
+                                - cell "50000" [ref=e1123]:
+                                  - generic [ref=e1125]:
+                                    - generic: "50000"
+                                - cell "2 0" [ref=e1126]:
+                                  - button "2 0" [ref=e1131]:
+                                    - generic [ref=e1135]:
+                                      - generic [ref=e1136]:
+                                        - img [ref=e1139]
+                                        - generic [ref=e1141]:
+                                          - generic: "2"
+                                      - generic [ref=e1142]:
+                                        - img [ref=e1145]
+                                        - generic [ref=e1150]:
+                                          - generic: "0"
+                          - paragraph [ref=e1154]: "Total inventory across all locations: 50000 available"
+                - generic [ref=e1160]:
+                  - generic [ref=e1161]:
+                    - heading "Search engine listing" [level=2] [ref=e1162]:
+                      - generic: Search engine listing
+                    - button "Edit" [ref=e1163] [cursor=pointer]:
+                      - img [ref=e1167]
+                  - generic [ref=e1170]:
+                    - generic [ref=e1172]:
+                      - paragraph [ref=e1173]:
+                        - generic: shopwithin
+                      - paragraph [ref=e1174]:
+                        - generic: https://mxu168-9g.myshopify.com › products › furlift-reusable-pet-hair-detailer
+                    - generic [ref=e1175]:
+                      - paragraph [ref=e1176]: FurLift Reusable Pet Hair Detailer
+                      - paragraph [ref=e1177]:
+                        - generic: "Material: Plastic, MetalProduct Attributes: StandardPackage Size: 160160280mm; 160160140mmAbout This Item Double-Sided Design: Features a unique handle with two…"
+                      - paragraph [ref=e1178]:
+                        - generic: $34,231.15 USD
+              - generic [ref=e1179]:
+                - generic [ref=e1182]:
+                  - generic:
+                    - heading "Status" [level=2] [ref=e1184]
+                    - generic [ref=e1186]:
+                      - generic [ref=e1189]:
+                        - generic [ref=e1190]: Status
+                        - generic [ref=e1191] [cursor=pointer]:
+                          - button "Status" [ref=e1192]
+                          - generic [ref=e1196]:
+                            - generic: Active
+                          - img [ref=e1200]
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Active
+                            - generic: Draft
+                            - generic: Unlisted
+                - generic [ref=e1205]:
+                  - heading "Publishing" [level=2] [ref=e1207]:
+                    - generic: Publishing
+                  - generic:
+                    - generic [ref=e1208]:
+                      - heading "Publishing" [level=2] [ref=e1209]:
+                        - generic: Publishing
+                      - button "Manage publishing" [ref=e1211] [cursor=pointer]:
+                        - img [ref=e1215]
+                    - button "Online Store" [ref=e1225] [cursor=pointer]:
+                      - generic [ref=e1226]:
+                        - img [ref=e1230]
+                        - strong [ref=e1234]:
+                          - generic: Online Store
+                - generic [ref=e1238]:
+                  - heading "Sales" [level=3] [ref=e1239]:
+                    - generic: Sales
+                  - paragraph [ref=e1240]:
+                    - generic: No recent sales of this product
+                  - button "View details" [ref=e1241] [cursor=pointer]:
+                    - generic [ref=e1243]:
+                      - generic: View details
+                - generic [ref=e1245]:
+                  - generic:
+                    - generic [ref=e1247]:
+                      - heading "Product organization" [level=2] [ref=e1248]:
+                        - generic: Product organization
+                      - link "Learn more" [ref=e1250] [cursor=pointer]:
+                        - /url: https://help.shopify.com/en/manual/products/details#product-organization
+                        - img [ref=e1254]
+                    - generic [ref=e1259]:
+                      - generic [ref=e1261]:
+                        - generic [ref=e1262] [cursor=pointer]: Type
+                        - generic [ref=e1264]:
+                          - generic [ref=e1265]: Type
+                          - generic [ref=e1266] [cursor=pointer]:
+                            - button "Type" [ref=e1267]
+                            - generic:
+                              - generic: None
+                            - img [ref=e1271]
+                      - generic [ref=e1275]:
+                        - generic [ref=e1276] [cursor=pointer]: Vendor
+                        - generic [ref=e1279]:
+                          - generic [ref=e1280]: Vendor
+                          - generic [ref=e1281] [cursor=pointer]:
+                            - button "Vendor" [ref=e1282]
+                            - generic [ref=e1286]:
+                              - generic: My Store 5
+                            - img [ref=e1290]
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: My Store 5
+                      - generic [ref=e1294]:
+                        - generic [ref=e1297]:
+                          - generic [ref=e1298]:
+                            - generic [ref=e1300]: Collections
+                            - button "Edit collections" [ref=e1302] [cursor=pointer]:
+                              - img [ref=e1306]
+                          - group "Collections" [ref=e1309]:
+                            - generic [ref=e1310]:
+                              - generic:
+                                - listitem [ref=e1311]:
+                                  - group "View the “Home page” collection" [ref=e1313] [cursor=pointer]:
+                                    - link "View the “Home page” collection" [ref=e1314]:
+                                      - /url: /store/mxu168-9g/collections/512321585433
+                                      - generic [ref=e1316]:
+                                        - generic: Home page
+                                    - button "Remove chip" [ref=e1317]:
+                                      - img [ref=e1320]
+                                - listitem [ref=e1322]:
+                                  - group "View the “Pet Supplies” collection" [ref=e1324] [cursor=pointer]:
+                                    - link "View the “Pet Supplies” collection" [ref=e1325]:
+                                      - /url: /store/mxu168-9g/collections/512322535705
+                                      - generic [ref=e1327]:
+                                        - generic: Pet Supplies
+                                    - button "Remove chip" [ref=e1328]:
+                                      - img [ref=e1331]
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Home page
+                              - generic: Pet Supplies
+                        - generic:
+                          - generic:
+                            - generic: Add new collection
+                      - generic [ref=e1337]:
+                        - generic [ref=e1340]: Tags
+                        - group "Tags" [ref=e1341]:
+                          - generic "Tags" [ref=e1342]:
+                            - group [ref=e1343] [cursor=pointer]:
+                              - button "Add tags" [ref=e1344]:
+                                - img [ref=e1348]
+                                - generic [ref=e1351]:
+                                  - generic: Add tags
+                - generic [ref=e1357]:
+                  - generic [ref=e1358]:
+                    - generic [ref=e1359]: Theme template
+                    - link [ref=e1361] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/themes/188538749209/editor?previewPath=%2Fproducts%2Ffurlift-reusable-pet-hair-detailer%3Fview%3D__DEFAULT__
+                      - img [ref=e1365]
+                  - generic [ref=e1369]:
+                    - generic:
+                      - generic [ref=e1370]: Theme template
+                      - generic [ref=e1371]:
+                        - generic [ref=e1376]: Default product
+                        - img [ref=e1379]
+                        - combobox "Theme template" [ref=e1382] [cursor=pointer]:
+                          - option "Default product" [selected]
+              - generic [ref=e1385]:
+                - button "Save" [disabled]:
+                  - generic: Save
+              - button [ref=e1388]
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e550]
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Save product
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Continue
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Set as active
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Go to preferences
+    - generic:
+      - generic:
+        - generic: To share this product, include it in your Online Store channel
+        - generic: Close
+        - generic: Manage sales channels
+    - generic:
+      - generic:
+        - generic: To make this product available to share, include this product in at least 1 market.
+        - generic: Close
+        - generic: Manage markets
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Done
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Done
+    - generic:
+      - generic:
+        - generic: Cancel
+        - generic: Done
+    - generic:
+      - generic:
+        - generic:
+          - option "lb" [selected]
+          - option "oz"
+          - option "kg"
+          - option "g"
+        - generic: Cancel
+        - generic: Done
+    - generic:
+      - generic:
+        - option "Select" [disabled] [selected]
+        - option "Afghanistan"
+        - option "Åland Islands"
+        - option "Albania"
+        - option "Algeria"
+        - option "Andorra"
+        - option "Angola"
+        - option "Anguilla"
+        - option "Antigua & Barbuda"
+        - option "Argentina"
+        - option "Armenia"
+        - option "Aruba"
+        - option "Ascension Island"
+        - option "Australia"
+        - option "Austria"
+        - option "Azerbaijan"
+        - option "Bahamas"
+        - option "Bahrain"
+        - option "Bangladesh"
+        - option "Barbados"
+        - option "Belarus"
+        - option "Belgium"
+        - option "Belize"
+        - option "Benin"
+        - option "Bermuda"
+        - option "Bhutan"
+        - option "Bolivia"
+        - option "Bosnia & Herzegovina"
+        - option "Botswana"
+        - option "Brazil"
+        - option "British Indian Ocean Territory"
+        - option "British Virgin Islands"
+        - option "Brunei"
+        - option "Bulgaria"
+        - option "Burkina Faso"
+        - option "Burundi"
+        - option "Cambodia"
+        - option "Cameroon"
+        - option "Canada"
+        - option "Cape Verde"
+        - option "Caribbean Netherlands"
+        - option "Cayman Islands"
+        - option "Central African Republic"
+        - option "Chad"
+        - option "Chile"
+        - option "China"
+        - option "Christmas Island"
+        - option "Cocos (Keeling) Islands"
+        - option "Colombia"
+        - option "Comoros"
+        - option "Congo - Brazzaville"
+        - option "Congo - Kinshasa"
+        - option "Cook Islands"
+        - option "Costa Rica"
+        - option "Croatia"
+        - option "Curaçao"
+        - option "Cyprus"
+        - option "Czechia"
+        - option "Côte d’Ivoire"
+        - option "Denmark"
+        - option "Djibouti"
+        - option "Dominica"
+        - option "Dominican Republic"
+        - option "Ecuador"
+        - option "Egypt"
+        - option "El Salvador"
+        - option "Equatorial Guinea"
+        - option "Eritrea"
+        - option "Estonia"
+        - option "Eswatini"
+        - option "Ethiopia"
+        - option "Falkland Islands"
+        - option "Faroe Islands"
+        - option "Fiji"
+        - option "Finland"
+        - option "France"
+        - option "French Guiana"
+        - option "French Polynesia"
+        - option "French Southern Territories"
+        - option "Gabon"
+        - option "Gambia"
+        - option "Georgia"
+        - option "Germany"
+        - option "Ghana"
+        - option "Gibraltar"
+        - option "Greece"
+        - option "Greenland"
+        - option "Grenada"
+        - option "Guadeloupe"
+        - option "Guatemala"
+        - option "Guernsey"
+        - option "Guinea"
+        - option "Guinea-Bissau"
+        - option "Guyana"
+        - option "Haiti"
+        - option "Honduras"
+        - option "Hong Kong SAR"
+        - option "Hungary"
+        - option "Iceland"
+        - option "India"
+        - option "Indonesia"
+        - option "Iraq"
+        - option "Ireland"
+        - option "Isle of Man"
+        - option "Israel"
+        - option "Italy"
+        - option "Jamaica"
+        - option "Japan"
+        - option "Jersey"
+        - option "Jordan"
+        - option "Kazakhstan"
+        - option "Kenya"
+        - option "Kiribati"
+        - option "Kosovo"
+        - option "Kuwait"
+        - option "Kyrgyzstan"
+        - option "Laos"
+        - option "Latvia"
+        - option "Lebanon"
+        - option "Lesotho"
+        - option "Liberia"
+        - option "Libya"
+        - option "Liechtenstein"
+        - option "Lithuania"
+        - option "Luxembourg"
+        - option "Macao SAR"
+        - option "Madagascar"
+        - option "Malawi"
+        - option "Malaysia"
+        - option "Maldives"
+        - option "Mali"
+        - option "Malta"
+        - option "Martinique"
+        - option "Mauritania"
+        - option "Mauritius"
+        - option "Mayotte"
+        - option "Mexico"
+        - option "Moldova"
+        - option "Monaco"
+        - option "Mongolia"
+        - option "Montenegro"
+        - option "Montserrat"
+        - option "Morocco"
+        - option "Mozambique"
+        - option "Myanmar (Burma)"
+        - option "Namibia"
+        - option "Nauru"
+        - option "Nepal"
+        - option "Netherlands"
+        - option "New Caledonia"
+        - option "New Zealand"
+        - option "Nicaragua"
+        - option "Niger"
+        - option "Nigeria"
+        - option "Niue"
+        - option "Norfolk Island"
+        - option "North Macedonia"
+        - option "Norway"
+        - option "Oman"
+        - option "Pakistan"
+        - option "Palestinian Territories"
+        - option "Panama"
+        - option "Papua New Guinea"
+        - option "Paraguay"
+        - option "Peru"
+        - option "Philippines"
+        - option "Pitcairn Islands"
+        - option "Poland"
+        - option "Portugal"
+        - option "Qatar"
+        - option "Réunion"
+        - option "Romania"
+        - option "Russia"
+        - option "Rwanda"
+        - option "Samoa"
+        - option "San Marino"
+        - option "São Tomé & Príncipe"
+        - option "Saudi Arabia"
+        - option "Senegal"
+        - option "Serbia"
+        - option "Seychelles"
+        - option "Sierra Leone"
+        - option "Singapore"
+        - option "Sint Maarten"
+        - option "Slovakia"
+        - option "Slovenia"
+        - option "Solomon Islands"
+        - option "Somalia"
+        - option "South Africa"
+        - option "South Georgia & South Sandwich Islands"
+        - option "South Korea"
+        - option "South Sudan"
+        - option "Spain"
+        - option "Sri Lanka"
+        - option "St. Barthélemy"
+        - option "St. Helena"
+        - option "St. Kitts & Nevis"
+        - option "St. Lucia"
+        - option "St. Martin"
+        - option "St. Pierre & Miquelon"
+        - option "St. Vincent & Grenadines"
+        - option "Sudan"
+        - option "Suriname"
+        - option "Svalbard & Jan Mayen"
+        - option "Sweden"
+        - option "Switzerland"
+        - option "Taiwan"
+        - option "Tajikistan"
+        - option "Tanzania"
+        - option "Thailand"
+        - option "Timor-Leste"
+        - option "Togo"
+        - option "Tokelau"
+        - option "Tonga"
+        - option "Trinidad & Tobago"
+        - option "Tristan da Cunha"
+        - option "Tunisia"
+        - option "Türkiye"
+        - option "Turkmenistan"
+        - option "Turks & Caicos Islands"
+        - option "Tuvalu"
+        - option "U.S. Outlying Islands"
+        - option "Uganda"
+        - option "Ukraine"
+        - option "United Arab Emirates"
+        - option "United Kingdom"
+        - option "United States"
+        - option "Uruguay"
+        - option "Uzbekistan"
+        - option "Vanuatu"
+        - option "Vatican City"
+        - option "Venezuela"
+        - option "Vietnam"
+        - option "Wallis & Futuna"
+        - option "Western Sahara"
+        - option "Yemen"
+        - option "Zambia"
+        - option "Zimbabwe"
+        - generic: Cancel
+        - generic: Done

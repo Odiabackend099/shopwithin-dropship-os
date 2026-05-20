@@ -1,0 +1,44 @@
+{
+  "product": "FurLift Reusable Pet Hair Detailer",
+  "storeUrl": "https://mxu168-9g.myshopify.com/products/furlift-reusable-pet-hair-detailer",
+  "paidAdsEnabled": false,
+  "platforms": {
+    "tiktok": {
+      "firstCampaign": {
+        "name": "TTK_CONV_US_FURLIFT_COLD_V1",
+        "status": "DRAFT_ONLY",
+        "objective": "Website conversions",
+        "optimizationEvent": "AddToCart",
+        "countries": ["US"],
+        "dailyBudgetUsdEquivalent": 2,
+        "maxActiveAds": 2,
+        "creatives": [
+          "launch/content-engine/tiktok-posts/furlift-tiktok-v1-problem-first.mp4",
+          "launch/content-engine/spark-ad-variants/furlift-spark-b-transformation-first.mp4"
+        ]
+      }
+    },
+    "meta": {
+      "firstCampaign": {
+        "name": "META_SALES_US_FURLIFT_IGREELS_V1",
+        "status": "DRAFT_ONLY",
+        "objective": "Sales",
+        "optimizationEvent": "AddToCart",
+        "countries": ["US"],
+        "dailyBudgetUsdEquivalent": 1,
+        "maxActiveAds": 1,
+        "creatives": [
+          "launch/content-engine/instagram-reels/furlift-reels-v1-transformation-first.mp4"
+        ]
+      }
+    }
+  },
+  "rules": {
+    "neverAutoLaunch": true,
+    "neverAutoScale": true,
+    "killCtrBelowPercent": 0.8,
+    "minimumAtcRatePercentAfter100Sessions": 3,
+    "maxColdDailyBudgetNgn": 5000
+  }
+}
+

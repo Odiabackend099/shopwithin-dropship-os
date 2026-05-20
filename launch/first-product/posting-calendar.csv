@@ -1,0 +1,8 @@
+day,video_ids,platforms,primary_metric
+1,"1,2,3,4,5","TikTok,Instagram Reels,YouTube Shorts,Pinterest","3-second hold and comments"
+2,"6,7,8,9,10","TikTok,Instagram Reels,YouTube Shorts,Pinterest","CTR and saves"
+3,"11,12,13,14,15","TikTok,Instagram Reels,YouTube Shorts,Pinterest","watch time and profile clicks"
+4,"16,17,18,19,20","TikTok,Instagram Reels,YouTube Shorts,Pinterest","site sessions"
+5,"21,22,23,24,25","TikTok,Instagram Reels,YouTube Shorts,Pinterest","add-to-cart activity"
+6,"26,27,28,29,30","TikTok,Instagram Reels,YouTube Shorts,Pinterest","best hook identification"
+7,"top 3 remakes","TikTok,Instagram Reels,YouTube Shorts,Pinterest","paid-test eligibility"

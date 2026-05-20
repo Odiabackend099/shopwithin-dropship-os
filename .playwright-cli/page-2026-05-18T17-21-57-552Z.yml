@@ -1,0 +1,33 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - link "TaxPro Max" [ref=e5] [cursor=pointer]:
+        - /url: https://taxpromax.firs.gov.ng
+      - generic:
+        - list
+        - list
+  - main [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]: Identification Page
+      - form "CAC Search" [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]: CAC-No
+          - textbox "CAC-No" [active] [ref=e17]:
+            - /placeholder: e.g 123456
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - radio "Limited" [checked] [ref=e22]
+            - text: Limited
+          - generic [ref=e23]:
+            - radio "Enterprise" [ref=e24]
+            - text: Enterprise
+          - generic [ref=e25]:
+            - radio "Trustees" [ref=e26]
+            - text: Trustees
+          - generic [ref=e27]:
+            - radio "Ltd Partnership" [ref=e28]
+            - text: Ltd Partnership
+          - generic [ref=e29]:
+            - radio "Ltd Liability Partnership" [ref=e30]
+            - text: Ltd Liability Partnership
+        - button "Search" [ref=e35] [cursor=pointer]

@@ -1,0 +1,100 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e3]:
+    - complementary [ref=e6]:
+      - paragraph [ref=e10]: Welcome to our store
+    - banner [ref=e11]:
+      - generic [ref=e12]:
+        - heading "FurLift Staging" [level=1] [ref=e14]
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - link "FurLift Staging" [ref=e18] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e19]: FurLift Staging
+            - navigation "Primary" [ref=e22]:
+              - list [ref=e24]:
+                - generic:
+                  - link "Home" [ref=e25] [cursor=pointer]:
+                    - /url: /
+                    - generic [ref=e26]: Home
+                  - link "Catalog" [ref=e27] [cursor=pointer]:
+                    - /url: /collections/all
+                    - generic [ref=e28]: Catalog
+                  - link "Contact" [ref=e29] [cursor=pointer]:
+                    - /url: /pages/contact
+                    - generic [ref=e30]: Contact
+          - generic [ref=e31]:
+            - button "Search" [ref=e33] [cursor=pointer]:
+              - generic:
+                - img
+            - generic [ref=e34]:
+              - button "Account" [ref=e39] [cursor=pointer]:
+                - img [ref=e41]
+              - button "Cart" [ref=e44] [cursor=pointer]:
+                - generic [ref=e45]:
+                  - generic:
+                    - img
+              - status [ref=e48]
+  - main [ref=e49]:
+    - generic [ref=e52]:
+      - generic:
+        - img
+      - generic:
+        - generic:
+          - paragraph: Browse our latest products
+        - link "Shop all" [ref=e53] [cursor=pointer]:
+          - /url: /collections/all
+    - generic [ref=e56]:
+      - heading "Products" [level=3] [ref=e61]
+      - generic [ref=e64]:
+        - link "FurLift Reusable Pet Hair Detailer" [ref=e65] [cursor=pointer]:
+          - /url: /products/furlift-reusable-pet-hair-detailer?variant=48897471840506
+          - generic [ref=e66]: FurLift Reusable Pet Hair Detailer
+        - generic [ref=e67] [cursor=pointer]:
+          - generic [ref=e68]:
+            - link [ref=e70]:
+              - /url: /products/furlift-reusable-pet-hair-detailer?variant=48897471840506
+              - generic [ref=e71]: FurLift Reusable Pet Hair Detailer
+            - generic [ref=e73]: Sale
+            - generic:
+              - generic:
+                - status
+                - button "Add" [ref=e74]:
+                  - generic [ref=e75]:
+                    - generic:
+                      - img
+                    - generic [ref=e76]: Add
+                  - generic [ref=e77]:
+                    - generic:
+                      - img
+          - link "FurLift Reusable Pet Hair Detailer" [ref=e78]:
+            - /url: /products/furlift-reusable-pet-hair-detailer?variant=48897471840506
+            - heading "FurLift Reusable Pet Hair Detailer" [level=3] [ref=e80]
+          - generic [ref=e83]:
+            - generic [ref=e84]:
+              - generic [ref=e85]: Sale price
+              - text: $24.95
+            - generic [ref=e86]:
+              - generic [ref=e87]: Regular price
+              - text: $39.95
+  - contentinfo [ref=e88]:
+    - generic [ref=e92]:
+      - generic [ref=e94]:
+        - heading "Join our email list" [level=2] [ref=e96]
+        - paragraph [ref=e98]: Get exclusive deals and early access to new products.
+      - generic [ref=e101]:
+        - generic [ref=e102]: Email
+        - textbox "Email" [ref=e103]:
+          - /placeholder: Email address
+        - button "Sign up" [ref=e104]:
+          - img [ref=e105]
+    - generic [ref=e110]:
+      - generic [ref=e112]:
+        - text: © 2026
+        - link "FurLift Staging" [ref=e113] [cursor=pointer]:
+          - /url: /
+        - text: ","
+        - link "Powered by Shopify" [ref=e114] [cursor=pointer]:
+          - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+      - button "Terms and Policies" [ref=e116] [cursor=pointer]

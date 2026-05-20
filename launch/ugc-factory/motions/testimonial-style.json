@@ -1,0 +1,11 @@
+{
+  "id": "testimonial-style",
+  "name": "Testimonial Style",
+  "description": "Personal testimonial and recommendation",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing with direct-to-camera speaking, natural hand gestures while talking, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "body_language_block": "sincere and authentic body language, natural hand gestures while sharing experience, genuine engagement with camera, casual conversational stance",
+  "timing_block": "personal story 4-6 seconds, product experience 3-5 seconds, recommendation 2-3 seconds, natural conversational pacing",
+  "expression_block": "sincere and genuine expressions, authentic emotion when sharing experience, natural eye contact with camera throughout, believable testimonial energy",
+  "platform_block": "realistic TikTok testimonial style, organic creator content, not polished commercial, authentic personal story pacing, believable recommendation vibe",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no corporate testimonial aesthetic, no overly polished production"
+}

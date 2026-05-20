@@ -1,0 +1,166 @@
+- main [ref=e2]:
+  - complementary [ref=e3]:
+    - generic [ref=e4]: Dropship OS
+    - navigation "Primary" [ref=e5]:
+      - link "Pipeline" [ref=e6] [cursor=pointer]:
+        - /url: "#pipeline"
+      - link "Orders" [ref=e7] [cursor=pointer]:
+        - /url: "#orders"
+      - link "Traffic" [ref=e8] [cursor=pointer]:
+        - /url: "#traffic"
+      - link "Support" [ref=e9] [cursor=pointer]:
+        - /url: "#support"
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - paragraph [ref=e13]: Global storefront
+        - heading "Operating dashboard" [level=1] [ref=e14]
+      - generic [ref=e15]:
+        - generic [ref=e16]: USD checkout
+        - generic [ref=e17]: Lean NGN mode
+    - region "Business metrics" [ref=e18]:
+      - article [ref=e19]:
+        - img [ref=e21]
+        - generic [ref=e23]:
+          - paragraph [ref=e24]: Revenue
+          - strong [ref=e25]: $24.95
+          - text: 1 paid order
+      - article [ref=e26]:
+        - img [ref=e28]
+        - generic [ref=e30]:
+          - paragraph [ref=e31]: Net profit
+          - strong [ref=e32]: $15.75
+          - text: $24.95 AOV
+      - article [ref=e33]:
+        - img [ref=e35]
+        - generic [ref=e40]:
+          - paragraph [ref=e41]: Held routing
+          - strong [ref=e42]: "1"
+          - text: Auto-pay remains blocked
+      - article [ref=e43]:
+        - img [ref=e45]
+        - generic [ref=e50]:
+          - paragraph [ref=e51]: Shipment alerts
+          - strong [ref=e52]: "0"
+          - text: 0 webhook failures
+    - region "Launch controls" [ref=e53]:
+      - article [ref=e54]:
+        - img [ref=e56]
+        - generic [ref=e58]:
+          - paragraph [ref=e59]: Launch budget
+          - strong [ref=e60]: ₦50,000.00
+          - text: Do not spend at once
+      - article [ref=e61]:
+        - img [ref=e63]
+        - generic [ref=e66]:
+          - paragraph [ref=e67]: Creative scripts
+          - strong [ref=e68]: "30"
+          - text: Record/assemble videos next
+      - article [ref=e69]:
+        - img [ref=e71]
+        - generic [ref=e77]:
+          - paragraph [ref=e78]: ATC rate
+          - strong [ref=e79]: 0%
+          - text: 0% abandoned checkout
+      - article [ref=e80]:
+        - img [ref=e82]
+        - generic [ref=e87]:
+          - paragraph [ref=e88]: Active test product
+          - strong [ref=e89]: "1"
+          - text: One-product focus
+    - generic [ref=e90]:
+      - article [ref=e91]:
+        - generic [ref=e92]:
+          - heading "Lean budget control" [level=2] [ref=e93]
+          - generic [ref=e94]: Organic first
+        - generic "NGN launch budget allocation" [ref=e95]:
+          - generic [ref=e96]: Domain + tools
+          - strong [ref=e97]: ₦10,000.00
+          - generic [ref=e98]: AI creative generation
+          - strong [ref=e99]: ₦10,000.00
+          - generic [ref=e100]: TikTok test wallet
+          - strong [ref=e101]: ₦20,000.00
+          - generic [ref=e102]: Retargeting + backup
+          - strong [ref=e103]: ₦10,000.00
+      - article [ref=e104]:
+        - generic [ref=e105]:
+          - heading "Paid test gate" [level=2] [ref=e106]
+          - generic [ref=e107]: Blocked
+        - paragraph [ref=e108]: "Requested cold test budget: ₦8,000.00. Approved today: ₦0.00. The system blocks boosts until content volume and click signal are present."
+        - list [ref=e109]:
+          - listitem [ref=e110]:
+            - img [ref=e111]
+            - text: Publish more organic posts before paid
+          - listitem [ref=e113]:
+            - img [ref=e114]
+            - text: No click or view signal yet
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - heading "Product validation" [level=2] [ref=e118]
+        - generic [ref=e119]: Auto-fulfillment gated
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - generic [ref=e122]: Product
+          - generic [ref=e123]: Score
+          - generic [ref=e124]: Margin
+          - generic [ref=e125]: Supplier
+          - generic [ref=e126]: Status
+        - generic [ref=e127]:
+          - strong [ref=e128]: FurLift Reusable Pet Hair Detailer
+          - generic [ref=e129]: "79"
+          - generic [ref=e130]: 68%
+          - generic [ref=e131]: Manual sample
+          - generic [ref=e132]: Supplier gate
+        - generic [ref=e133]:
+          - strong [ref=e134]: Mini Car Detailing Brush Set
+          - generic [ref=e135]: "0"
+          - generic [ref=e136]: 0%
+          - generic [ref=e137]: Backup research
+          - generic [ref=e138]: Watch
+        - generic [ref=e139]:
+          - strong [ref=e140]: Sink Gap Cleaning Brush
+          - generic [ref=e141]: "0"
+          - generic [ref=e142]: 0%
+          - generic [ref=e143]: Backup research
+          - generic [ref=e144]: Watch
+    - generic [ref=e145]:
+      - article [ref=e146]:
+        - generic [ref=e147]:
+          - heading "Kill-switch monitor" [level=2] [ref=e148]
+          - generic [ref=e149]: Paid locked
+        - paragraph [ref=e150]: No cold paid campaign is active. The system keeps paid tests blocked until FurLift has organic posts, site clicks, and add-to-cart signal.
+        - list [ref=e151]:
+          - listitem [ref=e152]:
+            - img [ref=e153]
+            - text: PAID_ADS_ENABLED remains false
+          - listitem [ref=e155]:
+            - img [ref=e156]
+            - text: Organic validation is still the next traffic step
+      - article [ref=e162]:
+        - generic [ref=e163]:
+          - heading "Order ops" [level=2] [ref=e164]
+          - img [ref=e165]
+        - list [ref=e167]:
+          - listitem [ref=e168]:
+            - img [ref=e169]
+            - text: 1 tracking update pending supplier callback
+          - listitem [ref=e174]:
+            - img [ref=e175]
+            - text: Webhook failure rate below alert threshold
+          - listitem [ref=e177]:
+            - img [ref=e178]
+            - text: 4 approved products required before TikTok Smart+ Catalog launch
+    - generic [ref=e183]:
+      - generic [ref=e184]:
+        - heading "Support queue" [level=2] [ref=e185]
+        - generic [ref=e186]: AI draft only
+      - list [ref=e187]:
+        - listitem [ref=e188]:
+          - img [ref=e189]
+          - text: Shipping and tracking replies drafted for human review
+        - listitem [ref=e191]:
+          - img [ref=e192]
+          - text: Refunds, address changes, and chargebacks require manual approval
+        - listitem [ref=e197]:
+          - img [ref=e198]
+          - text: Klaviyo events reserved for abandoned checkout and tracking updates

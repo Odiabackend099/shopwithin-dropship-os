@@ -1,0 +1,11 @@
+{
+  "name": "09-ad-creative-generator",
+  "active": false,
+  "nodes": [
+    { "parameters": { "path": "ad-creative-generator", "responseMode": "lastNode", "options": {} }, "id": "webhook", "name": "Creative Request", "type": "n8n-nodes-base.webhook", "typeVersion": 2, "position": [0, 0] },
+    { "parameters": { "values": { "string": [{ "name": "outputs", "value": "3 scripts,10 hooks,5 shot lists,3 thumbnails" }, { "name": "rule", "value": "hook in first 3-6 seconds; native UGC style" }] } }, "id": "brief", "name": "Creative Brief Rules", "type": "n8n-nodes-base.set", "typeVersion": 3.4, "position": [240, 0] }
+  ],
+  "connections": { "Creative Request": { "main": [[{ "node": "Creative Brief Rules", "type": "main", "index": 0 }]] } },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

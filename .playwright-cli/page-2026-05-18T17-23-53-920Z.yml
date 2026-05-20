@@ -1,0 +1,43 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - link "TaxPro Max" [ref=e5] [cursor=pointer]:
+        - /url: https://taxpromax.firs.gov.ng
+      - generic:
+        - list
+        - list
+  - main [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e8]: "TaxPro Max:: Email details do not match!"
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - text: Identification Page
+          - listitem [ref=e13]:
+            - link "Return back" [ref=e14] [cursor=pointer]:
+              - /url: search
+        - form [ref=e16]:
+          - generic [ref=e17]:
+            - generic [ref=e18]: Name
+            - textbox [disabled] [ref=e20]: ODIA***** LTD
+          - generic [ref=e21]:
+            - generic [ref=e22]: CAC
+            - textbox [disabled] [ref=e24]: "8989175"
+          - generic [ref=e25]:
+            - generic [ref=e26]: Email Contact
+            - textbox "Email Contact" [ref=e28]: netf*****.com
+          - generic [ref=e29]:
+            - generic [ref=e30]: Phone Contact
+            - textbox "Phone Contact Channel" [ref=e32]: 0811*****2987
+          - generic [ref=e33]:
+            - generic [ref=e34]: OTP Sending Channel
+            - generic [ref=e35]:
+              - generic [ref=e36]:
+                - radio "Phone" [ref=e37]
+                - text: Phone
+              - generic [ref=e38]:
+                - radio "Email" [ref=e39]
+                - text: Email
+          - generic [ref=e40]:
+            - generic [ref=e41]: Channel
+            - textbox "Enter Phone or Email as choosen above." [ref=e43]
+          - button "Send OTP" [ref=e48] [cursor=pointer]

@@ -1,0 +1,159 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - button [ref=e10] [cursor=pointer]
+      - button "ES" [ref=e14] [cursor=pointer]:
+        - generic [ref=e16]: ES
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - heading "Orders" [level=4] [ref=e21]
+        - generic [ref=e22]:
+          - button "Top-Up" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26]: Top-Up
+          - link "Credit Balance $0.00" [ref=e27] [cursor=pointer]:
+            - /url: /billing-information#billing-page__credit-section
+            - generic [ref=e28]: Credit Balance
+            - generic [ref=e29]: $0.00
+      - generic [ref=e35]:
+        - generic [ref=e37]:
+          - generic [ref=e39] [cursor=pointer]:
+            - generic [ref=e40]:
+              - img [ref=e41]
+              - generic [ref=e43]: Last 30 days
+            - img [ref=e44]
+          - button "Export" [ref=e46] [cursor=pointer]:
+            - generic [ref=e47]:
+              - generic [ref=e48]: Export
+              - img [ref=e49]
+        - generic [ref=e52]:
+          - generic [ref=e57] [cursor=pointer]:
+            - text: Auto fulfillment
+            - img [ref=e58]
+          - button "Fulfill all" [ref=e61] [cursor=pointer]:
+            - generic [ref=e62]:
+              - img [ref=e63]
+              - generic [ref=e65]: Fulfill all
+        - generic [ref=e66]:
+          - generic [ref=e67] [cursor=pointer]:
+            - generic [ref=e68]:
+              - button "Total Orders" [ref=e69]:
+                - text: Total Orders
+                - img [ref=e72]
+              - img [ref=e74]
+            - button "1" [ref=e76]
+          - generic [ref=e77] [cursor=pointer]:
+            - generic [ref=e78]:
+              - button "Unfulfilled" [ref=e79]:
+                - text: Unfulfilled
+                - img [ref=e82]
+              - img [ref=e84]
+            - button "1" [ref=e86]
+            - generic:
+              - generic:
+                - button
+          - generic [ref=e87] [cursor=pointer]:
+            - generic [ref=e88]:
+              - button "Processing" [ref=e89]:
+                - text: Processing
+                - img [ref=e92]
+              - img [ref=e94]
+            - button "0" [ref=e96]
+            - generic [ref=e99]:
+              - img [ref=e100]
+              - 'generic "Avg. processing time: 0 days" [ref=e103]'
+          - generic [ref=e104] [cursor=pointer]:
+            - generic [ref=e105]:
+              - button "In transit" [ref=e106]:
+                - text: In transit
+                - img [ref=e109]
+              - img [ref=e111]
+            - button "0" [ref=e113]
+            - generic:
+              - generic:
+                - button
+          - generic [ref=e114] [cursor=pointer]:
+            - generic [ref=e115]:
+              - button "Delivered" [ref=e116]:
+                - text: Delivered
+                - img [ref=e119]
+              - img [ref=e121]
+            - button "0" [ref=e123]
+            - generic [ref=e126]:
+              - img [ref=e127]
+              - 'generic "Avg. delivery time: 0 days 0 hours" [ref=e130]'
+          - generic [ref=e131] [cursor=pointer]:
+            - generic [ref=e132]:
+              - button "Canceled" [ref=e133]:
+                - text: Canceled
+                - img [ref=e136]
+              - img [ref=e138]
+            - button "0" [ref=e140]
+        - generic [ref=e144]:
+          - generic [ref=e145]:
+            - generic [ref=e146]:
+              - generic [ref=e147] [cursor=pointer]:
+                - img [ref=e148]
+                - textbox "Search orders" [ref=e150]
+              - generic [ref=e151]:
+                - generic [ref=e152]:
+                  - generic [ref=e153]: "Date Range: Apr 19, 2026 – May 18, 2026"
+                  - img [ref=e154] [cursor=pointer]
+                - generic [ref=e156] [cursor=pointer]: Clear all
+            - generic [ref=e157] [cursor=pointer]:
+              - img [ref=e159]
+              - text: Filter
+          - generic:
+            - generic [ref=e162]: –
+            - button "Bulk Fulfill" [ref=e163] [cursor=pointer]
+          - generic [ref=e165]:
+            - generic [ref=e166]:
+              - generic [ref=e168] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e170]: Order
+              - generic [ref=e171]: Date
+              - generic [ref=e172]: Customer
+              - generic [ref=e173]: Customer Order
+              - generic [ref=e174]: Zendrop Payment
+              - generic [ref=e175]: Total
+              - generic [ref=e176]: Order Status
+              - generic [ref=e177]: Action
+            - generic [ref=e179] [cursor=pointer]:
+              - generic [ref=e181]:
+                - checkbox
+              - link "#1001" [ref=e185]:
+                - /url: https://mxu168-9g.myshopify.com/admin/orders/7122424365337
+              - generic [ref=e186]: 5/18/2026
+              - generic [ref=e188]:
+                - generic [ref=e189]: Staging Buyer
+                - img [ref=e206]
+              - generic [ref=e192]: Received
+              - generic [ref=e194]: Unpaid
+              - generic [ref=e195]: $6.48
+              - generic [ref=e197]: Unfulfilled
+              - button "Fulfill" [ref=e200]:
+                - generic [ref=e201]: Fulfill
+              - table [ref=e213]:
+                - rowgroup [ref=e214]:
+                  - row "Portable Fabric and Pet Hair Remover VLOY30HZN · Edit Variant · Cancel Item New Blue 1 x $1.49" [ref=e215]:
+                    - cell [ref=e216]:
+                      - generic [ref=e217]:
+                        - checkbox
+                    - cell
+                    - cell [ref=e219]:
+                      - img [ref=e220]
+                    - cell "Portable Fabric and Pet Hair Remover VLOY30HZN · Edit Variant · Cancel Item" [ref=e221]:
+                      - generic [ref=e222]: Portable Fabric and Pet Hair Remover
+                      - text: VLOY30HZN
+                      - generic [ref=e223]: · Edit Variant
+                      - generic [ref=e224]: · Cancel Item
+                    - cell "New Blue 1 x $1.49" [ref=e225]:
+                      - generic [ref=e227]:
+                        - generic [ref=e230]: New Blue
+                        - generic [ref=e232]: 1 x $1.49
+  - iframe [ref=e3]:
+    
+  - iframe [ref=e202]:
+    
+  - button "Open Intercom Messenger" [ref=e203] [cursor=pointer]:
+    - generic:
+      - img

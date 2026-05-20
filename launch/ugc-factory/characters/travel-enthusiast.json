@@ -1,0 +1,15 @@
+{
+  "id": "travel-enthusiast",
+  "name": "Ryan",
+  "age": 26,
+  "gender": "male",
+  "character_block": "26-year-old male travel enthusiast with casual travel-ready style, short hair, comfortable travel attire, realistic skin texture, authentic travel energy, expressive hands when demonstrating travel products, natural speaking manner",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld framing with travel environment shots, natural hand movement showing travel accessories, slight micro-shakes, autofocus breathing, realistic exposure changes, vertical 9:16 TikTok format",
+  "environment_block": "travel setting with luggage, travel accessories, airport or hotel room environment, realistic travel atmosphere",
+  "platform_block": "realistic TikTok travel content style, organic creator content, not polished commercial, authentic travel enthusiast vibe, practical travel demonstrations",
+  "lighting_block": "natural airport or hotel lighting, soft shadows, realistic travel environment lighting, slight smartphone overexposure on bright surfaces",
+  "motion_block": "natural hand movements when packing or using travel products, smooth practical demonstrations, authentic satisfaction reactions with travel solutions",
+  "audio_block": "subtle luggage sounds, product interaction sounds, travel environment ambience, authentic enthusiastic speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no luxury travel influencer aesthetic, no overly polished production",
+  "reference_images": []
+}

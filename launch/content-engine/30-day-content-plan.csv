@@ -1,0 +1,32 @@
+day,primary_goal,posts_count,platform_mix,hook_family,asset_starting_point,what_to_measure
+1,Baseline hook test,3,TikTok/Reels/Shorts,Problem first,tiktok-posts/furlift-tiktok-v1-problem-first.mp4,3-second hold and saves
+2,Relatability test,3,TikTok/Reels/TikTok,POV and embarrassment,spark-ad-variants/furlift-spark-c-pov-style.mp4,Comments and profile taps
+3,Reaction test,3,TikTok/Reels/Shorts,Reaction and gross reveal,spark-ad-variants/furlift-spark-d-reaction-style.mp4,Watch time and shares
+4,Comparison angle,3,TikTok/Reels/TikTok,Lint roller fatigue,spark-ad-variants/furlift-spark-a-problem-first.mp4,CTR and add-to-cart
+5,Winner retest,3,TikTok/Reels/Shorts,Best first 4 days,best_previous_winner,Repeatability
+6,Guest-ready angle,3,TikTok/Reels/TikTok,Embarrassing couch fur,spark-ad-variants/furlift-spark-e-pet-owner-emotion.mp4,Comments about use cases
+7,Weekly winner recap,2,TikTok/Reels,Transformation proof,spark-ad-variants/furlift-spark-b-transformation-first.mp4,Top creative selection
+8,New caption retest,3,TikTok/Reels/Shorts,Pet hair on clothes,best_previous_winner,Caption CTR
+9,Car-seat use case,3,TikTok/Reels/TikTok,Couches plus car seats,best_previous_winner,Use-case comments
+10,Before-after loop,3,TikTok/Reels/Shorts,Watch the fur line,spark-ad-variants/furlift-spark-b-transformation-first.mp4,Replay rate
+11,Pet-owner confession,3,TikTok/Reels/TikTok,I thought it was clean,spark-ad-variants/furlift-spark-d-reaction-style.mp4,Average watch time
+12,Refill fatigue angle,3,TikTok/Reels/Shorts,No sticky refills,spark-ad-variants/furlift-spark-a-problem-first.mp4,Product page CTR
+13,Soft CTA test,3,TikTok/Reels/TikTok,Tap to check it out,best_previous_winner,CTR without hard sell
+14,Week 2 winner recap,2,TikTok/Reels,Top organic winner,best_previous_winner,Spark ad candidate
+15,Spark candidate day,3,TikTok/Reels/Shorts,Best hook,best_previous_winner,Boost readiness
+16,Objection handling,3,TikTok/Reels/TikTok,Does it replace lint rollers?,best_previous_winner,Comment sentiment
+17,Price anchoring,3,TikTok/Reels/Shorts,FurLift $24.95,best_previous_winner,CTR and add-to-cart
+18,Pet hair problem montage,3,TikTok/Reels/TikTok,Fur on everything,best_previous_winner,Share rate
+19,One-tool daily reset,3,TikTok/Reels/Shorts,Reusable tool,best_previous_winner,Saves
+20,Creator-style voiceover test,3,TikTok/Reels/TikTok,I did not expect this,best_previous_winner,Hold rate
+21,Week 3 winner recap,2,TikTok/Reels,Top paid/organic winner,best_previous_winner,Winner stability
+22,Audience split test,3,TikTok/Reels/Shorts,Dog owner angle,best_previous_winner,Dog-owner comments
+23,Audience split test,3,TikTok/Reels/TikTok,Cat owner angle,best_previous_winner,Cat-owner comments
+24,Home reset angle,3,TikTok/Reels/Shorts,Make it guest-ready,best_previous_winner,Reels saves
+25,Fast demo retest,3,TikTok/Reels/TikTok,Dirty to clean,best_previous_winner,Completion rate
+26,UGC reaction retest,3,TikTok/Reels/Shorts,I gasped at this,best_previous_winner,Comments and shares
+27,Low-budget ad prep,3,TikTok/Reels/TikTok,Winning Spark hook,best_previous_winner,CPA proxy signals
+28,Week 4 winner recap,2,TikTok/Reels,Final winner shortlist,best_previous_winner,Scale readiness
+29,Retargeting message,3,TikTok/Reels/Shorts,Still thinking about this?,best_previous_winner,Return clicks
+30,Monthly winner package,3,TikTok/Reels/Shorts,Best proven hook,best_previous_winner,Next product decision
+

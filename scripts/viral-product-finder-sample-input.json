@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Example Viral Product",
+    "category": "pet",
+    "source": "tiktok-research",
+    "sourceUrl": "https://example.com/product",
+    "problemSolved": "Describe the problem this product solves",
+    "viralEvidence": ["Evidence 1", "Evidence 2", "Evidence 3"],
+    "estimatedSellPriceUsd": 29.99,
+    "estimatedProductCostUsd": 8.5,
+    "estimatedShippingCostUsd": 3.25,
+    "estimatedDeliveryDays": 11,
+    "wowFactor": 80,
+    "creativeEase": 82,
+    "demandVelocity": 68,
+    "trendLongevity": 76,
+    "competition": 46,
+    "adSaturation": 30,
+    "riskPenalties": 0,
+    "recommendedCreativeAngles": ["Angle 1", "Angle 2", "Angle 3"]
+  }
+]

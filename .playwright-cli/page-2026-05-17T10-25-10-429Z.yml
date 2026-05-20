@@ -1,0 +1,73 @@
+- generic [ref=e3]:
+  - link "Skip to content":
+    - /url: "#AppFrameMain"
+  - main [ref=e5]:
+    - main [ref=e10]:
+      - generic [ref=e12]:
+        - img [ref=e14]
+        - generic [ref=e22]:
+          - heading "Create store" [level=2] [ref=e24]:
+            - generic: Create store
+          - generic [ref=e26]:
+            - generic [ref=e28]:
+              - radio "Dev Testing, dev, or staging environments" [checked] [active] [ref=e29]
+              - generic [ref=e31] [cursor=pointer]:
+                - paragraph [ref=e32]: Dev
+                - paragraph [ref=e33]: Testing, dev, or staging environments
+            - generic [ref=e35]:
+              - radio "Client transfer Manage and transfer stores for clients" [ref=e36]
+              - generic [ref=e38] [cursor=pointer]:
+                - paragraph [ref=e39]: Client transfer
+                - paragraph [ref=e40]: Manage and transfer stores for clients
+          - separator [ref=e52]
+          - generic [ref=e54]:
+            - generic [ref=e55]: Store name
+            - generic [ref=e56]:
+              - textbox "Store name" [ref=e59]
+              - generic [ref=e61]: 0/60
+          - generic [ref=e62]:
+            - paragraph [ref=e63]:
+              - generic: Shopify plan
+            - generic [ref=e66]:
+              - generic:
+                - generic [ref=e67]: Shopify plan
+                - generic [ref=e68]:
+                  - generic [ref=e73]: Select a plan
+                  - img [ref=e76]
+                  - combobox "Shopify plan" [ref=e79] [cursor=pointer]:
+                    - option "Basic"
+                    - option "Grow"
+                    - option "Advanced"
+                    - option "Plus"
+                - generic [ref=e80]: Test plan features for free
+          - generic [ref=e83]:
+            - generic [ref=e85] [cursor=pointer]:
+              - generic [ref=e87]:
+                - checkbox "Generate test data for store" [ref=e88]
+                - generic:
+                  - img
+              - generic [ref=e90]: Generate test data for store
+            - paragraph [ref=e94]:
+              - generic: Preload your store with a bogus gateway and sample data
+          - generic [ref=e97]:
+            - generic [ref=e99] [cursor=pointer]:
+              - generic [ref=e101]:
+                - checkbox "Test a feature preview on this store" [ref=e102]
+                - generic:
+                  - img
+              - generic [ref=e105]:
+                - text: Test a
+                - link "feature preview" [ref=e106]:
+                  - /url: https://shopify.dev/docs/api/developer-previews
+                  - generic: feature preview
+                - text: on this store
+            - paragraph [ref=e110]:
+              - generic: Preview changes to Shopify and APIs before they're generally available
+          - generic [ref=e41]:
+            - link "Back" [ref=e42] [cursor=pointer]:
+              - /url: https://dev.shopify.com/dashboard/211341554
+              - img [ref=e46]
+              - generic [ref=e48]: Back
+            - button "Create store" [ref=e49] [cursor=pointer]:
+              - generic [ref=e51]:
+                - generic: Create store

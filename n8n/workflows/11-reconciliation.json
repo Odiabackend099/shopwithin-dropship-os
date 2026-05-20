@@ -1,0 +1,11 @@
+{
+  "name": "11-reconciliation",
+  "active": false,
+  "nodes": [
+    { "parameters": { "rule": { "interval": [{ "field": "hours", "hoursInterval": 6 }] } }, "id": "schedule", "name": "Every 6 Hours", "type": "n8n-nodes-base.scheduleTrigger", "typeVersion": 1.2, "position": [0, 0] },
+    { "parameters": { "method": "POST", "url": "={{$env.API_PUBLIC_URL}}/internal/reconciliation/run", "sendBody": true, "contentType": "json", "bodyParameters": { "parameters": [{ "name": "sinceHours", "value": 6 }] }, "options": { "retry": { "maxTries": 5, "waitBetweenTries": 5000 } } }, "id": "api", "name": "Queue Reconciliation", "type": "n8n-nodes-base.httpRequest", "typeVersion": 4.2, "position": [240, 0] }
+  ],
+  "connections": { "Every 6 Hours": { "main": [[{ "node": "Queue Reconciliation", "type": "main", "index": 0 }]] } },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

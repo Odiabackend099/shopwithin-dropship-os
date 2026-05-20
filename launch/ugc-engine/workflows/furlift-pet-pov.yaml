@@ -1,0 +1,15 @@
+id: furlift-pet-pov
+name: FurLift Pet Owner POV
+productSlug: furlift
+characterId: sarah-pet-mom
+scenes:
+  - sceneId: selfie
+    hookVariant: 4
+    ctaVariant: 2
+  - sceneId: pet-interaction
+    hookVariant: 0
+    ctaVariant: 1
+platforms:
+  - tiktok
+  - shorts
+outputVariants: 3

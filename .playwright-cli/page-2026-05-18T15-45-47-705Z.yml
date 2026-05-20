@@ -1,0 +1,174 @@
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e3]:
+    - complementary [ref=e6]:
+      - paragraph [ref=e10]: Welcome to our store
+    - banner [ref=e11]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - link "shopwithin" [ref=e17] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e18]: shopwithin
+          - navigation "Primary" [ref=e21]:
+            - list [ref=e23]:
+              - generic:
+                - link "Home" [ref=e24] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=e25]: Home
+                - link "Catalog" [ref=e26] [cursor=pointer]:
+                  - /url: /collections/all
+                  - generic [ref=e27]: Catalog
+                - link "Contact" [ref=e28] [cursor=pointer]:
+                  - /url: /pages/contact
+                  - generic [ref=e29]: Contact
+        - generic [ref=e30]:
+          - button "USD Region and language selector" [ref=e32] [cursor=pointer]:
+            - generic [ref=e33]: USD
+            - generic [ref=e34]: Region and language selector
+            - generic:
+              - img
+          - button "Search" [ref=e36] [cursor=pointer]:
+            - generic:
+              - img
+          - generic [ref=e37]:
+            - button "Account" [ref=e42] [cursor=pointer]:
+              - img [ref=e44]
+            - generic [ref=e46]:
+              - button "Cart" [ref=e47] [cursor=pointer]:
+                - generic [ref=e48]:
+                  - generic:
+                    - img
+                  - generic [ref=e217]: "1"
+              - text: $24.95 $24.95 USD
+            - status [ref=e51]: "Total items in cart: 1"
+  - main [ref=e52]:
+    - generic [ref=e53]:
+      - region "Quick add to cart bar" [ref=e54]:
+        - img "FurLift Reusable Pet Hair Detailer" [ref=e56]
+        - generic [ref=e57]:
+          - paragraph [ref=e58]: FurLift Reusable Pet Hair Detailer
+          - generic [ref=e59]: New Blue
+        - generic [ref=e62]: $24.95
+        - button "Add to cart" [ref=e63] [cursor=pointer]:
+          - generic [ref=e64]:
+            - generic:
+              - img
+            - generic [ref=e65]: Add to cart
+          - generic [ref=e66]:
+            - generic:
+              - img
+      - generic [ref=e68]:
+        - link "Skip to product information" [ref=e69] [cursor=pointer]:
+          - /url: "#ProductInformation-template--27278306967833__main"
+        - generic [ref=e70]:
+          - list [ref=e73]:
+            - listitem [ref=e74]:
+              - button "Zoom media 1" [ref=e75]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e77]
+            - listitem [ref=e78]:
+              - button "Zoom media 2" [ref=e79]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e81]
+            - listitem [ref=e82]:
+              - button "Zoom media 3" [ref=e83]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e85]
+            - listitem [ref=e86]:
+              - button "Zoom media 4" [ref=e87]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e89]
+            - listitem [ref=e90]:
+              - button "Zoom media 5" [ref=e91]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e93]
+            - listitem [ref=e94]:
+              - button "Zoom media 6" [ref=e95]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e97]
+            - listitem [ref=e98]:
+              - button "Zoom media 7" [ref=e99]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e101]
+            - listitem [ref=e102]:
+              - button "Zoom media 8" [ref=e103]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e105]
+            - listitem [ref=e106]:
+              - button "Zoom media 9" [ref=e107]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e109]
+            - listitem [ref=e110]:
+              - button "Zoom media 10" [ref=e111]
+              - img "FurLift Reusable Pet Hair Detailer" [ref=e113]
+          - generic [ref=e116]:
+            - generic [ref=e118]:
+              - heading "FurLift Reusable Pet Hair Detailer" [level=1] [ref=e120]
+              - generic [ref=e123]: $24.95
+            - generic [ref=e128]: ColorNew Blue
+            - generic [ref=e130]:
+              - status [ref=e131]: Added
+              - generic [ref=e133]:
+                - generic [ref=e135]:
+                  - button "Decrease quantity" [disabled] [ref=e136] [cursor=pointer]:
+                    - generic [ref=e137]: Decrease quantity
+                    - generic:
+                      - img
+                  - spinbutton "Quantity" [ref=e138]: "1"
+                  - button "Increase quantity" [ref=e139] [cursor=pointer]:
+                    - generic [ref=e140]: Increase quantity
+                    - generic:
+                      - img
+                - button "Add to cart" [active] [ref=e143] [cursor=pointer]:
+                  - generic [ref=e144]:
+                    - generic:
+                      - img
+                    - generic [ref=e146]: Add to cart
+                  - generic [ref=e147]:
+                    - generic:
+                      - img
+                - button "Buy it now" [ref=e152] [cursor=pointer]
+            - generic [ref=e153]:
+              - paragraph [ref=e154]:
+                - strong [ref=e155]: Material
+                - text: ": Plastic, Metal"
+              - paragraph [ref=e156]:
+                - strong [ref=e157]: Product Attributes
+                - text: ": Standard"
+              - paragraph [ref=e158]:
+                - strong [ref=e159]: Package Size
+                - text: ": 160"
+                - emphasis [ref=e160]: "160"
+                - text: 280mm; 160
+                - emphasis [ref=e161]: "160"
+                - text: 140mm
+              - paragraph [ref=e162]:
+                - strong [ref=e163]: About This Item
+              - list [ref=e164]:
+                - listitem [ref=e165]:
+                  - strong [ref=e166]: Double-Sided Design
+                  - text: ": Features a unique handle with two sides—one side has a pure copper blade for quick removal of lint and pet hair, while the other smooths the fabric."
+                - listitem [ref=e167]:
+                  - strong [ref=e168]: Durable and Safe
+                  - text: ": Made from high-quality PP plastic and pure copper, this lint remover is rust-resistant and safe to use for extended periods."
+                - listitem [ref=e169]:
+                  - strong [ref=e170]: Versatile Use
+                  - text: ": Ideal for removing lint, pet hair, and dust from carpets, clothing, furniture, bedding, and more. Not recommended for low-density knitwear or delicate fabrics."
+                - listitem [ref=e171]:
+                  - strong [ref=e172]: Portable and Easy to Clean
+                  - text: ": Lightweight and compact for easy travel. After use, simply wipe clean."
+                - listitem [ref=e173]:
+                  - strong [ref=e174]: How to Use
+                  - text: ": Lay fabric flat and gently scrape in one direction to remove lint."
+  - contentinfo [ref=e187]:
+    - generic [ref=e191]:
+      - generic [ref=e193]:
+        - heading "Join our email list" [level=2] [ref=e195]
+        - paragraph [ref=e197]: Get exclusive deals and early access to new products.
+      - generic [ref=e200]:
+        - generic [ref=e201]: Email
+        - textbox "Email" [ref=e202]:
+          - /placeholder: Email address
+        - button "Sign up" [ref=e203]:
+          - img [ref=e204]
+    - generic [ref=e209]:
+      - generic [ref=e211]:
+        - text: © 2026
+        - link "shopwithin" [ref=e212] [cursor=pointer]:
+          - /url: /
+        - text: ","
+        - link "Powered by Shopify" [ref=e213] [cursor=pointer]:
+          - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+      - button "Terms and Policies" [ref=e215] [cursor=pointer]

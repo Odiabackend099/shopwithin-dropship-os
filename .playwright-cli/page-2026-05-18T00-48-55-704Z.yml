@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - banner:
+      - generic:
+        - generic:
+          - heading "shopwithin" [level=1]
+    - generic:
+      - generic:
+        - generic:
+          - main

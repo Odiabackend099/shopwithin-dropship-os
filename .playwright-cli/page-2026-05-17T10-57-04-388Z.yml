@@ -1,0 +1,27 @@
+- iframe [active] [ref=e1]:
+  - main [ref=f12e6]:
+    - main [ref=f12e8]:
+      - generic [ref=f12e9]:
+        - img [ref=f12e10]
+        - paragraph [ref=f12e12]: You're currently in test mode, all transactions are mocked in this environment.
+      - combobox [ref=f12e14] [cursor=pointer]:
+        - option "English" [selected]
+        - option "French"
+        - option "Portuguese"
+      - article
+      - generic "Card" [ref=f12e16]:
+        - generic [ref=f12e17]:
+          - generic [ref=f12e18]:
+            - img "ODIA Intelligence" [ref=f12e20]
+            - generic [ref=f12e21]:
+              - paragraph [ref=f12e22]: ODIA Intelligence
+              - paragraph [ref=f12e23]: test+furlift@barpel.ai
+          - generic [ref=f12e25]:
+            - generic [ref=f12e133]: NGN
+            - paragraph [ref=f12e134]: 46,487.51
+      - paragraph [ref=f12e143]: Please wait
+      - generic [ref=f12e123]:
+        - img [ref=f12e124]
+        - generic [ref=f12e126]: SECURED BY FLUTTERWAVE
+    - button "Close Checkout" [ref=f12e129]:
+      - img [ref=f12e130]

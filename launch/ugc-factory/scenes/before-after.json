@@ -1,0 +1,14 @@
+{
+  "id": "before-after",
+  "name": "Before/After Transformation",
+  "description": "Split-screen transformation showing pet hair removal",
+  "environment_block": "cozy modern apartment living room with soft daylight through windows, light gray couch visibly covered in golden retriever pet hair, realistic home clutter, warm neutral tones",
+  "camera_block": "shot on iPhone 15 Pro front-facing camera, handheld selfie framing, natural hand movement, slight micro-shakes, autofocus breathing, realistic phone exposure changes, vertical 9:16 TikTok format",
+  "product_interaction_block": "creator shows dirty couch, then slowly drags FurLift across surface in satisfying motion, pauses to show collected hair and clean result, dramatic before/after comparison",
+  "performance_block": "enthusiastic reaction, genuine excitement, direct eye contact with camera, impressed expression showing the transformation",
+  "platform_block": "realistic TikTok UGC ad style, organic creator content, not polished commercial, fast social-media pacing with dramatic reveal",
+  "lighting_block": "natural daylight, soft shadows, realistic indoor lighting, slight smartphone overexposure near windows",
+  "motion_block": "slow handheld motion, natural body shifting, realistic wrist movement while filming selfie-style, smooth but imperfect movement, dramatic reveal motion",
+  "audio_block": "subtle room ambience, fabric brushing sounds, satisfying collection sounds, excited creator speaking tone",
+  "negative_prompt_block": "no cinematic commercial lighting, no uncanny facial symmetry, no plastic skin, no unrealistic hand anatomy, no robotic movement, no beauty-filter look, no luxury influencer aesthetic"
+}

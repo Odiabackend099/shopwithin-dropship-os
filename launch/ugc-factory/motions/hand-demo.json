@@ -1,0 +1,11 @@
+{
+  "id": "hand-demo",
+  "name": "Hand Demo",
+  "description": "Product demonstration with hands",
+  "camera_block": "product-focused framing with hands visible, smooth hand movement, controlled motion, steady but natural not tripod-still, close-up on product and hands",
+  "motion_block": "clear controlled product handling, natural finger positioning on product, deliberate purposeful motions, realistic grip not stiff or robotic",
+  "performance_block": "slow enough pacing to see action clearly, brief pauses to show result, satisfying rhythmic motion, focused attentive to product, subtle satisfaction at result",
+  "platform_block": "authentic product demo, not polished commercial, organic UGC pacing",
+  "audio_block": "subtle product handling sounds, fabric brushing sounds, quiet room tone",
+  "negative_prompt_block": "no robotic movement, no stiff hands, no unnatural grip, no overproduced commercial demo, no cinematic lighting"
+}

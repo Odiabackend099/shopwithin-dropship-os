@@ -1,0 +1,93 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "Skip to main content" [ref=e5] [cursor=pointer]:
+        - /url: "#main"
+      - link "Dev Dashboard logo" [ref=e7] [cursor=pointer]:
+        - /url: /dashboard/211341554
+        - img "Dev Dashboard logo" [ref=e8]
+    - button "Settings" [ref=e11] [cursor=pointer]:
+      - img "View code" [ref=e13]
+      - paragraph [ref=e17]: Barpel AI
+  - generic [ref=e18]:
+    - navigation "Primary" [ref=e22]:
+      - list [ref=e26]:
+        - listitem [ref=e27]:
+          - link "Apps Apps" [ref=e28] [cursor=pointer]:
+            - /url: /dashboard/211341554/apps
+            - img "Apps" [ref=e30]
+            - text: Apps
+        - listitem [ref=e35]:
+          - link "Dev Stores icon Stores" [ref=e36] [cursor=pointer]:
+            - /url: /dashboard/211341554/stores
+            - img "Dev Stores icon" [ref=e38]
+            - text: Stores
+        - listitem [ref=e40]:
+          - link "Catalogs icon Catalogs" [ref=e41] [cursor=pointer]:
+            - /url: /dashboard/211341554/catalogs
+            - img "Catalogs icon" [ref=e43]
+            - text: Catalogs
+      - list [ref=e50]:
+        - listitem [ref=e51]:
+          - link "Organization icon Organization" [ref=e52] [cursor=pointer]:
+            - /url: https://admin.shopify.com/organization/211341554/settings/organization-account?from=dev
+            - img "Organization icon" [ref=e54]
+            - text: Organization
+    - main [ref=e60]:
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - heading "Stores" [level=1] [ref=e65]
+          - generic [ref=e66]:
+            - link "Request store access" [ref=e67] [cursor=pointer]:
+              - /url: /dashboard/211341554/stores/collaborations/new
+              - generic [ref=e69]: Request store access
+            - link "Create store" [ref=e70] [cursor=pointer]:
+              - /url: https://admin.shopify.com/store-create/organization/211341554
+              - generic [ref=e72]: Create store
+        - generic [ref=e76]:
+          - generic [ref=e79]:
+            - tablist "Store types" [ref=e80]:
+              - tab "Dev" [selected] [ref=e81] [cursor=pointer]
+              - tab "Client transfer" [ref=e82] [cursor=pointer]
+              - tab "Collaborations" [ref=e83] [cursor=pointer]
+            - button "Search and filter" [ref=e85] [cursor=pointer]:
+              - img [ref=e86]
+          - table [ref=e90]:
+            - rowgroup [ref=e91]:
+              - row "Store Type Status Owner Plan Feature preview Created" [ref=e92]:
+                - columnheader "Store" [ref=e93]:
+                  - link "Store" [ref=e94] [cursor=pointer]:
+                    - /url: /dashboard/211341554/stores?sort=NAME_DESC&store_type=dev
+                - columnheader "Type" [ref=e95]
+                - columnheader "Status" [ref=e96]:
+                  - link "Status" [ref=e97] [cursor=pointer]:
+                    - /url: /dashboard/211341554/stores?sort=SHOP_PLAN_ACTIVE_STATUS_DESC&store_type=dev
+                - columnheader "Owner" [ref=e98]:
+                  - link "Owner" [ref=e99] [cursor=pointer]:
+                    - /url: /dashboard/211341554/stores?sort=SHOP_ORGANIZATION_NAME_DESC&store_type=dev
+                - columnheader "Plan" [ref=e100]
+                - columnheader "Feature preview" [ref=e101]:
+                  - link "Feature preview" [ref=e102] [cursor=pointer]:
+                    - /url: /dashboard/211341554/stores?sort=DEVELOPER_PREVIEW_HANDLE_DESC&store_type=dev
+                - columnheader "Created" [ref=e103]:
+                  - link "Created" [ref=e104] [cursor=pointer]:
+                    - /url: /dashboard/211341554/stores?sort=SHOP_CREATED_AT_DESC&store_type=dev
+            - rowgroup [ref=e105]:
+              - row "FS FurLift Staging furlift-staging.myshopify.com Dev — Barpel AI Basic — May 17, 2026 Actions" [ref=e106] [cursor=pointer]:
+                - cell "FS FurLift Staging furlift-staging.myshopify.com" [ref=e107]:
+                  - generic [ref=e108]:
+                    - generic [ref=e109]: FS
+                    - generic [ref=e110]:
+                      - link "FurLift Staging" [ref=e111]:
+                        - /url: /dashboard/211341554/stores/83664797946/login
+                      - paragraph [ref=e112]: furlift-staging.myshopify.com
+                - cell "Dev" [ref=e113]
+                - cell "—" [ref=e114]
+                - cell "Barpel AI" [ref=e115]
+                - cell "Basic" [ref=e116]
+                - cell "—" [ref=e117]
+                - cell "May 17, 2026 Actions" [ref=e118]:
+                  - generic [ref=e119]:
+                    - generic [ref=e120]: May 17, 2026
+                    - button "Actions" [ref=e122]:
+                      - img [ref=e123]

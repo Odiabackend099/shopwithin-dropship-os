@@ -1,0 +1,11 @@
+{
+  "id": "before-after-reveal",
+  "name": "Before/After Reveal",
+  "description": "Dramatic transformation reveal",
+  "camera_block": "split-screen or transition shot, smooth transition from before to after, steady during reveal moment, wide enough to show full transformation",
+  "motion_block": "presenting the result clearly with hands, slight lean toward camera for emphasis, deliberate reveal motion, visible satisfaction with result",
+  "performance_block": "dramatic pause before reveal, moment to let result sink in, build-up then satisfying reveal, excited proud of result, genuine amazement at transformation",
+  "platform_block": "high-impact TikTok transformation reveal, organic UGC pacing, not polished commercial",
+  "audio_block": "dramatic reveal sounds, satisfying result sounds, excited creator tone",
+  "negative_prompt_block": "no robotic reveal, no stiff movement, no overproduced commercial reveal, no cinematic transition effects"
+}

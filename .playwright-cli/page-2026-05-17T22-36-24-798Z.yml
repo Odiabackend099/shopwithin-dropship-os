@@ -1,0 +1,14 @@
+- dialog [ref=e7]:
+  - generic [ref=e9]:
+    - img [ref=e11]
+    - heading "Verify your account to continue" [level=2] [ref=e17]:
+      - generic: Verify your account to continue
+    - generic [ref=e18]:
+      - button [ref=e20]
+      - generic [ref=e25]:
+        - paragraph [ref=e26]: For added security, enter the 6 digit code sent to undefined.
+        - generic [ref=e29]:
+          - status [ref=e31]:
+            - img [ref=e32]
+          - img [ref=e36]
+          - img [ref=e39]

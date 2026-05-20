@@ -1,0 +1,372 @@
+- generic [ref=e5]:
+  - banner:
+    - generic [ref=e6]:
+      - generic:
+        - generic:
+          - button [disabled]:
+            - img
+      - link "Facebook" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img [ref=e8]
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+      - generic [ref=e19]:
+        - generic:
+          - img
+        - combobox "Search Facebook" [ref=e20] [cursor=pointer]
+    - navigation "Facebook" [ref=e24]:
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - link "Home" [ref=e30] [cursor=pointer]:
+            - /url: /
+            - img [ref=e32]
+        - listitem [ref=e34]:
+          - link "Reels" [ref=e37] [cursor=pointer]:
+            - /url: /reel/?s=tab
+            - img [ref=e39]
+        - listitem [ref=e42]:
+          - link "Friends" [ref=e45] [cursor=pointer]:
+            - /url: /friends/
+            - img [ref=e47]
+        - listitem [ref=e49]:
+          - link "Groups" [ref=e52] [cursor=pointer]:
+            - /url: /groups/
+            - img [ref=e54]
+    - navigation "Account controls and settings" [ref=e57]:
+      - button "Facebook menu" [ref=e61] [cursor=pointer]:
+        - img [ref=e62]
+      - button "Messenger" [ref=e68] [cursor=pointer]:
+        - img [ref=e69]
+      - generic [ref=e74]:
+        - button "Notifications, 1 unread" [ref=e75] [cursor=pointer]:
+          - img [ref=e76]
+        - button [ref=e78] [cursor=pointer]:
+          - generic [ref=e79]:
+            - generic [ref=e80]: Number of unread notifications
+            - generic [ref=e81]: "1"
+      - button "Your profile" [ref=e84] [cursor=pointer]:
+        - generic [ref=e85]:
+          - img "Your profile" [ref=e86]
+          - img [ref=e93]
+  - generic [ref=e101]:
+    - navigation "Shortcuts" [ref=e102]:
+      - generic [ref=e105]:
+        - heading "Facebook menu" [level=2] [ref=e106]
+        - generic [ref=e108]:
+          - generic [ref=e110]:
+            - list [ref=e111]:
+              - listitem [ref=e112]:
+                - link "Samuel Oko Eguale" [ref=e116] [cursor=pointer]:
+                  - /url: https://web.facebook.com/profile.php?id=61589897617876
+                  - generic [ref=e118]:
+                    - img [ref=e121]
+                    - generic [ref=e130]: Samuel Oko Eguale
+              - listitem [ref=e131]:
+                - link "Meta AI" [ref=e135] [cursor=pointer]:
+                  - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F%3Futm_source%3Dfacebook_bookmarks%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExQjZCUDRXU0tIMnBWQ2xPRnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4FE8VR27Ei_nQ1lPQaWWs-yuJ5XFNl3obYkPLWQr4tNGNfNuO4oMBWaKjAlA_aem_TLv_6_STvYKQk935jyhfgg&h=AUDzqc-7oK_bTT5k8V6asHrpaSc3mGcFkyysWlQWG1uu1g4bBhX9fjRo0wxqk0kQMzlF9cINZn4EGrsa74rYZSkX-dL6rDEbsrMdejsxv6XFi6KjVKFfSoW4WrhGC1ARsdiuV_gEZBk
+                  - generic [ref=e146]: Meta AI
+              - listitem [ref=e147]:
+                - link "Friends" [ref=e151] [cursor=pointer]:
+                  - /url: https://web.facebook.com/friends/
+                  - generic [ref=e162]: Friends
+              - listitem [ref=e163]:
+                - link "Memories" [ref=e167] [cursor=pointer]:
+                  - /url: https://web.facebook.com/onthisday/?source=bookmark
+                  - generic [ref=e178]: Memories
+              - listitem [ref=e179]:
+                - link "Saved" [ref=e183] [cursor=pointer]:
+                  - /url: https://web.facebook.com/saved/?cref=28
+                  - generic [ref=e194]: Saved
+              - listitem [ref=e195]:
+                - link "Groups" [ref=e199] [cursor=pointer]:
+                  - /url: https://web.facebook.com/groups/?ref=bookmarks
+                  - generic [ref=e210]: Groups
+              - listitem [ref=e211]:
+                - link "Reels" [ref=e215] [cursor=pointer]:
+                  - /url: https://web.facebook.com/reel/?s=tab
+                  - generic [ref=e226]: Reels
+              - listitem [ref=e227]:
+                - link "Marketplace" [ref=e231] [cursor=pointer]:
+                  - /url: https://web.facebook.com/marketplace/?ref=bookmark
+                  - generic [ref=e242]: Marketplace
+              - listitem [ref=e243]:
+                - link "Feeds" [ref=e247] [cursor=pointer]:
+                  - /url: https://web.facebook.com/?filter=all&sk=h_chr
+                  - generic [ref=e258]: Feeds
+              - listitem [ref=e259]:
+                - link "Events" [ref=e263] [cursor=pointer]:
+                  - /url: https://web.facebook.com/events?source=46&action_history=null
+                  - generic [ref=e274]: Events
+              - listitem [ref=e275]:
+                - link "Ads Manager" [ref=e279] [cursor=pointer]:
+                  - /url: https://web.facebook.com/ad_campaign/landing.php?placement=bkmk_admgr&campaign_id=415838275119884&nav_source=comet&nav_entry_point=comet_bookmark&extra_1=campaign
+                  - generic [ref=e290]: Ads Manager
+            - button "See more explore items" [ref=e294] [cursor=pointer]:
+              - generic [ref=e296]:
+                - img [ref=e299]
+                - generic [ref=e306]: See more
+          - contentinfo "Facebook" [ref=e308]:
+            - list [ref=e310]:
+              - listitem [ref=e311]:
+                - link "Privacy" [ref=e312] [cursor=pointer]:
+                  - /url: /privacy/policy/?entry_point=comet_dropdown
+                - generic [ref=e313]: ·
+              - listitem [ref=e315]:
+                - link "Terms" [ref=e316] [cursor=pointer]:
+                  - /url: /policies?ref=pf
+                - generic [ref=e317]: ·
+              - listitem [ref=e319]:
+                - link "Advertising" [ref=e320] [cursor=pointer]:
+                  - /url: /business/
+                - generic [ref=e321]: ·
+              - listitem [ref=e323]:
+                - link "Ad choices" [ref=e324] [cursor=pointer]:
+                  - /url: /help/568137493302217
+                  - text: Ad choices
+                  - img [ref=e326]
+                - generic [ref=e329]: ·
+              - listitem [ref=e331]:
+                - link "Cookies" [ref=e332] [cursor=pointer]:
+                  - /url: /policies/cookies/
+                - generic [ref=e333]: ·
+              - listitem [ref=e335]:
+                - button "More footer links" [ref=e336] [cursor=pointer]: More
+    - heading "Home" [level=1] [ref=e338]
+    - main [ref=e339]:
+      - generic [ref=e342]:
+        - link:
+          - /url: /?should_open_composer=false&wp_discovery_redirect=true
+        - generic [ref=e344]:
+          - region "Create a post" [ref=e348]:
+            - generic [ref=e349]:
+              - heading "Create a post" [level=3] [ref=e350]
+              - link "Samuel Oko Eguale's timeline" [ref=e351] [cursor=pointer]:
+                - /url: https://web.facebook.com/profile.php?id=61589897617876
+                - img [ref=e354]
+              - button "What's on your mind, Samuel?" [ref=e358] [cursor=pointer]:
+                - generic [ref=e360]: What's on your mind, Samuel?
+              - generic [ref=e361]:
+                - button "Live video" [ref=e363] [cursor=pointer]
+                - button "Photo/video" [ref=e367] [cursor=pointer]
+                - button "Feeling/activity" [ref=e371] [cursor=pointer]
+          - link "Create story Share a photo or write something." [ref=e384] [cursor=pointer]:
+            - /url: /stories/create/
+            - generic [ref=e385]:
+              - img [ref=e388]
+              - generic [ref=e393]:
+                - generic [ref=e395]: Create story
+                - generic [ref=e397]: Share a photo or write something.
+          - generic [ref=e399]:
+            - heading "Feed posts" [level=3] [ref=e400]
+            - generic [ref=e401]:
+              - generic [ref=e416]:
+                - blockquote [ref=e418]:
+                  - generic [ref=e419]: Facebook
+                - blockquote [ref=e421]:
+                  - generic [ref=e422]: Facebook
+                - blockquote [ref=e424]:
+                  - generic [ref=e425]: Facebook
+                - blockquote [ref=e427]:
+                  - generic [ref=e428]: Facebook
+                - blockquote [ref=e430]:
+                  - generic [ref=e431]: Facebook
+                - blockquote [ref=e433]:
+                  - generic [ref=e434]: Facebook
+                - blockquote [ref=e436]:
+                  - generic [ref=e437]: Facebook
+                - blockquote [ref=e439]:
+                  - generic [ref=e440]: Facebook
+                - blockquote [ref=e442]:
+                  - generic [ref=e443]: Facebook
+                - blockquote [ref=e445]:
+                  - generic [ref=e446]: Facebook
+                - blockquote [ref=e448]:
+                  - generic [ref=e449]: Facebook
+                - generic [ref=e452]:
+                  - generic:
+                    - blockquote [ref=e454]:
+                      - generic [ref=e455]: Facebook
+                    - blockquote [ref=e457]:
+                      - generic [ref=e458]: Facebook
+                    - blockquote [ref=e460]:
+                      - generic [ref=e461]: Facebook
+                    - blockquote [ref=e463]:
+                      - generic [ref=e464]: Facebook
+                    - blockquote [ref=e466]:
+                      - generic [ref=e467]: Facebook
+                    - blockquote [ref=e469]:
+                      - generic [ref=e470]: Facebook
+                    - blockquote [ref=e472]:
+                      - generic [ref=e473]: Facebook
+                    - blockquote [ref=e475]:
+                      - generic [ref=e476]: Facebook
+                    - blockquote [ref=e478]:
+                      - generic [ref=e479]: Facebook
+                    - blockquote [ref=e481]:
+                      - generic [ref=e482]: Facebook
+                    - blockquote [ref=e484]:
+                      - generic [ref=e485]: Facebook
+                    - blockquote [ref=e487]:
+                      - generic [ref=e488]: Facebook
+                    - blockquote [ref=e490]:
+                      - generic [ref=e491]: Facebook
+                    - blockquote [ref=e493]:
+                      - generic [ref=e494]: Facebook
+                    - blockquote [ref=e496]:
+                      - generic [ref=e497]: Facebook
+                    - blockquote [ref=e499]:
+                      - generic [ref=e500]: Facebook
+                    - blockquote [ref=e502]:
+                      - generic [ref=e503]: Facebook
+                    - blockquote [ref=e505]:
+                      - generic [ref=e506]: Facebook
+                    - blockquote [ref=e508]:
+                      - generic [ref=e509]: Facebook
+                    - blockquote [ref=e511]:
+                      - generic [ref=e512]: Facebook
+                    - blockquote [ref=e514]:
+                      - generic [ref=e515]: Facebook
+                    - blockquote [ref=e517]:
+                      - generic [ref=e518]: Facebook
+                  - generic [ref=e520]:
+                    - link "Al Jazeera English, view story" [ref=e524] [cursor=pointer]:
+                      - /url: /stories/100591735448523/UzpfSVNDOjg1NTk3OTg3MDI0NDU5MA==/?view_single=false&__cft__[0]=AZYu_XcpncT4r8LqtojMhksTeM0D0IZD8q2LXvUJr7rgWZSAVKhCEfDamx4Sag87J5_cWAtSOHQZMUabEAXQvYb2-9Sa_IQQzzWF7Z_IBR6eFIG0_nv1unrZ4UAXXPvlNfauAh0nLEdVUgylkPvkQWqL_V2lfcYtFCS5oQ669L-uXTw0W5cnhRGaYgfxhnWBKpfpAEhY7D10pZd6dqu20qm4&__tn__=%3C%3C%2CP-R
+                      - img "Al Jazeera English, view story" [ref=e526]
+                    - generic [ref=e532]:
+                      - heading "Al Jazeera English Verified account" [level=4] [ref=e536]:
+                        - generic [ref=e537]:
+                          - link "Al Jazeera English" [ref=e541] [cursor=pointer]:
+                            - /url: https://web.facebook.com/aljazeera?__cft__[0]=AZYu_XcpncT4r8LqtojMhksTeM0D0IZD8q2LXvUJr7rgWZSAVKhCEfDamx4Sag87J5_cWAtSOHQZMUabEAXQvYb2-9Sa_IQQzzWF7Z_IBR6eFIG0_nv1unrZ4UAXXPvlNfauAh0nLEdVUgylkPvkQWqL_V2lfcYtFCS5oQ669L-uXTw0W5cnhRGaYgfxhnWBKpfpAEhY7D10pZd6dqu20qm4&__tn__=-UC%2CP-R
+                            - generic [ref=e542]: Al Jazeera English
+                          - img "Verified account" [ref=e546]
+                      - generic [ref=e551]:
+                        - generic [ref=e552]: Suggested for you
+                        - generic [ref=e554]: ·
+                        - 'link "p S e o t d r o n s y 3 0 c 1 a c 7 m g m 0 i 0 4 1 M g f 4 1 0 l 9 : h 6 c 1 t a m i 0 6 6 4 1 m t a 9 6 1 7 8 a" [ref=e558] [cursor=pointer]':
+                          - /url: "?__cft__[0]=AZYu_XcpncT4r8LqtojMhksTeM0D0IZD8q2LXvUJr7rgWZSAVKhCEfDamx4Sag87J5_cWAtSOHQZMUabEAXQvYb2-9Sa_IQQzzWF7Z_IBR6eFIG0_nv1unrZ4UAXXPvlNfauAh0nLEdVUgylkPvkQWqL_V2lfcYtFCS5oQ669L-uXTw0W5cnhRGaYgfxhnWBKpfpAEhY7D10pZd6dqu20qm4&__tn__=%2CO%2CP-R#?jkk"
+                          - generic [ref=e561]:
+                            - generic [ref=e562]: p
+                            - generic [ref=e563]: S
+                            - generic [ref=e564]: e
+                            - generic [ref=e565]: o
+                            - generic [ref=e566]: t
+                            - generic [ref=e567]: d
+                            - generic [ref=e568]: r
+                            - generic [ref=e569]: o
+                            - generic [ref=e570]: "n"
+                            - generic [ref=e571]: s
+                            - generic [ref=e573]: "y"
+                            - generic [ref=e574]: "3"
+                            - generic [ref=e575]: "0"
+                            - generic [ref=e576]: c
+                            - generic [ref=e578]: "1"
+                            - generic [ref=e579]: a
+                            - generic [ref=e580]: c
+                            - generic [ref=e581]: "7"
+                            - generic [ref=e582]: m
+                            - generic [ref=e583]: g
+                            - generic [ref=e584]: m
+                            - generic [ref=e585]: "0"
+                            - generic [ref=e586]: i
+                            - generic [ref=e587]: "0"
+                            - generic [ref=e588]: "4"
+                            - generic [ref=e589]: "1"
+                            - generic [ref=e590]: M
+                            - generic [ref=e591]: g
+                            - generic [ref=e592]: f
+                            - generic [ref=e593]: "4"
+                            - generic [ref=e594]: "1"
+                            - generic [ref=e595]: "0"
+                            - generic [ref=e596]: l
+                            - generic [ref=e597]: "9"
+                            - generic [ref=e598]: ":"
+                            - generic [ref=e600]: h
+                            - generic [ref=e601]: "6"
+                            - generic [ref=e602]: c
+                            - generic [ref=e603]: "1"
+                            - generic [ref=e604]: t
+                            - generic [ref=e605]: a
+                            - generic [ref=e606]: m
+                            - generic [ref=e607]: i
+                            - generic [ref=e608]: "0"
+                            - generic [ref=e609]: "6"
+                            - generic [ref=e610]: "6"
+                            - generic [ref=e611]: "4"
+                            - generic [ref=e612]: "1"
+                            - generic [ref=e613]: m
+                            - generic [ref=e614]: t
+                            - generic [ref=e615]: a
+                            - generic [ref=e616]: "9"
+                            - generic [ref=e617]: "6"
+                            - generic [ref=e618]: "1"
+                            - generic [ref=e619]: "7"
+                            - generic [ref=e620]: "8"
+                            - generic [ref=e621]: a
+                        - generic [ref=e623]: ·
+                        - img "Shared with Public" [ref=e628]
+                    - button "Actions for this post by Al Jazeera English" [ref=e636] [cursor=pointer]:
+                      - img [ref=e637]
+                    - link "Hide post by Al Jazeera English" [ref=e641] [cursor=pointer]:
+                      - /url: "#"
+                      - img [ref=e642]
+                  - generic [ref=e644]:
+                    - generic [ref=e653]: Russia’s Putin to visit China following Trump’s trip
+                    - link "No photo description available." [ref=e656] [cursor=pointer]:
+                      - /url: https://web.facebook.com/photo/?fbid=1442380977936252&set=a.653758993465125&__cft__[0]=AZYu_XcpncT4r8LqtojMhksTeM0D0IZD8q2LXvUJr7rgWZSAVKhCEfDamx4Sag87J5_cWAtSOHQZMUabEAXQvYb2-9Sa_IQQzzWF7Z_IBR6eFIG0_nv1unrZ4UAXXPvlNfauAh0nLEdVUgylkPvkQWqL_V2lfcYtFCS5oQ669L-uXTw0W5cnhRGaYgfxhnWBKpfpAEhY7D10pZd6dqu20qm4&__tn__=EH-R
+                      - img "No photo description available." [ref=e661]
+                  - generic [ref=e668]:
+                    - generic [ref=e669]:
+                      - button "Like" [ref=e670] [cursor=pointer]:
+                        - generic [ref=e676]: 31.3K
+                      - button "React" [ref=e677] [cursor=pointer]:
+                        - img [ref=e678]
+                    - button "Leave a comment" [ref=e681] [cursor=pointer]:
+                      - generic [ref=e686]: 1.5K
+                    - button "Send this to friends or post it on your profile." [ref=e688] [cursor=pointer]:
+                      - generic [ref=e693]: "663"
+                    - toolbar "See who reacted to this" [ref=e695]:
+                      - generic [ref=e696]:
+                        - 'button "Like: 28K people" [ref=e700] [cursor=pointer]'
+                        - 'button "Love: 1.8K people" [ref=e704] [cursor=pointer]'
+                - blockquote [ref=e706]:
+                  - generic [ref=e707]: Facebook
+                - blockquote [ref=e709]:
+                  - generic [ref=e710]: Facebook
+                - blockquote [ref=e712]:
+                  - generic [ref=e713]: Facebook
+                - blockquote [ref=e715]:
+                  - generic [ref=e716]: Facebook
+                - blockquote [ref=e718]:
+                  - generic [ref=e719]: Facebook
+                - blockquote [ref=e721]:
+                  - generic [ref=e722]: Facebook
+                - blockquote [ref=e724]:
+                  - generic [ref=e725]: Facebook
+                - blockquote [ref=e727]:
+                  - generic [ref=e728]: Facebook
+                - blockquote [ref=e730]:
+                  - generic [ref=e731]: Facebook
+                - blockquote [ref=e733]:
+                  - generic [ref=e734]: Facebook
+                - blockquote [ref=e736]:
+                  - generic [ref=e737]: Facebook
+              - generic [ref=e739]:
+                - article [ref=e740]:
+                  - status "Loading..." [ref=e741]
+                - article [ref=e754]:
+                  - status "Loading..." [ref=e755]
+    - complementary [ref=e768]:
+      - generic [ref=e774]:
+        - heading "Group chats" [level=3] [ref=e783]:
+          - generic [ref=e785]: Group chats
+        - button "Create group chat" [ref=e790] [cursor=pointer]:
+          - generic [ref=e792]:
+            - img [ref=e795]
+            - generic [ref=e801]: Create group chat
+  - button "New message" [ref=e804] [cursor=pointer]:
+    - img [ref=e805]

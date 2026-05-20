@@ -1,0 +1,430 @@
+- generic [ref=e2]:
+  - generic [ref=e41]:
+    - progressbar "Page loading bar"
+    - generic [ref=e44]:
+      - link "Skip to content":
+        - /url: "#AppFrameMain"
+      - generic [ref=e49]:
+        - generic [ref=e54] [cursor=pointer]:
+          - img "Shopify" [ref=e55]
+          - img "Shopify" [ref=e56]
+        - generic [ref=e59]:
+          - button "Search ⌘ K" [ref=e64] [cursor=pointer]:
+            - generic [ref=e65]:
+              - generic [ref=e66]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+                - generic "Search" [ref=e67]
+              - generic [ref=e68]:
+                - generic [ref=e69]: ⌘
+                - generic [ref=e70]: K
+          - button [ref=e76] [cursor=pointer]:
+            - img [ref=e82]
+        - generic [ref=e85]:
+          - generic [ref=e87]:
+            - button "Sidekick" [ref=e91] [cursor=pointer]:
+              - img [ref=e95]
+            - button "Alerts Feed - 0 unseen alerts" [ref=e105] [cursor=pointer]:
+              - img [ref=e109]
+          - button "eguale samuel" [ref=e120] [cursor=pointer]:
+            - generic [ref=e123]:
+              - img "shopwithin" [ref=e127]:
+                - generic [ref=e128]: SHO
+              - paragraph [ref=e130]: shopwithin
+      - generic [ref=e132]:
+        - generic "Navigation" [ref=e133]:
+          - navigation [ref=e135]:
+            - generic [ref=e136]:
+              - generic [ref=e137]:
+                - list [ref=e139]:
+                  - listitem [ref=e140]:
+                    - link "Home" [ref=e143] [cursor=pointer]:
+                      - /url: /store/mxu168-9g
+                      - generic [ref=e144]:
+                        - img [ref=e147]
+                        - img [ref=e151]
+                      - generic [ref=e153]: Home
+                  - listitem [ref=e154]:
+                    - link "Orders" [ref=e157] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/orders
+                      - generic [ref=e158]:
+                        - img [ref=e161]
+                        - img [ref=e165]
+                      - generic [ref=e167]: Orders
+                  - listitem [ref=e168]:
+                    - link "Products" [expanded] [ref=e171] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/products
+                      - generic [ref=e172]:
+                        - img [ref=e175]
+                        - img [ref=e179]
+                      - generic [ref=e182]: Products
+                    - list [ref=e185]:
+                      - listitem [ref=e186]:
+                        - link "Collections" [ref=e189] [cursor=pointer]:
+                          - /url: /store/mxu168-9g/collections
+                          - generic [ref=e190]: Collections
+                      - listitem [ref=e191]:
+                        - link "Inventory" [ref=e194] [cursor=pointer]:
+                          - /url: /store/mxu168-9g/products/inventory
+                          - generic [ref=e195]: Inventory
+                      - listitem [ref=e196]:
+                        - link "Purchase orders" [ref=e199] [cursor=pointer]:
+                          - /url: /store/mxu168-9g/purchase_orders
+                          - generic [ref=e200]: Purchase orders
+                      - listitem [ref=e201]:
+                        - link "Transfers" [ref=e204] [cursor=pointer]:
+                          - /url: /store/mxu168-9g/transfers
+                          - generic [ref=e205]: Transfers
+                      - listitem [ref=e206]:
+                        - link "Gift cards" [ref=e209] [cursor=pointer]:
+                          - /url: /store/mxu168-9g/gift_cards
+                          - generic [ref=e210]: Gift cards
+                  - listitem [ref=e211]:
+                    - link "Customers" [ref=e214] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/customers
+                      - generic [ref=e215]:
+                        - img [ref=e218]
+                        - img [ref=e223]
+                      - generic [ref=e226]: Customers
+                  - listitem [ref=e227]:
+                    - link "Marketing" [ref=e230] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/marketing
+                      - generic [ref=e231]:
+                        - img [ref=e234]
+                        - img [ref=e240]
+                      - generic [ref=e244]: Marketing
+                  - listitem [ref=e245]:
+                    - link "Discounts" [ref=e248] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/discounts
+                      - generic [ref=e249]:
+                        - img [ref=e252]
+                        - img [ref=e256]
+                      - generic [ref=e261]: Discounts
+                  - listitem [ref=e262]:
+                    - link "Content" [ref=e265] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/content/metaobjects
+                      - generic [ref=e266]:
+                        - img [ref=e269]
+                        - img [ref=e276]
+                      - generic [ref=e281]: Content
+                  - listitem [ref=e282]:
+                    - link "Markets" [ref=e285] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/markets
+                      - generic [ref=e286]:
+                        - img [ref=e289]
+                        - img [ref=e294]
+                      - generic [ref=e297]: Markets
+                  - listitem [ref=e298]:
+                    - link "Analytics" [ref=e301] [cursor=pointer]:
+                      - /url: /store/mxu168-9g/analytics
+                      - generic [ref=e302]:
+                        - img [ref=e305]
+                        - img [ref=e311]
+                      - generic [ref=e315]: Analytics
+                - list [ref=e316]:
+                  - listitem [ref=e317]:
+                    - button "Sales channels" [ref=e319] [cursor=pointer]:
+                      - strong [ref=e321]:
+                        - generic: Sales channels
+                    - list [ref=e323]:
+                      - button "Online Store" [ref=e324]:
+                        - list [ref=e325]:
+                          - listitem [ref=e326]:
+                            - link "Online Store" [ref=e329] [cursor=pointer]:
+                              - /url: /store/mxu168-9g/themes?appLoadId=a59748cc-5f23-459c-bb7b-fd3c8d2a7d96
+                              - img [ref=e331]
+                              - generic [ref=e332]: Online Store
+                      - button "Agentic" [ref=e333]:
+                        - list [ref=e334]:
+                          - listitem [ref=e335]:
+                            - link "Agentic" [ref=e338] [cursor=pointer]:
+                              - /url: /store/mxu168-9g/apps/agentic?appLoadId=60123878-a777-4ff6-8633-7e3801cc192b
+                              - img [ref=e340]
+                              - generic [ref=e341]: Agentic
+                    - status [ref=e342]
+                  - listitem [ref=e343]:
+                    - button "Apps" [ref=e345] [cursor=pointer]:
+                      - strong [ref=e347]:
+                        - generic: Apps
+                  - listitem [ref=e349]:
+                    - button "Sidekick conversations" [ref=e351] [cursor=pointer]:
+                      - strong [ref=e353]:
+                        - generic: Sidekick conversations
+                    - list [ref=e356]:
+                      - listitem [ref=e357]:
+                        - button "Setting up payments for your store" [ref=e360] [cursor=pointer]:
+                          - generic [ref=e361]: Setting up payments for your store
+              - list [ref=e363]:
+                - listitem [ref=e364]:
+                  - link "Settings" [ref=e367] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/settings
+                    - img [ref=e371]
+                    - generic [ref=e373]: Settings
+        - main [ref=e374]:
+          - generic [ref=e1227]:
+            - generic [ref=e1228]:
+              - status:
+                - paragraph [ref=e1229]: New Blue. This page is ready
+              - generic [ref=e1231]:
+                - navigation "Breadcrumbs for Products" [ref=e1234]:
+                  - link "Products" [ref=e1235] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products
+                    - img [ref=e1239]
+                  - img [ref=e1242]
+                  - link "FurLift Reusable Pet Hair Detailer" [ref=e1244] [cursor=pointer]:
+                    - /url: /store/mxu168-9g/products/10628065001753
+                    - generic [ref=e1245]: FurLift Reusable Pet Hair Detailer
+                  - img [ref=e1246]
+                  - heading "New Blue" [level=1] [ref=e1249]
+                - generic [ref=e1251]:
+                  - button "More actions" [ref=e1257] [cursor=pointer]:
+                    - generic [ref=e1258]: More actions
+                    - img [ref=e1262]
+                  - navigation "Pagination" [ref=e1266]:
+                    - generic [ref=e1268]:
+                      - generic [ref=e1269]:
+                        - button "Previous" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                      - generic [ref=e1270]:
+                        - button "Next" [disabled]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+            - generic [ref=e1272]:
+              - button [ref=e1274]: Submit
+              - generic [ref=e1275]:
+                - generic [ref=e1278]:
+                  - generic:
+                    - generic [ref=e1281]:
+                      - link [ref=e1283] [cursor=pointer]:
+                        - /url: /store/mxu168-9g/products/10628065001753
+                      - generic [ref=e1286]:
+                        - generic [ref=e1287]:
+                          - generic [ref=e1288]:
+                            - generic: FurLift Reusable Pet Hair Detailer
+                          - generic [ref=e1290]:
+                            - generic: Active
+                        - generic [ref=e1291]:
+                          - generic: 1 variant
+                    - generic [ref=e1292]:
+                      - generic [ref=e1295]:
+                        - generic [ref=e1300]:
+                          - generic [ref=e1303]: Search variants
+                          - generic [ref=e1306]:
+                            - img [ref=e1310]
+                            - textbox "Search variants" [disabled] [ref=e1312]
+                            - status [ref=e1314]:
+                              - img [ref=e1315]
+                        - button "Color" [ref=e1325] [cursor=pointer]:
+                          - generic [ref=e1326]:
+                            - generic [ref=e1329]: Color
+                            - img [ref=e1333]
+                      - list [ref=e1337]
+                - generic [ref=e1347]:
+                  - generic [ref=e1350]:
+                    - generic:
+                      - generic [ref=e1352]:
+                        - generic [ref=e1355]:
+                          - generic [ref=e1357]: Upload image
+                          - generic [ref=e1358]:
+                            - button "Upload image" [ref=e1360]
+                            - button "Select image for New Blue variant" [ref=e1361] [cursor=pointer]
+                        - generic [ref=e1365]:
+                          - heading "New Blue" [level=2] [ref=e1367]:
+                            - generic: New Blue
+                          - generic [ref=e1368]:
+                            - generic [ref=e1369]:
+                              - button "Loading channels data" [disabled]:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - img
+                            - generic [ref=e1370]:
+                              - button "Loading catalogs data" [disabled]:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - img
+                      - generic [ref=e1376]:
+                        - generic [ref=e1377]: Color
+                        - textbox "Color" [ref=e1381]: New Blue
+                  - generic [ref=e1383]:
+                    - generic:
+                      - heading "Price" [level=2] [ref=e1386]:
+                        - generic: Price
+                      - group [ref=e1390]:
+                        - generic [ref=e1396]:
+                          - generic [ref=e1399]: Price
+                          - generic [ref=e1402]:
+                            - generic: $
+                            - textbox "Price $" [ref=e1403]:
+                              - /placeholder: "0.00"
+                              - text: "24.95"
+                      - generic [ref=e1407]:
+                        - generic [ref=e1408]:
+                          - generic "Compare-at" [ref=e1409]:
+                            - button "Compare-at $34,231.15" [ref=e1410] [cursor=pointer]:
+                              - paragraph [ref=e1413]: Compare-at
+                              - generic [ref=e1417]:
+                                - generic: $34,231.15
+                          - generic "Unit price" [ref=e1418]:
+                            - button "Unit price" [ref=e1419] [cursor=pointer]:
+                              - paragraph [ref=e1422]: Unit price
+                          - generic "Charge tax" [ref=e1423]:
+                            - button "Charge tax Yes" [ref=e1424] [cursor=pointer]:
+                              - paragraph [ref=e1427]: Charge tax
+                              - generic [ref=e1431]:
+                                - generic: "Yes"
+                          - generic "Cost per item" [ref=e1432]:
+                            - button "Cost per item $2,126.59" [ref=e1433] [cursor=pointer]:
+                              - paragraph [ref=e1436]: Cost per item
+                              - generic [ref=e1440]:
+                                - generic: $2,126.59
+                        - button [ref=e1442] [cursor=pointer]:
+                          - img [ref=e1446]
+                  - generic [ref=e1450]:
+                    - generic:
+                      - generic [ref=e1452]:
+                        - heading "Inventory" [level=2] [ref=e1453]:
+                          - generic: Inventory
+                        - generic [ref=e1457]:
+                          - generic [ref=e1459]: Inventory tracked
+                          - generic [ref=e1462] [cursor=pointer]:
+                            - checkbox "Inventory tracked" [checked] [ref=e1463]
+                            - generic [ref=e1464]: Inventory tracked
+                      - generic [ref=e1471]:
+                        - table [ref=e1474]:
+                          - rowgroup [ref=e1478]:
+                            - row "Locations Unavailable Committed Available On hand" [ref=e1479]:
+                              - columnheader "Locations" [ref=e1480]:
+                                - generic [ref=e1481]:
+                                  - paragraph [ref=e1482]:
+                                    - generic: Locations
+                                  - button "Edit locations" [ref=e1483] [cursor=pointer]:
+                                    - img [ref=e1486]
+                              - columnheader "Unavailable" [ref=e1488]
+                              - columnheader "Committed" [ref=e1489]
+                              - columnheader "Available" [ref=e1490]
+                              - columnheader "On hand" [ref=e1491]
+                          - rowgroup [ref=e1494]:
+                            - row "App Zendrop Unavailable 0 0 Quantity 50,000 Quantity 50,000" [ref=e1495]:
+                              - cell "App Zendrop" [ref=e1496]:
+                                - generic [ref=e1499]:
+                                  - generic [ref=e1502]:
+                                    - generic: App
+                                  - generic [ref=e1503]:
+                                    - generic: Zendrop
+                              - cell "Unavailable 0" [ref=e1504] [cursor=pointer]:
+                                - generic [ref=e1505]:
+                                  - button "Unavailable" [ref=e1506]
+                                  - generic [ref=e1507]:
+                                    - generic [ref=e1509]:
+                                      - generic: "0"
+                                    - img [ref=e1513]
+                              - cell "0" [ref=e1515]:
+                                - generic [ref=e1517]:
+                                  - generic: "0"
+                              - cell "Quantity 50,000" [ref=e1518] [cursor=pointer]:
+                                - generic [ref=e1519]:
+                                  - button "Quantity" [ref=e1520]
+                                  - generic [ref=e1521]:
+                                    - generic [ref=e1522]:
+                                      - generic: 50,000
+                                    - img [ref=e1526]
+                              - cell "Quantity 50,000" [ref=e1529] [cursor=pointer]:
+                                - generic [ref=e1530]:
+                                  - button "Quantity" [ref=e1531]
+                                  - generic [ref=e1532]:
+                                    - generic [ref=e1533]:
+                                      - generic: 50,000
+                                    - img [ref=e1537]
+                        - paragraph [ref=e1542]:
+                          - link "View adjustment history" [ref=e1543] [cursor=pointer]:
+                            - /url: /store/mxu168-9g/products/inventory/54388876509465/inventory_history
+                            - generic: View adjustment history
+                      - generic [ref=e1547]:
+                        - generic [ref=e1548]:
+                          - generic "SKU" [ref=e1549]:
+                            - button "SKU VLOY30HZN" [ref=e1550] [cursor=pointer]:
+                              - paragraph [ref=e1553]: SKU
+                              - generic [ref=e1557]:
+                                - generic: VLOY30HZN
+                          - generic "Barcode" [ref=e1558]:
+                            - button "Barcode" [ref=e1559] [cursor=pointer]:
+                              - paragraph [ref=e1562]: Barcode
+                          - generic "Sell when out of stock" [ref=e1563]:
+                            - button "Sell when out of stock Off" [ref=e1564] [cursor=pointer]:
+                              - paragraph [ref=e1567]: Sell when out of stock
+                              - generic [ref=e1571]:
+                                - generic: "Off"
+                        - button [ref=e1573] [cursor=pointer]:
+                          - img [ref=e1577]
+                  - generic [ref=e1581]:
+                    - generic:
+                      - generic [ref=e1583]:
+                        - heading "Shipping" [level=2] [ref=e1584]:
+                          - generic: Shipping
+                        - generic [ref=e1585]:
+                          - generic [ref=e1587]: Physical product
+                          - generic [ref=e1590] [cursor=pointer]:
+                            - checkbox "Physical product" [checked] [ref=e1591]
+                            - generic [ref=e1592]: Physical product
+                      - generic [ref=e1594]:
+                        - generic [ref=e1596]:
+                          - generic [ref=e1597]:
+                            - generic [ref=e1599]: Package
+                            - img [ref=e1602]
+                          - combobox "Package" [ref=e1607] [cursor=pointer]:
+                            - generic [ref=e1608]:
+                              - generic [ref=e1612]:
+                                - img [ref=e1615]
+                                - generic [ref=e1618]:
+                                  - paragraph [ref=e1619]: Loading...
+                                  - paragraph [ref=e1620]:
+                                    - generic: •
+                                  - paragraph [ref=e1621]
+                              - img [ref=e1625]
+                        - generic [ref=e1630]:
+                          - generic [ref=e1633]: Product weight
+                          - generic [ref=e1634]:
+                            - textbox "Product weight" [ref=e1637]:
+                              - /placeholder: "0.0"
+                              - text: "0.0"
+                            - generic [ref=e1640]:
+                              - generic:
+                                - generic [ref=e1641]: Weight unit
+                                - generic [ref=e1642]:
+                                  - generic [ref=e1647]: kg
+                                  - img [ref=e1650]
+                                  - combobox "Weight unit" [ref=e1653] [cursor=pointer]:
+                                    - option "lb"
+                                    - option "oz"
+                                    - option "kg" [selected]
+                                    - option "g"
+                      - generic [ref=e1657]:
+                        - generic [ref=e1658]:
+                          - generic "Country of origin" [ref=e1659]:
+                            - button "Country of origin" [ref=e1660] [cursor=pointer]:
+                              - paragraph [ref=e1663]: Country of origin
+                          - generic "HS Code" [ref=e1664]:
+                            - button "HS Code" [ref=e1665] [cursor=pointer]:
+                              - paragraph [ref=e1668]: HS Code
+                        - button [ref=e1670] [cursor=pointer]:
+                          - img [ref=e1674]
+                - generic [ref=e1679]:
+                  - button "Save" [disabled]:
+                    - generic: Save
+  - generic:
+    - generic:
+      - generic:
+        - generic: General shortcuts
+        - generic: Adding items to your store
+        - generic: Navigating your admin panel
+        - generic: Navigating settings
+    - dialog "Sidekick" [ref=e1211]
