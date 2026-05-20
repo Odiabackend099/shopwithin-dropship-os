@@ -1,0 +1,143 @@
+{% comment %}
+  Trust Badges Section
+  Displays trust signals and social proof
+{% endcomment %}
+
+<div class="trust-badges">
+  <div class="trust-badges__container">
+    <div class="trust-badges__grid">
+      <div class="trust-badge">
+        <div class="trust-badge__icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M20 7L9 18l-5-5"/>
+          </svg>
+        </div>
+        <div class="trust-badge__content">
+          <h3 class="trust-badge__title">10,000+ Happy Customers</h3>
+          <p class="trust-badge__text">Verified viral products</p>
+        </div>
+      </div>
+
+      <div class="trust-badge">
+        <div class="trust-badge__icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="1" y="3" width="15" height="13" rx="2"/>
+            <path d="M16 8h4"/>
+            <path d="M16 12h4"/>
+            <path d="M16 16h4"/>
+          </svg>
+        </div>
+        <div class="trust-badge__content">
+          <h3 class="trust-badge__title">Fast Shipping</h3>
+          <p class="trust-badge__text">7-10 days delivery</p>
+        </div>
+      </div>
+
+      <div class="trust-badge">
+        <div class="trust-badge__icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+          </svg>
+        </div>
+        <div class="trust-badge__content">
+          <h3 class="trust-badge__title">Secure Checkout</h3>
+          <p class="trust-badge__text">Protected payments</p>
+        </div>
+      </div>
+
+      <div class="trust-badge">
+        <div class="trust-badge__icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 12a9 9 0 1 0 18 0 9 9 0 1 0-18 0"/>
+            <path d="M9 12l2 2 4-4"/>
+          </svg>
+        </div>
+        <div class="trust-badge__content">
+          <h3 class="trust-badge__title">30-Day Returns</h3>
+          <p class="trust-badge__text">Easy refund policy</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Trust Badges",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Trust Badges",
+      "category": "Trust"
+    }
+  ]
+}
+{% endschema %}
+
+<style>
+.trust-badges {
+  padding: 40px 20px;
+  background: #f9fafb;
+}
+
+.trust-badges__container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.trust-badges__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+}
+
+.trust-badge {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.trust-badge__icon {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #10b981;
+  color: white;
+  border-radius: 8px;
+}
+
+.trust-badge__title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1f2937;
+  margin: 0 0 4px 0;
+}
+
+.trust-badge__text {
+  font-size: 14px;
+  color: #6b7280;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .trust-badges {
+    padding: 24px 16px;
+  }
+
+  .trust-badges__grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .trust-badge {
+    padding: 16px;
+  }
+}
+</style>

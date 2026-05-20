@@ -17,17 +17,53 @@
     <header class="site-header">
       <a class="site-logo" href="{{ routes.root_url }}">{{ shop.name }}</a>
       <nav class="site-nav" aria-label="Main navigation">
-        <a href="/collections/all">Shop</a>
-        <a href="/pages/shipping">Shipping</a>
-        <a href="/pages/contact">Support</a>
+        <a href="{{ routes.root_url }}">Home</a>
+        <a href="/collections/trending">Trending Now</a>
+        <a href="/collections/all">Problem Solvers</a>
+        <a href="/collections/pet-care">Pet Care</a>
+        <a href="/collections-home-organization">Home & Organization</a>
+        <a href="/collections/wellness">Wellness</a>
       </nav>
-      <a class="cart-link" href="{{ routes.cart_url }}">Cart</a>
+      <div class="site-header__actions">
+        <a class="site-nav-link" href="/pages/track-order">Track Order</a>
+        <a class="site-nav-link" href="/pages/contact">Contact</a>
+        <a class="cart-link" href="{{ routes.cart_url }}">Cart</a>
+      </div>
     </header>
     <main id="MainContent">
       {{ content_for_layout }}
     </main>
     <footer class="site-footer">
-      <p>Secure USD checkout. Tracked global shipping. Support within 24 hours.</p>
+      <div class="site-footer__content">
+        <div class="site-footer__trust">
+          <h3>Why Shop With Us</h3>
+          <ul>
+            <li>✓ 10,000+ Happy Customers</li>
+            <li>✓ Verified Viral Products</li>
+            <li>✓ Fast Shipping (7-10 Days)</li>
+            <li>✓ 30-Day Easy Returns</li>
+            <li>✓ Secure Checkout</li>
+          </ul>
+        </div>
+        <div class="site-footer__links">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="/collections/trending">Trending Now</a></li>
+            <li><a href="/collections/all">All Products</a></li>
+            <li><a href="/pages/track-order">Track Order</a></li>
+            <li><a href="/pages/contact">Contact Support</a></li>
+            <li><a href="/pages/shipping">Shipping Info</a></li>
+          </ul>
+        </div>
+        <div class="site-footer__contact">
+          <h3>Get Help</h3>
+          <p>Questions? We're here to help within 24 hours.</p>
+          <a href="/pages/contact" class="footer-cta">Contact Support</a>
+        </div>
+      </div>
+      <div class="site-footer__bottom">
+        <p>&copy; {{ 'now' | date: '%Y' }} {{ shop.name }}. All rights reserved.</p>
+      </div>
     </footer>
     {{ 'dropship-os.js' | asset_url | script_tag }}
   </body>
