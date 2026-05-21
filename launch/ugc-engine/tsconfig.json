@@ -7,5 +7,5 @@
     "sourceMap": true
   },
   "include": ["src/**/*"],
-  "exclude": ["dist", "node_modules", "generated", "exports", "characters"]
+  "exclude": ["dist", "node_modules", "generated", "exports", ]
 }

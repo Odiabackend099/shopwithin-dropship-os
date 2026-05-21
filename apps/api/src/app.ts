@@ -11,6 +11,7 @@ import { healthRoutes } from "./routes/health.js";
 import { internalRoutes } from "./routes/internal.js";
 import { metricsRoutes } from "./routes/metrics.js";
 import { webhookRoutes } from "./routes/webhooks.js";
+import { vapiRoutes } from "./routes/vapi.js";
 import { KlaviyoClient } from "./services/klaviyo.js";
 import { ProductAiService } from "./services/openai.js";
 import { ShopifyClient } from "./services/shopify.js";
@@ -65,6 +66,7 @@ export async function buildApp(options: BuildAppOptions = {}) {
   await app.register(healthRoutes);
   await app.register(metricsRoutes);
   await app.register(webhookRoutes, { env, repository, queue });
+  await app.register(vapiRoutes);
   await app.register(internalRoutes, { env, repository, queue, shopify, klaviyo, suppliers, ai });
 
   return app;

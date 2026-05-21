@@ -1,0 +1,2 @@
+-- RenameIndex
+ALTER INDEX "FulfillmentApproval_shopifyOrderId_supplier_supplierProductId_k" RENAME TO "FulfillmentApproval_shopifyOrderId_supplier_supplierProduct_key";

@@ -25,9 +25,22 @@ export type CreativeLibrary = {
 
 export class ProductAiService {
   private readonly client: OpenAI | null;
+  private readonly modelName: string;
 
   constructor(private readonly env: AppEnv) {
-    this.client = env.OPENAI_API_KEY ? new OpenAI({ apiKey: env.OPENAI_API_KEY }) : null;
+    if (env.GROQ_API_KEY) {
+      this.client = new OpenAI({
+        apiKey: env.GROQ_API_KEY,
+        baseURL: "https://api.groq.com/openai/v1"
+      });
+      this.modelName = env.GROQ_MODEL || "llama-3.3-70b-versatile";
+    } else if (env.OPENAI_API_KEY) {
+      this.client = new OpenAI({ apiKey: env.OPENAI_API_KEY });
+      this.modelName = env.OPENAI_MODEL;
+    } else {
+      this.client = null;
+      this.modelName = "";
+    }
   }
 
   async generateProductPageBrief(input: {
@@ -64,29 +77,20 @@ export class ProductAiService {
       };
     }
 
-    const response = await this.client.responses.create({
-      model: this.env.OPENAI_MODEL,
-      prompt_cache_key: "dropship-product-page-v1",
-      prompt_cache_retention: "24h",
-      input: [
+    const response = await this.client.chat.completions.create({
+      model: this.modelName,
+      messages: [
         {
           role: "system",
-          content:
-            "Generate concise, compliant ecommerce product-page content. Avoid fake claims, fake scarcity, fake reviews, health promises, and unsupported guarantees."
+          content: "Generate concise, compliant ecommerce product-page content as JSON. Avoid fake claims, fake scarcity, fake reviews, health promises, and unsupported guarantees. Schema: { title, headline, descriptionHtml, faqs: [{question, answer}], hooks: string[], trustBadges: string[], seoTitle, seoDescription }"
         },
         { role: "user", content: JSON.stringify(input) }
       ],
-      text: {
-        format: {
-          type: "json_schema",
-          name: "ai_product_page",
-          strict: true,
-          schema: aiProductPageSchema
-        }
-      }
-    } as unknown as Parameters<OpenAI["responses"]["create"]>[0]);
+      temperature: 0.7,
+      max_tokens: 2000
+    });
 
-    return JSON.parse((response as { output_text: string }).output_text);
+    return JSON.parse(response.choices[0]?.message?.content || "{}");
   }
 
   async generateCreativeLibrary(input: {
@@ -100,29 +104,20 @@ export class ProductAiService {
   }): Promise<CreativeLibrary> {
     if (input.generationMode === "deterministic" || !this.client) return fallbackCreativeLibrary(input);
 
-    const response = await this.client.responses.create({
-      model: this.env.OPENAI_MODEL,
-      prompt_cache_key: "dropship-creative-library-v1",
-      prompt_cache_retention: "24h",
-      input: [
+    const response = await this.client.chat.completions.create({
+      model: this.modelName,
+      messages: [
         {
           role: "system",
-          content:
-            "Generate compliant short-form ecommerce creative assets as JSON. Avoid fake reviews, unverifiable claims, fake urgency, medical claims, copyrighted characters, and guarantees. Make each hook visual, specific, and native to social video."
+          content: "Generate compliant short-form ecommerce creative assets as JSON. Avoid fake reviews, unverifiable claims, fake urgency, medical claims, copyrighted characters, and guarantees. Make each hook visual, specific, and native to social video."
         },
         { role: "user", content: JSON.stringify(input) }
       ],
-      text: {
-        format: {
-          type: "json_schema",
-          name: "ai_creative_library",
-          strict: true,
-          schema: aiCreativeLibrarySchema
-        }
-      }
-    } as unknown as Parameters<OpenAI["responses"]["create"]>[0]);
+      temperature: 0.8,
+      max_tokens: 4000
+    });
 
-    return JSON.parse((response as { output_text: string }).output_text) as CreativeLibrary;
+    return JSON.parse(response.choices[0]?.message?.content || "{}") as CreativeLibrary;
   }
 }
 

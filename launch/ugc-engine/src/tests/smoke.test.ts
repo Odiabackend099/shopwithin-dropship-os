@@ -1,4 +1,4 @@
-import { describe, it, expect } from "vitest";
+import { describe, it, expect, beforeEach } from "vitest";
 import { createDriver, FallbackDriver, MockDriver } from "../generation/index.js";
 import { buildGenerationPlan } from "../prompts/orchestrator.js";
 import { getProduct } from "../config/products.js";
@@ -12,10 +12,13 @@ const testOutDir = path.resolve("src/tests/tmp-smoke/generated");
 const testExportDir = path.resolve("src/tests/tmp-smoke/exports");
 
 describe("smoke test — full pipeline with fallback driver", () => {
-  it.skip("generates a batch plan and executes with fallback driver (requires FFmpeg drawtext)", async () => {
-    fs.mkdirSync(testOutDir, { recursive: true });
-    fs.mkdirSync(testExportDir, { recursive: true });
+  beforeEach(() => {
+    // Clean up test directories
+    try { fs.mkdirSync(testOutDir, { recursive: true }); } catch {}
+    try { fs.mkdirSync(testExportDir, { recursive: true }); } catch {}
+  });
 
+  it.skip("generates a batch plan and executes with fallback driver (requires FFmpeg drawtext)", async () => {
     const product = getProduct("furlift");
     const runId = `smoke-${Date.now()}`;
 
@@ -57,11 +60,14 @@ describe("smoke test — full pipeline with fallback driver", () => {
 
     expect(result.success).toBe(true);
     expect(result.outputPath).toBeDefined();
-    expect(fs.existsSync(result.outputPath!)).toBe(true);
+    if (result.outputPath) {
+      expect(fs.existsSync(result.outputPath)).toBe(true);
+    }
   });
 
-  it("creates and persists a character identity", () => {
+  it("creates and persists a character identity", async () => {
     const charDir = path.resolve("src/tests/tmp-smoke/characters");
+    fs.mkdirSync(charDir, { recursive: true });
     const store = new CharacterStore(charDir);
 
     const manifest = createCharacterManifest("smoke-char", {
@@ -73,10 +79,10 @@ describe("smoke test — full pipeline with fallback driver", () => {
       accessories: [],
     }, ["test", "smoke"]);
 
-    store.save(manifest);
-    const loaded = store.load("smoke-char");
+    await store.save(manifest);
+    const loaded = await store.load("smoke-char");
     expect(loaded).not.toBeNull();
-    expect(loaded!.tags).toContain("smoke");
+    expect(loaded!.traits).toContain("smoke");
   });
 
   it("asset manager creates and loads metadata", () => {
@@ -88,7 +94,7 @@ describe("smoke test — full pipeline with fallback driver", () => {
     expect(entry.status).toBe("running");
 
     mgr.updateStatus(runId, "completed");
-    const loaded = mgr.loadMetadata(runId);
-    expect(loaded!.status).toBe("completed");
+    const updated = mgr.loadMetadata(runId);
+    expect(updated?.status).toBe("completed");
   });
 });

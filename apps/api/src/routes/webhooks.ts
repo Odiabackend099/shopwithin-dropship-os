@@ -24,6 +24,10 @@ export async function webhookRoutes(app: FastifyInstance, deps: WebhookDeps): Pr
     return handleShopifyOrderWebhook("orders/paid", request, reply, deps, true);
   });
 
+  app.post("/webhooks/shopify/orders-create", { config: { rawBody: true } }, async (request, reply) => {
+    return handleShopifyOrderWebhook("orders/create", request, reply, deps, true);
+  });
+
   app.post("/webhooks/shopify/orders-cancelled", { config: { rawBody: true } }, async (request, reply) => {
     return handleShopifyOrderWebhook("orders/cancelled", request, reply, deps, false);
   });

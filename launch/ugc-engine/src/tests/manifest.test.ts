@@ -1,4 +1,4 @@
-import { describe, it, expect } from "vitest";
+import { describe, it, expect, beforeEach } from "vitest";
 import fs from "node:fs";
 import path from "node:path";
 import { CharacterStore } from "../characters/persistence.js";
@@ -7,7 +7,17 @@ import { createCharacterManifest, validateCharacterManifest } from "../character
 const testDir = path.resolve("src/tests/tmp-characters");
 
 describe("character manifest persistence", () => {
-  it("saves and loads a character manifest", () => {
+  beforeEach(() => {
+    // Clean up test directory
+    try {
+      const entries = fs.readdirSync(testDir);
+      for (const entry of entries) {
+        fs.rmSync(path.join(testDir, entry), { recursive: true });
+      }
+    } catch {}
+  });
+
+  it("saves and loads a character manifest", async () => {
     const store = new CharacterStore(testDir);
     const manifest = createCharacterManifest("test-char-1", {
       name: "Test Character",
@@ -18,14 +28,14 @@ describe("character manifest persistence", () => {
       accessories: [],
     });
 
-    store.save(manifest);
-    const loaded = store.load("test-char-1");
+    await store.save(manifest);
+    const loaded = await store.load("test-char-1");
     expect(loaded).not.toBeNull();
     expect(loaded!.id).toBe("test-char-1");
-    expect(loaded!.identity.name).toBe("Test Character");
+    expect(loaded!.name).toBe("Test Character");
   });
 
-  it("lists saved characters", () => {
+  it("lists saved characters", async () => {
     const store = new CharacterStore(testDir);
     const manifest = createCharacterManifest("test-char-2", {
       name: "Another Character",
@@ -35,30 +45,41 @@ describe("character manifest persistence", () => {
       roomAesthetic: "cozy cottage",
       accessories: [],
     });
-    store.save(manifest);
+    await store.save(manifest);
 
-    const list = store.list();
-    expect(list).toContain("test-char-1");
-    expect(list).toContain("test-char-2");
+    const list = await store.list();
+    const ids = list.map(m => m.id);
+    expect(ids).toContain("test-char-2");
   });
 
   it("validates a character manifest", () => {
     const valid = {
       id: "x",
+      name: "Test",
       version: "1.0.0",
+      style: "default",
+      traits: [],
       createdAt: new Date().toISOString(),
       updatedAt: new Date().toISOString(),
-      identity: {
-        name: "X",
-        faceDescriptor: "x",
-        vibe: "x",
-        outfitStyle: "x",
-        roomAesthetic: "x",
-      },
     };
-    expect(() => validateCharacterManifest(valid)).not.toThrow();
+    expect(validateCharacterManifest(valid)).toBe(true);
+  });
 
-    const invalid = { id: "x" };
-    expect(() => validateCharacterManifest(invalid)).toThrow();
+  it("rejects invalid manifest", () => {
+    expect(validateCharacterManifest({ id: 123 })).toBe(false);
+    expect(validateCharacterManifest(null)).toBe(false);
+    expect(validateCharacterManifest({})).toBe(false);
+  });
+
+  it("checks character existence", async () => {
+    const store = new CharacterStore(testDir);
+    const manifest = createCharacterManifest("test-char-check", { name: "Check Test" });
+    await store.save(manifest);
+
+    const exists = await store.exists("test-char-check");
+    expect(exists).toBe(true);
+
+    const notExists = await store.exists("non-existent");
+    expect(notExists).toBe(false);
   });
 });
